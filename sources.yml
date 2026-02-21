@@ -3,19 +3,18 @@ mcp_name: "Colombian Law MCP"
 jurisdiction: "CO"
 
 sources:
-  - name: "Función Pública"
-    authority: "Función Pública"
-    official_portal: "https://www.funcionpublica.gov.co"
+  - name: "Gestor Normativo - Función Pública"
+    authority: "Departamento Administrativo de la Función Pública (DAFP)"
+    official_portal: "https://www.funcionpublica.gov.co/eva/gestornormativo/"
     retrieval_method: "HTML_SCRAPE"
-    update_frequency: "weekly"
-    last_ingested: "2026-02-21"
+    update_frequency: "unknown"
     license_or_terms:
-      type: "Government Open Data"
+      type: "government_terms"
       url: "https://www.funcionpublica.gov.co"
-      summary: "Official legislative texts are public domain"
+      summary: "Legislation is publicly accessible on a government portal; portal terms apply."
     coverage:
-      scope: "Data protection, cybersecurity, e-commerce, criminal law cyber provisions"
-      limitations: "AI-generated seed data; full official ingestion pending"
+      scope: "Leyes y decretos nacionales publicados en Gestor Normativo, incluyendo normas de TIC, protección de datos, transparencia y comercio electrónico."
+      limitations: "El portal advierte que los datos son informativos; la vigencia oficial debe confirmarse con Diario Oficial y entidades competentes."
     languages:
       - "es"
 

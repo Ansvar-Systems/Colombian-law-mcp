@@ -1,37 +1,19 @@
 /**
- * HTML parser for Colombian legislation from the Sejm ELI API (api.sejm.gov.pl).
+ * Parser and law catalog for real Colombian legislation ingestion.
  *
- * Parses the structured HTML served by the ELI text endpoint into seed JSON.
- * The HTML structure uses:
- *
- * - <div class="unit unit_chpt" id="chpt_N"> for chapters (Rozdział)
- * - <div class="unit unit_arti" id="chpt_N-arti_M"> for articles (Art.)
- * - <h3> inside articles for article number (Art. N.)
- * - <div class="unit unit_pass"> for numbered paragraphs (ustępy)
- * - <div class="unit unit_pint"> for numbered points (punkty)
- * - <div data-template="xText" class="pro-text"> for text content
- *
- * Colombian legislation references: Dz.U. YYYY poz. NNNN
- * API endpoint: https://api.sejm.gov.pl/eli/acts/DU/{YEAR}/{POZ}/text.html
+ * Source pages:
+ *   https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i={ID}
  */
 
-export interface ActIndexEntry {
+export interface TargetLaw {
   id: string;
-  title: string;
-  titleEn: string;
+  fileName: string;
+  portalId: number;
+  docTypeId: number;
+  number: string;
+  year: number;
   shortName: string;
   status: 'in_force' | 'amended' | 'repealed' | 'not_yet_in_force';
-  issuedDate: string;
-  inForceDate: string;
-  /** ISAP display address, e.g. "Dz.U. 2018 poz. 1000" */
-  dziennikRef: string;
-  /** Year of publication in Dziennik Ustaw */
-  year: number;
-  /** Position number (poz.) in Dziennik Ustaw */
-  poz: number;
-  /** Human-readable URL on ISAP */
-  url: string;
-  description?: string;
 }
 
 export interface ParsedProvision {
@@ -52,397 +34,405 @@ export interface ParsedAct {
   id: string;
   type: 'statute';
   title: string;
-  title_en: string;
+  title_en?: string;
   short_name: string;
   status: 'in_force' | 'amended' | 'repealed' | 'not_yet_in_force';
-  issued_date: string;
-  in_force_date: string;
+  issued_date?: string;
+  in_force_date?: string;
   url: string;
   description?: string;
   provisions: ParsedProvision[];
   definitions: ParsedDefinition[];
 }
 
-/**
- * Strip HTML tags and decode common entities, normalising whitespace.
- */
-function stripHtml(html: string): string {
-  return html
-    .replace(/<[^>]+>/g, ' ')
-    .replace(/&nbsp;/g, ' ')
-    .replace(/&amp;/g, '&')
-    .replace(/&lt;/g, '<')
-    .replace(/&gt;/g, '>')
-    .replace(/&quot;/g, '"')
-    .replace(/&#39;/g, "'")
-    .replace(/&shy;/g, '')
+const ARTICLE_RE = /^(?:ART[IÍ]CULO|Art[ií]culo)\s+([0-9]+(?:\.[0-9]+)*(?:-[0-9]+)?[A-Za-z]?)(?:\s*[°º])?(?:\.)?\s*(.*)$/u;
+const CHAPTER_RE = /^(?:CAP[IÍ]TULO|T[IÍ]TULO|SECCI[ÓO]N)\s+[A-Z0-9IVXLCM.-]+/i;
+
+const MONTHS_ES: Record<string, string> = {
+  enero: '01',
+  febrero: '02',
+  marzo: '03',
+  abril: '04',
+  mayo: '05',
+  junio: '06',
+  julio: '07',
+  agosto: '08',
+  septiembre: '09',
+  setiembre: '09',
+  octubre: '10',
+  noviembre: '11',
+  diciembre: '12',
+};
+
+function normalizeWhitespace(text: string): string {
+  return text
     .replace(/\u00a0/g, ' ')
-    .replace(/\s+/g, ' ')
+    .replace(/\r/g, '')
+    .replace(/[ \t]+/g, ' ')
+    .replace(/\n{3,}/g, '\n\n')
     .trim();
 }
 
-/**
- * Find the chapter heading (Rozdział) for a given article position.
- * Searches backwards from the article position for the nearest chapter div.
- */
-function findChapterHeading(html: string, articlePos: number): string | undefined {
-  const beforeArticle = html.substring(Math.max(0, articlePos - 10000), articlePos);
+function stripTags(html: string): string {
+  return html.replace(/<[^>]+>/g, ' ');
+}
 
-  // Look for the last chapter heading: Rozdział N ... Title
-  // Pattern in ISAP HTML: <div class="unit unit_chpt"...> <h3> Rozdział N ... Title </h3>
-  const chapterMatches = [
-    ...beforeArticle.matchAll(/Rozdzia[łl]\s*&nbsp;\s*(\d+[a-z]?)\s*(.*?)(?=<\/h3>|<\/P>)/gi),
-  ];
+function decodeHtmlEntities(text: string): string {
+  const named: Record<string, string> = {
+    amp: '&',
+    apos: '\'',
+    '#39': '\'',
+    quot: '"',
+    nbsp: ' ',
+    lt: '<',
+    gt: '>',
+    iacute: 'í',
+    Iacute: 'Í',
+    aacute: 'á',
+    Aacute: 'Á',
+    eacute: 'é',
+    Eacute: 'É',
+    oacute: 'ó',
+    Oacute: 'Ó',
+    uacute: 'ú',
+    Uacute: 'Ú',
+    ntilde: 'ñ',
+    Ntilde: 'Ñ',
+    ordm: 'º',
+    deg: '°',
+    iquest: '¿',
+    mdash: '-',
+    ndash: '-',
+    rsquo: '\'',
+    lsquo: '\'',
+    rdquo: '"',
+    ldquo: '"',
+    bull: '•',
+  };
 
-  if (chapterMatches.length > 0) {
-    const last = chapterMatches[chapterMatches.length - 1];
-    const chapterNum = last[1].trim();
-    // Try to find the title in subsequent <P> or <SPAN> tags
-    const afterChapter = beforeArticle.substring(last.index! + last[0].length);
-    const titleMatch = afterChapter.match(/<SPAN[^>]*class="pro-title-unit"[^>]*>(.*?)<\/SPAN>/i);
-    const title = titleMatch ? stripHtml(titleMatch[1]) : '';
+  return text
+    .replace(/&#(\d+);/g, (_, dec) => {
+      const num = Number(dec);
+      return Number.isFinite(num) ? String.fromCodePoint(num) : '';
+    })
+    .replace(/&#x([0-9a-fA-F]+);/g, (_, hex) => {
+      const num = Number.parseInt(hex, 16);
+      return Number.isFinite(num) ? String.fromCodePoint(num) : '';
+    })
+    .replace(/&([A-Za-z0-9#]+);/g, (full, entity) => named[entity] ?? full);
+}
 
-    return title
-      ? `Rozdział ${chapterNum} - ${title}`
-      : `Rozdział ${chapterNum}`;
+function extractClassBlock(html: string, className: string): string | null {
+  const openRe = new RegExp(
+    `<div[^>]*class=["'][^"']*\\b${className}\\b[^"']*["'][^>]*>`,
+    'i',
+  );
+  const openMatch = openRe.exec(html);
+  if (!openMatch || openMatch.index < 0) return null;
+
+  const start = openMatch.index;
+  const openTagEnd = start + openMatch[0].length;
+  const divTagRe = /<\/?div\b[^>]*>/gi;
+  divTagRe.lastIndex = openTagEnd;
+  let depth = 1;
+  let match: RegExpExecArray | null;
+
+  while ((match = divTagRe.exec(html)) !== null) {
+    const tag = match[0].toLowerCase();
+    if (tag.startsWith('</div')) {
+      depth -= 1;
+      if (depth === 0) {
+        return html.slice(openTagEnd, match.index);
+      }
+    } else {
+      depth += 1;
+    }
   }
 
-  // Also check for Dział (Division) used in larger codes
-  const dzialMatches = [
-    ...beforeArticle.matchAll(/Dzia[łl]\s*&nbsp;\s*([IVXLCDM]+[a-z]?)\s*(.*?)(?=<\/h3>|<\/P>)/gi),
-  ];
+  return null;
+}
 
-  if (dzialMatches.length > 0) {
-    const last = dzialMatches[dzialMatches.length - 1];
-    const dzialNum = last[1].trim();
-    const afterDzial = beforeArticle.substring(last.index! + last[0].length);
-    const titleMatch = afterDzial.match(/<SPAN[^>]*class="pro-title-unit"[^>]*>(.*?)<\/SPAN>/i);
-    const title = titleMatch ? stripHtml(titleMatch[1]) : '';
+function extractParagraphs(contentHtml: string): string[] {
+  const matches = [...contentHtml.matchAll(/<p\b[^>]*>[\s\S]*?<\/p>/gi)];
+  if (matches.length === 0) return [];
+  return matches.map(match => {
+    const decoded = decodeHtmlEntities(stripTags(match[0]));
+    return normalizeWhitespace(decoded);
+  }).filter(Boolean);
+}
 
-    return title
-      ? `Dział ${dzialNum} - ${title}`
-      : `Dział ${dzialNum}`;
+function normalizeSection(section: string): string {
+  return section
+    .replace(/[°º]/g, '')
+    .replace(/\s+/g, '')
+    .replace(/\.$/, '');
+}
+
+function toProvisionRef(section: string): string {
+  return `art${section.toLowerCase().replace(/[^0-9a-z]+/g, '-')}`;
+}
+
+function parseDateFromMedioPublicacion(html: string): string | undefined {
+  const plain = normalizeWhitespace(decodeHtmlEntities(stripTags(html)));
+
+  const pattern1 = plain.match(
+    /Medio de Publicación:\s*Diario Oficial[^.]*?\bde\s+([a-záéíóú]+)\s+(\d{1,2})\s+de\s+(\d{4})/i,
+  );
+  if (pattern1) {
+    const month = MONTHS_ES[pattern1[1].toLowerCase()];
+    if (!month) return undefined;
+    const day = pattern1[2].padStart(2, '0');
+    return `${pattern1[3]}-${month}-${day}`;
+  }
+
+  const pattern2 = plain.match(
+    /Medio de Publicación:\s*Diario Oficial[^.]*?\bdel?\s+(\d{1,2})\s+de\s+([a-záéíóú]+)\s+de\s+(\d{4})/i,
+  );
+  if (pattern2) {
+    const month = MONTHS_ES[pattern2[2].toLowerCase()];
+    if (!month) return undefined;
+    const day = pattern2[1].padStart(2, '0');
+    return `${pattern2[3]}-${month}-${day}`;
   }
 
   return undefined;
 }
 
-/**
- * Parse HTML from the Sejm ELI API (api.sejm.gov.pl/eli/acts/DU/YYYY/POZ/text.html)
- * to extract provisions from a Colombian statute.
- *
- * The HTML uses div-based structure:
- *   <div class="unit unit_arti" id="chpt_N-arti_M" data-id="arti_M">
- *     <h3><B>Art. M.</B></h3>
- *     <div class="unit-inner">
- *       <div class="unit unit_pass">
- *         <h3>1.</h3>
- *         <div class="unit-inner">
- *           <div data-template="xText">...content...</div>
- *         </div>
- *       </div>
- *     </div>
- *   </div>
- */
-export function parseColombianHtml(html: string, act: ActIndexEntry): ParsedAct {
-  const provisions: ParsedProvision[] = [];
-  const definitions: ParsedDefinition[] = [];
-
-  // Match all article divs: <div class="unit unit_arti ..." id="...-arti_N" data-id="arti_N">
-  const articleRegex = /<div[^>]*class="unit unit_arti[^"]*"[^>]*id="([^"]*-)?arti_(\d+[a-z_]*)"[^>]*data-id="arti_(\d+[a-z_]*)"[^>]*>/gi;
-  const articleStarts: { fullId: string; artNum: string; pos: number }[] = [];
-
-  let match: RegExpExecArray | null;
-  while ((match = articleRegex.exec(html)) !== null) {
-    // Skip nested articles inside amendment provisions (chpt_12-arti_111-arti_22_2 etc.)
-    const fullId = match[0];
-    const idAttr = fullId.match(/id="([^"]+)"/)?.[1] ?? '';
-    // Count how many "arti_" segments appear in the ID
-    const artiSegments = (idAttr.match(/arti_/g) ?? []).length;
-    if (artiSegments > 1) continue;
-
-    articleStarts.push({
-      fullId: idAttr,
-      artNum: match[3],
-      pos: match.index,
-    });
+function extractTitle(html: string): string {
+  const match = html.match(/<h2[^>]*class=["']titulo-norma["'][^>]*>\s*<strong>([\s\S]*?)<\/strong>/i);
+  if (match) {
+    return normalizeWhitespace(decodeHtmlEntities(stripTags(match[1])));
   }
 
-  for (let i = 0; i < articleStarts.length; i++) {
-    const article = articleStarts[i];
-    const startPos = article.pos;
+  const ogTitle = html.match(/<meta[^>]*property=["']og:title["'][^>]*content=["']([^"]+)["']/i);
+  if (ogTitle) {
+    return normalizeWhitespace(decodeHtmlEntities(ogTitle[1].replace(/\s*-\s*Gestor Normativo\s*$/i, '')));
+  }
 
-    // Extract content up to next article or end
-    const endPos = i + 1 < articleStarts.length
-      ? articleStarts[i + 1].pos
-      : html.length;
-    const articleHtml = html.substring(startPos, endPos);
+  return 'Norma sin título';
+}
 
-    // Extract article number from <h3><B>Art. N.</B></h3> or <h3><B>Art. N<sup>...</B></h3>
-    const artHeadingMatch = articleHtml.match(
-      /<h3[^>]*>\s*<B[^>]*>\s*Art\.?\s*&nbsp;?\s*(\d+[a-z]*)\b/i
-    );
+function extractDescription(html: string): string | undefined {
+  const matchA = html.match(/<meta[^>]*property=["']og:description["'][^>]*content=["']([^"]+)["']/i);
+  const matchB = html.match(/<meta[^>]*content=["']([^"]+)["'][^>]*property=["']og:description["']/i);
+  const text = matchA?.[1] ?? matchB?.[1];
+  if (!text) return undefined;
+  return normalizeWhitespace(decodeHtmlEntities(text));
+}
 
-    const artNum = artHeadingMatch
-      ? artHeadingMatch[1].trim()
-      : article.artNum.replace(/_/g, '');
+function extractProvisions(contentHtml: string): ParsedProvision[] {
+  const paragraphs = extractParagraphs(contentHtml);
+  const provisions: ParsedProvision[] = [];
+  let currentChapter: string | undefined;
+  let active: { section: string; chapter?: string; blocks: string[] } | null = null;
 
-    // Normalize: remove underscores from article numbers like "22_2"
-    const normalizedNum = artNum.replace(/_/g, '');
-    const provisionRef = `art${normalizedNum}`;
-
-    // Find chapter heading
-    const chapter = findChapterHeading(html, startPos);
-
-    // Extract text content, stripping HTML
-    // Remove the article heading to avoid duplication
-    const contentHtml = articleHtml
-      .replace(/<h3[^>]*>\s*<B[^>]*>\s*Art\.?\s*&nbsp;?\s*\d+[a-z]*\.?\s*<\/B>\s*<\/h3>/i, '');
-    let content = stripHtml(contentHtml);
-
-    // Skip very short articles (likely just structural markers)
-    if (content.length < 5) continue;
-
-    // Cap content at 12K characters
-    if (content.length > 12000) {
-      content = content.substring(0, 12000);
+  const flush = (): void => {
+    if (!active) return;
+    const content = normalizeWhitespace(active.blocks.join('\n\n'));
+    if (content.length < 20) {
+      active = null;
+      return;
     }
-
-    // Build a title from the first sentence or paragraph if meaningful
-    const title = `Art. ${normalizedNum}`;
-
     provisions.push({
-      provision_ref: provisionRef,
-      chapter,
-      section: normalizedNum,
-      title,
+      provision_ref: toProvisionRef(active.section),
+      chapter: active.chapter,
+      section: active.section,
+      title: `Artículo ${active.section}`,
       content,
     });
+    active = null;
+  };
 
-    // Extract definitions from definition articles
-    // Colombian acts use "ilekroć mowa" (whenever mentioned), "rozumie się przez to"
-    // (this is understood as), or "oznacza" (means)
-    if (
-      content.includes('ilekro') ||
-      content.includes('rozumie si') ||
-      content.includes('oznacza') ||
-      content.includes('nale') && content.includes('rozumie')
-    ) {
-      extractDefinitions(content, provisionRef, definitions);
+  for (const paragraph of paragraphs) {
+    if (CHAPTER_RE.test(paragraph) && paragraph.length <= 140) {
+      currentChapter = paragraph;
+      continue;
+    }
+
+    const article = paragraph.match(ARTICLE_RE);
+    if (article) {
+      flush();
+      const section = normalizeSection(article[1]);
+      active = {
+        section,
+        chapter: currentChapter,
+        blocks: [paragraph],
+      };
+      continue;
+    }
+
+    if (active) {
+      active.blocks.push(paragraph);
     }
   }
 
+  flush();
+
+  const bySection = new Map<string, ParsedProvision>();
+  for (const provision of provisions) {
+    const existing = bySection.get(provision.section);
+    if (!existing || provision.content.length > existing.content.length) {
+      bySection.set(provision.section, provision);
+    }
+  }
+
+  return Array.from(bySection.values());
+}
+
+function extractDefinitions(provisions: ParsedProvision[]): ParsedDefinition[] {
+  const definitions: ParsedDefinition[] = [];
+  const seen = new Set<string>();
+
+  for (const provision of provisions) {
+    const lower = provision.content.toLowerCase();
+    if (!lower.includes('se entiende por') && !lower.includes('definiciones')) {
+      continue;
+    }
+
+    const byLiteral = /(?:^|\n)\s*([a-zñ])\)\s*([^:;\n]{2,120}?)\s*:\s*([^\n]+?)(?=(?:\n\s*[a-zñ]\)\s)|$)/gim;
+    let literalMatch: RegExpExecArray | null;
+    while ((literalMatch = byLiteral.exec(provision.content)) !== null) {
+      const term = normalizeWhitespace(literalMatch[2]).replace(/[. ]+$/, '');
+      const definition = normalizeWhitespace(literalMatch[3]).replace(/[; ]+$/, '');
+      const key = term.toLowerCase();
+
+      if (term.length < 2 || term.length > 120) continue;
+      if (definition.length < 8) continue;
+      if (seen.has(key)) continue;
+      seen.add(key);
+      definitions.push({
+        term,
+        definition,
+        source_provision: provision.provision_ref,
+      });
+    }
+  }
+
+  return definitions.slice(0, 80);
+}
+
+export function parseNormaHtml(html: string, law: TargetLaw): ParsedAct {
+  const title = extractTitle(html);
+  const description = extractDescription(html);
+  const issuedDate = parseDateFromMedioPublicacion(html);
+  const contentHtml = extractClassBlock(html, 'descripcion-contenido') ?? '';
+  const provisions = extractProvisions(contentHtml);
+  const definitions = extractDefinitions(provisions);
+
   return {
-    id: act.id,
+    id: law.id,
     type: 'statute',
-    title: act.title,
-    title_en: act.titleEn,
-    short_name: act.shortName,
-    status: act.status,
-    issued_date: act.issuedDate,
-    in_force_date: act.inForceDate,
-    url: act.url,
-    description: act.description,
+    title,
+    short_name: law.shortName,
+    status: law.status,
+    issued_date: issuedDate,
+    in_force_date: issuedDate,
+    url: `https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=${law.portalId}`,
+    description,
     provisions,
     definitions,
   };
 }
 
-/**
- * Extract definitions from Colombian legal text.
- *
- * Colombian definitions typically use patterns like:
- *   - "«term» – oznacza ..." ("term" – means ...)
- *   - "N) term – ..." (numbered list of definitions)
- *   - "ilekroć ... mowa o «term» – rozumie się przez to ..."
- */
-function extractDefinitions(
-  text: string,
-  sourceProvision: string,
-  definitions: ParsedDefinition[],
-): void {
-  // Pattern: numbered definitions like "1) term - definition;"
-  const numberedDefRegex = /\d+\)\s+([^–\-]+?)\s+[–\-]\s+(.*?)(?=;\s*\d+\)|$)/g;
-  let defMatch: RegExpExecArray | null;
-
-  while ((defMatch = numberedDefRegex.exec(text)) !== null) {
-    const term = defMatch[1].trim();
-    const definition = defMatch[2].replace(/;$/, '').trim();
-
-    if (term.length > 1 && term.length < 100 && definition.length > 5) {
-      definitions.push({
-        term,
-        definition,
-        source_provision: sourceProvision,
-      });
-    }
-  }
-
-  // Pattern: «quoted term» – definition
-  const quotedDefRegex = /[„«\u201e]([^"»\u201d]+)["\u201d»]\s*[–\-]\s*(.*?)(?=[;.]\s*[„«\u201e]|[;.]\s*$)/g;
-  while ((defMatch = quotedDefRegex.exec(text)) !== null) {
-    const term = defMatch[1].trim();
-    const definition = defMatch[2].replace(/[;.]$/, '').trim();
-
-    if (term.length > 1 && term.length < 100 && definition.length > 5) {
-      definitions.push({
-        term,
-        definition,
-        source_provision: sourceProvision,
-      });
-    }
-  }
-}
-
-/**
- * Pre-configured list of key Colombian Acts to ingest.
- *
- * Source: api.sejm.gov.pl (Sejm ELI API)
- * URL pattern: https://api.sejm.gov.pl/eli/acts/DU/{YEAR}/{POZ}/text.html
- *
- * These are the most important Colombian statutes for cybersecurity, data protection,
- * and compliance use cases. References use the Dziennik Ustaw (Journal of Laws)
- * format: Dz.U. YYYY poz. NNNN.
- */
-export const KEY_COLOMBIAN_ACTS: ActIndexEntry[] = [
+export const TARGET_LAWS: TargetLaw[] = [
   {
-    id: 'dpa-2018',
-    title: 'Ustawa z dnia 10 maja 2018 r. o ochronie danych osobowych',
-    titleEn: 'Personal Data Protection Act 2018',
-    shortName: 'UODO 2018',
+    id: 'co-ley-1581-2012',
+    fileName: '01-ley-1581-2012-proteccion-datos.json',
+    portalId: 49981,
+    docTypeId: 18,
+    number: '1581',
+    year: 2012,
+    shortName: 'Ley 1581 de 2012',
     status: 'in_force',
-    issuedDate: '2018-05-10',
-    inForceDate: '2018-05-25',
-    dziennikRef: 'Dz.U. 2018 poz. 1000',
-    year: 2018,
-    poz: 1000,
-    url: 'https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001000',
-    description: 'GDPR implementing provisions (RODO); establishes UODO (Urząd Ochrony Danych Osobowych) as the supervisory authority; covers certification, codes of conduct, and administrative penalties',
   },
   {
-    id: 'ksc-2018',
-    title: 'Ustawa z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa',
-    titleEn: 'National Cybersecurity System Act 2018 (KSC)',
-    shortName: 'KSC',
+    id: 'co-ley-1266-2008',
+    fileName: '02-ley-1266-2008-habeas-data-financiero.json',
+    portalId: 34488,
+    docTypeId: 18,
+    number: '1266',
+    year: 2008,
+    shortName: 'Ley 1266 de 2008',
     status: 'in_force',
-    issuedDate: '2018-07-05',
-    inForceDate: '2018-08-28',
-    dziennikRef: 'Dz.U. 2018 poz. 1560',
-    year: 2018,
-    poz: 1560,
-    url: 'https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001560',
-    description: 'NIS Directive implementation; establishes national cybersecurity system with CSIRT teams (CSIRT NASK, CSIRT GOV, CSIRT MON); covers essential services operators and digital service providers',
   },
   {
-    id: 'ksh-2000',
-    title: 'Ustawa z dnia 15 września 2000 r. - Kodeks spółek handlowych',
-    titleEn: 'Commercial Companies Code (KSH)',
-    shortName: 'KSH',
+    id: 'co-ley-1273-2009',
+    fileName: '03-ley-1273-2009-delitos-informaticos.json',
+    portalId: 34492,
+    docTypeId: 18,
+    number: '1273',
+    year: 2009,
+    shortName: 'Ley 1273 de 2009',
     status: 'in_force',
-    issuedDate: '2000-09-15',
-    inForceDate: '2001-01-01',
-    dziennikRef: 'Dz.U. 2000 nr 94 poz. 1037',
-    year: 2000,
-    poz: 1037,
-    url: 'https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000940037',
-    description: 'Comprehensive commercial companies law governing partnerships (spółka jawna, komandytowa, etc.) and capital companies (sp. z o.o. and S.A.); corporate governance requirements',
   },
   {
-    id: 'kodeks-karny-1997',
-    title: 'Ustawa z dnia 6 czerwca 1997 r. - Kodeks karny',
-    titleEn: 'Criminal Code (Kodeks karny)',
-    shortName: 'KK',
-    status: 'in_force',
-    issuedDate: '1997-06-06',
-    inForceDate: '1998-09-01',
-    dziennikRef: 'Dz.U. 1997 nr 88 poz. 553',
-    year: 1997,
-    poz: 553,
-    url: 'https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970880553',
-    description: 'Criminal Code; cybercrime provisions in Art. 267 (unauthorized access), Art. 268 (data destruction), Art. 268a (computer sabotage), Art. 269 (sabotage of critical systems), Art. 269a (DoS), Art. 269b (hacking tools)',
+    id: 'co-ley-1341-2009',
+    fileName: '04-ley-1341-2009-sector-tic.json',
+    portalId: 36913,
+    docTypeId: 18,
+    number: '1341',
+    year: 2009,
+    shortName: 'Ley 1341 de 2009',
+    status: 'amended',
   },
   {
-    id: 'e-services-2002',
-    title: 'Ustawa z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną',
-    titleEn: 'Act on Provision of Electronic Services',
-    shortName: 'E-Services Act',
-    status: 'in_force',
-    issuedDate: '2002-07-18',
-    inForceDate: '2002-10-10',
-    dziennikRef: 'Dz.U. 2002 nr 144 poz. 1204',
-    year: 2002,
-    poz: 1204,
-    url: 'https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021441204',
-    description: 'E-Commerce Directive implementation; regulates electronic services, ISP liability, spam prohibition, electronic contracts',
+    id: 'co-ley-527-1999',
+    fileName: '05-ley-527-1999-comercio-electronico.json',
+    portalId: 4276,
+    docTypeId: 18,
+    number: '527',
+    year: 1999,
+    shortName: 'Ley 527 de 1999',
+    status: 'amended',
   },
   {
-    id: 'telecom-2004',
-    title: 'Ustawa z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne',
-    titleEn: 'Telecommunications Law',
-    shortName: 'PT',
+    id: 'co-ley-1712-2014',
+    fileName: '06-ley-1712-2014-transparencia-acceso-informacion.json',
+    portalId: 56882,
+    docTypeId: 18,
+    number: '1712',
+    year: 2014,
+    shortName: 'Ley 1712 de 2014',
     status: 'in_force',
-    issuedDate: '2004-07-16',
-    inForceDate: '2004-09-03',
-    dziennikRef: 'Dz.U. 2004 nr 171 poz. 1800',
-    year: 2004,
-    poz: 1800,
-    url: 'https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041711800',
-    description: 'Telecommunications regulation; data retention, communications security, network integrity obligations, UKE (Office of Electronic Communications) authority',
   },
   {
-    id: 'constitution-1997',
-    title: 'Konstytucja Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r.',
-    titleEn: 'Constitution of the Republic of Poland',
-    shortName: 'Konstytucja RP',
-    status: 'in_force',
-    issuedDate: '1997-04-02',
-    inForceDate: '1997-10-17',
-    dziennikRef: 'Dz.U. 1997 nr 78 poz. 483',
-    year: 1997,
-    poz: 483,
-    url: 'https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970780483',
-    description: 'Supreme law; Art. 47 (privacy), Art. 49 (communication secrecy), Art. 51 (personal data protection), Art. 54 (freedom of expression)',
+    id: 'co-decreto-1078-2015',
+    fileName: '07-decreto-1078-2015-sector-tic.json',
+    portalId: 77888,
+    docTypeId: 11,
+    number: '1078',
+    year: 2015,
+    shortName: 'Decreto 1078 de 2015',
+    status: 'amended',
   },
   {
-    id: 'kodeks-cywilny-1964',
-    title: 'Ustawa z dnia 23 kwietnia 1964 r. - Kodeks cywilny',
-    titleEn: 'Civil Code (Kodeks cywilny)',
-    shortName: 'KC',
-    status: 'in_force',
-    issuedDate: '1964-04-23',
-    inForceDate: '1965-01-01',
-    dziennikRef: 'Dz.U. 1964 nr 16 poz. 93',
-    year: 1964,
-    poz: 93,
-    url: 'https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19640160093',
-    description: 'Core private law; personality rights protection (Art. 23-24), contract law, liability for damages, electronic declarations of intent',
+    id: 'co-decreto-1377-2013',
+    fileName: '08-decreto-1377-2013-reglamenta-ley-1581.json',
+    portalId: 53646,
+    docTypeId: 11,
+    number: '1377',
+    year: 2013,
+    shortName: 'Decreto 1377 de 2013',
+    status: 'amended',
   },
   {
-    id: 'banking-law-1997',
-    title: 'Ustawa z dnia 29 sierpnia 1997 r. - Prawo bankowe',
-    titleEn: 'Banking Law',
-    shortName: 'PB',
+    id: 'co-ley-1621-2013',
+    fileName: '09-ley-1621-2013-inteligencia-contrainteligencia.json',
+    portalId: 52706,
+    docTypeId: 18,
+    number: '1621',
+    year: 2013,
+    shortName: 'Ley 1621 de 2013',
     status: 'in_force',
-    issuedDate: '1997-08-29',
-    inForceDate: '1998-01-01',
-    dziennikRef: 'Dz.U. 1997 nr 140 poz. 939',
-    year: 1997,
-    poz: 939,
-    url: 'https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971400939',
-    description: 'Banking regulation; banking secrecy obligations, outsourcing of banking activities, IT security requirements for banks, cloud computing provisions',
   },
   {
-    id: 'kpa-1960',
-    title: 'Ustawa z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego',
-    titleEn: 'Code of Administrative Procedure (KPA)',
-    shortName: 'KPA',
+    id: 'co-ley-1978-2019',
+    fileName: '10-ley-1978-2019-modernizacion-sector-tic.json',
+    portalId: 98210,
+    docTypeId: 18,
+    number: '1978',
+    year: 2019,
+    shortName: 'Ley 1978 de 2019',
     status: 'in_force',
-    issuedDate: '1960-06-14',
-    inForceDate: '1961-01-01',
-    dziennikRef: 'Dz.U. 1960 nr 30 poz. 168',
-    year: 1960,
-    poz: 168,
-    url: 'https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19600300168',
-    description: 'Administrative procedure code; governs proceedings before UODO (data protection authority), UKE, and other regulators; electronic administration provisions',
   },
 ];

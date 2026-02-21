@@ -1,30 +1,17 @@
 #!/usr/bin/env tsx
 /**
- * Colombian Law MCP -- Ingestion Pipeline
+ * Colombian Law MCP - Real ingestion pipeline.
  *
- * Fetches Colombian legislation from the Sejm ELI API (api.sejm.gov.pl).
- * The Sejm (Colombian Parliament) provides free public access to all legislation
- * published in Dziennik Ustaw (Journal of Laws) via the ELI API.
- *
- * Strategy:
- * 1. For each act, fetch the HTML text from the ELI API endpoint
- * 2. Parse articles (Art.) from the structured HTML
- * 3. Write seed JSON files for the database builder
- *
- * Usage:
- *   npm run ingest                    # Full ingestion
- *   npm run ingest -- --limit 5       # Test with 5 acts
- *   npm run ingest -- --skip-fetch    # Reuse cached pages
- *
- * Data source: api.sejm.gov.pl (Chancellery of the Sejm of the Republic of Poland)
- * License: Colombian legislation is public domain under Art. 4 of the Copyright Act
+ * Source:
+ *   Función Pública - Gestor Normativo
+ *   https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i={ID}
  */
 
 import * as fs from 'fs';
 import * as path from 'path';
 import { fileURLToPath } from 'url';
-import { fetchWithRateLimit } from './lib/fetcher.js';
-import { parseColombianHtml, KEY_COLOMBIAN_ACTS, type ActIndexEntry, type ParsedAct } from './lib/parser.js';
+import { fetchNormaHtml } from './lib/fetcher.js';
+import { parseNormaHtml, TARGET_LAWS, type ParsedAct, type TargetLaw } from './lib/parser.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -32,19 +19,33 @@ const __dirname = path.dirname(__filename);
 const SOURCE_DIR = path.resolve(__dirname, '../data/source');
 const SEED_DIR = path.resolve(__dirname, '../data/seed');
 
-/** ELI API base URL for the Sejm */
-const ELI_API_BASE = 'https://api.sejm.gov.pl/eli/acts/DU';
+interface CliArgs {
+  limit: number | null;
+  skipFetch: boolean;
+}
 
-function parseArgs(): { limit: number | null; skipFetch: boolean } {
+interface IngestResult {
+  law: TargetLaw;
+  status: 'ok' | 'failed';
+  seedFile?: string;
+  provisions?: number;
+  definitions?: number;
+  error?: string;
+}
+
+function parseArgs(): CliArgs {
   const args = process.argv.slice(2);
   let limit: number | null = null;
   let skipFetch = false;
 
-  for (let i = 0; i < args.length; i++) {
-    if (args[i] === '--limit' && args[i + 1]) {
-      limit = parseInt(args[i + 1], 10);
-      i++;
-    } else if (args[i] === '--skip-fetch') {
+  for (let i = 0; i < args.length; i += 1) {
+    const arg = args[i];
+    if (arg === '--limit' && args[i + 1]) {
+      limit = Number.parseInt(args[i + 1], 10);
+      i += 1;
+      continue;
+    }
+    if (arg === '--skip-fetch') {
       skipFetch = true;
     }
   }
@@ -52,135 +53,155 @@ function parseArgs(): { limit: number | null; skipFetch: boolean } {
   return { limit, skipFetch };
 }
 
-/**
- * Build the ELI API URL for fetching an act's HTML text.
- * Pattern: https://api.sejm.gov.pl/eli/acts/DU/{YEAR}/{POZ}/text.html
- */
-function buildTextUrl(act: ActIndexEntry): string {
-  return `${ELI_API_BASE}/${act.year}/${act.poz}/text.html`;
-}
-
-async function fetchAndParseActs(acts: ActIndexEntry[], skipFetch: boolean): Promise<void> {
-  console.log(`\nProcessing ${acts.length} Colombian Acts from api.sejm.gov.pl...\n`);
-
+function ensureDirs(): void {
   fs.mkdirSync(SOURCE_DIR, { recursive: true });
   fs.mkdirSync(SEED_DIR, { recursive: true });
+}
 
-  let processed = 0;
-  let skipped = 0;
-  let failed = 0;
-  let totalProvisions = 0;
-  let totalDefinitions = 0;
-  const results: { act: string; provisions: number; definitions: number; status: string }[] = [];
-
-  for (const act of acts) {
-    const sourceFile = path.join(SOURCE_DIR, `${act.id}.html`);
-    const seedFile = path.join(SEED_DIR, `${act.id}.json`);
-
-    // Skip if seed already exists and we're in skip-fetch mode
-    if (skipFetch && fs.existsSync(seedFile)) {
-      const existing = JSON.parse(fs.readFileSync(seedFile, 'utf-8')) as ParsedAct;
-      const provCount = existing.provisions?.length ?? 0;
-      const defCount = existing.definitions?.length ?? 0;
-      totalProvisions += provCount;
-      totalDefinitions += defCount;
-      results.push({ act: act.shortName, provisions: provCount, definitions: defCount, status: 'cached' });
-      skipped++;
-      processed++;
-      continue;
-    }
-
-    try {
-      let html: string;
-
-      if (fs.existsSync(sourceFile) && skipFetch) {
-        html = fs.readFileSync(sourceFile, 'utf-8');
-        console.log(`  Using cached ${act.shortName} (${act.dziennikRef}) (${(html.length / 1024).toFixed(0)} KB)`);
-      } else {
-        const textUrl = buildTextUrl(act);
-        process.stdout.write(`  Fetching ${act.shortName} (${act.dziennikRef})...`);
-        const result = await fetchWithRateLimit(textUrl);
-
-        if (result.status !== 200) {
-          console.log(` HTTP ${result.status}`);
-          results.push({ act: act.shortName, provisions: 0, definitions: 0, status: `HTTP ${result.status}` });
-          failed++;
-          processed++;
-          continue;
-        }
-
-        html = result.body;
-
-        // Validate that we got real legislation content, not a bot challenge
-        if (html.includes('window["bobcmn"]') || !html.includes('unit_arti')) {
-          console.log(` BLOCKED (bot challenge or no article content)`);
-          results.push({ act: act.shortName, provisions: 0, definitions: 0, status: 'BLOCKED' });
-          failed++;
-          processed++;
-          continue;
-        }
-
-        fs.writeFileSync(sourceFile, html);
-        console.log(` OK (${(html.length / 1024).toFixed(0)} KB)`);
-      }
-
-      const parsed = parseColombianHtml(html, act);
-      fs.writeFileSync(seedFile, JSON.stringify(parsed, null, 2));
-      totalProvisions += parsed.provisions.length;
-      totalDefinitions += parsed.definitions.length;
-      console.log(`    -> ${parsed.provisions.length} provisions, ${parsed.definitions.length} definitions extracted`);
-      results.push({
-        act: act.shortName,
-        provisions: parsed.provisions.length,
-        definitions: parsed.definitions.length,
-        status: 'OK',
-      });
-    } catch (error) {
-      const msg = error instanceof Error ? error.message : String(error);
-      console.log(`  ERROR ${act.shortName}: ${msg}`);
-      results.push({ act: act.shortName, provisions: 0, definitions: 0, status: `ERROR: ${msg.substring(0, 80)}` });
-      failed++;
-    }
-
-    processed++;
+function clearSeedDirectory(): void {
+  const files = fs.readdirSync(SEED_DIR).filter(file => file.endsWith('.json'));
+  for (const file of files) {
+    fs.unlinkSync(path.join(SEED_DIR, file));
   }
+}
 
-  console.log(`\n${'='.repeat(72)}`);
-  console.log('Ingestion Report');
-  console.log('='.repeat(72));
-  console.log(`\n  Source:       api.sejm.gov.pl (Sejm ELI API)`);
-  console.log(`  License:     Public domain (Art. 4 Colombian Copyright Act)`);
-  console.log(`  Processed:   ${processed}`);
-  console.log(`  Cached:      ${skipped}`);
-  console.log(`  Failed:      ${failed}`);
-  console.log(`  Total provisions:  ${totalProvisions}`);
-  console.log(`  Total definitions: ${totalDefinitions}`);
-  console.log(`\n  Per-Act breakdown:`);
-  console.log(`  ${'Act'.padEnd(20)} ${'Provisions'.padStart(12)} ${'Definitions'.padStart(13)} ${'Status'.padStart(10)}`);
-  console.log(`  ${'-'.repeat(20)} ${'-'.repeat(12)} ${'-'.repeat(13)} ${'-'.repeat(10)}`);
-  for (const r of results) {
-    console.log(`  ${r.act.padEnd(20)} ${String(r.provisions).padStart(12)} ${String(r.definitions).padStart(13)} ${r.status.padStart(10)}`);
+function readSourceIfExists(filePath: string): string | null {
+  return fs.existsSync(filePath) ? fs.readFileSync(filePath, 'utf-8') : null;
+}
+
+function saveParsedSeed(parsed: ParsedAct, fileName: string): string {
+  const fullPath = path.join(SEED_DIR, fileName);
+  fs.writeFileSync(fullPath, JSON.stringify(parsed, null, 2));
+  return fullPath;
+}
+
+async function ingestLaw(law: TargetLaw, skipFetch: boolean): Promise<IngestResult> {
+  const sourceFile = path.join(SOURCE_DIR, `${law.id}.html`);
+
+  try {
+    let html = skipFetch ? readSourceIfExists(sourceFile) : null;
+
+    if (!html) {
+      const fetched = await fetchNormaHtml(law.portalId);
+      if (fetched.status !== 200) {
+        return {
+          law,
+          status: 'failed',
+          error: `HTTP ${fetched.status}`,
+        };
+      }
+      html = fetched.body;
+      fs.writeFileSync(sourceFile, html);
+    }
+
+    if (!html.includes('descripcion-contenido')) {
+      return {
+        law,
+        status: 'failed',
+        error: 'No se encontró bloque descripcion-contenido',
+      };
+    }
+
+    const parsed = parseNormaHtml(html, law);
+    if (parsed.provisions.length === 0) {
+      return {
+        law,
+        status: 'failed',
+        error: 'No se extrajeron artículos',
+      };
+    }
+
+    const seedPath = saveParsedSeed(parsed, law.fileName);
+    return {
+      law,
+      status: 'ok',
+      seedFile: seedPath,
+      provisions: parsed.provisions.length,
+      definitions: parsed.definitions.length,
+    };
+  } catch (error) {
+    const msg = error instanceof Error ? error.message : String(error);
+    return {
+      law,
+      status: 'failed',
+      error: msg,
+    };
+  }
+}
+
+function printHeader(args: CliArgs, laws: TargetLaw[]): void {
+  console.log('Colombian Law MCP - Real Ingestion');
+  console.log('==================================');
+  console.log('Portal: https://www.funcionpublica.gov.co/eva/gestornormativo');
+  console.log('Método: HTML scrape (norma.php)');
+  console.log(`Objetivo: ${laws.length} normas`);
+  if (args.limit) console.log(`--limit ${args.limit}`);
+  if (args.skipFetch) console.log('--skip-fetch');
+  if (process.env.ALLOW_INSECURE_TLS === '1') {
+    console.log('ALLOW_INSECURE_TLS=1 (solo para entorno local)');
+  }
+  console.log('');
+}
+
+function printResults(results: IngestResult[]): void {
+  const ok = results.filter(r => r.status === 'ok');
+  const failed = results.filter(r => r.status === 'failed');
+  const totalProvisions = ok.reduce((sum, row) => sum + (row.provisions ?? 0), 0);
+  const totalDefinitions = ok.reduce((sum, row) => sum + (row.definitions ?? 0), 0);
+
+  console.log('\nResumen de ingestión');
+  console.log('--------------------');
+  console.log(`Normas procesadas: ${results.length}`);
+  console.log(`Normas OK: ${ok.length}`);
+  console.log(`Normas fallidas: ${failed.length}`);
+  console.log(`Provisiones extraídas: ${totalProvisions}`);
+  console.log(`Definiciones extraídas: ${totalDefinitions}`);
+  console.log('');
+
+  console.log(`${'Norma'.padEnd(34)} ${'Portal ID'.padEnd(10)} ${'Art.'.padStart(6)} ${'Def.'.padStart(6)}  Estado`);
+  console.log(`${'-'.repeat(34)} ${'-'.repeat(10)} ${'-'.repeat(6)} ${'-'.repeat(6)}  ${'-'.repeat(20)}`);
+  for (const row of results) {
+    if (row.status === 'ok') {
+      console.log(
+        `${row.law.id.padEnd(34)} ${String(row.law.portalId).padEnd(10)} ${String(row.provisions ?? 0).padStart(6)} ${String(row.definitions ?? 0).padStart(6)}  OK`,
+      );
+    } else {
+      console.log(
+        `${row.law.id.padEnd(34)} ${String(row.law.portalId).padEnd(10)} ${'0'.padStart(6)} ${'0'.padStart(6)}  FAIL: ${row.error ?? 'error'}`,
+      );
+    }
   }
   console.log('');
 }
 
 async function main(): Promise<void> {
-  const { limit, skipFetch } = parseArgs();
+  const args = parseArgs();
+  const laws = args.limit ? TARGET_LAWS.slice(0, args.limit) : TARGET_LAWS;
 
-  console.log('Colombian Law MCP -- Ingestion Pipeline');
-  console.log('====================================\n');
-  console.log(`  Source: api.sejm.gov.pl (Chancellery of the Sejm)`);
-  console.log(`  Format: ELI HTML (structured legislation text)`);
-  console.log(`  License: Public domain (Art. 4 Colombian Copyright Act)`);
+  ensureDirs();
+  clearSeedDirectory();
+  printHeader(args, laws);
 
-  if (limit) console.log(`  --limit ${limit}`);
-  if (skipFetch) console.log(`  --skip-fetch`);
+  const results: IngestResult[] = [];
+  for (const law of laws) {
+    process.stdout.write(`Descargando ${law.shortName} (i=${law.portalId})... `);
+    const result = await ingestLaw(law, args.skipFetch);
+    results.push(result);
+    if (result.status === 'ok') {
+      console.log(`OK (${result.provisions} artículos)`);
+    } else {
+      console.log(`FAIL (${result.error})`);
+    }
+  }
 
-  const acts = limit ? KEY_COLOMBIAN_ACTS.slice(0, limit) : KEY_COLOMBIAN_ACTS;
-  await fetchAndParseActs(acts, skipFetch);
+  printResults(results);
+
+  if (results.some(r => r.status === 'failed')) {
+    process.exitCode = 1;
+  }
 }
 
 main().catch(error => {
-  console.error('Fatal error:', error);
+  console.error('Fatal error during ingestion:', error);
   process.exit(1);
 });
