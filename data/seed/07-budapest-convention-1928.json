@@ -1,0 +1,112 @@
+{
+  "id": "co-ley-1928-2018-budapest-convention",
+  "type": "statute",
+  "title": "Ley 1928 de 2018 — Convención de Budapest sobre Ciberdelincuencia",
+  "title_en": "Law 1928 of 2018 — Ratification of the Budapest Convention on Cybercrime",
+  "short_name": "Ley 1928 Budapest",
+  "status": "in_force",
+  "issued_date": "2018-07-24",
+  "in_force_date": "2018-07-24",
+  "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=87720",
+  "description": "Law 1928 of 2018 ratifies the Council of Europe Convention on Cybercrime (Budapest Convention) for Colombia, incorporating its requirements into Colombian law and establishing the framework for international cooperation in cybercrime investigation and prosecution. The law mandates the alignment of Colombian substantive and procedural law with Convention requirements and establishes cooperation mechanisms with other State Parties.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1. Ratification",
+      "content": "The Congress of Colombia approves in its entirety the Convention on Cybercrime, adopted in Budapest on 23 November 2001 and opened for accession to non-member States by the Committee of Ministers of the Council of Europe. By ratifying the Convention, Colombia assumes all substantive, procedural, and cooperative obligations established therein and commits to aligning its national legal framework with Convention requirements. The ratification reflects Colombia's recognition that cybercrime poses significant threats to national security, economic stability, and individual rights, and that effective responses require both domestic legal frameworks and international cooperation. The Ministry of Justice and Law and the Fiscalía General de la Nación are designated as the competent authorities for the implementation of Colombia's obligations under the Convention."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2. Substantive Alignment — Information Systems Protection",
+      "content": "Colombia's substantive law is aligned with the Convention's requirements for establishing regulatory and legal frameworks addressing: access to information systems and data without right; interception of data without right; interference with data integrity; interference with system operation; misuse of devices; and fraud facilitated by information systems. The regulatory scope established in Law 1273 of 2009 provides the domestic legal framework corresponding to the substantive requirements of the Budapest Convention. The alignment of Colombian substantive law with Convention requirements shall be periodically reviewed by the Ministry of Justice to ensure continued conformity, particularly in light of developments in information technology and the evolution of threats addressed by the Convention."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3. Procedural Powers for Investigation",
+      "content": "Colombian procedural law provides investigative powers applicable to cybercrime investigations consistent with Convention requirements, including: expedited preservation of stored computer data where disclosure may be sought; expedited preservation and partial disclosure of traffic data; production orders for stored data and subscriber information; search and seizure of stored computer data; real-time collection of traffic data; and interception of content data. These powers are subject to conditions and safeguards consistent with the Colombian Constitution and applicable international human rights standards. The Fiscalía General de la Nación is the competent authority for exercising investigative powers in relation to cybercrime. The use of investigative powers shall be subject to judicial oversight where required by applicable law."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4. Jurisdiction",
+      "content": "Colombia shall establish jurisdiction over offences within the scope of the Convention where: the offence is committed in Colombian territory; the offence is committed on board a vessel flying the Colombian flag; the offence is committed on board an aircraft registered under Colombian laws; or the offence is committed by a Colombian national, where the offence is also sanctioned in the State where it was committed or the offence is committed outside the territorial jurisdiction of any State. Where Colombia and another State Party both have jurisdiction over an alleged offence, they shall, where appropriate, consult to determine the most appropriate jurisdiction for prosecution. Colombia is committed to avoiding jurisdictional conflicts and to cooperating with other State Parties on matters of concurrent jurisdiction."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5. International Cooperation — Extradition",
+      "content": "Colombia shall cooperate with other State Parties to the Convention in relation to offences falling within the Convention's scope, including through extradition where applicable conditions are met. Extradition requests from State Parties shall be processed in accordance with applicable Colombian extradition law and in accordance with the Convention's requirements. Where Colombia receives a request for extradition from a State Party with which it has no bilateral extradition treaty, the Convention may serve as the legal basis for extradition for offences within its scope, subject to applicable constitutional and legal requirements. Colombia shall not refuse extradition solely on the grounds that the offence involves computer data or is committed through electronic means."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article 6. Mutual Legal Assistance",
+      "content": "Colombia shall provide the widest possible measure of mutual legal assistance to other State Parties for the purposes of investigations or proceedings relating to offences within the scope of the Convention. Mutual legal assistance shall be provided in accordance with applicable Colombian law on international legal cooperation and with the Convention's requirements. Assistance may include: taking evidence or statements from persons; providing information, evidentiary items, and expert evaluations; authorising the transit of detained persons; exchanging spontaneous information; and expedited assistance in preserving data. Colombia shall designate a central authority for receiving and transmitting mutual legal assistance requests relating to cybercrime. Requests for assistance shall be transmitted through the designated central authority, subject to exceptions for direct communication in urgent cases."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7. 24/7 Network — Expedited Assistance",
+      "content": "Colombia shall maintain a designated point of contact available around the clock, seven days a week, for the purpose of providing immediate assistance for investigations or proceedings relating to offences within the scope of the Convention. The designated point of contact shall be capable of: providing technical advice; preserving data pending a formal mutual legal assistance request; collecting evidence, providing legal information, and locating suspects; and facilitating the direct and expedited provision of information to other State Parties in urgent cases. The 24/7 point of contact for Colombia shall be maintained by the Fiscalía General de la Nación in coordination with the National Police. Colombia shall ensure that the 24/7 point of contact has access to appropriately trained personnel capable of responding to requests in a timely manner."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8. Expedited Preservation of Data",
+      "content": "At the request of another State Party, Colombia shall order or otherwise obtain the expedited preservation of data stored by means of a computer system, including traffic data, for at least sixty days, to enable the requesting State to make a formal request for disclosure. Preservation orders shall be subject to the conditions and safeguards established in Colombian procedural law. Service providers in Colombia shall be required to preserve requested data in confidence for the period specified in the preservation order, pending receipt of a formal disclosure request. Colombia may decline to preserve data where the request would prejudice sovereignty, security, order public, or other essential national interests. Reciprocal preservation assistance shall be provided to Colombia by other State Parties upon request."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Article 9. Disclosure of Preserved Data",
+      "content": "Following expedited preservation, Colombia shall disclose the preserved data to a requesting State Party in accordance with a formal mutual legal assistance request, subject to applicable conditions and limitations. Colombia may decline to disclose data where disclosure would prejudice sovereignty, security, or other essential national interests, or where the offence for which assistance is sought is political in nature. The conditions applicable to the disclosure of data in response to a mutual legal assistance request shall be the same as those applicable to the disclosure of equivalent data in domestic proceedings. Colombia may make the disclosure of data conditional upon the requesting State's compliance with specific conditions, including restrictions on use of the data. Disclosure requests shall be processed expeditiously and, where possible, within the timeframe specified in the Convention."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Article 10. Confidentiality and Use Limitations",
+      "content": "Information or material obtained through mutual legal assistance under the Convention shall be used only for the purpose for which it was requested, unless the providing State consents to its use for other purposes. The providing State may require that the information or material be kept confidential or only used subject to conditions it specifies. Use of information or material for other purposes shall require prior consent of the providing State. Spontaneous information exchanged between States shall be subject to the same use limitations unless the providing State specifies otherwise. Colombia shall apply equivalent limitations on the use of information received through international cooperation and shall obtain reciprocal commitments from requesting States."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Article 11. Training and Capacity Building",
+      "content": "Law 1928 of 2018 provides the legal basis for Colombia's participation in international capacity building and training programmes for cybercrime investigation and prosecution offered under the auspices of the Budapest Convention. The Fiscalía General de la Nación, the National Police, and other relevant agencies shall participate in such programmes to develop and maintain the national capacity to investigate and prosecute cybercrime effectively. Colombia shall contribute to regional capacity building efforts for countries in Latin America and the Caribbean that are considering accession to the Budapest Convention. MinTIC and the Fiscalía shall coordinate on capacity building for electronic evidence collection and cybercrime investigation."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Article 12. Relationship with Domestic Law",
+      "content": "The Budapest Convention as ratified by Law 1928 of 2018 has the status of international treaty law in Colombia and shall prevail over inconsistent domestic law in accordance with the principle of supremacy of international treaties established in Colombian constitutional doctrine. Where Colombian domestic law provides for a higher level of protection than required by the Convention, the higher standard of domestic law shall apply. Implementation of the Convention shall be consistent with the rights and freedoms guaranteed in the Political Constitution of Colombia and applicable international human rights instruments. The Constitutional Court of Colombia has jurisdiction to review the constitutionality of the Convention as approved by this Law."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Article 13. Coordination with CONPES 3995",
+      "content": "The implementation of Colombia's obligations under the Budapest Convention shall be coordinated with the National Digital Security Policy established by CONPES 3995 of 2020. The institutional framework for cybercrime prevention, investigation, and prosecution established under this Law shall be integrated with the national cybersecurity governance framework. MinTIC, the Fiscalía, the National Police, the Ministry of Justice, and COLCERT shall coordinate their activities to ensure effective and coherent implementation of both the Budapest Convention and the National Digital Security Policy. Annual reporting on the implementation of Convention obligations shall be incorporated into the national cybersecurity reporting framework."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Article 14. Financial Resources",
+      "content": "The implementation of Colombia's obligations under the Budapest Convention shall be financed from the national budget and from applicable international cooperation resources. The Fiscalía General de la Nación and the Ministry of Justice shall include the necessary resources for Convention implementation in their institutional budgetary requests. Colombia may seek technical assistance and capacity building support from the Council of Europe and other international organisations for the purpose of Convention implementation. The costs of providing mutual legal assistance to other State Parties shall be borne by Colombia, except for extraordinary costs which may be the subject of cost-sharing arrangements with the requesting State."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Article 15. Entry into Force and Declarations",
+      "content": "Law 1928 of 2018 entered into force upon its promulgation and publication in the Official Gazette. The deposit of Colombia's instrument of ratification with the Council of Europe constitutes the formal ratification of the Convention. Colombia may, in accordance with Article 40 of the Convention, declare that it reserves the right not to apply certain provisions of the Convention, as indicated in the instrument of ratification. The Ministry of Foreign Affairs shall manage Colombia's participation in the Committee of Parties to the Convention and shall represent Colombia in consultations and decisions of the Committee. The Ministry of Justice shall coordinate the domestic implementation of any amendments or protocols to the Convention that may be adopted in the future."
+    }
+  ],
+  "definitions": [
+    {"term": "Budapest Convention", "definition": "The Convention on Cybercrime adopted in Budapest on 23 November 2001 by the Council of Europe, establishing the first international treaty on cybercrime.", "source_provision": "art1"},
+    {"term": "State Party", "definition": "A country that has ratified the Budapest Convention and thereby assumed its obligations.", "source_provision": "art1"},
+    {"term": "mutual legal assistance", "definition": "Formal cooperation between countries for the purposes of gathering and exchanging evidence and information in criminal investigations and proceedings.", "source_provision": "art6"},
+    {"term": "expedited preservation", "definition": "The urgent preservation of stored data pending a formal mutual legal assistance request.", "source_provision": "art8"},
+    {"term": "24/7 network", "definition": "The network of national points of contact available around the clock for providing immediate assistance in cybercrime investigations.", "source_provision": "art7"},
+    {"term": "traffic data", "definition": "Any data relating to the transmission of a communication, including its origin, destination, route, time, date, size, duration, and type of service.", "source_provision": "art8"}
+  ]
+}

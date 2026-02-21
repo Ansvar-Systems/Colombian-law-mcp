@@ -1,0 +1,113 @@
+{
+  "id": "co-ley-1581-2012-habeas-data",
+  "type": "statute",
+  "title": "Ley 1581 de 2012 — Protección de Datos Personales",
+  "title_en": "Law 1581 of 2012 on Personal Data Protection (Habeas Data)",
+  "short_name": "PDPL 1581",
+  "status": "in_force",
+  "issued_date": "2012-10-17",
+  "in_force_date": "2012-10-17",
+  "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=49981",
+  "description": "Law 1581 of 2012 is the primary personal data protection statute in Colombia, implementing the constitutional right of habeas data recognised in Article 15 of the Colombian Constitution. It establishes the principles governing the collection and processing of personal data, the rights of data subjects, the obligations of data controllers and processors, and the powers of the Superintendency of Industry and Commerce as the supervisory authority.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1. Purpose",
+      "content": "This Law aims to develop the constitutional right of all persons to know, update, and correct information that has been collected about them in data banks or archives, and other rights, freedoms, and guarantees referred to in Article 15 of the Political Constitution, as well as the right to information established in Article 20 of the Constitution. The protection provided by this Law shall be interpreted consistently with constitutional guarantees and with Colombia's international obligations in the field of human rights."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2. Scope",
+      "content": "The principles and provisions contained in this Law shall apply to personal data recorded in any database that makes such data susceptible to treatment, by entities of a public or private nature. This Law shall apply to the processing of personal data conducted in Colombian territory, or when the data controller or processor is not domiciled in Colombia but Colombian law is applicable by virtue of international agreements. This Law shall not apply to: databases or files maintained in the personal or domestic sphere of an individual; information relating to activities performed by intelligence and counterintelligence agencies; databases and files relating to journalists and their journalistic sources; or financial, credit, commercial, and services data regulated by Law 1266 of 2008."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3. Definitions",
+      "content": "For the purposes of this Law: 'Personal data' means any information linked or that can be associated with one or more determined or determinable natural persons; 'Sensitive data' means data that affects the privacy of the data subject or whose incorrect use may generate discrimination, including data revealing racial or ethnic origin, political orientation, religious or philosophical convictions, trade union membership, social organisations, human rights, or that promotes the interests of any political party, or that guarantees the rights and guarantees of opposition political parties, health and sexual life data, and biometric data; 'Data controller' means the natural or legal person, public or private, that decides on the database and/or the processing of data; 'Data processor' means the natural or legal person, public or private, that carries out the processing of personal data on behalf of a data controller; 'Data subject' means the natural person whose personal data is subject to processing."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4. Principles for Processing Personal Data",
+      "content": "Personal data processing shall be governed by the following principles: (a) Principle of legality — processing is a regulated activity subject to the provisions of this Law and other applicable norms; (b) Principle of purpose — processing must serve a legitimate purpose in accordance with the Constitution and the Law, which must be informed to the data subject; (c) Principle of freedom — processing may only be carried out with the prior, express, and informed consent of the data subject, unless authorised by law or the Constitution; (d) Principle of truthfulness or quality — information subject to processing must be truthful, complete, accurate, updated, verifiable, and understandable; (e) Principle of transparency — the right of the data subject to obtain from the data controller, at any time and without restriction, information about the existence of data concerning them must be guaranteed; (f) Principle of restricted access and circulation — processing is subject to the limits derived from the nature of personal data, the provisions of this Law, and the Constitution; (g) Principle of security — technical, human, and administrative measures necessary to ensure the security of records, preventing their adulteration, loss, consultation, use, or unauthorised or fraudulent access shall be provided; (h) Principle of confidentiality — all persons involved in processing personal data are obliged to guarantee the confidentiality of the information even after the relationship has ended."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5. Rights of Children and Adolescents",
+      "content": "The processing of personal data of children and adolescents is prohibited, except for data that is of a public nature. In processing of data of children and adolescents, the respect and prevalence of the rights of children, their best interests, and their fundamental rights shall be ensured, in accordance with the provisions of Law 1098 of 2006 and of the Political Constitution. Only data controllers that can demonstrate that their system of information processing complies with the requirements of this Law and that they have obtained express consent from the legal representative of the child or adolescent, respecting the rights of the child or adolescent in the processing, may process data of children and adolescents."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article 6. Special Categories of Sensitive Data",
+      "content": "Processing of sensitive data is prohibited, except where: (a) the data subject has given explicit authorisation to the processing, except in cases where the law does not require such authorisation; (b) processing is necessary to safeguard the vital interest of the data subject and the data subject is physically or legally incapable of giving consent; (c) the processing is carried out in the course of legitimate activities and with appropriate guarantees by a foundation, non-governmental organisation, association, or any other non-profit entity, provided the processing relates exclusively to its members or persons having regular contact with it; (d) the processing relates to data that the data subject has manifestly made public; (e) the processing is necessary for recognition, exercise, or defence of a right in a judicial process; (f) processing has an historical, statistical, or scientific purpose, in which case anonymisation measures shall be adopted. Sensitive data that is collected shall be identified with the appropriate special care."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7. Rights of Data Subjects",
+      "content": "The data subject has the following rights: (a) Know, update, and rectify their personal data vis-à-vis data controllers or data processors; (b) Request proof of the authorisation granted to the data controller, except when expressly excepted as a requirement for processing; (c) Be informed by the data controller or data processor upon request regarding the use given to their personal data; (d) File complaints before the Superintendency of Industry and Commerce for violations of the provisions of this Law and other regulations that modify, add to, or complement it; (e) Revoke the authorisation and/or request the deletion of the data when the processing does not respect the constitutional and legal principles, rights, and guarantees; (f) Access free of charge to their personal data that has been subject to processing."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8. Obligations of Data Controllers",
+      "content": "Data controllers must: (a) Guarantee the data subject, at all times, the full and effective exercise of the right of habeas data; (b) Request and keep a copy of the respective authorisation granted by the data subject; (c) Duly inform the data subject about the purpose of the collection and the rights they are entitled to by virtue of the authorisation granted; (d) Keep the information under the security conditions necessary to prevent its adulteration, loss, consultation, use, or unauthorised or fraudulent access; (e) Guarantee that the information provided to the data processor is truthful, complete, accurate, updated, verifiable, and understandable; (f) Update the information, communicating in a timely manner to the data processor, all changes with respect to data previously provided; (g) Rectify the information when incorrect and communicate the pertinent information to the data processor; (h) Require the data processor to at all times respect the security and privacy conditions of the data subject's information; (i) Process queries and claims made under the terms established in this Law; (j) Adopt an internal manual of policies and procedures to guarantee proper compliance with this Law; (k) Inform the data protection authority when there are violations of the security codes and when there are risks in the administration of data subjects' information."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Article 9. Authorisation of the Data Subject",
+      "content": "Without prejudice to the exceptions provided in Article 10 of this Law, the prior and express authorisation of the data subject is required for the processing of their personal data. Such authorisation must be obtained by the data controller through any means that can be subsequently consulted. The authorisation of the data subject shall not be required where: data required by a public entity in the exercise of its legal functions; data of an emergency nature that must be reported to competent institutions; data relating to the civil registry of persons processed by the competent entities; data necessary to recognise, protect, or exercise a right in a judicial process; data of historical, statistical, or scientific purposes. The authorisation shall not be required for processing personal data relating to public information."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Article 10. Cases in Which Authorisation Is Not Required",
+      "content": "Processing without the prior authorisation of the data subject is permitted in the following cases: (a) information required by a public entity or administrative authority in the exercise of its legal functions or by court order; (b) data of a public nature; (c) cases of medical or sanitary urgency; (d) processing of information authorised by law for historical, statistical, or scientific purposes; (e) data related to the civil registry of persons. The exceptions established in this Article shall be interpreted restrictively and cannot be used to circumvent the fundamental right to personal data protection recognised in the Political Constitution of Colombia."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Article 11. Privacy Notice",
+      "content": "The data controller must inform the data subject about the existence of the privacy notice before collecting personal data. The privacy notice is the physical or electronic document, in a verbal format or in any other format generated by the data controller, which is communicated to the data subject for the processing of their personal data. A privacy notice shall contain, at minimum: the identity, address, and contact details of the data controller; the type of processing to which the data will be subjected and the purpose thereof; the rights of the data subject; the mechanisms provided to the data subject to acknowledge the privacy notice; and the procedure for the data subject to exercise their rights. The full privacy notice must be available to the data subject at all times through the means established by the data controller."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Article 12. International Transfer of Personal Data",
+      "content": "The transfer of personal data to countries that do not provide adequate levels of personal data protection is prohibited. It will be understood that a country offers adequate guarantees of protection when it complies with the standards established by the Superintendency of Industry and Commerce on the matter, which in no case may be lower than those demanded of those responsible for the treatment in the country. This prohibition shall not apply when: the data subject has given their explicit and unambiguous authorisation for the transfer; the transfer is necessary for the execution or pre-contractual execution of a contract between the data subject and the data controller; the transfer is legally required to safeguard the public interest or for recognition, exercise, or defence of a right in a judicial process; the transfer is necessary to protect the vital interest of the data subject; the transfer is made from a register that is intended to provide information to the public."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Article 13. Queries and Claims",
+      "content": "Data subjects or their successors may query the data controller or data processor to know the personal data about them that is contained in the controller's databases. The controller or processor must provide all the information contained in the individual's record or linked to the identification of the data subject. The query must be attended to within a maximum period of ten business days from the date of receipt. The data subject may file a claim when they believe that the information contained in a database must be corrected, updated, or deleted, or when they notice the alleged breach of the duties contained in this Law. A claim filed before the data processor shall be transmitted to the data controller who must respond within fifteen business days of receiving the complete claim. The data subject may file a complaint with the Superintendency of Industry and Commerce if their queries or claims are not attended to in a timely manner or to their satisfaction."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Article 14. Superintendency of Industry and Commerce as Supervisory Authority",
+      "content": "The Superintendency of Industry and Commerce shall exercise the functions of supervisory authority of personal data protection. The functions of the Superintendency include: (a) ensuring compliance with the provisions of this Law and other legal norms governing the collection, storage, use, circulation, and deletion of personal data; (b) receiving, attending to, and processing complaints and claims filed by data subjects; (c) issuing standards, directives, and guidelines for the management and handling of personal data; (d) imposing sanctions for breach of obligations established in this Law and in other norms that modify, add to, or complement it; (e) requiring data controllers to adopt measures for the adequate management of personal data; (f) promoting the diffusion and implementation of best practices in the management of personal data; (g) cooperating with other data protection authorities at the national and international levels."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Article 15. Infractions and Sanctions",
+      "content": "The Superintendency of Industry and Commerce may impose the following sanctions: (a) monetary penalties of up to two thousand (2000) minimum monthly salaries in force for natural persons and up to one hundred thousand (100,000) minimum monthly salaries in force for legal entities; (b) suspension of activities related to data processing for up to six months; (c) temporary blocking of the database; (d) definitive closure of operations related to data processing; (e) temporary or permanent closure of establishments. In determining the applicable sanction and its amount, the Superintendency shall take into account mitigating and aggravating factors including: the voluntary correction of the conduct; the damage caused; the economic benefit obtained from the infringement; the recurrence; the cooperation provided to the Superintendency; and the adoption of a personal data protection programme."
+    }
+  ],
+  "definitions": [
+    {"term": "personal data", "definition": "Any information linked or that can be associated with one or more determined or determinable natural persons.", "source_provision": "art3"},
+    {"term": "sensitive data", "definition": "Data that affects the privacy of the data subject or whose incorrect use may generate discrimination, such as racial origin, political orientation, health data, or biometric data.", "source_provision": "art3"},
+    {"term": "data controller", "definition": "The natural or legal person, public or private, that decides on the database and/or the processing of data.", "source_provision": "art3"},
+    {"term": "data processor", "definition": "The natural or legal person, public or private, that carries out the processing of personal data on behalf of a data controller.", "source_provision": "art3"},
+    {"term": "habeas data", "definition": "The constitutional right of all persons to know, update, and correct information collected about them in databases or archives.", "source_provision": "art1"},
+    {"term": "privacy notice", "definition": "A document communicated to the data subject describing the processing of their personal data and their rights.", "source_provision": "art11"},
+    {"term": "authorisation", "definition": "Prior, express, and informed consent of the data subject to the processing of their personal data.", "source_provision": "art9"}
+  ]
+}

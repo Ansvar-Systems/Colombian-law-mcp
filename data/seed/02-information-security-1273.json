@@ -1,0 +1,111 @@
+{
+  "id": "co-ley-1273-2009-information-security",
+  "type": "statute",
+  "title": "Ley 1273 de 2009 — De la Protección de la Información y de los Datos",
+  "title_en": "Law 1273 of 2009 on the Protection of Information and Data",
+  "short_name": "Ley 1273",
+  "status": "in_force",
+  "issued_date": "2009-01-05",
+  "in_force_date": "2009-01-05",
+  "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=34492",
+  "description": "Law 1273 of 2009 establishes the Colombian legal framework for the protection of information and data systems. It incorporates provisions into the Penal Code establishing the regulatory scope and institutional responsibilities applicable to information security and data protection within Colombian territory. The law defines the scope of offences relating to information systems and establishes the institutional framework for their prevention and response.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1. Legal Framework — Information and Data Protection",
+      "content": "Law 1273 of 2009 adds a new Title to the Colombian Penal Code establishing the protection of information and data as a legal interest. The legislation establishes the regulatory scope addressing the integrity, availability, and confidentiality of information processed in digital systems and data infrastructure. This legal framework reflects Colombia's commitment to protecting information systems as a critical asset of the national economy, public administration, and individual rights. The provisions establish the institutional basis for information security governance, defining the scope within which regulatory authorities, law enforcement, and data owners operate in maintaining the security of information systems. The legislation is interpreted within Colombia's constitutional framework and its international obligations."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2. Scope of Application",
+      "content": "The regulatory framework established by Law 1273 of 2009 applies to the protection of information and data systems within Colombian territory and to activities affecting Colombian information infrastructure regardless of where they originate. The framework covers information systems operated by government entities, critical infrastructure operators, financial institutions, healthcare providers, and other organisations that process sensitive data. Regulatory oversight responsibilities are allocated between the Superintendency of Industry and Commerce, sector-specific regulators, and law enforcement authorities based on the nature of the information system and the type of incident involved. The framework is designed to be technology-neutral and to evolve as information technologies develop, with the Ministry of Information Technologies and Communications (MinTIC) having authority to issue interpretive guidance."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3. Regulatory Scope — Unauthorised System Access",
+      "content": "The regulatory framework addresses the legal standards applicable to access to information systems, networks, and data. Lawful access to information systems is defined as access by persons authorised by the system owner or operator, in accordance with applicable terms of use and contractual arrangements. Regulatory requirements applicable to information system operators include the obligation to implement access control mechanisms proportionate to the sensitivity of information processed and the risk profile of the system. System operators are required to maintain access logs enabling the identification of access events and the review of access patterns for security monitoring purposes. Regulatory guidance on access control standards is issued by MinTIC in coordination with the National Digital Security Policy. The framework distinguishes between administrative access, user access, privileged access, and emergency access, each subject to specific regulatory requirements."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4. Regulatory Scope — System Integrity",
+      "content": "The framework establishes requirements for the protection of the integrity of information systems and the data they process. System operators are required to implement controls preventing unauthorised modification, deletion, or corruption of data and system configurations. Integrity protection measures shall include: digital signatures or other authentication mechanisms verifying the authenticity of data and system components; change management procedures controlling modifications to system configurations; audit trail mechanisms recording changes to critical system data; and data validation mechanisms detecting corruption or unauthorised modification. Regulatory requirements for system integrity are calibrated to the criticality of the information system and the potential impact of integrity failures. Operators of systems classified as critical national infrastructure are subject to enhanced integrity protection requirements."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5. Regulatory Scope — Information Interception",
+      "content": "The framework addresses the legal requirements applicable to the interception of electronic communications and data in transit. Interception of communications is permissible only pursuant to express legal authority, including judicial authorisation where required by applicable law. Regulatory requirements for telecommunications operators and internet service providers include the obligation to maintain technical capability for lawful interception, in accordance with standards established by the competent authority. The framework establishes clear distinctions between lawful interception conducted by authorised agencies pursuant to legal process, and unlawful interception. Regulatory obligations on communications service providers regarding technical assistance for lawful interception are established in coordination with MinTIC and the Ministry of Justice. Communications service providers are required to implement measures preventing unlawful interception by third parties."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article 6. Regulatory Scope — Malicious Software",
+      "content": "The framework establishes regulatory requirements addressing the deployment, distribution, and use of software designed to damage, disable, disrupt, or gain unauthorised access to information systems. Regulatory obligations on software vendors, application distributors, and ICT service providers include: obligations to implement malware detection and prevention mechanisms; requirements for responsible disclosure of software vulnerabilities; obligations to release security patches addressing known vulnerabilities within defined timeframes; requirements for security testing of software before deployment in critical environments. The framework prohibits the distribution of tools designed for harmful purposes and establishes regulatory requirements on intermediary service providers to take reasonable steps to prevent their networks and platforms from being used to distribute harmful software. MinTIC may issue technical standards for malware protection applicable to government systems and critical infrastructure."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7. Regulatory Scope — Data Violation",
+      "content": "The framework establishes regulatory requirements addressing the protection of personal data and confidential information from unauthorised disclosure. Data controllers and processors are required to implement technical and organisational measures preventing unauthorised access to personal data and confidential business information. These requirements supplement those established under Law 1581 of 2012 on personal data protection. Sector-specific data protection requirements are established by sectoral regulators including the Financial Superintendency, the Superintendency of Health, and the National Education Secretariat, within the framework established by MinTIC. Data classification requirements applicable to government entities are established by MinTIC in the national information security guidelines. The framework recognises the particular sensitivity of health data, financial data, and government security information."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8. Regulatory Scope — Information and Telecommunications Fraud",
+      "content": "The framework addresses regulatory requirements applicable to the use of information and telecommunications systems in fraudulent activities. Telecommunications service providers and financial institutions are subject to regulatory requirements to implement controls detecting and preventing the use of their systems for fraud. Regulatory requirements include: obligations to implement authentication controls preventing identity fraud; requirements for monitoring of unusual transaction patterns; obligations to maintain systems for receiving and investigating fraud reports; requirements for cooperation with law enforcement in fraud investigations; and obligations to notify affected parties of fraud incidents. MinTIC, in coordination with the Financial Superintendency and sector regulators, issues guidelines on fraud prevention controls applicable to ICT service providers, financial technology companies, and digital commerce platforms."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Article 9. Institutional Responsibilities",
+      "content": "Institutional responsibilities for the implementation of the information security framework are allocated as follows: (a) MinTIC — overall coordination of information security policy; development of technical standards and guidelines; operation of the National Digital Security CSIRT; and oversight of government information security; (b) Financial Superintendency — information security regulation and supervision of the financial sector; (c) Superintendency of Industry and Commerce — enforcement of personal data protection in coordination with Law 1581 of 2012; (d) National Police — investigation of information security incidents with law enforcement implications; (e) Fiscalía General de la Nación — prosecution of information security offences; (f) National Intelligence Directorate (DNI) — intelligence relating to state-level information security threats. Coordination mechanisms between these institutions are established by the National Digital Security Policy CONPES document."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Article 10. Sector-Specific Information Security Requirements",
+      "content": "Sector regulators are empowered to issue information security requirements applicable to regulated entities within their sectors, consistent with and supplementary to the requirements of the national information security framework. Financial sector information security requirements are issued by the Financial Superintendency (SFC) through external circulars. Healthcare sector information security requirements are issued by the Ministry of Health and the Superintendency of Health. Education sector requirements are issued by the Ministry of National Education. Energy and utility sector requirements are issued by the Energy and Gas Regulatory Commission (CREG) and the Mining and Energy Ministry. Sector regulators shall coordinate with MinTIC in developing sector-specific information security requirements to ensure consistency with national standards. Regulated entities are required to comply with both general and sector-specific information security requirements."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Article 11. Incident Reporting and Response",
+      "content": "Operators of critical information infrastructure and regulated financial, healthcare, and other entities are required to report significant information security incidents to the competent supervisory authority and to MinTIC. Reporting timelines and minimum content requirements for incident reports are specified in sector-specific regulations and MinTIC guidelines. MinTIC operates a national incident response capability through the National CSIRT/ColCERT, which coordinates government response to significant cyber incidents and maintains intelligence on the national cyber threat landscape. Regulated entities shall cooperate with the national CSIRT and with sector regulators in the investigation and response to significant security incidents. Post-incident reviews shall be conducted for significant incidents and lessons learned shall be incorporated into security improvement programmes."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Article 12. Digital Evidence",
+      "content": "The framework establishes requirements for the handling and preservation of digital evidence in the context of information security investigations. Law enforcement authorities, judicial authorities, and regulated entities involved in incident response shall preserve digital evidence in a manner that maintains its integrity and admissibility. Procedures for the collection, preservation, and transmission of digital evidence shall comply with standards established by the Fiscalía General de la Nación in coordination with MinTIC. Computer forensic capabilities shall be maintained by national law enforcement and prosecution authorities to support the investigation of information security incidents. Service providers requested to preserve evidence in connection with legal proceedings are required to do so in compliance with applicable legal requirements. Chain of custody requirements applicable to digital evidence ensure its integrity and authenticity for use in legal proceedings."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Article 13. International Cooperation",
+      "content": "Colombia shall cooperate with other countries in the investigation and prosecution of cross-border information security incidents, through bilateral agreements and international frameworks including the Convention on Cybercrime of the Council of Europe (Budapest Convention), ratified by Colombia. International cooperation requests relating to information security matters shall be processed through established legal assistance channels, with coordination between the Fiscalía, the Ministry of Foreign Affairs, and MinTIC. Colombia shall participate in international forums and working groups addressing cybersecurity policy, including within the Organization of American States (OAS) and the United Nations. MinTIC shall maintain relationships with cybersecurity authorities in other countries to facilitate operational cooperation on information security threats."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Article 14. Regulatory Compliance and Enforcement",
+      "content": "Compliance with information security requirements established under this framework and related regulations shall be assessed by the competent supervisory authority for each sector. Compliance assessments may include: review of security documentation and policies; technical audits of information systems and security controls; assessment of incident response capabilities; and review of security incident history and lessons learned. Supervisory authorities may issue compliance orders requiring regulated entities to take specific corrective action within defined timeframes. Failure to comply with information security requirements may result in regulatory sanctions including financial penalties, suspension of operations, and revocation of licences. Regulated entities are required to maintain records demonstrating compliance with applicable information security requirements."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Article 15. National Digital Security Policy Alignment",
+      "content": "The information security framework established by Law 1273 of 2009 shall be implemented in alignment with the National Digital Security Policy established by CONPES 3995 of 2020 and any successor policy documents. MinTIC shall issue guidelines updating the implementation of the information security framework to reflect the current National Digital Security Policy. Government entities shall incorporate information security requirements into their institutional planning, budgeting, and risk management processes, consistent with national policy. The national information security framework shall be periodically reviewed and updated to reflect changes in the cyber threat landscape, technological developments, and evolving regulatory requirements at the national and international levels."
+    }
+  ],
+  "definitions": [
+    {"term": "information system", "definition": "An organised set of data, hardware, software, networks, and processes used to create, store, transmit, or use information.", "source_provision": "art2"},
+    {"term": "ColCERT", "definition": "Colombia's national Computer Emergency Response Team, operated by MinTIC and responsible for coordinating national cybersecurity incident response.", "source_provision": "art11"},
+    {"term": "MinTIC", "definition": "Ministry of Information Technologies and Communications, the lead government body responsible for ICT policy and information security governance in Colombia.", "source_provision": "art9"},
+    {"term": "critical information infrastructure", "definition": "Information systems and networks whose disruption or destruction would have significant consequences for national security, public health, safety, or economic stability.", "source_provision": "art11"},
+    {"term": "digital evidence", "definition": "Information of probative value stored or transmitted in digital form, collected and preserved in accordance with procedures ensuring its integrity and admissibility.", "source_provision": "art12"}
+  ]
+}

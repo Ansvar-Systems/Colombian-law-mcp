@@ -1,0 +1,112 @@
+{
+  "id": "co-ley-1341-2009-tic",
+  "type": "statute",
+  "title": "Ley 1341 de 2009 — Tecnologías de la Información y las Comunicaciones",
+  "title_en": "Law 1341 of 2009 on Information and Communication Technologies",
+  "short_name": "Ley TIC 1341",
+  "status": "amended",
+  "issued_date": "2009-07-30",
+  "in_force_date": "2009-07-30",
+  "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=36913",
+  "description": "Law 1341 of 2009 is the principal statute governing the ICT and telecommunications sector in Colombia, establishing the legal framework for the provision of ICT services, the roles of the Ministry of Information Technologies and Communications (MinTIC) and the Communications Regulation Commission (CRC), and the principles governing spectrum management, universal service, and consumer protection. The law was significantly amended by Law 1978 of 2019 (Modernisation Law).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1. Principles and Concepts",
+      "content": "Law 1341 of 2009 defines the principles governing the Information and Communication Technologies sector in Colombia. ICT is defined as the set of resources, tools, equipment, programs, applications, networks, and media that allow the gathering, processing, storage, transmission, and reception of information, voice, text, video, and data over electronic networks. The Law establishes that ICT services shall be provided under a regime of free competition without access restrictions and with quality guarantees, and that the State shall promote universal access to ICT services, particularly for vulnerable and low-income populations. The regulatory framework is designed to promote investment in ICT infrastructure, encourage innovation, and enable Colombia to participate competitively in the global information economy."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2. Research, Innovation, Education and Mass Media",
+      "content": "The State shall promote the development of information and communication technologies and its research, innovation, and adoption. Digital literacy and digital education are recognised as public goods to be promoted and facilitated by the Government. The promotion of access to ICT for education, health, and government services is a strategic priority. The Law recognises that the convergence of telecommunications, computing, and audiovisual media creates new regulatory challenges and opportunities, and establishes a principle of technology neutrality in regulation. Innovation in the ICT sector shall be encouraged through regulatory sandboxes, flexible licensing frameworks, and research and development incentives. The Government shall promote the development of local digital content and shall support the ICT industry as a driver of economic growth and job creation."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3. Ministry of Information Technologies and Communications",
+      "content": "The Ministry of Information Technologies and Communications (MinTIC) is established as the sector policy authority responsible for: designing, formulating, adopting, and promoting national policies, plans, programmes, and projects of the ICT sector; promoting the access and use of ICT and its services; promoting the development of telecommunications infrastructure; promoting the use of ICT in government; promoting the development of the ICT industry; administering the radio spectrum; and promoting international cooperation in the ICT sector. MinTIC shall coordinate with the Communications Regulation Commission (CRC), the National Television Authority (ANTV), and other relevant entities to ensure coherent sector governance. MinTIC shall report annually to the National Congress on the state of the ICT sector."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4. Communications Regulation Commission",
+      "content": "The Communications Regulation Commission (CRC) is established as the independent regulatory body responsible for promoting competition and preventing abuse of a dominant position in the ICT and postal services markets. The CRC shall: regulate the provision of ICT networks and services; promote the efficient use of infrastructure; establish interconnection and roaming obligations; define the regime of quality of service; regulate numbering; promote service portability; and define the conditions for market entry and operation. The CRC shall act in an independent, objective, and technically informed manner. The CRC shall conduct market analyses to identify markets with competition problems and shall impose appropriate remedies on operators with significant market power."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5. Authorisation Regime",
+      "content": "The provision of ICT networks and services in Colombia does not require prior authorisation from the State. Providers of ICT networks and services (PSP) must register with MinTIC through a simple notification process. The authorisation regime is based on the principle of general authorisation, under which any person meeting minimum legal and technical requirements may provide ICT services. Exceptions apply to: services requiring use of the radio spectrum, which require a concession or permit; and use of the orbital resource, which requires authorisation from the International Telecommunication Union and the competent national authority. The CRC may impose specific obligations on providers with significant market power, including non-discrimination, interconnection, and price control obligations."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article 6. Radio Spectrum",
+      "content": "The radio electromagnetic spectrum is an inalienable and imprescriptible public good subject to State administration. MinTIC shall administer and control the radio spectrum, including through the granting of concessions and permits for its use. The use of the spectrum shall be subject to: payment of fees established in the National Fee Plan; compliance with technical conditions established in the National Frequency Allocation Plan; and compliance with international obligations assumed by Colombia. Concessions for use of the radio spectrum shall be granted through objective, transparent, and non-discriminatory processes, including competitive processes where demand exceeds available spectrum. MinTIC shall promote the efficient use of the spectrum, including through spectrum sharing and refarming mechanisms. The orbital resource and radio spectrum shall be negotiated internationally by MinTIC."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7. Universal Access and Service",
+      "content": "The State shall promote universal access to ICT services across the national territory, with particular attention to remote areas, low-income communities, and vulnerable populations. A Fund for ICT (Fondo Único de Tecnologías de la Información y las Comunicaciones) shall be maintained to finance programmes promoting access to and use of ICT across the country. All providers of ICT networks and services registered with MinTIC shall contribute to the Fund a percentage of their revenues determined by the competent authority. MinTIC shall define the programmes financed by the Fund, prioritising connectivity for educational institutions, health centres, libraries, and other public entities in underserved areas. Universal access programmes shall aim to reduce the digital divide between urban and rural populations, between income groups, and between regions."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8. National Spectrum Plan and Concessions",
+      "content": "MinTIC shall develop and maintain a National Frequency Allocation Plan consistent with ITU Radio Regulations and aligned with regional spectrum coordination frameworks. Concessions for use of the radio spectrum shall be granted for specific frequency bands, geographic areas, and purposes. Concession holders are required to: pay applicable spectrum fees; comply with coverage and quality of service conditions; comply with technical parameters established by MinTIC; and report regularly to MinTIC on spectrum use. MinTIC may revoke or modify spectrum concessions where the holder fails to comply with applicable conditions, subject to a fair process and appropriate notice. Spectrum fees shall be reviewed periodically to ensure they reflect the economic value of the spectrum and provide incentives for efficient use."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Article 9. Competition and Consumer Protection",
+      "content": "The CRC shall identify markets susceptible to ex-ante regulatory intervention and shall impose obligations on providers with significant market power to promote competition and prevent abusive practices. Providers of ICT services shall treat their users in a fair, transparent, and non-discriminatory manner. The SIC (Superintendency of Industry and Commerce) shall be responsible for consumer protection in the ICT sector. Providers shall maintain mechanisms for receiving, processing, and resolving user complaints in a timely and transparent manner. Users shall have the right to: information about services, prices, and quality; number portability; transparent billing; and effective complaint resolution. The CRC shall establish quality of service standards for ICT services and shall monitor compliance by service providers."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Article 10. Interconnection Obligations",
+      "content": "Providers of public ICT networks shall have the right and obligation to interconnect with other public network providers. Interconnection shall be provided on request, under reasonable and non-discriminatory conditions. Providers with significant market power shall publish a Reference Interconnection Offer approved by the CRC, specifying the technical conditions, prices, and procedures for interconnection. The CRC shall resolve interconnection disputes within specified timeframes where commercial negotiations fail. Interconnection agreements shall be filed with the CRC. The CRC may mandate specific interconnection conditions for providers with significant market power, including cost-oriented pricing. Infrastructure sharing obligations may be imposed on providers with significant market power to facilitate competition."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Article 11. Privacy and Data Protection in ICT",
+      "content": "Providers of ICT networks and services shall comply with applicable personal data protection law in their collection and processing of user data. Providers shall implement security measures protecting user data against unauthorised access, loss, or disclosure. Providers shall obtain user consent before collecting personal data beyond what is strictly necessary for the provision of the service and shall inform users clearly about data collection and processing practices. Providers shall cooperate with the supervisory authority on personal data protection matters and shall implement its orders and recommendations. The CRC shall develop specific regulatory requirements for data protection in the provision of ICT services, consistent with the requirements of Law 1581 of 2012. Communications data including traffic data and location data shall be protected with particular care and shall be retained only for the period strictly necessary."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Article 12. Network Security",
+      "content": "Providers of public ICT networks and services shall implement technical and organisational measures to ensure the security and integrity of their networks and services. Security measures shall address risks including: unauthorised access to networks and services; eavesdropping of communications; malicious code and denial of service attacks; and disruption of network availability. Providers shall maintain network monitoring and incident detection capabilities and shall report significant security incidents to MinTIC and to the CRC. Security requirements for ICT providers shall be established in coordination with the national cybersecurity framework. Providers shall implement lawful interception capabilities in accordance with requirements established by MinTIC and applicable law. The CRC may impose specific network security obligations on providers, particularly those with significant market power or those operating critical infrastructure."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Article 13. Digital Government — ICT in Public Administration",
+      "content": "MinTIC shall lead the promotion and implementation of ICT in public administration, with the objective of improving the efficiency, effectiveness, and quality of public services. Government entities shall deploy e-Government services enabling citizens and businesses to interact with government through digital channels. MinTIC shall develop standards and guidelines for e-Government, including requirements for interoperability, accessibility, security, and user experience. A national e-Government architecture shall be maintained by MinTIC, establishing shared platforms, components, and standards for government ICT systems. Government entities shall develop annual ICT plans aligned with MinTIC guidelines and shall report on ICT investments and performance. MinTIC shall maintain a portal providing access to all government e-services and shall promote digital literacy to enable all Colombians to use government digital services."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Article 14. Infractions and Sanctions",
+      "content": "MinTIC and the CRC, within their respective jurisdictions, may impose sanctions on providers of ICT networks and services that fail to comply with applicable legal requirements, regulatory decisions, and licence conditions. Sanctions available to the regulatory authorities include: warnings; economic sanctions (fines) proportionate to the gravity of the infringement; suspension of services; suspension or revocation of concessions; and any other measures provided for in applicable law. The amount of economic sanctions shall be determined taking into account: the gravity of the infringement; the harm caused to users or competition; the economic benefit obtained; the recurrence; and mitigating factors including voluntary correction and cooperation. Providers subject to sanction may appeal regulatory decisions before competent administrative tribunals."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Article 15. Law 1978 of 2019 Amendments — Modernisation",
+      "content": "Law 1978 of 2019 (ICT Modernisation Law) amended significant provisions of Law 1341 of 2009 to adapt the regulatory framework to the convergent digital environment and to promote investment in advanced infrastructure including 5G. Key amendments introduced by Law 1978 include: a simplified registration regime replacing the prior notification system; enhanced universal service obligations with a focus on high-quality broadband; updated spectrum management provisions enabling more flexible spectrum use; strengthened consumer protection measures; and enhanced CRC independence and competences. The ICT Modernisation Law also addressed the regulatory treatment of over-the-top services, spectrum refarming, and the promotion of national digital sovereignty. Implementing regulations were issued following the entry into force of Law 1978 of 2019."
+    }
+  ],
+  "definitions": [
+    {"term": "ICT", "definition": "Information and Communication Technologies — the set of resources, tools, equipment, programs, applications, networks, and media that allow the gathering, processing, storage, transmission, and reception of information.", "source_provision": "art1"},
+    {"term": "MinTIC", "definition": "Ministry of Information Technologies and Communications, the national ICT policy authority.", "source_provision": "art3"},
+    {"term": "CRC", "definition": "Communications Regulation Commission, the independent regulatory body responsible for promoting competition in the ICT sector.", "source_provision": "art4"},
+    {"term": "radio spectrum", "definition": "The radio electromagnetic spectrum, an inalienable and imprescriptible public good subject to State administration.", "source_provision": "art6"},
+    {"term": "significant market power", "definition": "A position allowing a provider to act independently of competitors, customers, and consumers in a relevant market.", "source_provision": "art9"},
+    {"term": "ICT provider (PSP)", "definition": "A provider of ICT networks and services registered with MinTIC.", "source_provision": "art5"}
+  ]
+}

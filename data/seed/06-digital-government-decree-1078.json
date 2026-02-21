@@ -1,0 +1,112 @@
+{
+  "id": "co-decreto-1078-2015-gobierno-digital",
+  "type": "statute",
+  "title": "Decreto 1078 de 2015 — Decreto Único Reglamentario del Sector TIC",
+  "title_en": "Decree 1078 of 2015 — Single Regulatory Decree for the ICT Sector (Digital Government Framework)",
+  "short_name": "Decreto 1078",
+  "status": "amended",
+  "issued_date": "2015-05-26",
+  "in_force_date": "2015-05-26",
+  "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=77623",
+  "description": "Decree 1078 of 2015 compiles the regulatory provisions applicable to the ICT sector in Colombia into a single decree, including the regulations governing the Digital Government Policy (formerly Government Online Strategy). It establishes the framework for the digitisation of government services, interoperability, information security, open data, and digital participation.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1. Digital Government Policy — Framework",
+      "content": "The Digital Government Policy, established in this Decree and developed through guidelines issued by MinTIC, aims to: promote the use of ICT to close social and technological gaps; build a more efficient, transparent, and participatory State; and empower citizens and companies through ICT use. The Digital Government Policy is based on four enabling components: ICT for the State, ICT for society, open government, and security and privacy. Each government entity shall implement the Policy in accordance with guidelines issued by MinTIC, adapted to its particular context, functions, and resources. The Policy shall be implemented progressively, with entities classified into different maturity levels and required to meet defined standards for each level."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2. ICT for the State — Digital Transformation of Public Administration",
+      "content": "Government entities shall implement digital processes, services, and procedures to transform public administration. The digital transformation of public administration encompasses: the digitisation and simplification of internal processes and procedures; the provision of digital services to citizens and businesses; the integration of government information systems through shared platforms; the adoption of cloud computing services meeting applicable security and data protection requirements; and the use of data analytics to improve decision-making. MinTIC shall provide government entities with guidelines, tools, and shared platforms supporting their digital transformation. Entities shall establish digital transformation plans aligned with their institutional strategic plans and with national Digital Government Policy guidelines."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3. ICT for Society — Digital Inclusion",
+      "content": "Government entities shall use ICT to contribute to the social and economic development of Colombian society, including: expanding access to government services for all citizens, including those in remote areas or with disabilities; promoting digital literacy among citizens; supporting digital entrepreneurship and innovation; using digital tools to improve service delivery in education, health, and social protection; and reducing barriers to access for vulnerable populations. MinTIC shall coordinate multi-sector initiatives to promote digital inclusion and shall track progress through an ICT Access and Use Index. Entities shall report annually to MinTIC on their activities promoting digital inclusion."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4. Open Government",
+      "content": "Government entities shall implement open government practices to promote transparency, collaboration, and participation. Open government requirements under this Decree include: proactive publication of public information in accordance with Law 1712 of 2014; publication of open data in accessible, machine-readable formats; implementation of mechanisms for citizen participation in policy-making and service design; publication of information about institutional performance and results; and promotion of co-creation with citizens and the private sector. MinTIC shall maintain the national open data portal and shall issue guidelines on open data standards and practices. Entities shall designate responsible officers for open government and shall develop and publish open government action plans."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5. Security and Privacy of Information",
+      "content": "Government entities shall implement information security measures to ensure the confidentiality, integrity, and availability of their information and information systems. MinTIC shall issue guidelines on information security for government entities, aligned with internationally recognised standards including ISO 27001. Entities shall develop, implement, and maintain Information Security Management Systems (ISMS) based on a risk management approach. Privacy requirements shall be integrated into the design and operation of government information systems, consistent with Law 1581 of 2012 and applicable regulations. Entities shall appoint information security officers responsible for coordinating the implementation of security measures. Security incidents shall be reported to MinTIC through the national incident reporting mechanism."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article 6. Interoperability Framework",
+      "content": "Government entities shall implement interoperability in their information systems to enable the exchange of information and the coordination of processes across government. The National Interoperability Framework, issued by MinTIC, defines the standards, guidelines, and tools for government interoperability. Entities shall use the national interoperability platform (X-Road or equivalent) to exchange information with other government entities, avoiding the requirement for citizens to provide the same information to multiple agencies. The design of government information systems shall incorporate interoperability requirements from the outset. Entities shall document their information systems and data models in a manner that facilitates interoperability. New government ICT systems shall be procured with interoperability as a mandatory requirement."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7. Cloud Computing in Government",
+      "content": "Government entities may adopt cloud computing services for the provision and management of their information systems, subject to compliance with applicable legal requirements and MinTIC guidelines. MinTIC shall issue guidelines defining: categories of information eligible for cloud processing; security requirements for cloud service providers used by government entities; contractual requirements for cloud service agreements; data sovereignty and cross-border data transfer considerations; and criteria for assessing and selecting cloud providers. Entities shall conduct a risk assessment before migrating information systems to cloud services. Cloud service providers contracted by government entities shall comply with applicable data protection, security, and audit requirements."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8. Electronic Authentication and Digital Identity",
+      "content": "MinTIC shall develop and maintain a national electronic authentication framework defining the levels of authentication assurance and the means of authentication applicable to government digital services. Government entities shall implement authentication mechanisms calibrated to the risk profile and sensitivity of each digital service. The national digital identity system shall provide a shared authentication infrastructure for use across government digital services. Private sector entities may be authorised to participate in the national authentication ecosystem as identity providers or authentication service providers, subject to meeting applicable security and trust standards. Citizens shall have the right to use the national digital identity system to authenticate themselves when accessing government digital services, and shall not be required to maintain separate credentials for each government entity."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Article 9. Accessibility of Government Digital Services",
+      "content": "Government digital services shall be designed and implemented in compliance with applicable digital accessibility standards, ensuring they are usable by persons with disabilities. MinTIC shall issue guidelines specifying the accessibility requirements applicable to government digital services, aligned with international standards including the Web Content Accessibility Guidelines (WCAG). Entities shall conduct accessibility assessments of their digital services and shall develop and implement remediation plans for identified accessibility barriers. Accessibility shall be considered in all phases of digital service design, development, procurement, and evaluation. Entities shall maintain channels for persons unable to use digital services to access equivalent services through other means."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Article 10. Digital Procurement and Innovation",
+      "content": "Government entities shall apply digital government principles in their ICT procurement activities. ICT procurement shall: use open standards wherever technically and economically feasible; favour interoperable and scalable solutions; include security and privacy requirements; prioritise solutions that support the Digital Government Policy objectives; and consider total cost of ownership over procurement lifecycles. MinTIC shall maintain reference architectures and reusable digital components that entities may use in their digital services. Entities are encouraged to participate in innovation procurement schemes enabling the testing of new digital solutions in government contexts. Agile development methods and iterative delivery approaches are recommended for government digital service development."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Article 11. Digital Government Maturity Assessment",
+      "content": "MinTIC shall assess the maturity of government entities in implementing the Digital Government Policy on an annual basis. The maturity assessment shall use a defined methodology measuring the extent to which entities have implemented digital government requirements across all four Policy components. MinTIC shall publish an annual Digital Government Maturity Index ranking entities by their level of implementation. Entities with low maturity levels shall receive support from MinTIC including guidance, tools, and capacity building. MinTIC shall report annually to the President and to the National Congress on overall progress in Digital Government Policy implementation. The results of the maturity assessment shall inform the allocation of Digital Government support resources."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Article 12. Digital Services for Businesses",
+      "content": "Government entities shall develop and provide digital services enabling businesses to interact with government electronically, including for the purposes of: business registration and licensing; tax administration and customs; regulatory reporting and compliance; procurement and contracting; and access to government support programmes and financing. The national single window for foreign trade (VUCE) and the national single business window (Ventanilla Única Empresarial) shall be integrated into the national digital government infrastructure. MinTIC shall coordinate with regulatory entities and sectoral ministries to eliminate unnecessary administrative burdens and to streamline government interactions with businesses through digital means. Target processing times for key government processes shall be established and published, and entities shall report on their achievement."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Article 13. Citizen Digital Participation",
+      "content": "Government entities shall use digital tools to facilitate citizen participation in public affairs, including through: online consultations on proposed laws, regulations, and policies; digital petitions and complaints mechanisms; open data and transparency portals enabling citizen oversight; collaborative platforms for co-creation of public services; social media engagement; and digital tools for civic monitoring of government performance. MinTIC shall develop and provide shared tools for citizen digital participation that entities may integrate into their digital services. Entities shall publish the results of public consultations and shall report on how citizen input has informed policy and service decisions. The national digital participation portal shall be maintained by MinTIC."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Article 14. Information Management",
+      "content": "Government entities shall manage public information as a strategic asset in accordance with information management principles established in this Decree and guidelines issued by MinTIC. Information management encompasses: information architecture and classification; data quality management; metadata standards; record management and archiving; information sharing and interoperability; and open data publication. Entities shall develop and maintain data inventories describing the information assets they hold. The national archives authority shall cooperate with MinTIC to ensure consistency between digital information management requirements and applicable record management and archiving law."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Article 15. Monitoring, Reporting, and Updating",
+      "content": "MinTIC shall establish a monitoring framework for the Digital Government Policy, comprising key performance indicators, measurement methodologies, and reporting requirements. Entities shall report to MinTIC on their Digital Government Policy implementation progress using standardised reporting formats issued by MinTIC. MinTIC shall publish an annual Digital Government report compiling entity-level reports and presenting a national picture of digital government progress. The Digital Government Policy and its implementing guidelines shall be reviewed and updated periodically to reflect technological developments, evolving citizen expectations, and lessons learned from implementation. The review process shall include consultation with government entities, the private sector, civil society, and citizens."
+    }
+  ],
+  "definitions": [
+    {"term": "Digital Government Policy", "definition": "The national policy promoting the use of ICT to build a more efficient, transparent, and participatory State.", "source_provision": "art1"},
+    {"term": "interoperability", "definition": "The ability of government information systems to exchange information and coordinate processes across government entities.", "source_provision": "art6"},
+    {"term": "open data", "definition": "Government data published in accessible, machine-readable formats without restrictions on access or reuse.", "source_provision": "art4"},
+    {"term": "ISMS", "definition": "Information Security Management System, a systematic approach to managing sensitive information to keep it secure.", "source_provision": "art5"},
+    {"term": "digital maturity", "definition": "The degree to which a government entity has implemented Digital Government Policy requirements.", "source_provision": "art11"},
+    {"term": "accessibility", "definition": "The degree to which digital services can be used by persons of all abilities, including persons with disabilities.", "source_provision": "art9"}
+  ]
+}
