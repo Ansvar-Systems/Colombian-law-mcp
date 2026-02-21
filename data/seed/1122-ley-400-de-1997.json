@@ -1,0 +1,404 @@
+{
+  "id": "co-ley-400-1997",
+  "type": "statute",
+  "title": "Ley 400 de 1997",
+  "short_name": "Ley 400 de 1997",
+  "status": "in_force",
+  "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=336",
+  "description": "Ley 400 de 1997 Se adoptan normas",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "TÍTULO I",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1º.- Objeto . La presente Ley establece criterios y requisitos mínimos para el diseño, construcción y supervisión técnica de edificaciones nuevas, así como de aquellas indispensables para la recuperación de la comunidad con posterioridad a la ocurrencia de un sismo, que puedan verse sometidas a fuerzas sísmicas y otras fuerzas impuestas por la naturaleza o el uso, con el fin de que sean capaces de resistirlas, incrementar su resistencia a los efectos que éstas producen, reducir a un mínimo el riesgo de la pérdida de vidas humanas, y defender en lo posible el patrimonio del Estado y de los ciudadanos.\n\nAdemás, señala los requisitos de idoneidad para el ejercicio de las profesiones relacionadas con su objeto y define las responsabilidades de quienes las ejercen, así como los parámetros para la adición, modificación y remodelación del sistema estructural de edificaciones construidas antes de la vigencia de la presente Ley.\n\nParágrafo.- Una edificación diseñada siguiendo los requisitos consagrados en las normas que regulan las construcciones sismo resistentes, debe ser capaz de resistir, además de las fuerzas que le impone su uso, temblores de poca intensidad sin daño, temblores moderados sin daño estructural, pero posiblemente con algún daño en elementos no estructurales y un temblor fuerte con daños a elementos estructurales y no estructurales, pero sin colapso.\n\nEl cuidado tanto en el diseño como en la construcción y la supervisión técnica, son fundamentales para la sismo resistencia de estructura y elementos no estructurales."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "TÍTULO I",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2º.- Alcance. Modificado por el art. 183, Decreto Nacional 019 de 2012 . Las construcciones que se adelanten en el territorio de la República deberán sujetarse a las normas establecidas en la presente Ley en las disposiciones que reglamenten.\n\nCorresponde a las oficinas o dependencias distritales o municipales encargadas de conceder las licencias de construcción, la exigencia y vigilancia de su cumplimiento. Estas se abstendrán de aprobar los proyectos o planos de construcciones que no cumplan con las normas señaladas en la esta Ley o sus reglamentos.\n\nLa construcción deberá sujetarse estrictamente al correspondiente proyecto o planos aprobados . Ver Decreto Nacional 1052 de 1998 ."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "TÍTULO I",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3º.- Excepciones. Las disposiciones de esta ley y sus reglamentos no comprenden el diseño y construcción de estructuras especiales tales como puentes, torres de transmisión, torres y equipos industriales, muelles, estructuras hidráulicas y todas aquellas estructuras cuyo comportamiento dinámico difiera del de edificaciones convencionales, o no estén cubiertas dentro de las limitaciones de cada uno de los materiales estructurales prescritos.\n\nVer el Decreto Nacional 2809 de 2000\n\nDEFINICIONES"
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "TÍTULO II",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Artículo 4º.- Definiciones . Para los efectos de esta Ley se entiende por:\n\n1. Acabados o elementos no estructurales. Partes y componentes de una edificación que no pertenecen a la estructura o a su cimentación.\n\n2. Amenaza sísmica. Es el valor esperado de futuras acciones sísmicas en el sitio de interés y se cuántifica en términos de una aceleración horizontal del terreno esperada, que tiene una probabilidad de excedencia dada en un lapso de tiempo predeterminado.\n\n3. Amplificación de la onda sísmica. Aumento en la amplitud de las ondas sísmicas, producido por su paso desde la roca hasta la superficie del terreno, a través de los estratos del suelo.\n\n4. Capacidad de disipación de energía. Es la capacidad que tiene un sistema estructural, un elemento estructural o una sección de un elemento estructural, de trabajar dentro del rango inelástico de respuesta sin perder su resistencia.\n\n5. Carga muerta . Es la carga vertical debida al peso de todos los elementos permanentes, ya sean estructurales o no estructurales.\n\n6. Carga viva. Es la carga debida al uso de la estructura, sin incluir la carga muerta. Fuerza de viento o sismo.\n\n7. Casa. Edificación unifamiliar destinada a vivienda.\n\n8. Construcción sismo resistente. Es el tipo de construcción que cumple con el objeto de esta Ley, a través de un diseño y una construcción que se ajusta a los parámetros establecidos en ella y sus reglamentos.\n\n9. Constructor. Modificado por el art. 1, Ley 1229 de 2008 . Es el profesional, ingeniero civil o arquitecto, bajo cuya responsabilidad se adelanta la construcción de una edificación.\n\n10. Deriva de piso. Es la diferencia entre los desplazamientos horizontales de los niveles entre los cuales está comprendido el piso.\n\n11. Diseñador arquitectónico. Es el arquitecto bajo cuya responsabilidad se realizan el diseño y los planos arquitectónicos de la edificación y quien los firma o rotula.\n\n12. Diseñador de los elementos no estructurales. Es el profesional, facultado para ese fin, bajo cuya responsabilidad se realizan el diseño y los planos de los elementos no estructurales de la edificación y quien los firma o rotula.\n\n13. Diseñador estructural. Es el ingeniero civil, facultado para ese fin, bajo cuya responsabilidad se realizan el diseño y los planos estructurales de la edificación, y quien los firma o rotula.\n\n14. Edificación. Es una construcción cuyo uso primordial es la habitación u ocupación por seres humanos.\n\n15. Edificaciones de atención a la comunidad. Son las edificaciones necesarias para atender emergencia, preservar la salud y la seguridad de las personas, tales como: cuarteles de bomberos, policía y fuerzas militares, instalaciones de salud, sedes de organismos operativos de emergencia, etc.\n\n16. Edificaciones indispensables . Son aquellas edificaciones de atención a la comunidad que deben funcionar durante y después de un sismo, cuya operación no puede ser trasladada rápidamente a un lugar alterno, tales como hospitales de niveles de complejidad 2 y 3 y centrales de operación y control de líneas vitales.\n\n17. Elemento o miembro estructural . Componente del sistema estructural de la edificación.\n\n18. Estructura . Es un ensamblaje de elementos, diseñado para soportar las cargas gravitacionales y resistir las fuerzas horizontales.\n\n19. Fuerzas sísmicas . Son los efectos inerciales causados por la aceleración del sismo, expresados como fuerzas para ser utilizadas en el análisis y diseño de la estructura.\n\n20. Desempeños de los elementos no estructurales. Se denominan desempeño el comportamiento de los elementos no estructurales de la edificación ante la ocurrencia de un sismo que la afecte.\n\n21. Grupo de uso . Clasificación de las edificaciones según su importancia para la atención y recuperación de las personas que habitan en una región que puede ser afectada por un sismo o cualquier tipo de desastre.\n\n22. Ingeniero geotecnista. Es el ingeniero civil, quien firma el estudio geotécnico y bajo cuya responsabilidad se realizan los estudios geotécnicos o de suelos, por medio de los cuales se fijan los parámetros de diseño de la cimentación, los efectos de ampliación de la onda sísmica causados por el tipo y estratificación del suelo subyacente a la edificación, y la definición de los parámetros del suelo que se deben utilizar en la evaluación de los efectos de interacción suelo-estructura.\n\n23. Interacción suelo-estructura. Es el efecto que tienen en la respuesta estática y dinámica de la estructura las propiedades del suelo que da apoyo a la edificación, sumado a las propiedades de rigidez de la cimentación y de la estructura.\n\n24. Interventor. Modificado por el art. 2, Ley 1229 de 2008 . Es el profesional, ingeniero civil o arquitecto, que representa al propietario durante la construcción de la edificación, bajo cuya responsabilidad se verifica que ésta se adelante de acuerdo con todas las reglamentaciones correspondientes, siguiendo los planos, diseños y especificaciones realizados por los diseñadores.\n\n25. Licencia de construcción. Acto administrativo por medio del cual se concede, a solicitud del interesado, la autorización para adelantar la construcción de una edificación.\n\n26. Líneas vitales. Infraestructura básica de redes. Tuberías o elementos conectados o continuos, que permite la movilización de energía eléctrica, agua, combustibles, información y el transporte de personas y productos, esencial para realizar con eficiencia y calidad las actividades de la sociedad.\n\n27. Licuación. Respuesta de los suelos sometidos a vibraciones, en el cual éstos se comportan como un fluido denso y no como una masa de suelo húmeda.\n\n28. Microzonificación sísmica. División de una región o de un área urbana en zonas más pequeñas, que presentan un cierto, grado de similitud en la forma como se ven afectadas por los movimientos sísmicos, dadas las características de los estratos de suelo subyacente.\n\n29. Movimiento telúrico. Movimiento de la corteza terrestre.\n\n30. Perfil de suelo. Son los diferentes estratos de suelo existentes debajo del sitio de la edificación.\n\n31. Propietario. Es la persona, natural o jurídica, dueña del predio, a nombre de la cual se expide la licencia de construcción y quien contrata los diferentes profesionales que intervienen en el diseño, la construcción y la supervisión técnica de la estructura de la edificación y de los elementos no estructurales contemplados por esta ley y sus reglamentos.\n\n32. Revisor de los diseños. Es el ingeniero civil diferente del diseñador e independiente laboralmente de él, que tiene la responsabilidad de revisar los diseños estructurales y estudios geotécnicos; o el arquitecto o ingeniero civil o mecánico que revisa los diseños de elementos no estructurales, para constatar que la edificación propuesta cumple con los requisitos exigidos por esta ley y sus reglamentos.\n\n33. Sello seco registrado . Marca realzada que queda colocada sobre un plano de construcción y que reemplaza la firma del diseñador responsable de los diseños expresados en él. La marca que produce debe contener el nombre del profesional, su profesión y el número de la matrícula profesional. \"La Comisión Asesora para el Régimen de Construcciones Sismo Resistentes\" determinará la entidad a cargo del registro.\n\n34. Sismo, temblor o terremoto. Vibraciones de la corteza terrestre inducidas por el paso de ondas sísmicas provenientes de un lugar o zona donde han ocurrido movimientos súbitos de la corteza terrestre.\n\n35. Sismo de diseño . Es la caracterización de los movimientos sísmicos mínimos que deben utilizarse en la realización del diseño sismo resistente.\n\n36. Sistema de resistencia sísmica . Es aquella parte de la estructura que según el diseño, aporta la resistencia requerida para soportar los movimientos sísmicos de diseño.\n\n37. Solicitaciones. Son las fuerzas u otras acciones que afectan la estructura debido al peso propio de la misma, de los elementos no estructurales, de sus ocupantes y sus posesiones, de efectos ambientales tales como el viento o el sismo, de los asentamientos diferenciales, y de los cambios dimensionales causados por vibraciones en la temperatura o efectos geológicos de los materiales. En general, corresponden a todo lo que pueda afectar la estructura.\n\n38. Supervisión técnica . Se entiende por supervisión técnica la verificación de la sujeción de la construcción de la estructura de la edificación a los planos, diseños y especificaciones realizadas por el diseñador estructural. Así mismo, que los elementos no estructurales se construyan siguiendo los planos, diseños y especificaciones realizadas por el diseñador de los elementos no estructurales, de acuerdo con el grado de desempeño sísmico requerido.\n\nLa supervisión técnica puede ser realizada por el interventor, cuando a voluntad del propietario se contrate una interventoría de la construcción.\n\n39. Supervisión técnica continua. Es aquélla en la cual todas las labores de construcción se supervisan de una manera permanente.\n\n40. Supervisión técnica itinerante. Es aquella en la cual el supervisor técnico visita la obra con la frecuencia necesaria para verificar que la construcción se está adelantando adecuadamente.\n\n41. Supervisor técnico . Modificado por el art. 3, Ley 1229 de 2008 . Es el profesional, ingeniero civil o arquitecto, bajo cuya responsabilidad se realiza la supervisión técnica. Parte de las labores de supervisión puede ser delegada por el supervisor en persona técnico auxiliar, el cual trabajará bajo su dirección y su responsabilidad. La supervisión técnica puede ser realizada por el mismo profesional que efectúa la interventoría.\n\n42. Vulnerabilidad . Es la cuantificación del potencial del mal comportamiento de una edificación con respecto a una solicitud.\n\n43. Zona de amenaza sísmica. Son regiones del país donde la amenaza sísmica varia con respecto a otras.\n\nParágrafo 1°.- Adicionado por el art. 4, Ley 1229 de 2008\n\nParágrafo 2°.- Adicionado por el art. 4, Ley 1229 de 2008\n\nDISEÑO Y CONSTRUCCIÓN\n\nResponsabilidades"
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "CAPÍTULO I",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "Artículo 5º.- Responsabilidad de los diseños. Para efectos de la asignación de las responsabilidades correspondientes, deben consultarse las definiciones de constructor, diseñador, arquitectónico, diseñador estructural, diseñador de los elementos no estructurales, ingeniero geotecnista, revisor de los diseños, propietario, interventor y supervisor técnico, establecidas en el Título II de esta ley."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "CAPÍTULO I",
+      "section": "6",
+      "title": "Artículo 6",
+      "content": "Artículo 6º.- Responsabilidad de los diseñadores. La responsabilidad de los diseños de los diferentes elementos que componen la edificación, así como la adopción de todas las medidas necesarias para el cumplimiento en ellos del objetivo de las normas de esta ley y sus reglamentos, recae en los profesionales bajo cuya dirección se elaboran los diferentes diseños particulares.\n\nParágrafo 1º.- La \"Comisión Asesora Permanente para el Régimen de Construcciones Sismo Resistentes\", de conformidad con lo establecido en el artículo 39 de la presente Ley, establecerá el contenido mínimo de los planos, memorias y estudios de los diferentes diseños, así como sus especificaciones.\n\nParágrafo 2º.- Todos los diseños deben ir firmados o rotulados con sello seco registrado por profesionales matriculados y facultados para este fin, que cumplan las calidades y requisitos indicados en el Capítulo 2 del Título VI, quienes obrarán como responsables.\n\nParágrafo 3º.- Todos los diseños deben contemplar las normas sobre la eliminación de barrera arquitectónicas para las personas discapacitadas y de tercera edad."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "CAPÍTULO I",
+      "section": "7",
+      "title": "Artículo 7",
+      "content": "Artículo 7º.- Sujeción de la construcción a los planos. Los planos arquitectónicos y estructurales que se presenten para la obtención de la licencia de construcción deben ser iguales a los utilizados en la construcción de la obra. Por lo menos una copia de éstos debe permanecer en el archivo del departamento administrativo o dependencia distrital o municipal a cargo de la expedición de la licencia de construcción.\n\nParágrafo.- Todos los planos arquitectónicos y estructurales deben contemplar las normas sobre la eliminación de barreras arquitectónicas para las personas discapacitadas y de tercera edad. Ver Decreto Nacional 1052 de 1998 . Licencia de Construcción y urbanismo. Ver Oficio No. 3-39603/5.08.98. D.A.P.D. Minusválidos - normas urbanísticas aplicables. CJA15151998\n\nOtros materiales y métodos alternos de diseño y construcción"
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "CAPÍTULO 2",
+      "section": "8",
+      "title": "Artículo 8",
+      "content": "Artículo 8º.- Uso de materiales y métodos alternos. Se permite el uso de materiales estructurales, métodos de diseño y métodos de construcción diferentes a los prescritos en esta ley y sus reglamentos, siempre y cuando se cumplan los requisitos establecidos en los artículos siguientes."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "CAPÍTULO 2",
+      "section": "9",
+      "title": "Artículo 9",
+      "content": "Artículo 9º.- Materiales alternos. Se permite el uso de materiales estructurales no previstos en esta Ley y sus reglamentos, mediante autorización previa de la \"Comisión Asesora Permanente para el Régimen de Construcciones Sismo Resistentes\" en los términos del artículo 14, sujeto al régimen de responsabilidades establecido en la presente Ley y sus reglamentos. Ver Decreto Nacional 1052 de 1998 . Licencia de Construcción y urbanismo."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "CAPÍTULO 2",
+      "section": "10",
+      "title": "Artículo 10",
+      "content": "Artículo 10º.- Métodos alternos de análisis y diseño. Se permite el uso de métodos de análisis y diseño estructural diferentes a los prescritos por esta Ley y sus reglamentos siempre y cuando el diseñador estructural presente evidencia que demuestre que la alternativa propuesta cumple con sus propósitos en cuanto a seguridad, durabilidad y resistencia especialmente sísmica, y además se sujete a uno de los procedimientos siguientes:\n\n1. Presentar con los documentos necesarios para la obtención de la licencia de construcción de la edificación, la evidencia demostrativa y un memorial en el cual inequívocamente acepta la responsabilidad sobre las metodologías de análisis y diseño alternas,\n\n2. Obtener una autorización previa de la \"Comisión Asesora Permanente para el Régimen de Construcciones Sismo Resistentes\", de acuerdo con lo dispuesto en el artículo 14, que le permite su utilización, sujeto al régimen de responsabilidades establecido en la presente Ley y sus reglamentos. Ver Decreto Nacional 1052 de 1998 . Licencia de Construcción y urbanismo."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "CAPÍTULO 2",
+      "section": "11",
+      "title": "Artículo 11",
+      "content": "Artículo 11º.- Métodos alternos de construcción . Se permite el uso de métodos alternos de construcción y de materiales cubiertos, pero cuya metodología constructiva sea diferente a la prescrita por éstos, siempre y cuando el diseñador estructural y el constructor presenten, en conjunto, un memorial en el cual inequívocamente aceptan las responsabilidades que se derivan de la metodología alterna de construcción. Ver Decreto Nacional 1052 de 1998 . Licencia de Construcción y urbanismo."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "CAPÍTULO 2",
+      "section": "12",
+      "title": "Artículo 12",
+      "content": "Artículo 12º.- Sistemas prefabricados. Se permite el uso de sistemas de resistencia sísmicas que estén compuestos, total o parcialmente, por elementos prefabricados que no se encuentren contemplados en esta ley, siempre y cuando cumplan con uno de los procedimientos siguientes:\n\n1. Utilizar los criterios de diseño sísmico presentados en el Título A de la reglamentación, de conformidad con lo dispuesto en el artículo 46 de esta Ley.\n\n2. Obtener autorización previa de la \"Comisión Asesora Permanente para el Régimen de Construcciones Sismo Resistentes\", de conformidad con lo dispuesto en el artículo 14, que le permita su utilización, la cual no exime del régimen de responsabilidades establecido en la presente Ley y sus reglamentos."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "CAPÍTULO 2",
+      "section": "13",
+      "title": "Artículo 13",
+      "content": "Artículo 13º.- Otros sistemas, metodologías o materiales. Cualquier sistema de diseño y construcción que haga referencia al objeto de esta Ley y sus reglamentos, del cual exista evidencia obtenida por uso, análisis o experimentación de que está capacitado para cumplir sus propósitos pero no reúne uno o más requisitos específicos de la ley y sus reglamentos, podrá presentarse ante la dependencia distrital o municipal a cargo de la expedición de las licencias de construcción, acompañado de una autorización de la \"Comisión Asesora permanente para el Régimen de Construcciones Sismo Resistentes\", de acuerdo con lo dispuesto en el artículo 14, la cual no exime del régimen de responsabilidades establecido en la presente Ley y sus reglamentos."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "CAPÍTULO 2",
+      "section": "14",
+      "title": "Artículo 14",
+      "content": "Artículo 14°.- Conceptos de la \"Comisión Asesora Permanente para el Régimen de Construcciones Sismo Resistentes\". Con base en la evidencia presentada sobre la idoneidad del sistema de resistencia sísmica y del alcance propuesto para su utilización, la \"Comisión Asesora Permanente para el Régimen de Construcciones Sismo Resistentes\", emitirá un concepto sobre el uso de materiales, métodos y sistemas comprendidos en esta Ley y sus reglamentos.\n\nREVISIÓN DE LOS DISEÑOS"
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "TÍTULO IV",
+      "section": "15",
+      "title": "Artículo 15",
+      "content": "Artículo 15º.- Obligatoriedad. El Curador o las oficinas o las dependencias distritales o municipales a cargo de la expedición de las licencias, deben constatar previamente que la edificación propuesta cumple los requisitos exigidos por la presente Ley y sus reglamentos, mediante la revisión de los planos, memorias y estudios de los diferentes mencionados en el Título III.\n\nParágrafo.- La revisión de los diseños puede ser realizada por el Curador o por funcionarios de las oficinas o dependencias municipales o distritales encargadas de expedir las licencias de construcción; o bien, a costo de quien solicita la licencia, con un profesional particular, calificado para tal fin de conformidad con los requisitos establecidos en el Capítulo 3, Título VI de esta Ley, diferente del diseñador o independiente laboralmente de él, el cual por medio de un memorial dirigido a las oficinas o dependencias mencionadas, indique el alcance de la revisión efectuada, el cumplimiento de las normas de la presente Ley y sus decretos reglamentarios. Ver Decreto Nacional 1052 de 1998 . Licencia de Construcción y urbanismo."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "TÍTULO IV",
+      "section": "16",
+      "title": "Artículo 16",
+      "content": "Artículo 16º.- Alcance y procedimiento de la revisión. El alcance y los procedimientos de revisión de los diseños serán definidos por la \"Comisión Asesora Permanente para el Régimen de Construcciones Sismo Resistentes\", de conformidad con lo establecido en el artículo 42 de esta Ley."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "TÍTULO IV",
+      "section": "17",
+      "title": "Artículo 17",
+      "content": "Artículo 17º.- Idoneidad del revisor de los diseños. La revisión de los diseños deberá efectuarse por profesionales que cumplan las calidades y requisitos indicadas en el Capítulo 3 del Título VI de la presente Ley. Ver Decreto Nacional 1052 de 1998 . Licencia de Construcción y urbanismo.\n\nSUPERVISIÓN TÉCNICA DE LA CONSTRUCCIÓN"
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "TÍTULO V",
+      "section": "18",
+      "title": "Artículo 18",
+      "content": "Artículo 18º.- Obligatoriedad . La construcción de estructuras de edificaciones que tengan más de tres mil (3.000) metros cuadrados de área construida, independientemente de su uso, deberá someterse a una supervisión técnica de acuerdo con lo establecido en este Título y en los decretos reglamentarios correspondientes.\n\nParágrafo 1º.- Se excluyen las estructuras que se diseñen y construyan siguiendo las recomendaciones presentadas en el Título E de la reglamentación, de conformidad con lo dispuesto en el artículo 46 de esta Ley, siempre y cuando se trate de menos de quince (15) unidades de vivienda.\n\nParágrafo 2º.- El diseñador estructural o ingeniero geotecnista podrán exigir supervisión técnica en edificaciones cuya complejidad, procedimientos constructivos especiales o materiales empleados la hagan necesaria, independiente de su área, consignado este requisito en los planos estructurales o en el estudio geotécnico correspondientes.\n\nParágrafo 3º.- El Curador o las oficinas o dependencias distritales o municipales dentro de su jurisdicción de conformidad con lo señalado en el artículo 42 de la presente Ley, podrán exonerar de la supervisión técnica a aquellas personas naturales o jurídicas que, demostrando su idoneidad, experiencia y solvencia moral y económica, establezcan sistemas de control de calidad total, bajo la dirección de un ingeniero civil que cumplan las calidades y requisitos del capítulo quinto (V), del títutlo sexto (VI) de la presente Ley."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "TÍTULO V",
+      "section": "19",
+      "title": "Artículo 19",
+      "content": "Artículo 19º.- Edificaciones que no requieren supervisión técnica. En aquellas edificaciones que, de conformidad con el artículo anterior, están exentas de supervisión técnica, el constructor tiene la obligación de realizar los controles mínimos de calidad que esta ley y sus reglamentos exigen para los diferentes materiales estructurales y elementos no estructurales. Ver Decreto Nacional 1052 de 1998 . Licencia de Construcción y urbanismo."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "TÍTULO V",
+      "section": "20",
+      "title": "Artículo 20",
+      "content": "Artículo 20º.- Edificaciones de atención a la comunidad. Las edificaciones de atención a la comunidad, independientemente de su área, deben someterse a una supervisión técnica."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "TÍTULO V",
+      "section": "21",
+      "title": "Artículo 21",
+      "content": "Artículo 21º.- Alcance de la supervisión técnica. El alcance, procedimientos y controles mínimos de la supervisión técnica, serán establecidos en el Título I de la reglamentación de conformidad con lo dispuesto en el artículo 46 de esta Ley, definiendo grados de supervisión diferenciales, según la importancia, área, altura o grupo de uso de las edificaciones."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "TÍTULO V",
+      "section": "22",
+      "title": "Artículo 22",
+      "content": "Artículo 22º.- Calidades de supervisor técnico. El supervisor técnico debe ser un profesional que reúna las calidades exigidas en el Capítulo 5 del Título VI de la presente Ley. El profesional podrá, bajo su responsabilidad, delegar en personal no profesional algunas de las labores de la supervisión.\n\nLa supervisión técnica forma parte de la interventoría y puede ser realizada por un profesional diferente al interventor. Ver Decreto Nacional 1052 de 1998 . Licencia de Construcción y urbanismo.\n\nPROFESIONALES\n\nCalidades y requisitos."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "CAPÍTULO 1",
+      "section": "23",
+      "title": "Artículo 23",
+      "content": "Artículo 23º.- Calidades. Los profesionales que realicen labores de diseño estructural y de elementos no estructurales, estudios geotécnicos, revisión de los diseños o estudios, dirección y supervisión técnica de la construcción, deben reunir las calidades que se indican en el presente Título."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "CAPÍTULO 1",
+      "section": "24",
+      "title": "Artículo 24",
+      "content": "Artículo 24º.- Acreditación de la experiencia e idoneidad. La \"Comisión Asesora Permanente para el Régimen de Construcciones Sismo Resistentes\", de conformidad con lo señalado en el artículo 42, podrá establecer los mecanismos y procedimientos por medio de los cuales se demuestre la experiencia profesional, idoneidad o el conocimiento de esta Ley y sus reglamentos, de los diferentes profesionales que realicen las labores indicadas en el artículo anterior.\n\nParágrafo.- La acreditación obtenida de conformidad con este artículo, tendrá vigencia en todo el territorio nacional. Ver Decreto Nacional 1052 de 1998 . Licencia de Construcción y urbanismo."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "CAPÍTULO 1",
+      "section": "25",
+      "title": "Artículo 25",
+      "content": "Artículo 25º.- Alcance y ejecución de las labores profesionales. La \"Comisión Asesora Permanente para el Régimen de Construcciones Sismo Resistentes\", establecerá el alcance y procedimiento de ejecución de las labores indicadas en el presente Título, de acuerdo con la importancia, área, altura, complejidad o grupo de uso de las edificaciones.\n\nDiseñadores"
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "CAPÍTULO 2",
+      "section": "26",
+      "title": "Artículo 26",
+      "content": "Artículo 26º.- Diseñadores. El diseñador debe ser un ingeniero civil cuando se trate de diseños estructurales y estudios geotécnicos, y un arquitecto o ingeniero civil o mecánico en el caso de diseños de elementos no estructurales.\n\nEn todos los casos deberán tener matrícula profesional y acreditar ante la \"Comisión Asesora Permanente para el Régimen de Construcciones Sismo Resistentes\", los requisitos de experiencia e idoneidad que se señalan en las siguientes disposiciones. Ver Decreto Nacional 1052 de 1998 . Licencia de Construcción y urbanismo."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "CAPÍTULO 2",
+      "section": "27",
+      "title": "Artículo 27",
+      "content": "Artículo 27º.- Experiencia de los diseñadores estructurales . Los diseñadores estructurales deben acreditar estudios de postgrado o experiencia mayor de cinco (5) años en el área de estructuras."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "CAPÍTULO 2",
+      "section": "28",
+      "title": "Artículo 28",
+      "content": "Artículo 28º.- Experiencia de los ingenieros geotecnistas . Los profesionales que realicen los estudios geoténicos deben poseer una experiencia mayor de cinco (5) años en diseño geotécnico de fundaciones, contados a partir de la expedición de la tarjeta profesional, bajo la dirección de un profesional facultado para tal fin, o acreditar estudios de postgrado en el área de geotécnica."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "CAPÍTULO 2",
+      "section": "29",
+      "title": "Artículo 29",
+      "content": "Artículo 29º.- Experiencia de los diseñadores de elementos no estructurales . Los diseñadores de elementos no estructurales deben poseer una experiencia mayor de tres (3) años de ejercicio, contados a partir de la expedición de la tarjeta profesional, bajo la dirección de un profesional facultado para tal fin, en una o varias actividades, tales como diseño estructural, diseño de elementos no estructurales, trabajos geotécnicos, construcción, interventoría o supervisión técnica, o acreditar estudios de posgrado en el área de estructuras o ingeniería sísmica. Ver Decreto Nacional 1052 de 1998 . Licencia de Construcción y urbanismo.\n\nRevisores de diseños"
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "CAPÍTULO 3",
+      "section": "30",
+      "title": "Artículo 30",
+      "content": "Artículo 30º.- Revisores de diseños. El revisor debe ser un ingeniero civil cuando se trate de diseños estructurales y estudios geotécnicos y un arquitecto o ingeniero civil o mecánico en el caso de diseños de elementos no estructurales.\n\nEn todos los casos deberán tener matrícula profesional y acreditar ante la \"Comisión Asesora Permanente para el Régimen de Construcciones Sismo Resistentes\", los de experiencia e idoneidad que se señalan en el siguiente artículo. Ver Decreto Nacional 1052 de 1998 . Licencia de Construcción y urbanismo."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "CAPÍTULO 3",
+      "section": "31",
+      "title": "Artículo 31",
+      "content": "Artículo 31º.- Experiencia. El revisor de los diseños debe acreditar una experiencia mayor de cinco (5) años de ejercicio profesional, contados a partir de la expedición de la tarjeta profesional, bajo la dirección de un profesional facultado para tal fin, en una o varias actividades tales como, diseño estructural, diseño de elementos no estructurales, trabajos geotécnicos, construcción, interventoría o supervisión técnica, o acreditar estudios de postgrado en el área de estructuras, geotécnica o ingeniería sísmica. Ver Decreto Nacional 1052 de 1998 . Licencia de Construcción y urbanismo."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "CAPÍTULO 3",
+      "section": "32",
+      "title": "Artículo 32",
+      "content": "Artículo 32º.- Independencia. El revisor de diseños debe ser laboralmente independiente de quien los realiza.\n\nDirectores de construcción"
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "CAPÍTULO 4",
+      "section": "33",
+      "title": "Artículo 33",
+      "content": "Artículo 33º.- Directores de construcción. Modificado por el art. 5, Ley 1229 de 2008 . El director de construcción debe ser un ingeniero civil o arquitecto, o ingeniero mecánico en el caso de estructuras metálicas o prefabricadas, poseer matrícula profesional y acreditar ante la \"Comisión Asesora Permanente para el Régimen de Construcciones Sismo Resistentes\", los requisitos de experiencia establecidos en el siguiente artículo."
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "CAPÍTULO 4",
+      "section": "34",
+      "title": "Artículo 34",
+      "content": "Artículo 34º.- Experiencia . El director de construcción debe acreditar una experiencia mayor de tres (3) años de ejercicio, contados a partir de la expedición de la tarjeta profesional, bajo la dirección de un profesional facultado para tal fin, en una o varias actividades, tales como construcción, diseño estructural, diseño de elementos no estructurales, trabajos gotécnicos, interventoría o supervisión técnica, o acreditar estudios de postgrado en el área de construcción, estructuras, geotécnica o ingeniería sísmica. Ver Decreto Nacional 1052 de 1998 . Licencia de Construcción y urbanismo.\n\nSupervisores técnicos."
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "CAPÍTULO 5",
+      "section": "35",
+      "title": "Artículo 35",
+      "content": "Artículo 35º.- Supervisores técnicos. Modificado por el art. 6, Ley 1229 de 2008 . El supervisor técnico debe ser ingeniero civil o arquitecto. Sólo para el caso de estructuras metálicas podrá ser ingeniero mecánico.\n\nDeberá poseer matrícula profesional y acreditar ante la \"Comisión Asesora Permanente para el Régimen de Construcciones Sismo Resistentes\", los requisitos de experiencia e idoneidad establecidos en el siguiente artículo."
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "CAPÍTULO 5",
+      "section": "36",
+      "title": "Artículo 36",
+      "content": "Artículo 36º.- Experiencia. El supervisor técnico debe poseer una experiencia mayor de cinco (5) años de ejercicio, contados a partir de la expedición de la tarjeta profesional, bajo la dirección de un profesional facultado para tal fin, en una o varias actividades tales como, diseño estructural, construcción, interventoría o supervisión técnica."
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "CAPÍTULO 5",
+      "section": "37",
+      "title": "Artículo 37",
+      "content": "Artículo 37º.- Independencia . El supervisor técnico debe ser laboralmente independiente del constructor de la estructura o de los elementos no estructurales."
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "CAPÍTULO 5",
+      "section": "38",
+      "title": "Artículo 38",
+      "content": "Artículo 38º.- Personal auxiliar profesional y no profesional. Las calificaciones y experiencia requeridas del personal profesional y no profesional, como los inspectores, controladores y técnicos, se dejan a juicio del supervisor técnico pero deben ser conmensurables con las labores que se les encomienden, el tamaño, importancia y dificultad de la obra.\n\nCOMISIÓN ASESORA PERMANENTE PARA EL RÉGIMEN DE CONSTRUCCIONES SISMO RESISTENTES"
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "TÍTULO VII",
+      "section": "39",
+      "title": "Artículo 39",
+      "content": "Artículo 39º.- Comisión Asesora Permanente . Créase la \"Comisión Asesora Permanente para el Régimen de Construcciones Sismo Resistentes\" del gobierno Nacional, para la interpretación y aplicación de las normas sobre construcciones sismo resistentes, la cual estará adscrita al Ministerio de Desarrollo Económico y formará parte del Sistema Nacional para la Atención y Prevención de Desastres."
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "TÍTULO VII",
+      "section": "40",
+      "title": "Artículo 40",
+      "content": "Artículo 40º.- Integración de la comisión. La \"Comisión Asesora Permanente para el Régimen de Construcciones Sismo Resistentes\" estará integrada así:\n\n1. Un representante de la Presidencia de la República.\n\n2. Un representante del Ministerio de Desarrollo Económico.\n\n3. Un representante del Ministerio de Transporte.\n\n4. El representante legal del Instituto de Investigaciones en Geociencia, Minería y Química, Ingeominas, o su delegado.\n\n5. El Presidente de la Asociación Colombiana de Ingeniería Sísmica, AIS, o su delegado, quien actuará como secretario de la comisión.\n\n6. El Presidente de la Sociedad Colombiana de Ingenieros, SIC, o su delegado.\n\n7. El Presidente de la Sociedad Colombiana de Arquitectos, SCA, o su delegado.\n\n8. El Presidente de la Asociación Colombiana de Ingeniería Estructural, ACIES, o su delegado.\n\n9. Un representante de las organizaciones gremiales relacionadas con la industria de la construcción.\n\n10. El Presidente de la Cámara Colombiana de la Construcción, Camacol, o su delegado, y\n\n11. Un delegado del Comité Consultivo Nacional, según la Ley 361 de 1997.\n\nParágrafo 1º.- Para efectos de designar al representante de las organizaciones gremiales, el Ministerio de Desarrollo Económico convocará a través de un medio de amplia circulación a las organizaciones civiles que, según su objeto, estén llamadas a participar en la elección, para que en el término de quince (15) días contados a partir de la convocatoria, se efectúe una asamblea general en la cual las organizaciones proceden a elegir, mediante mecanismos democráticos fijados por ellas en dicha asamblea, su representante. El mandato del representante podrá ser revocado acudiendo a los mismos mecanismos que sirvieron para su elección.\n\nParágrafo 2º.- Los miembros de la Comisión Asesora Permanente para el Régimen de Construcciones Sismo Resistentes que la integran como representantes de las entidades serán designados para períodos de un (1) año y podrán ser reelegidos indefinidamente."
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "TÍTULO VII",
+      "section": "41",
+      "title": "Artículo 41",
+      "content": "Artículo 41º.- Funciones. La \"Comisión Asesora Permanente para el Régimen de Construcciones Sismo Resistentes\", tendrán las siguientes funciones:\n\n1. Atender y absolver las consultas que le formulen las entidades oficiales y los particulares.\n\n2. Dirigir y supervigilar las investigaciones que se lleven a cabo sobre aspectos relacionados con la presente ley y su desarrollo.\n\n3. Enviar las comisiones de estudio que considere necesarias a las zonas del país que se vean afectadas por sismos o movimientos telúricos y publicar los resultados de tales estudios.\n\n4. Coordinar y realizar seminarios y cursos de actualización sobre las normas de construcción sismo resistentes.\n\n5. Orientar y asesorar la elaboración de estudios de microzonificación sísmica y fijar los alcances de los mismos.\n\n6. Coordinar las investigaciones sobre las causas de fallas de estructuras y emitir conceptos sobre la aplicación de las normas de construcciones sismo resistentes.\n\n7. Servir de Órgano Consultivo del Gobierno Nacional para efectos de sugerir las actualizaciones en los aspectos técnicos que demande el desarrollo de las normas sobre construcciones sismo resistentes.\n\n8. Fijar dentro del alcance de la presente Ley, los procedimientos por medio de los cuales, periódicamente, se acrediten la experiencia, cualidades y conocimientos que deben tener los profesionales que realicen los diseños, su revisión, la construcción y su supervisión técnica, además mantener un registro de aquellos profesionales que hayan acreditado las cualidades y conocimientos correspondientes.\n\n9. Nombrar delegado ad honorem ante instituciones nacionales y extranjeras que traten temas afines con el alcance y propósito de la presente Ley y sus desarrollos.\n\n10. Las demás que le fije la ley.\n\n11. Las que le asigne el Gobierno Nacional, según su competencia.\n\nParágrafo.- La Comisión Asesora Permanente para el Régimen de Construcciones Sismo Resistentes será un cuerpo exclusivamente consultivo del Gobierno Nacional y no podrá asumir funciones que invadan la competencia constitucional que tienen los distritos y municipios en materia de vigilancia y control de las actividades relacionadas con la construcción."
+    },
+    {
+      "provision_ref": "art42",
+      "chapter": "TÍTULO VII",
+      "section": "42",
+      "title": "Artículo 42",
+      "content": "Artículo 42º.- Atribuciones especiales. La \"Comisión Asesora Permanente para el Régimen de Construcciones Sismo Resistentes\", podrá establecer detalladamente el alcance y procedimiento de ejecución de las labores profesionales que se señalan a continuación, según la importancia, área, altura o grupo de uso de las edificaciones:\n\n1. Diseño estructural\n\n2. Estudios geotécnicos\n\n3. Diseño de elementos no estructurales\n\n4. Revisión de los diseños y estudios\n\n5. Dirección de la construcción y\n\n6. Supervisión técnica de la construcción\n\nParágrafo 1º.- La Comisión podrá fijar los procedimientos por medio de los cuales se establezcan la idoneidad, experiencia profesional y conocimiento de las normas sobre construcciones sismo resistentes, que deben tener los profesionales y el personal auxiliar que desarrolle las mencionadas labores, con la periodicidad que estime conveniente.\n\nParágrafo 2º.- La Comisión podrá establecer los procedimientos para fijar los honorarios mínimos que se utilicen para retribuir las labores mencionadas, cuando no se trate de servidores públicos."
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "TÍTULO VII",
+      "section": "43",
+      "title": "Artículo 43",
+      "content": "Artículo 43º.- Convenios. El Ministerio de Desarrollo Económico, previo concepto de la \"Comisión Asesora Permanente para el Régimen de Construcciones Sismo Resistentes\", podrá celebrar convenios con universidades, asociaciones o sociedades profesionales y gremiales, u otros organismos privados o públicos de reconocida idoneidad, con el objeto de realizar o supervisar las pruebas de que tratan el artículo anterior y el Título VI de la presente Ley.\n\nDentro de estos convenios, el Ministerio de Desarrollo Económico se reservará el derecho de fijar los valores máximos que las instituciones puedan cobrar a los interesados por la realización o supervisión de las pruebas."
+    },
+    {
+      "provision_ref": "art44",
+      "chapter": "TÍTULO VII",
+      "section": "44",
+      "title": "Artículo 44",
+      "content": "Artículo 44º.- Personal auxiliar de la comisión. El gobierno Nacional proveerá el personal auxiliar temporal que demanden las labores ocasionales de la Comisión, a través del Fondo Nacional de Calamidades.\n\nPOTESTAD REGLAMENTARIA\n\nDecretos reglamentarios"
+    },
+    {
+      "provision_ref": "art45",
+      "chapter": "CAPÍTULO 1",
+      "section": "45",
+      "title": "Artículo 45",
+      "content": "Artículo 45º.- Decretos reglamentarios. El Gobierno Nacional deberá expedir los decretos reglamentarios que establezcan los requisitos de carácter técnico y científico que resulten pertinentes para cumplir con el objeto de la presente Ley, de acuerdo con el alcance y temario señalado en el capítulo segundo del presente título. Ver Decreto Nacional 1052 de 1998 . Licencia de Construcción y urbanismo.\n\nAlcance y temario técnico y científico"
+    },
+    {
+      "provision_ref": "art46",
+      "chapter": "CAPÍTULO 2",
+      "section": "46",
+      "title": "Artículo 46",
+      "content": "Artículo 46º.- Alcance y temario técnico y científico. La reglamentación que se expida en ejercicio de la facultad del artículo anterior debe ceñirse a la división temática, alcance y temario técnico y científico indicados en los artículos siguientes.\n\nParágrafo.- El conjunto de decretos reglamentarios que contengan los requisitos de carácter técnico y científico de la presente Ley deben contener en su encabezamiento la sigla NSR, acompañada por los dos últimos dígitos del año de expedición, separados de la sigla por medio de un guión."
+    },
+    {
+      "provision_ref": "art47",
+      "chapter": "CAPÍTULO 2",
+      "section": "47",
+      "title": "Artículo 47",
+      "content": "Artículo 47º.- Temática. Los requisitos de carácter técnico y científico deben dividirse temáticamente en títulos de la siguiente manera:"
+    },
+    {
+      "provision_ref": "art48",
+      "chapter": "TITULO K Otros requisitos complementarios",
+      "section": "48",
+      "title": "Artículo 48",
+      "content": "Artículo 48º.- Alcance y contenido mínimo. Los títulos enumerados en el artículo anterior deben contener, como mínimo, el siguiente alcance y contenido científico y técnico:\n\nA) Título A. Requisitos generales de diseño y construcción sismo resistente.\n\nDebe contener como mínimo los siguientes temas:\n\n1. Procedimientos de diseño sismo resistente de edificaciones en general.\n\n2. Procedimientos de diseño sismo resistente de edificaciones indispensables.\n\n3. Procedimientos de diseño sismo resistente de casas de uno y dos pisos cubiertas por el Título E.\n\n4. Definición de los movimientos sísmicos de diseño.\n\n5. Zonificación de amenaza sísmica dentro del territorio nacional.\n\n6. Procedimientos de obtención de los efectos sísmicos locales.\n\n7. Definición de los grupos de uso de las edificaciones.\n\n8. Requisitos mínimos para la elaboración de estudios de microzonificación sísmica.\n\n9. Definición de los requisitos generales de diseño sismo resistente de acuerdo con los diferentes sistemas estructurales de resistencia sísmica, su capacidad de disipación de energía en el rango inelástico de los sistemas estructurales y los materiales que los componen, la configuración del sistema de resistencia sísmica incluyendo las características de regularidad e irregularidad y la combinación de diferentes sistemas. Los métodos de análisis permitidos, los procedimientos para la aplicación de las fuerzas sísmicas de diseño.\n\n10. Los métodos de obtención de las fuerzas sísmicas de diseño de la estructura.\n\n11. Los requisitos de deriva que deben cumplir las edificaciones y los procedimientos para determinarla.\n\n12. Los efectos de interacción suelo-estructura.\n\n13. El efecto sísmico sobre elementos estructurales que no hacen parte del sistema de resistencia sísmica.\n\n14. Los requisitos sísmicos que deben cumplir los elementos no estructurales de acuerdo con el grado de desempeño sísmico que se requiera en función del uso de la edificación.\n\n15. Los criterios y procedimientos para poder adicionar, modificar o remodelar edificaciones construidas antes de la vigencia de la presente Ley y sus reglamentos.\n\n16. Los procedimientos para evaluar la vulnerabilidad sísmica de las edificaciones existentes antes de la vigencia de la presente Ley.\n\n17. La instrumentación sísmica que deba colocarse en edificaciones que por su tamaño, importancia y localización la ameriten.\n\n18. Los requisitos sísmicos especiales que deben cumplir las edificaciones indispensables para la recuperación de la comunidad con posterioridad a la ocurrencia de un sismo.\n\n19. Las definiciones y nomenclatura de los términos técnicos y matemáticos empleados, y\n\n20. Todos los demás temas técnicos y científicos necesarios para cumplir el propósito de la ley con respecto a las características de sismo resistencia de las edificaciones cubiertas por el alcance de la presente Ley y sus reglamentos.\n\nB) Título B. Cargas . Debe contener los requisitos mínimos que deben cumplir las edificaciones en lo que respecta a cargas, fuerzas y solicitaciones diferentes a las fuerzas o efectos que imponen el sismo, tales como:\n\n1. Requisitos de seguridad, funcionamientos a través de una rigidez adecuada, los efectos de deformaciones impuestas y los métodos de análisis para el efecto.\n\n2. Requisitos de unidad e integridad estructural.\n\n3. Procedimientos para combinar los diferentes efectos de cargas y fuerzas, incluyendo las fuerzas y efectos sísmicos, con el fin de determinar los efectos críticos.\n\n4. La definición y procedimientos para obtener las cargas muertas.\n\n5. La definición y procedimientos para obtener las cargas vivas mínimas.\n\n6. La definición y procedimientos para obtener empujes de tierra y presión hidrostática\n\n7. La definición y procedimientos para obtener las fuerzas de viento que actúan sobre las edificaciones y la zonificación de amenaza eólica del territorio nacional que deben emplearse, y\n\n8. Todos los demás temas técnicos y científicos necesarios para cumplir el objeto de la ley con respecto a las cargas, fuerzas y solicitaciones diferentes a las fuerzas o efectos que impone el sismo a las edificaciones cubiertas por el alcance de ella.\n\nC) Título C. Concreto estructural. Debe contener los requisitos mínimos que se deben cumplir en el diseño y construcción de estructuras de concreto estructural y sus elementos. Debe incluir, como mínimo, los siguientes temas:\n\n1. Alcance y aplicabilidad de los requisitos de concreto estructural.\n\n2. Requerimientos mínimos de capacidad de disipación de energía en el rango inelástico de los elementos de concreto estructural, para efectos de su diseño sismo resistente, y su utilización en las diferentes zonas de amenaza sísmica.\n\n3. Los requisitos especiales de supervisión técnica para estructuras de concreto estructural.\n\n4. Las definiciones de términos técnicos, científicos y matemáticos empleados en el título.\n\n5. Las características de los materiales que puedan emplearse en las construcciones de concreto reforzado, las normas técnicas complementarias que los definen y los ensayos que deben utilizarse antes y durante la construcción para comprobar su calidad.\n\n6. Requisitos de durabilidad de las estructuras de concreto estructural.\n\n7. Requisitos respecto de la calidad del concreto, su mezclado y colocación.\n\n8. Requisitos para las formaletas, tuberías embebidas y juntas de construcción.\n\n9. Requisitos acerca de los detalles del refuerzo a emplear.\n\n10. Definición de los procedimientos de análisis y diseño de las estructuras de concreto estructural.\n\n11. Definición de los requisitos de resistencia y de servicio.\n\n12. Disposiciones para el diseño de elementos sometidos a flexión, fuerza axial o flexión y fuerza axial combinadas.\n\n13. Disposiciones para el diseño de elementos sometidos a esfuerzos cortantes y torsión.\n\n14. Requisitos para establecer las características de desarrollo, anclaje y empalmes del acero de refuerzo.\n\n15. Disposiciones para el diseño de losas de concreto estructural que trabajen en una y dos direcciones.\n\n16. Requisitos para el diseño de muros estructurales de concreto.\n\n17. Disposiciones para el diseño de fundaciones o cimentaciones de concreto estructural.\n\n18. Requisitos para el diseño y construcción de estructuras de concreto prefabricado.\n\n19. Requisitos para el diseño y construcción de elementos compuestos de concreto que trabajen a flexión.\n\n20. Disposiciones para el diseño y construcción de elementos de concreto preesforzado, tanto pretensado como postensado.\n\n21. Requisitos para las pruebas de carga de estructuras de concreto estructural.\n\n22. Disposiciones para el diseño y construcción de tanques y compartimientos estancos de concreto estructural\n\n23. Requisitos de diseño para las diferentes capacidades de disipación de energía en el rango inelástico de los elementos de concreto estructural, para efectos de su diseño sismo resistente.\n\n24. Disposiciones para el diseño y construcción de elementos de concreto simple, y\n\n25. Todos los demás temas técnicos y científicos necesarios para cumplir el objeto de la ley con respecto a las estructuras de concreto estructural, y sus elementos, empleadas en las edificaciones cubiertas por el alcance de ella.\n\nD) Título D. Mampostería estructural. Debe contener los requisitos mínimos que se deben cumplir en el diseño y construcción de estructuras de mampostería estructural y sus elementos. Debe incluir, como mínimo, los siguientes temas:\n\n1. Alcance y aplicabilidad de los requisitos de mampostería estructural.\n\n2. Requerimientos mínimos de capacidad de disipación de energía en el rango inelástico de los elementos de mampostería estructural, para efectos de su diseño sismorresistente, y su utilización en las diferentes zonas de amenaza sísmica.\n\n3. Los requisitos especiales de supervisión técnica para estructura de mampostería estructural.\n\n4. Las definiciones de los términos técnicos, científicos y matemáticos empleados en el título.\n\n5. Clasificación de los diferentes tipos de mampostería estructural y las restricciones en su utilización.\n\n6. Las características de los materiales que pueden emplearse en las construcciones de mampostería estructural, las normas técnicas complementarias que los definen y los ensayos que deben utilizarse antes y durante la construcción para comprobar su calidad.\n\n7. Requisitos respecto a la construcción de la mampostería estructural.\n\n8. Definición de los procedimientos de análisis y diseño de las estructuras de mampostería estructural, incluyendo las disposiciones para el diseño de la fundación de estructuras de mampostería.\n\n9. Requisitos acerca de los detalles del refuerzo a emplear.\n\n10. Requisitos particulares de cada uno de los tipos de mampostería estructural.\n\n11. Disposiciones para el diseño y construcción de elementos de mampostería simple, y\n\n12. Todos los demás temas técnicos y científicos necesarios para cumplir el propósito de la ley, con respecto a las estructuras de mampostería estructural, y sus elementos, empleadas en las edificaciones cubiertas por el alcance de la presente Ley y sus reglamentos.\n\nE) Título E. Casas de uno y dos pisos. Debe contener requisitos que simplifiquen el diseño y construcción de edificaciones de uno y dos pisos destinadas a vivienda unifamiliar, con el fin de que tengan un comportamiento adecuado ante las ocurrencias de eventos sísmicos y otras solicitaciones diferentes al sismo. Debe, incluir, como mínimo los siguientes temas:\n\n1. Alcance y aplicabilidad de los requisitos contenidos en el Título.\n\n2. Criterios básicos de planeamiento estructural para este tipo de edificaciones.\n\n3. Requisitos para la disposición y construcción de muros estructurales, incluyendo los requisitos para los materiales empleados.\n\n4. Disposiciones para los elementos de confinamiento que deben emplearse en estas construcciones.\n\n5. Requisitos para las losas de entrepiso, cubierta, muros divisorios y parapetos que se empleen.\n\n6. Disposiciones para las cimentaciones de estas construcciones.\n\n7. Requisitos generales de construcción y supervisión técnica, cuando esta última se requiera.\n\n8. Nomenclatura de los términos técnicos empleados, y\n\n9. Todos los demás temas técnicos y científicos necesarios para cumplir el propósito de la ley con respecto a las estructuras de edificaciones de uno y dos pisos destinadas a vivienda unifamiliar, cubierta por el alcance de la presente Ley y sus reglamentos\n\nF) Título F. Estructuras metálicas. Debe contener los requisitos mínimos que se deben cumplir en el diseño y construcción de estructuras metálicas y sus elementos. Debe incluir, como mínimo, los siguientes temas:\n\n1. Alcance y aplicabilidad de los requisitos para estructuras metálicas.\n\n2. Requerimientos mínimos de capacidad de disipación de energía en el rango inelástico de los elementos estructurales metálicos, para efectos de su diseño sismo resistente y su utilización en las diferentes zonas de amenaza sísmica.\n\n3. Los requisitos especiales de supervisión técnica para estructuras metálicas.\n\n4. Las definiciones de los términos técnicos, científicos y matemáticos empleados en el título.\n\n5. Las características de los materiales que pueden emplearse en las estructuras metálicas, las normas técnicas complementarias que los definen y los ensayos que deben utilizarse antes y durante la construcción para comprobar su calidad.\n\n6. Clasificación de los diferentes tipos de estructura metálica y las restricciones en su utilización.\n\n7. Definición de los procedimientos de análisis y diseño para los diferentes tipos de estructura metálica.\n\n8. Definición de los requisitos de resistencia y de servicio.\n\n9. Disposiciones para el diseño de estructura hechas con perfiles laminados, sus miembros estructurales y sus conexiones y uniones.\n\n10. Disposiciones para el diseño de miembros estructurales de acero formados en frío y sus conexiones y uniones.\n\n11. Disposiciones para el diseño de miembros estructurales de aluminio estructural y sus conexiones y uniones.\n\n12. Disposiciones para el diseño de conexiones y anclajes a las fundiciones de las estructuras metálicas.\n\n13. Requisitos de diseño para las diferentes capacidades de disipación de energía en el rango inelástico de los elementos de las estructuras metálicas, para efectos de su diseño sismorresistente, y\n\n14. Todos los demás temas técnicos y científicos necesarios para cumplir el propósito de la ley con respecto a las estructuras metálicas, y sus elementos, empleadas en las edificaciones cubiertas por el alcance de la presente Ley, y sus reglamentos.\n\nG) Título G. Estructuras de madera. Debe contener los requisitos mínimos que se deben cumplir en el diseño y construcción de estructuras de maderas y sus elementos. Debe incluir, como mínimo, los siguientes temas:\n\n1. Alcance y aplicación de los requisitos para estructura de madera.\n\n2. Requerimientos mínimos de capacidad de disipación de energía en el rango inelástico de los elementos estructurales de madera, para efectos de su diseño sismo resistente y su utilización en las diferentes zonas de amenaza sísmica.\n\n3. Los requisitos especiales de supervisión técnica para estructuras de madera.\n\n4. Las definiciones de los términos técnicos, científicos y matemáticos empleados en el título.\n\n5. Las características de los materiales que pueden emplearse en las estructuras de madera, las normas técnicas complementarias que los definen y los ensayos que deben utilizarse antes y durante la construcción para comprobar su calidad.\n\n6. Disposiciones acerca del aserrado de la madera para construcción.\n\n7. Clasificación de los diferentes tipos de estructuras de madera y las restricciones en su utilización.\n\n8. Definición de los procedimientos de análisis y diseños para los diferentes tipos de madera, y sus conexiones y uniones.\n\n9. Definición de los requisitos de resistencia y de servicio.\n\n10. Disposiciones para el diseño de las conexiones y anclajes a las fundaciones de las estructuras de madera.\n\n11.Disposiciones para la preparación, fabricación, construcción, montaje y mantenimiento de elementos de madera estructural.\n\n12. Requisitos de diseño para las diferentes capacidades de disipación de energía en el rango inelástico de los elementos de las estructuras de madera, para efectos de su diseño sismo resistente, y\n\n13. Todos los demás temas técnicos y científicos necesarios para cumplir el propósito de la ley con respecto a las estructuras de maderas, y sus elementos, empleadas en las edificaciones cubiertas por el alcance de la presente Ley y sus reglamentos.\n\nH) Título H. Estudios geotécnicos. Debe contener los requisitos mínimos para la elaboración de estudios geotécnicos. Debe incluir, como mínimo, los siguientes temas:\n\n1. Alcance y aplicabilidad de los requisitos para estudios geotécnicos\n\n2. Definición de los diferentes tipos de estudios geotécnicos.\n\n3. Requisitos para la investigación del subsuelo.\n\n4. Procedimientos para el análisis de la información proveniente de la investigación del subsuelo.\n\n5. Requisitos para la elaboración de las recomendaciones de diseño y construcción de excavaciones, estructuras de contención y cimentación de las edificaciones.\n\n6. Requisitos para las consideraciones sísmicas relacionadas con los aspectos geotécnicos que afecten el comportamiento de la edificación, y\n\n7. Todos los demás temas técnicos necesarios para cumplir el propósito de la ley con respecto a los aspectos geotécnicos que afecten las edificaciones cubiertas por el alcance de la presente Ley y sus reglamentos.\n\nI) Título I. Supervisión técnica. Debe contener los requisitos mínimos para el ejercicio de las labores de supervisión técnica. Debe incluir, como mínimo los siguientes temas:\n\n1. Aplicabilidad de los requisitos para supervisión técnica.\n\n2. Alcance detallado de las labores de supervisión técnica.\n\n3. Documentación y registro de las labores de supervisión técnica.\n\n4. Controles exigidos al supervisor técnico, y\n\n5. Todos los demás temas técnicos y científicos necesarios para cumplir, el propósito de esta Ley con respecto a la supervisión técnica de las edificaciones cubiertas por el alcance de la presente Ley y sus reglamentos.\n\nJ) Título J. Requisitos de protección contra el fuego en edificaciones. Debe contener los requisitos mínimos de protección contra el fuego de edificaciones. Debe incluir, como mínimo, los siguientes temas:\n\n1. Alcance y aplicabilidad de los requisitos de protección contra el fuego.\n\n2. Las definiciones de los términos técnicos, científicos y matemáticos empleados en el título.\n\n3. Definición de las categorías de las edificaciones con respecto a su riesgo de combustión y mayor peligrosidad para la vida como consecuencia de un incendio\n\n4. Definición del procedimiento para la determinación del potencial combustible.\n\n5. Procedimientos para establecer la resistencia requerida al fuego.\n\n6. Todos los demás temas técnicos y científicos para cumplir el propósito de esta Ley con respecto a la protección contra el fuego en edificaciones cubiertas por el alcance de la presente Ley y sus reglamentos.\n\nK) Título K. Otros requisitos complementarios . Puede contener otros requisitos, de carácter técnico y científico, adicionales a los contenidos en los Títulos de la A a la J de la reglamentación de la presente Ley, y que matemáticamente no concuerden con ellos, necesarios para cumplir el propósito de la ley en lo que respecta a la protección de la vida, en edificaciones cubiertas por el alcance de la presente Ley y sus reglamentos.\n\nPuede incluir, sin limitarse a ellos, los siguientes temas:\n\n1. Procedimientos para la declaración de edificaciones no habitables o inseguras.\n\n2. Certificados de permiso de ocupación.\n\n3. Requisitos especiales para escaleras y medios de evacuación.\n\n4. Requisitos especiales para instalaciones hidráulicas y sanitarias.\n\n5. Requisitos especiales para instalaciones eléctricas.\n\n6. Requisitos especiales para instalaciones mecánicas.\n\n7. Requisitos especiales para instalaciones de gas domiciliario.\n\n8. Requisitos especiales para parqueaderos y estacionamientos.\n\n9. Requisitos especiales para teatros, auditorios y estadios.\n\n10. Requisitos especiales para ascensores, montacargas y escaleras mecánicas.\n\n11. Requisitos especiales para el acceso y evacuación de discapacitados.\n\n12. Requisitos especiales para vidrios, puertas, divisiones, marquesinas y fachadas en vidrio.\n\n13. Requisitos especiales para el aislamiento del ruido.\n\n14. Requisitos especiales para chimeneas.\n\n15. Requisitos especiales para la protección de transeúntes durante la construcción o demolición de edificaciones.\n\n16. Requisitos especiales para la excavación y el relleno previo y durante la construcción.\n\n17. Requisitos para edificaciones sísmicamente aislados en su base.\n\n18. Requisitos de impermeabilidad y protección de la humedad, y\n\n19. Otros."
+    },
+    {
+      "provision_ref": "art49",
+      "chapter": "TITULO K Otros requisitos complementarios",
+      "section": "49",
+      "title": "Artículo 49",
+      "content": "Artículo 49º.- Actualizaciones de los aspectos técnicos y científicos de la ley. Facúltase al Gobierno Nacional para que, previo el visto favorable de la comisión Permanente creada a través de la presente Ley, y por medio de decretos reglamentarios proceda a efectuar las actualizaciones en los aspectos técnicos y científicos que demande el desarrollo de la presente ley y sus reglamentos, y que resulten pertinentes para los propósitos en ella indicados y al alcance de la misma.\n\nRESPONSABILIDADES Y SANCIONES"
+    },
+    {
+      "provision_ref": "art50",
+      "chapter": "TÍTULO IX",
+      "section": "50",
+      "title": "Artículo 50",
+      "content": "Artículo 50º.- Profesionales y funcionarios. Los profesionales que adelanten o permitan la realización de obras de construcción sin sujetarse a las prescripciones, normas y disposiciones previstas en la presente Ley y sus reglamentos, incurrirán en violación del Código de Ética Profesional y podrán ser sancionados por el Consejo Profesional Nacional de Ingeniería y Arquitectura, o los Colegios Profesionales correspondientes, o aquél del cual dependan, con la suspensión o la cancelación de la matrícula profesional, según sea el caso, en la forma prevista en la Ley, sin perjuicio de las demás acciones civiles y penales a que haya lugar.\n\nParágrafo.- En igual sanción incurrirán los profesionales de las dependencias oficiales que autoricen de cualquier forma la realización de obras de construcción sin sujetarse a las prescripciones, normas y disposiciones de la presente Ley y sus reglamentos. Además, tales funcionarios, y aquellos que sin tener la condición de ingeniero o arquitecto, las autoricen, incurrirán en causal de mala conducta, sanción de suspensión o destitución, según sea el caso, sin perjuicio de las demás acciones civiles y penales a que haya lugar."
+    },
+    {
+      "provision_ref": "art51",
+      "chapter": "TÍTULO IX",
+      "section": "51",
+      "title": "Artículo 51",
+      "content": "Artículo 51º.- Constructores y propietarios. Los constructores o propietarios que adelanten o autoricen la realización de obras de construcción sin sujetarse a las prescripciones, normas y disposiciones de esta ley y sus reglamentos, serán sancionados con multas de un (1) salario mínimo mensual por cada 200 metros cuadrados de área construida de la edificación, por cada mes o fracción de él, que transcurra sin que haya tomado las medidas correctivas o la demolición de la construcción o la porción de ella que viole lo establecido en la presente Ley y sus reglamentos. Estas multas serán exigibles por la jurisdicción coactiva. Lo anterior, sin perjuicio de las demás acciones civiles y penales a que hayan lugar."
+    },
+    {
+      "provision_ref": "art52",
+      "chapter": "TÍTULO IX",
+      "section": "52",
+      "title": "Artículo 52",
+      "content": "Artículo 52º.- Alcaldías. Las alcaldías, o las secretarías o departamentos administrativos correspondientes, podrán ordenar la demolición de las construcciones que se adelanten sin cumplimiento de las prescripciones, normas y disposiciones que esta ley y sus reglamentos establecen, sin perjuicio de las demás sanciones que prevean las disposiciones legales o reglamentarias.\n\nDISPOSICIONES FINALES"
+    },
+    {
+      "provision_ref": "art53",
+      "chapter": "TÍTULO X",
+      "section": "53",
+      "title": "Artículo 53",
+      "content": "Artículo 53º.- Construcciones preexistentes a la vigencia de la ley. Las edificaciones preexistentes a la vigencia de esta Ley y sus reglamentos, que por medio de una intervención como la habrá de consagrar el Título A de la reglamentación, se actualicen y ajusten a sus requisitos, podrán ser eximidas del pago del impuesto de expedición de licencia de remodelación y de los impuestos prediales, por un lapso definido por la autoridad distrital o municipal competente."
+    },
+    {
+      "provision_ref": "art54",
+      "chapter": "TÍTULO X",
+      "section": "54",
+      "title": "Artículo 54",
+      "content": "Artículo 54º.- Actualización de las edificaciones indispensables A las construcciones existentes cuyo uso las clasifique como edificaciones indispensables y de atención a la comunidad, localizada en zonas de amenaza sísmica alta e intermedia, se les debe evaluar su vulnerabilidad sísmica, de acuerdo con los procedimientos que habrá de incluir el Título A de la reglamentación, en un lapso no mayor de tres (3) años contados a partir de la vigencia de la presente Ley.\n\nEstas edificaciones deben ser intervenidas o reforzadas para llevarlas a un nivel de seguridad sísmica equivalente al de una edificación nueva diseñada y construida de acuerdo con los requisitos de la presente Ley y sus reglamentos, en un lapso no mayor de seis (6) años contados a partir de la vigencia de la presente Ley."
+    },
+    {
+      "provision_ref": "art55",
+      "chapter": "TÍTULO X",
+      "section": "55",
+      "title": "Artículo 55",
+      "content": "Artículo 55º.- Derogatorias. Por medio de la presente Ley se derogan el Decreto-ley 1400 del 7 de junio de 1984, expedido por el Presidente de la República en ejercicio de las facultades extraordinarias que le concedió la Ley 11 de 1983, el Decreto 2170 del 3 de septiembre de 1984 y demás disposiciones que le sean contrarias.\n\nParágrafo.- Las resoluciones y autorizaciones emitidas por la Comisión creada por el Decreto 2170 de 1984 perderán validez después de un (1) año contado a partir de la vigencia de la presente Ley y podrán ser convalidadas por la \"Comisión Asesora Permanente para el Régimen de Construcciones Sismo Resistentes\", antes de la expiración del mencionado plazo, a solicitud de los interesados."
+    },
+    {
+      "provision_ref": "art56",
+      "chapter": "TÍTULO X",
+      "section": "56",
+      "title": "Artículo 56",
+      "content": "Artículo 56º.- Vigencia . La presente Ley rige a partir de los seis (6) meses siguientes a la fecha de su sanción. Quienes soliciten licencias de construcción durante ese período, podrán acogerse a sus requisitos.\n\nPublíquese y ejecútese\n\nDada en Santa Fe de Bogotá, D.C., a 19 de agosto de 1997.\n\nEl Presidente de la República, ERNESTO SAMPER PIZANO. El Ministro del Interior, CARLOS HOLMES TRUJILLO GARCÍA. El Ministro de Desarrollo Económico, ORLANDO JOSÉ CABRALES MARTÍNEZ.\n\nNOTA: La presente Ley aparece publicada en el Diario Oficial No. 43.113 de agosto 25 de 1997."
+    }
+  ],
+  "definitions": []
+}

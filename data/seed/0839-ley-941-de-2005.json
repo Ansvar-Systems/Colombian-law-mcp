@@ -1,0 +1,420 @@
+{
+  "id": "co-ley-941-2005",
+  "type": "statute",
+  "title": "Ley 941 de 2005",
+  "short_name": "Ley 941 de 2005",
+  "status": "in_force",
+  "issued_date": "2004-01-14",
+  "in_force_date": "2004-01-14",
+  "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=15617",
+  "description": "Organiza el Sistema Nacional de Defensoría Pública. Señala su finalidad, cobertura, igualdad frente a los demás sujetos procesales, garantía del derecho de defensa, oportunidad, gratuidad, calidad y responsabilidad del sistema, selección objetiva en la contratación que realice y velación por la prelación de tratados internacionales. Determina el objeto del sistema, su aplicación, organización y componentes, prestación del servicio, realización de judicatura, prestación del servicio de asistencia y representación judicial en materia penal, vinculación de investigadores, técnicos, auxiliares y organizaciones científicas de investigación criminal, estructura de la Dirección del Sistema Nacional de Defensoría Pública, defensorías regionales y seccionales, funciones del director, funciones del defensor del pueblo regional o seccional, funciones de los coordinadores administrativos y de gestión, funciones del personero municipal, sujetos componentes del sistema, capacitación permanente, prestación del servicio en forma gratuita, sanciones, protección del sistema; integración y clasificación de los servidores de la dirección del sistema.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "TÍTULO PRELIMINAR",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "ARTÍCULO 1°. Finalidad . El Sistema Nacional de Defensoría Pública tiene como finalidad proveer el acceso de las personas a la Administración de Justicia en materia penal, en condiciones de igualdad y en los términos del debido proceso con respeto de los derechos y garantías sustanciales y procesales."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "TÍTULO PRELIMINAR",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ARTÍCULO 2°. Cobertura . El Sistema Nacional de Defensoría Pública prestará sus servicios en favor de las personas que por sus condiciones económicas o sociales se encuentran en circunstancias de desigualdad manifiesta para proveerse, por sí mismas, la defensa de sus derechos. También se prestará por las necesidades del proceso previstas en el inciso 2° del artículo 43 de la presente ley, en cuyo caso el imputado o acusado pagará al Sistema la totalidad de los honorarios y gastos causados.\n\nPara los efectos de la presente ley, se entiende por persona en imposibilidad económica, aquella que carece de recursos suficientes para proveer su defensa técnica y por persona en imposibilidad social, aquella que por discriminación u otra circunstancia excluyente no pueda acceder a un defensor particular."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "TÍTULO PRELIMINAR",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ARTÍCULO 3°. Igualdad . El Sistema Nacional de Defensoría Pública contará con los instrumentos necesarios para intervenir en los procesos judiciales en condiciones de igualdad frente a los demás sujetos procesales."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "TÍTULO PRELIMINAR",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "ARTÍCULO 4°. Derecho de defensa. El Sistema Nacional de Defensoría Pública garantizará el derecho a una defensa integral, ininterrumpida, técnica y competente."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "TÍTULO PRELIMINAR",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "ARTÍCULO 5°. Oportunidad . El Sistema Nacional de Defensoría Pública prestará un servicio oportuno, para lo cual se reglamentarán los procedimientos que habrán de seguirse."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "TÍTULO PRELIMINAR",
+      "section": "6",
+      "title": "Artículo 6",
+      "content": "ARTÍCULO 6°. Gratuidad . El Sistema Nacional de Defensoría Pública prestará su servicio de manera gratuita con las excepciones previstas en la presente ley."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "TÍTULO PRELIMINAR",
+      "section": "7",
+      "title": "Artículo 7",
+      "content": "ARTÍCULO 7°. Calidad . El Sistema Nacional de Defensoría Pública contará con estándares que garanticen la calidad y eficiencia en la prestación del servicio."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "TÍTULO PRELIMINAR",
+      "section": "8",
+      "title": "Artículo 8",
+      "content": "ARTÍCULO 8°. Responsabilidad . Los abogados que presten el servicio de asistencia y representación judicial en el Sistema Nacional de Defensoría Pública estarán sujetos, según el caso, para el ejercicio de sus derechos y cumplimiento de sus obligaciones, a las responsabilidades y sanciones que les impone su condición de servidores públicos o de particulares que cumplen funciones públicas y de sus faltas en el ejercicio de la profesión de abogado conocerán las Salas Jurisdiccionales Disciplinarias de los Consejos Seccionales y Superior de la Judicatura en sus respectivas instancias."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "TÍTULO PRELIMINAR",
+      "section": "9",
+      "title": "Artículo 9",
+      "content": "ARTÍCULO 9°. Selección objetiva. Las personas jurídicas y naturales que contraten con el Sistema Nacional de Defensoría Pública serán escogidas de acuerdo con los principios de transparencia y selección objetiva."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "TÍTULO PRELIMINAR",
+      "section": "10",
+      "title": "Artículo 10",
+      "content": "ARTÍCULO 10°. Prelación de tratados internacionales. El Sistema Nacional de Defensoría Pública velará por la prevalencia en el orden interno de los Tratados y Convenios Internacionales con arreglo a los artículos 93 y 94 de la Constitución Política.\n\nDISPOSICIONES GENERALES\n\nOBJETO DEL SISTEMA NACIONAL DE DEFENSORÍA PÚBLICA"
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "CAPÍTULO I",
+      "section": "11",
+      "title": "Artículo 11",
+      "content": "ARTÍCULO 11. Objeto . La presente ley tiene por objeto desarrollar los principios, normas y procedimientos, así como regular la organización y el funcionamiento del Sistema Nacional de Defensoría Pública.\n\nLa Defensoría Pública garantizará la asistencia judicial adecuada a los miembros de los pueblos indígenas y comunidades étnicas de acuerdo con los principios de diversidad cultural y pluralismo étnico señalados en la Constitución."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "CAPÍTULO I",
+      "section": "12",
+      "title": "Artículo 12",
+      "content": "ARTÍCULO 12. Aplicación . El Sistema Nacional de Defensoría Pública prestará su servicio en materia penal.\n\nORGANIZACIÓN Y COMPONENTES DEL SISTEMA NACIONAL DE DEFENSORÍA PÚBLICA"
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "CAPÍTULO II",
+      "section": "13",
+      "title": "Artículo 13",
+      "content": "ARTÍCULO 13. Organización . El Sistema Nacional de Defensoría Pública es un servicio público que organiza, dirige y controla el Defensor del Pueblo, en favor de las personas que lo requieren para asumir su asistencia y representación judicial y garantizar el pleno e igual acceso a la administración de justicia en materia penal."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "CAPÍTULO II",
+      "section": "14",
+      "title": "Artículo 14",
+      "content": "ARTÍCULO 14. Componentes del Sistema. El Sistema Nacional de Defensoría Pública está compuesto por la Dirección del Sistema Nacional de Defensoría Pública, los Defensores del Pueblo Regionales y Seccionales, los coordinadores administrativos y de gestión, los coordinadores académicos, los personeros municipales, los defensores públicos, los abogados particulares vinculados como Defensores Públicos para las excepciones previstas en esta ley, los investigadores, técnicos y auxiliares, los judicantes, los estudiantes de los consultorios jurídicos de las facultades de Derecho, las personas y asociaciones científicas dedicadas a la investigación criminal y las organizaciones que brinden capacitación a los componentes del Sistema.\n\nTambién pertenecerán al Sistema los programas jurídicos que las autoridades indígenas establezcan."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "CAPÍTULO II",
+      "section": "15",
+      "title": "Artículo 15",
+      "content": "ARTÍCULO 15. Prestación . El servicio de defensoría pública será prestado por profesionales del Derecho vinculados al Sistema en el territorio nacional, con excepción de lo previsto en los artículos 16 y 17 de la presente ley."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "CAPÍTULO II",
+      "section": "16",
+      "title": "Artículo 16",
+      "content": "ARTÍCULO 16. Judicatura . Los egresados de las facultades de Derecho podrán realizar su judicatura como defensores públicos, en los términos previstos en la ley y bajo la dirección del Sistema Nacional de Defensoría Pública."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "CAPÍTULO II",
+      "section": "17",
+      "title": "Artículo 17",
+      "content": "ARTÍCULO 17. Estudiantes de los consultorios jurídicos. Los estudiantes de los consultorios jurídicos de las facultades de Derecho de las universidades legalmente reconocidas en el país, que formen parte del Sistema Nacional de Defensoría Pública, podrán prestar servicio de asistencia y representación judicial en materia penal."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "CAPÍTULO II",
+      "section": "18",
+      "title": "Artículo 18",
+      "content": "ARTÍCULO 18. Investigadores, técnicos y auxiliares. El Sistema Nacional de Defensoría Pública podrá vincular investigadores, técnicos, auxiliares y organizaciones científicas de investigación criminal para que presten servicios de recaudo de material probatorio, asesoría técnica y científica necesarios para la defensa."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "CAPÍTULO II",
+      "section": "19",
+      "title": "Artículo 19",
+      "content": "ARTÍCULO 19. Capacitación . Las organizaciones que ofrezcan servicios de capacitación a los operadores deberán observar, entre otros, los módulos y contenidos definidos por la Dirección del Sistema Nacional de Defensoría Pública.\n\nDE LA ESTRUCTURA DE LA DIRECCIÓN DEL SISTEMA NACIONAL DE DEFENSORÍA PÚBLICA"
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "CAPÍTULO III",
+      "section": "20",
+      "title": "Artículo 20",
+      "content": "ARTÍCULO 20. Dirección y coordinación. Derogado por el Artículo 28 del Decreto 25 de 2014. El Sistema Nacional de Defensoría Pública será dirigido y coordinado por el Defensor del Pueblo, quien designará al Director del Sistema Nacional de Defensoría Pública.\n\nPara el desarrollo de su gestión, el Director contará con el apoyo del Defensor del Pueblo Regional o Seccional, según el caso, así como de un Coordinador para cada una de las siguientes Unidades Operativas del Nivel Nacional:\n\n1. Control, vigilancia de gestión y estadística.\n\n2. Registro y selección de los operadores de defensoría pública.\n\n3. Capacitación e investigación.\n\n4. Investigación criminal.\n\nLa Unidad de Control, Vigilancia de Gestión y Estadística supervisará la calidad del servicio, tendrá un sistema de información para realizar el seguimiento y análisis continuo de las políticas institucionales y de las actividades desarrolladas por los operadores del Sistema Nacional de Defensoría Pública. Asimismo, actuará como canal de comunicación para la difusión de las políticas y directrices relacionadas con el Sistema.\n\nLa Unidad de Registro y Selección de los Operadores de Defensoría Pública mantendrá el registro actualizado de los operadores del sistema y de las personas interesadas en ingresar al mismo y apoyará a la Dirección en el proceso de selección de acuerdo con lo previsto por esta ley. Igualmente, asistirá a la Dirección en los asuntos contractuales y legales para el desarrollo de las labores asignadas.\n\nLa Unidad de Capacitación e Investigación brindará formación y capacitación a los operadores del Sistema Nacional de Defensoría Pública y realizará investigaciones sobre materias relacionadas con el servicio de defensa pública para evaluar la calidad del mismo.\n\nLa Unidad de Investigación Criminal coordinará, controlará y hará seguimiento a la labor de los investigadores y técnicos que presten el servicio al Sistema Nacional de Defensoría Pública.\n\nPARÁGRAFO. Para los efectos de este artículo se entiende por operadores del Sistema Nacional de Defensoría Pública los defensores públicos vinculados mediante contrato de prestación de servicios profesionales y los abogados particulares que intervengan como defensores públicos para las excepciones previstas en esta ley. También harán parte los judicantes y los estudiantes de consultorios jurídicos de las facultades de Derecho que se encuentren vinculados al servicio de defensoría pública de la Defensoría del Pueblo, siempre que hayan suscrito contratos o convenios con la Defensoría del Pueblo.\n\nDE LAS DEFENSORÍAS REGIONALES Y SECCIONALES"
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "CAPÍTULO IV",
+      "section": "21",
+      "title": "Artículo 21",
+      "content": "ARTÍCULO 21. Defensoría descentralizada. Derogado por el Artículo 28 del Decreto 25 de 2014. En las Defensorías Regionales y Seccionales el servicio se prestará a través de Unidades Operativas de Gestión, conformadas por los coordinadores administrativos y de gestión, coordinadores académicos, defensores públicos, investigadores, técnicos y auxiliares administrativos que determine el Defensor del Pueblo y el Director del Sistema Nacional de Defensoría Pública, de acuerdo con los criterios de eficiencia que se establezcan para garantizar el cubrimiento del servicio.\n\nFUNCIONES DE LOS ORGANOS DEL SISTEMA NACIONAL DE DEFENSORIA PÚBLICA\n\nFUNCIONES DEL DIRECTOR DEL SISTEMA NACIONAL DE DEFENSORÍA PÚBLICA"
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "CAPÍTULO I",
+      "section": "22",
+      "title": "Artículo 22",
+      "content": "ARTÍCULO 22. Funciones . Derogado por el Artículo 28 del Decreto 25 de 2014 . Además de las previstas en la Ley 24 de 1992, el Director del Sistema Nacional de Defensoría Pública tendrá las siguientes funciones:\n\n1. Diseñar, dirigir y desarrollar en el ámbito nacional las políticas institucionales en materia de prestación del servicio ofrecido por el Sistema Nacional de Defensoría Pública, acorde con los criterios que establezca el Defensor del Pueblo.\n\n2. Organizar, dirigir y evaluar el servicio que presta el Sistema Nacional de Defensoría Pública.\n\n3. Realizar la coordinación entre los prestadores del servicio para la adecuada distribución de las labores y garantizar el cubrimiento de la demanda.\n\n4. Conformar el cuerpo de coordinadores administrativos y de gestión, coordinadores académicos, defensores públicos, abogados particulares inscritos y vinculados como Defensores Públicos para las excepciones previstas en esta ley, investigadores, técnicos, auxiliares y judicantes al servicio de la Dirección Nacional de Defensoría Pública de la Defensoría del Pueblo de acuerdo con las previsiones legales y reglamentarias.\n\n5. Solicitar a los consultorios jurídicos de las entidades universitarias la presentación semestral de informes estadísticos relacionados con la prestación del servicio.\n\n6. Divulgar en el nivel nacional la estadística de prestación del servicio del Sistema Nacional de Defensoría Pública.\n\n7. Llevar el registro actualizado de los operadores vinculados al Sistema Nacional de Defensoría Pública y de los profesionales aspirante s a ingresar al mismo.\n\n8. Poner en conocimiento de la Procuraduría General de la Nación la conducta de los servidores públicos que hayan impedido o dificultado el desarrollo de las labores asignadas al Sistema Nacional de Defensoría Pública.\n\n9. Formular recomendaciones a las autoridades en caso de amenaza o violación a los derechos de acceso a la justicia, al debido proceso y al derecho a la defensa.\n\n10. Establecer estándares de calidad y eficiencia que cumplirán los operadores vinculados al Sistema Nacional de Defensoría Pública.\n\n11. Aprobar los programas destinados a la capacitación de los operadores del Sistema, sin perjuicio de la autonomía universitaria en relación con los estudiantes de los consultorios jurídicos.\n\n12. Expedir reglamentos, órdenes, circulares, manuales de organización y procedimiento conducentes a la organización administrativa y al eficaz desempeño del servicio de defensoría pública en todo el país.\n\n13. Expedir las resoluciones y certificaciones de vinculación y cumplimiento de la judicatura a los egresados que presten el servicio de defensoría pública, de conformidad con los requisitos que establezca el reglamento.\n\n14. Las demás que le asigne el Defensor del Pueblo, en desarrollo de las materias propias.\n\nDE LAS FUNCIONES DEL DEFENSOR DEL PUEBLO REGIONAL O SECCIONAL EN EL SISTEMA NACIONAL DE DEFENSORÍA PÚBLICA"
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "CAPÍTULO II",
+      "section": "23",
+      "title": "Artículo 23",
+      "content": "ARTÍCULO 23. Funciones . Derogado por el Artículo 28 del Decreto 25 de 2014 . El Defensor del Pueblo Regional o Seccional, además de las funciones que le son propias, en el Sistema Nacional de Defensoría Pública cumplirá las siguientes:\n\n1. Desarrollar, coordinar y supervisar la ejecución de las políticas institucionales en materia de prestación del servicio ofrecido por el Sistema Nacional de Defensoría Pública, en el ámbito de su jurisdicción, acorde con las políticas y criterios establecidos.\n\n2. Proponer a la Dirección del Sistema medidas para mejorar la prestación del servicio, acorde con las necesidades y particularidades de la región a su cargo.\n\n3. Llevar la estadística de prestación del servicio de Defensoría Pública de la región y remitirla a la Dirección del Sistema, de acuerdo con los formatos establecidos.\n\n4. Realizar la coordinación entre los diferentes prestadores del servicio en la región, con el fin de lograr una adecuada distribución de las labores y obtener un eficiente cubrimiento de la demanda.\n\n5. Orientar a los personeros municipales para el cumplimiento de las funciones asignadas en el artículo 25 de la presente ley, con base en los lineamientos establecidos.\n\n6. Atender la reclamación que presente cualquier persona por irregularidades cometidas por alguno de los operadores del sistema y darle el trámite correspondiente.\n\n7. Verificar las condiciones económicas y sociales del solicitante del servicio o las necesidades del proceso y asignar defensor público cuando lo encuentre viable de acuerdo con los requisitos exigidos.\n\n8. Distribuir y/o reorganizar los operadores asignados por la Dirección del Sistema Nacional de Defensoría Pública en la Regional o Seccional a su cargo, de acuerdo con las necesidades del servicio.\n\n9. Evaluar conjuntamente con el Coordinador Administrativo y de Gestión de cada Unidad la calidad del servicio prestado por los operadores vinculados al Sistema Nacional de Defensoría Pública, de conformidad con los criterios y lineamientos que establezca la Dirección del Sistema Nacional de Defensoría Pública.\n\n10. Las demás funciones que la Dirección del Sistema le solicite asumir y se encuentren relacionadas con la prestación del servicio de la defensoría pública.\n\nDE LAS FUNCIONES DE LOS COORDINADORES ADMINISTRATIVOS Y DE GESTIÓN"
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "CAPÍTULO III",
+      "section": "24",
+      "title": "Artículo 24",
+      "content": "ARTÍCULO 24. Funciones . Derogado por el Artículo 28 del Decreto 25 de 2014 . Son funciones de los Coordinadores Administrativos y de Gestión:\n\n1. Coordinar y controlar el desarrollo del servicio de defensoría pública de la unidad a su cargo en cada oficina regional o seccional.\n\n2. Supervisar el cumplimiento de las obligaciones contractuales de las personas naturales o jurídicas que en la unidad a su cargo, en cada oficina regional o seccional, hagan parte del Sistema Nacional de Defensoría Pública, de conformidad con la ley y la reglamentación que se establezca.\n\n3. Presentar bimestralmente informe de gestión o cuando el Director del Sistema Nacional de Defensoría Pública lo solicite.\n\n4. Apoyar el programa de capacitación del Sistema Nacional de Defensoría Pública de la unidad a su cargo, en cada oficina regional o seccional, bajo la coordinación de la Unidad de Capacitación e Investigación.\n\n5. Consolidar las estadísticas de prestación del servicio en la unidad a su cargo en cada oficina regional o seccional.\n\n6. Las demás funciones que el Director del Sistema le solicite asumir y se encuentren relacionadas con la prestación del servicio de la defensoría pública.\n\nDE LAS FUNCIONES DEL PERSONERO MUNICIPAL EN DEFENSORÍA PÚBLICA"
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "CAPÍTULO IV",
+      "section": "25",
+      "title": "Artículo 25",
+      "content": "ARTÍCULO 25. Funciones del Personero Municipal. A nivel municipal, bajo la Dirección del Defensor del Pueblo y los lineamientos establecidos por el Director del Sistema Nacional de Defensoría Pública, el Personero Municipal velará por la prestación del servicio. En consecuencia deberá:\n\n1. Recibir las solicitudes del servicio que presta el Sistema Nacional de Defensoría Pública en el municipio.\n\n2. Solicitar la asignación de defensor público, previa verificación de la situación socioeconómica del solicitante o las necesidades del proceso, sin discriminación alguna y de conformidad con las directrices establecidas por la Dirección del Sistema Nacional de Defensoría Pública y bajo la coordinación del Defensor Regional o Seccional.\n\n3. Llevar el registro de las solicitudes de asignación de defensor público y remitir a la Defensoría Regional o Seccional de su jurisdicción las estadísticas de atención en el municipio a su cargo, de conformidad con los lineamientos establecidos por la Dirección Nacional del Sistema.\n\nDE LOS COMPONENTES DEL SISTEMA NACIONAL DE DEFENSORIA PUBLICA\n\nDE LOS DEFENSORES PÚBLICOS"
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "CAPÍTULO I",
+      "section": "26",
+      "title": "Artículo 26",
+      "content": "ARTÍCULO 26. Definición . Son los abogados vinculados al servicio de Defensoría Pública que administra la Defensoría del Pueblo, previo el cumplimiento de los requisitos, mediante la figura del contrato de prestación de servicios profesionales, para proveer la asistencia técnica y la representación judicial en favor de aquellas personas que se encuentren en las condiciones previstas en el artículo 2° de la presente ley, de acuerdo con las normas previstas en el Estatuto de Contratación Estatal.\n\nLos contratos de prestación de servicios profesionales especializados podrán suscribirse con cláusula de exclusividad y no dará lugar en ningún caso a vinculación laboral con la Institución."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "CAPÍTULO I",
+      "section": "27",
+      "title": "Artículo 27",
+      "content": "ARTÍCULO 27. Clasificación . Para efectos de su remuneración, los Defensores Públicos del Sistema podrán clasificarse en tres (3) categorías:\n\n1. Defensores Públicos ante jueces penales municipales.\n\n2. Defensores Públicos ante jueces penales del circuito y del circuito especializado.\n\n3. Defensores Públicos ante las Salas Penales de los Tribunales Superiores de Distrito Judicial y de la Corte Suprema de Justicia.\n\nPARÁGRAFO. En caso de requerirse la sustentación de un recurso ante un funcionario superior, el defensor público deberá actuar sin que ello signifique cambiar de categoría."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "CAPÍTULO I",
+      "section": "28",
+      "title": "Artículo 28",
+      "content": "ARTÍCULO 28. Requisitos mínimos. El Defensor del Pueblo establecerá mediante reglamento los requisitos mínimos que deberán cumplir los defensores públicos de acuerdo con las categorías a que se refiere este capítulo, así como para contratar abogados particulares en aquellas regiones apartadas del país en donde sea insuficiente o no exista oferta de servicios profesionales para la prestación del servicio de defensoría pública."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "CAPÍTULO I",
+      "section": "29",
+      "title": "Artículo 29",
+      "content": "ARTÍCULO 29. Remuneración . El Defensor del Pueblo establecerá el sistema de remuneración de los defensores públicos, el cual deberá atender criterios de dignidad, proporcionalidad, carga procesal o complejidad de asuntos, categoría de los funcionarios ante quienes se actúe y tarifas profesionales vigentes."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "CAPÍTULO I",
+      "section": "30",
+      "title": "Artículo 30",
+      "content": "ARTÍCULO 30. Derechos del Defensor Público. El defensor público tendrá derecho a:\n\n1. Ejercer su labor con independencia. Sin embargo, podrá intercambiar opiniones técnicas en el ámbito del Sistema Nacional de Defensoría Pública a fin de lograr una defensa eficaz.\n\n2. No ser relacionado con las causas ni con los usuarios a los que representa como consecuencia del desempeño de sus funciones.\n\n3. Ser tratado con respeto.\n\n4. No ser objeto de amenazas de ningún tipo. Las autoridades proporcionarán protección a los defensores públicos cuya seguridad personal sea amenazada a causa del desempeño de sus funciones."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "CAPÍTULO I",
+      "section": "31",
+      "title": "Artículo 31",
+      "content": "ARTÍCULO 31. Obligaciones del Defensor Público. El defensor público cumplirá las siguientes obligaciones:\n\n1. Manifestar la existencia de cualquier impedimento. No podrá tener interés personal con la causa ni con el usuario que representa.\n\n2. Ejercer defensa técnica, idónea y oportuna.\n\n3. Verificar el respeto de los derechos humanos, así como el cumplimiento de las garantías judiciales por parte de las autoridades en los procesos a su cargo. En caso de violación interponer los recursos que estime pertinentes e informar por escrito a la Defensoría Regional sobre dichas violaciones y las acciones adelantadas para contrarrestarlas.\n\n4. Asumir inmediatamente, con atención y diligencia hasta el final del proceso, la representación judicial o extrajudicial en los asuntos asignados por el Sistema Nacional de Defensoría Pública.\n\n5. Guardar absoluta reserva y secreto sobre los hechos, informaciones o cualquier dato o evidencia conocidos en el ejercicio de su labor, salvo las excepciones establecidas por la ley.\n\n6. Cumplir sus obligaciones de acuerdo con las normas que regulan el ejercicio de la profesión de abogado y las que reglamenten su desempeño como defensor público, y abstenerse de asumir la defensa como apoderado particular dentro de los procesos en los cuales haya actuado en calidad de defensor público o haya prestado asesoría.\n\n7. Rendir informes al Coordinador Administrativo y de Gestión de acuerdo con los parámetros establecidos por el Director del Sistema Nacional de Defensoría Pública.\n\n8. Las demás que deriven de la naturaleza de su labor y las que el Director del Sistema Nacional de Defensoría Pública señale.\n\nPARÁGRAFO. La Dirección del Sistema Nacional de Defensoría Pública podrá establecer obligaciones específicas para cada uno de los programas que adelante, las que serán definidas en el reglamento respectivo.\n\nDE LOS ABOGADOS PARTICULARES VINCULADOS AL SISTEMA"
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "CAPÍTULO II",
+      "section": "32",
+      "title": "Artículo 32",
+      "content": "ARTÍCULO 32. Abogados particulares. Los abogados particulares que contrate la Defensoría del Pueblo con el fin de garantizar la cobertura del servicio de acuerdo con el artículo 2° de la presente ley, deberán cumplir los requisitos que el reglamento establezca; tendrán la calidad y forma de contratación de los defensores públicos para el caso que motivó la vinculación, así como los mismos derechos y obligaciones derivados de su ejercicio.\n\nSólo hasta el 31 de diciembre de 2005 se podrá designar como defensores, sin contraprestación alguna, a los profesionales inscritos en el Registro Nacional de Abogados, cuando no existiere o no fuere posible nombrar un defensor público. El abogado designado podrá excusarse por enfermedad grave o incompatibilidad de intereses, ser servidor público o tener a su cargo tres (3) o más casos gratuitos. Para esta designación el Juez tendrá en cuenta la experiencia específica en el área penal.\n\nDE LOS EGRESADOS QUE REALICEN LA JUDICATURA EN EL SISTEMA NACIONAL DE DEFENSORÍA PÚBLICA"
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "CAPÍTULO III",
+      "section": "33",
+      "title": "Artículo 33",
+      "content": "ARTÍCULO 33. Judicatura . Los egresados de las facultades de derecho podrán cumplir su judicatura como defensores públicos. Asimismo, podrán desarrollar labores jurídico-administrativas relacionadas con el servicio en la Dirección del Sistema Nacional de Defensoría Pública, y en las Defensorías del Pueblo Regionales o Seccionales.\n\nLos judicantes se vincularán mediante resolución expedida por el Director del Sistema Nacional de Defensoría Pública previo cumplimiento de los requisitos que establezca el Reglamento.\n\nLa Defensoría del Pueblo podrá establecer un sistema de estímulos para los judicantes que presten su servicio al Sistema.\n\nEl desempeño de la judicatura no dará lugar en ningún caso a vinculación laboral con la institución.\n\nDE LOS CONSULTORIOS JURÍDICOS"
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "CAPÍTULO IV",
+      "section": "34",
+      "title": "Artículo 34",
+      "content": "ARTÍCULO 34. Consultorios jurídicos. Los estudiantes pertenecientes a los consultorios jurídicos de las Facultades de Derecho de las Universidades oficialmente reconocidas por el Estado apoyarán, con la coordinación de la Dirección Nacional de Defensoría Pública y la supervisión directa en cada actuación del personal académico que designe la respectiva Universidad, la prestación del servicio de defensoría pública en los asuntos penales de su competencia.\n\nLa intervención de los estudiantes de los consultorios jurídicos en calidad de defensores públicos en los procesos penales se hará ante los jueces municipales cuando actúen como jueces de conocimiento o como jueces de control de garantías en los asuntos de su competencia."
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "CAPÍTULO IV",
+      "section": "35",
+      "title": "Artículo 35",
+      "content": "ARTÍCULO 35. Informe estadístico. Los directores de los consultorios jurídicos de las facultades de Derecho oficialmente reconocidas deberán enviar un informe estadístico semestral a la Dirección del Sistema Nacional de Defensoría Pública, en el que se relacionen los asuntos en los cuales han actuado los estudiantes de estas instituciones, según los parámetros definidos por el Reglamento.\n\nDE LOS INVESTIGADORES Y TÉCNICOS DEL SISTEMA NACIONAL DE DEFENSORÍA PÚBLICA"
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "CAPÍTULO V",
+      "section": "36",
+      "title": "Artículo 36",
+      "content": "ARTÍCULO 36. Investigadores y técnicos del Sistema Nacional de Defensoría Pública. Son aquellos servidores públicos adscritos a la planta de la Defensoría del Pueblo y los contratados que colaboran con los defensores públicos en la consecución de la información y material probatorio necesario para el ejercicio real y efectivo del derecho de defensa.\n\nLas autoridades judiciales y administrativas facilitarán a los investigadores y peritos del Sistema Nacional de Defensoría Pública el acceso a la información que requieran para el cumplimiento de su función conforme a lo establecido en la Constitución Política, en los términos y oportunidades previstas por el Código de Procedimiento Penal.\n\nPARÁGRAFO. Facúltase al Defensor del Pueblo para reglamentar la remuneración de los servicios que se puedan prestar y cobrar a usuarios y abogados particulares que lo soliciten."
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "CAPÍTULO V",
+      "section": "37",
+      "title": "Artículo 37",
+      "content": "ARTÍCULO 37. Obligaciones . Los investigadores y técnicos desarrollarán su actividad con sujeción a la Constitución, la ley y los reglamentos que expida el Defensor del Pueblo, y respetarán en sus actuaciones los derechos fundamentales de todas las personas."
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "CAPÍTULO V",
+      "section": "38",
+      "title": "Artículo 38",
+      "content": "ARTÍCULO 38. Convenios . La Defensoría del Pueblo podrá celebrar convenios con entidades oficiales o privadas para la designación de expertos en determinada ciencia, arte, técnica u oficio, con el fin de contar con su asesoría cuando la naturaleza de los hechos objeto de un proceso asignado a un defensor público lo requiera."
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "CAPÍTULO V",
+      "section": "39",
+      "title": "Artículo 39",
+      "content": "ARTÍCULO 39. Requisitos . El Defensor del Pueblo establecerá mediante reglamento los requisitos mínimos que deberán cumplir los investigadores y peritos para prestar el servicio al Sistema Nacional de Defensoría Pública.\n\nDE LA CAPACITACIÓN"
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "TÍTULO IV",
+      "section": "40",
+      "title": "Artículo 40",
+      "content": "ARTÍCULO 40. Capacitación . Es deber de los defensores públicos mantener una capacitación permanente. El Sistema Nacional de Defensoría Pública promoverá la actualización de los operadores, por conducto de la Unidad de Capacitación e Investigación o de las instituciones que contraten con el Sistema, con el fin de optimizar la calidad y eficiencia del servicio."
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "TÍTULO IV",
+      "section": "41",
+      "title": "Artículo 41",
+      "content": "ARTÍCULO 41. Coordinador académico. Es el abogado vinculado al Sistema que aplicando su trayectoria en el campo del Derecho implementa los programas de capacitación y se encarga de facilitar a los defensores públicos, a través de las barras de abogados, los elementos de juicio suficientes para orientarlos en la definición de una estrategia de defensa técnica e idónea y proporcionarles conocimientos que complementen los que ya poseen.\n\nPARÁGRAFO. Los coordinadores académicos serán vinculados mediante contrato de prestación de servicios profesionales y deberán reunir los requisitos que establezca el reglamento que para el efecto expida el Defensor del Pueblo."
+    },
+    {
+      "provision_ref": "art42",
+      "chapter": "TÍTULO IV",
+      "section": "42",
+      "title": "Artículo 42",
+      "content": "ARTÍCULO 42. Barra de defensores públicos. Es la reunión de los operadores de la Defensoría Pública, cuyo objeto es la exposición del pensamiento jurídico de sus integrantes en torno a los casos que adelantan, a las temáticas jurídicas planteadas por ellos o por su coordinador académico y el desarrollo de los módulos de capacitación que envíe la Unidad de Capacitación de Defensoría Pública.\n\nPARÁGRAFO. Los operadores del Sistema Nacional de Defensoría Pública deberán cumplir con los programas de capacitación que apruebe el Director del Sistema Nacional de Defensoría Pública.\n\nDE LA PRESTACIÓN DEL SERVICIO"
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "CAPÍTULO UNICO",
+      "section": "43",
+      "title": "Artículo 43",
+      "content": "ARTÍCULO 43. Gratuidad . La defensoría pública es gratuita y se prestará en favor de aquellas personas que se encuentren en imposibilidad económica de proveer la defensa de sus derechos, con el fin de asumir su representación judicial.\n\nExcepcionalmente, la defensoría pública podrá prestarse a personas que teniendo solvencia económica, no puedan contratar un abogado particular por causas de fuerza mayor. Estos casos serán reglamentados por el Defensor del Pueblo, para lo cual se tendrán en cuenta factores como las connotaciones sociales de las personas que llegaren a solicitar la defensa, la trascendencia de los hechos del juicio criminal para la sociedad, la renuencia de los abogados particulares para representar a los implicados y las demás necesidades del proceso. En estos eventos el Defensor del Pueblo ordenará el cobro de la asistencia profesional según las tarifas que rigen el ejercicio de la profesión de abogado.\n\nLas Defensorías Regionales o Seccionales y personeros municipales deberán corroborar de manera breve y sumaria, previamente a la designación del defensor público, la imposibilidad o incapacidad económica de la persona a quien se va a prestar el servicio, así como la necesidad del mismo."
+    },
+    {
+      "provision_ref": "art44",
+      "chapter": "CAPÍTULO UNICO",
+      "section": "44",
+      "title": "Artículo 44",
+      "content": "ARTÍCULO 44. Suspensión . No se prestará el servicio a la persona que recurra a medios fraudulentos para tratar de acceder a la defensoría pública gratuita, sin perjuicio de las acciones judiciales a que hubiere lugar. En caso de que la defensa pública haya asumido la representación judicial y durante la actuación se comprobare la capacidad económica del usuario se retirará el servicio en forma inmediata."
+    },
+    {
+      "provision_ref": "art45",
+      "chapter": "CAPÍTULO UNICO",
+      "section": "45",
+      "title": "Artículo 45",
+      "content": "ARTÍCULO 45. Extensión . La defensa técnica se prestará en todas las etapas en qué sea necesaria la asistencia del defensor público de acuerdo con la ley."
+    },
+    {
+      "provision_ref": "art46",
+      "chapter": "CAPÍTULO UNICO",
+      "section": "46",
+      "title": "Artículo 46",
+      "content": "ARTÍCULO 46. Sanciones . El incumplimiento de los deberes y las obligaciones establecidas en la presente ley, en el Código de Procedimiento Penal, en el Estatuto Nacional del Abogado y en el Contrato de Prestación de Servicios dará lugar a las investigaciones disciplinarias, administrativas, fiscales y penales que fuere del caso y las que establezca el reglamento."
+    },
+    {
+      "provision_ref": "art47",
+      "chapter": "CAPÍTULO UNICO",
+      "section": "47",
+      "title": "Artículo 47",
+      "content": "ARTÍCULO 47. Mecanismo investigativo. El Sistema Nacional de Defensoría Pública contará con los mecanismos necesarios para la obtención del material probatorio que permitan fundamentar las hipótesis de la defensa."
+    },
+    {
+      "provision_ref": "art48",
+      "chapter": "CAPÍTULO UNICO",
+      "section": "48",
+      "title": "Artículo 48",
+      "content": "ARTÍCULO 48. Protección . El Sistema Nacional de Defensoría Pública prestará el apoyo técnico-científico necesario para que el defensor público pueda ejercer adecuadamente la defensa en los casos que le sean asignados."
+    },
+    {
+      "provision_ref": "art49",
+      "chapter": "CAPÍTULO UNICO",
+      "section": "49",
+      "title": "Artículo 49",
+      "content": "ARTÍCULO 49. Reserva . La comunicación entre el defensor público y su representado será reservada. Tal condición será garantizada por las autoridades."
+    },
+    {
+      "provision_ref": "art50",
+      "chapter": "CAPÍTULO UNICO",
+      "section": "50",
+      "title": "Artículo 50",
+      "content": "ARTÍCULO 50. Información al defendido. El defensor público deberá mantener personal y adecuadamente informado al representado sobre su situación jurídica y el desarrollo de su defensa, con el fin de garantizar una relación de confianza basada en la comunicación permanente. En caso de no ser posible la comunicación personal se establecerá la comunicación por otros medios."
+    },
+    {
+      "provision_ref": "art51",
+      "chapter": "CAPÍTULO UNICO",
+      "section": "51",
+      "title": "Artículo 51",
+      "content": "ARTÍCULO 51. Solicitud . El servicio de defensoría pública en materia penal se prestará a solicitud del interesado, del Fiscal, del Ministerio Público, del Funcionario Judicial o por iniciativa del Defensor del Pueblo, cuando lo estime pertinente por necesidades del proceso."
+    },
+    {
+      "provision_ref": "art52",
+      "chapter": "CAPÍTULO UNICO",
+      "section": "52",
+      "title": "Artículo 52",
+      "content": "ARTÍCULO 52. Suplentes . Con el fin de garantizar la presencia permanente de la defensa pública en las actuaciones judiciales se constituirán grupos conformados al menos por dos (2) defensores públicos que deberán ejercer la suplencia del otro cuando ocurra alguna circunstancia de fuerza mayor que no permita al principal asistir a la diligencia."
+    },
+    {
+      "provision_ref": "art53",
+      "chapter": "CAPÍTULO UNICO",
+      "section": "53",
+      "title": "Artículo 53",
+      "content": "ARTÍCULO 53. Conflicto de intereses en la defensa. En caso de presentarse conflicto de intereses en la defensa dentro de un mismo proceso con varios imputados que requieran el servicio del Sistema deberán asignarse distintos defensores públicos."
+    },
+    {
+      "provision_ref": "art54",
+      "chapter": "CAPÍTULO UNICO",
+      "section": "54",
+      "title": "Artículo 54",
+      "content": "ARTÍCULO 54. Turnos para permanencia del Sistema. Se garantizará el derecho a una defensa integral e ininterrumpida. A este efecto habrá, de acuerdo con las necesidades del servicio, turnos de atención de los defensores públicos en los lugares que se requieran."
+    },
+    {
+      "provision_ref": "art55",
+      "chapter": "CAPÍTULO UNICO",
+      "section": "55",
+      "title": "Artículo 55",
+      "content": "ARTÍCULO 55. Órgano técnico-científico. Los componentes del Sistema Nacional de Defensoría Pública podrán acudir al Instituto Nacional de Medicina Legal y Ciencias Forenses y a los laboratorios forenses de los organismos de policía judicial para recibir apoyo técnico-científico en las investigaciones que adelanten.\n\nESTRUCTURA ORGANICA DE LA DIRECCION DEL SISTEMA NACIONAL DE DEFENSORIA PÚBLICA\n\nINTEGRACIÓN Y CLASIFICACIÓN DE LOS SERVIDORES DE LA DIRECCIÓN DEL SISTEMA NACIONAL DE DEFENSORÍA PÚBLICA"
+    },
+    {
+      "provision_ref": "art56",
+      "chapter": "CAPÍTULO UNICO",
+      "section": "56",
+      "title": "Artículo 56",
+      "content": "ARTÍCULO 56. Nomenclatura . Derogado por el Artículo 17 del Decreto 26 de 2014. Adicionese a la estructura orgánica establecida en el artículo 20 de la Ley 24 de 1992 la siguiente nomenclatura de cargos:\n\nNivel Asesor Grado\n\nCoordinador de Unidad de la Dirección Nacional de Defensoría Pública 20\n\nCoordinador Administrativo y de Gestión de la Regional o Seccional en Defensoría Pública 19\n\nNivel Profesional\n\nProfesional Especializado 19\n\nProfesional Especializado en Criminalística 18\n\nProfesional Especializado en Investigación 17\n\nNivel Técnico\n\nTécnico en Criminalística 15\n\nNivel Administrativo\n\nAuxiliar Administrativo 10\n\nPARÁGRAFO I . El Gobierno Nacional establecerá la planta de personal de la Defensoría del Pueblo teniendo en cuenta la nomenclatura contenida en esta ley con sujeción a los programas, necesidades del servicio y monto global fijado por la Ley de Apropiaciones.\n\nPARÁGRAFO I I. El Defensor del Pueblo asignará la planta de personal que corresponda a la Dirección del Sistema Nacional de Defensoría Pública o a la Unidad Operativa de Gestión, con atribuciones para variarla cuando lo considere necesario y ajustará el manual de requisitos y funciones de cada uno de los empleos.\n\nDISPOSICIONES FINALES\n\nRECURSOS"
+    },
+    {
+      "provision_ref": "art57",
+      "chapter": "CAPÍTULO I",
+      "section": "57",
+      "title": "Artículo 57",
+      "content": "ARTÍCULO 57. Recursos . Para dar cumplimiento del parágrafo transitorio del artículo 5° del Acto Legislativo 03 de 2002 y al artículo 7º de la Ley 819 de 2003, a partir del año 2006 y durante el período de la implementación del Sistema Penal Acusatorio, defínese como la fuente de financiación los ahorros obtenidos por la Fiscalía General de la Nación como resultado de la disminución gradual de su planta de personal. En consecuencia, en cada vigencia fiscal se autorizarán nuevos gastos a la Defensoría del Pueblo hasta por una suma equivalente al ahorro que certifique la Fiscalía, el cual se causará en cada vigencia fiscal.\n\nPARÁGRAFO. Créase un Fondo-Cuenta dentro de la Defensoría del Pueblo, como un sistema separado de cuentas para el manejo de los recursos provenientes de las donaciones, aportes, honorarios y gastos correspondientes a la remuneración de los servicios profesionales e investigaciones técnico-científicas realizadas por la Dirección del Sistema Nacional de Defensoría Pública, a solicitud de los usuarios o abogados particulares que dispongan de recursos para pagarlos."
+    },
+    {
+      "provision_ref": "art58",
+      "chapter": "CAPÍTULO I",
+      "section": "58",
+      "title": "Artículo 58",
+      "content": "ARTÍCULO 58. Vigencia . Esta ley deroga todas las disposiciones que le sean contrarias y deberá aplicarse a partir del primero de enero de 2005, conforme a la gradualidad establecida en el Código de Procedimiento Penal.\n\nEL PRESIDENTE DEL HONORABLE SENADO DE LA REPÚBLICA,\n\nLUIS HUMBERTO GÓMEZ GALLO.\n\nEL SECRETARIO GENERAL DEL HONORABLE SENADO DE LA REPÚBLICA,\n\nEMILIO RAMÓN OTERO DAJUD.\n\nLA PRESIDENTA DE LA HONORABLE CÁMARA DE REPRESENTANTES,\n\nZULEMA DEL CARMEN JATTIN CORRALES.\n\nEL SECRETARIO GENERAL DE LA HONORABLE CÁMARA DE REPRESENTANTES,\n\nANGELINO LIZCANO RIVERA.\n\nREPUBLICA DE COLOMBIA - GOBIERNO NACIONAL\n\nPUBLÍQUESE Y EJECÚTESE.\n\nDada en Bogotá, D. C., a los 14 días del mes de enero de 2005.\n\nÁLVARO URIBE VÉLEZ\n\nEL MINISTRO DEL INTERIOR Y DE JUSTICIA,\n\nSABAS PRETELT DE LA VEGA.\n\nNOTA: Publicado en el Diario Oficial 45790 de enero 14 de 2004."
+    }
+  ],
+  "definitions": []
+}

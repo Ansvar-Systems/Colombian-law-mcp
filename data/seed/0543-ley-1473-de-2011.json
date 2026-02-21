@@ -1,0 +1,78 @@
+{
+  "id": "co-ley-1473-2011",
+  "type": "statute",
+  "title": "Ley 1473 de 2011",
+  "short_name": "Ley 1473 de 2011",
+  "status": "in_force",
+  "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=43236",
+  "description": "Por medio de la cual se establece una regla fiscal y se dictan otras disposiciones.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1°. Objeto . La presente ley tiene por objeto expedir normas que garanticen la sostenibilidad de largo plazo de las finanzas públicas y contribuyan a la estabilidad macroeconómica del país."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°. Ámbito de aplicación.\n\nLas disposiciones de la presente ley se aplicarán a las cuentas fiscales del Gobierno Nacional Central, de acuerdo con la metodología que para tal efecto defina el Consejo Superior de Política Fiscal - Confis."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3°. Definiciones .\n\nÚnicamente para los efectos de la presente ley, se tendrán en cuenta las siguientes definiciones:\n\na) Balance Fiscal Total: Es el resultado de la diferencia entre el ingreso total y el gasto total del Gobierno Nacional Central, de acuerdo con la metodología que para tal efecto defina el Confis;\n\nb) Ingreso Total: Equivale a la suma del ingreso estructural y los ingresos provenientes por efecto del ciclo económico, los efectos extraordinarios de la actividad minero-energética y otros efectos similares;\n\nc) Gasto Total: Corresponde a la suma del gasto estructural y el gasto contracíclico;\n\nd) Balance Fiscal Estructural: Corresponde al Balance Fiscal Total ajustado por el efecto del ciclo económico, por los efectos extraordinarios y transitorios de la actividad minero-energética y por otros efectos de naturaleza similar. Equivale a la diferencia entre ingreso estructural y gasto estructural del Gobierno Nacional Central;\n\ne) Ingreso Estructural: Es el ingreso total del Gobierno Nacional Central, una vez ajustado por el efecto del ciclo económico y los efectos extraordinarios de la actividad minero energética y otros efectos similares;\n\nf) Gasto Estructural: Es el nivel de gasto consistente con el ingreso estructural, en las condiciones establecidas en la presente ley;\n\ng) Gasto Contracíclico: Gasto temporal que contribuye a que la economía retorne a su senda de crecimiento de largo plazo, según se autoriza en el artículo 6° de la presente ley.\n\n(Derogado por el Art. 65 de la Ley 2155 de 2021)"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Artículo 4°. Coherencia .\n\nLa regla fiscal se materializa a través del Marco Fiscal de Mediano Plazo. El Plan de Inversiones del Proyecto de Ley del Plan Nacional de Desarrollo, el Marco de Gasto de Mediano Plazo, El Plan Financiero, el Plan Operativo Anual de Inversiones y el Proyecto de Ley de Presupuesto General de la Nación, deben ser consistentes con la regla fiscal, contenida en el Marco Fiscal de Mediano Plazo."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "Artículo 5°. Regla Fiscal.\n\nLa regla fiscal buscará asegurar la sostenibilidad de las finanzas públicas, de tal forma que no se supere el límite de deuda.\n\nEl límite de deuda es igual a 71% del PIB y el ancla de deuda es igual a 55% del PIB.\n\nPara cada vigencia fiscal, el valor mínimo que tomará el balance primario neto estructural será el siguiente, en función del nivel de deuda neta que se observe en la vigencia anterior:\n\nBPNE (%del PIB) = {0,2 + 0,1 (DN t-1 -55 si DN t-1 < 70}"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Balance Fiscal Total",
+      "definition": "Es el resultado de la diferencia entre el ingreso total y el gasto total del Gobierno Nacional Central, de acuerdo con la metodología que para tal efecto defina el Confis",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Ingreso Total",
+      "definition": "Equivale a la suma del ingreso estructural y los ingresos provenientes por efecto del ciclo económico, los efectos extraordinarios de la actividad minero-energética y otros efectos similares",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Gasto Total",
+      "definition": "Corresponde a la suma del gasto estructural y el gasto contracíclico",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Balance Fiscal Estructural",
+      "definition": "Corresponde al Balance Fiscal Total ajustado por el efecto del ciclo económico, por los efectos extraordinarios y transitorios de la actividad minero-energética y por otros efectos de naturaleza similar. Equivale a la diferencia entre ingreso estructural y gasto estructural del Gobierno Nacional Central",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Ingreso Estructural",
+      "definition": "Es el ingreso total del Gobierno Nacional Central, una vez ajustado por el efecto del ciclo económico y los efectos extraordinarios de la actividad minero energética y otros efectos similares",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Gasto Estructural",
+      "definition": "Es el nivel de gasto consistente con el ingreso estructural, en las condiciones establecidas en la presente ley",
+      "source_provision": "art3"
+    },
+    {
+      "term": "Gasto Contracíclico",
+      "definition": "Gasto temporal que contribuye a que la economía retorne a su senda de crecimiento de largo plazo, según se autoriza en el artículo 6° de la presente ley.",
+      "source_provision": "art3"
+    }
+  ]
+}

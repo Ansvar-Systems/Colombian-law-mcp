@@ -13,8 +13,8 @@ sources:
       url: "https://www.funcionpublica.gov.co"
       summary: "Legislation is publicly accessible on a government portal; portal terms apply."
     coverage:
-      scope: "Leyes y decretos nacionales publicados en Gestor Normativo, incluyendo normas de TIC, protección de datos, transparencia y comercio electrónico."
-      limitations: "El portal advierte que los datos son informativos; la vigencia oficial debe confirmarse con Diario Oficial y entidades competentes."
+      scope: "Cobertura completa de leyes nacionales listadas por Gestor Normativo bajo tipdoc=18 (1663 leyes al 2026-02-21)."
+      limitations: "Algunas fichas carecen de texto normativo completo en HTML (se conservan como registro sin provisiones); la vigencia oficial debe confirmarse con Diario Oficial y entidades competentes."
     languages:
       - "es"
 

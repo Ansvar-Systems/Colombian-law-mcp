@@ -1,0 +1,30 @@
+{
+  "id": "co-ley-1-1867",
+  "type": "statute",
+  "title": "Ley 1 de 1867 Congreso de la República",
+  "short_name": "Ley 1 de 1867",
+  "status": "in_force",
+  "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=13665",
+  "description": "Autoriza la creación de la Universidad Nacional de los Estados Unidos de Colombia. Señala las escuelas o institutos de que estará conformada, adscribe la Biblioteca Nacional, el Observatorio Astronómico y el Museo a la misma. Faculta al gobierno nacional para dictar los reglamentos.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1°. Autorízase plenamente al Poder Ejecutivo para que entre en arreglos con el Gobierno Soberano de Cundinamarca y con la Municipalidad de Bogotá, con el objeto de obtener la organización de una Universidad Nacional de los Estados Unidos de Colombia."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°. Serán bases fundamentales de estos arreglos:\n\n1o. Que la Universidad conste de seis escuelas o Institutos especiales, a saber:\n\nEscuela de Derecho, Escuela de Medicina, Escuela de Ciencias Naturales, Escuela de Ingenieros, Escuela o Instituto de Artes y Oficios y Escuela de Literatura y Filosofía.\n\n2o. Que en cada una de estas Escuelas se enseñen únicamente los ramos especiales que a ella corresponden.\n\n3o. Que la Biblioteca Nacional quede adscrita a la Universidad en general; el Observatorio Astronómico y el Museo a la Escuela de Ciencias Naturales, y el Hospital de Caridad y el Militar también a esta última Escuela, para el único efecto de que los profesores tengan en ellos anfiteatros y puedan dar convenientemente las enseñanzas que requiere el estudio práctico de la medicina.\n\n4o. Que los reglamentos de la Universidad, así como los de las respectivas Escuelas, sean dictados por el Gobierno de la Unión, y que corresponda al mismo el señalar los ramos de enseñanza a que deben contraerse los trabajos.\n\n[...]"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "Artículo 5°. Queda derogado el Decreto de 24 de agosto de 1861, creando un Colegio Militar y una Escuela Politécnica, y todas sus disposiciones adicionales y reglamentarias; queda igualmente derogada la Ley de 6 de marzo del corriente año, creando el Instituto Nacional de Artes y Oficios: y autorizando el Poder Ejecutivo para reglamentar las diferentes Escuelas de la Universidad, de la manera que estime conveniente.\n\nDado en Bogotá a 16 de Septiembre de 1867.\n\nEl Presidente del Senado de Plenipotenciarios,\n\nM.M. Mallarino\n\nEl Presidente de la Cámara de Representantes,\n\nAníbal Currea\n\nEl Secretario del Senado de Plenipotenciarios,\n\nDemetrio Porras\n\nEl Secretario de la Cámara de Representantes,\n\nFrancisco A. Vela\n\nBogotá, 22 de septiembre de 1867\n\nPublíquese y ejecútese.\n\n(L.S.) SANTOS ACOSTA\n\nEl Secretario de lo Interior y Relaciones Exteriores, Carlos Martín.\n\nNota*: El número se asignó para efectos de la incorporación del documento al sistema."
+    }
+  ],
+  "definitions": []
+}

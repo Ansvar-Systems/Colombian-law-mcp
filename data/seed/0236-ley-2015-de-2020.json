@@ -1,0 +1,124 @@
+{
+  "id": "co-ley-2015-2020",
+  "type": "statute",
+  "title": "Ley 2015 de 2020",
+  "short_name": "Ley 2015 de 2020",
+  "status": "in_force",
+  "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=105472",
+  "description": "Se crea la historia clínica electrónica interoperable y se dictan otras disposiciones.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "CAPÍTULO I",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "ARTÍCULO 1º. Objeto . La presente ley tiene por objeto regular la Interoperabilidad de la Historia Clínica Electrónica - IHCE, a través de la cual se intercambiarán los elementos de datos clínicos relevantes, así como los documentos y expedientes clínicos del curso de vida de cada persona.\n\nA través de la Historia Clínica Electrónica se facilitará, agilizará y garantizará el acceso y ejercicio de los derechos a la salud y a la información de las personas, respetando el Hábeas Data y la reserva de la misma.\n\nPARÁGRAFO. El Ministerio de Salud y Protección Social reglamentará los datos clínicos relevantes."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "CAPÍTULO I",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ARTÍCULO 2º. Definiciones.\n\nHistoria Clínica Electrónica: es el registro integral y cronológico de las condiciones de salud del paciente, que se encuentra contenido en sistemas de información y aplicaciones de software con capacidad de comunicarse, intercambiar datos y brindar herramientas para la utilización de la información refrendada con firma digital del profesional tratante. Su almacenamiento, actualización y uso se efectúa en estrictas condiciones de seguridad, integridad, autenticidad, confiabilidad, exactitud, inteligibilidad, conservación, disponibilidad y acceso, de conformidad con la normatividad vigente.\n\nInteroperabilidad: capacidad de varios sistemas o componentes para intercambiar información, entender estos datos y utilizarlos. De este modo, la información es compartida y está accesible desde cualquier punto de la red asistencial en la que se requiera su consulta y se garantiza la coherencia y calidad de los datos en todo el sistema, con el consiguiente beneficio para la continuidad asistencial y la seguridad del paciente."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "CAPÍTULO I",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ARTÍCULO 3º. Ámbito de aplicación . Los Prestadores de Servicios de Salud estarán obligados a diligenciar y disponer los datos, documento y expedientes de la historia clínica en la plataforma de interoperabilidad que disponga el Gobierno nacional.\n\nEl Ministerio de Salud y Protección Social definirá las características, los términos y condiciones para la interoperabilidad de los elementos de datos, documentos y expedientes de la historia clínica, cumpliendo con los lineamientos de- la política de Gobierno Digital o aquélla que haga sus veces, la cual será establecida por el Ministerio de Tecnologías de la Información y las Comunicaciones. El Archivo General de la Nación, de conformidad con las normas aplicables, reglamentará lo relacionado con los tiempos de retención documental, organización y conservación de las historias clínicas. De igual forma, estará en cabeza del Ministerio de Salud y Protección Social definir los criterios para exigir su respectiva implementación.\n\nPARÁGRAFO 1º. El Ministerio de Salud y Protección Social adoptará un plan de implementación de la Interoperabilidad de la Historia Clínica Electrónica - IHCE para el intercambio de los datos clínicos relevantes, el cual deberá tener en cuenta las condiciones específicas de los sujetos obligados. En todo caso, el plazo máximo de implementación será de cinco (5) años contados a partir de la entrada en vigencia de la presente ley. Esta estrategia obedecerá a criterios de interoperabilidad, privilegiando los datos, avances y sistemas existentes en los distintos prestadores dentro del sistema de salud, generando así un ahorro en la implementación de la Interoperabilidad de la Historia Clínica Electrónica -IHCE. En todo caso, facúltese al Ministerio de Salud y Protección Social para definir los términos de implementación de la interoperabilidad de los documentos y expedientes de la historia clínica electrónica como una fase superior al intercambio de datos clínicos relevantes.\n\nPARÁGRAFO 2º . El Ministerio de Salud y Protección Social definirá los criterios para exigir la Interoperabilidad de la Historia Clínica Electrónica como criterio de habilitación dentro del Sistema Único de Habilitación para Prestadores de Servicios de Salud, en los términos de implementación al que hace referencia el parágrafo primero del presente artículo.\n\nA los prestadores de servicios de salud y demás personas naturales o jurídicas que se relacionen con la atención en salud exceptuados en el marco del artículo 279 de la Ley 100 de 1993, les aplicarán las disposiciones de la presente Ley."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "CAPÍTULO I",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "ARTÍCULO 4º. Reglamentación y administración. Los Ministerios de Salud y Protección Social y el de Tecnologías de la Información y las Comunicaciones, o aquéllos que hagan sus veces, reglamentarán el modelo de Interoperabilidad de la Historia Clínica Electrónica. El Ministerio de Salud y Protección Social administrará el modelo de Interoperabilidad de la Historia Clínica Electrónica - IHCE y el Ministerio de Tecnologías de la Información y las Comunicaciones será el responsable de la administración de la herramie6ta tecnológica de la plataforma de interoperabilidad.\n\nPARÁGRAFO. El modelo de Interoperabilidad de la Historia Clínica Electrónica deberá ser reglamentado en un término máximo de doce (12) meses, contados a partir de la entrada en vigencia de la presente ley."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "CAPÍTULO I",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "ARTÍCULO 5º. Guarda y custodia. Todos los prestadores de servicios de salud, públicos o privados, seguirán teniendo la responsabilidad de la guarda y custodia de las historias clínicas de las personas en sus propios sistemas tecnológicos de acuerdo con las leyes vigentes sobre la materia. En todo caso, también serán responsables de la guarda y custodia los demás actores de salud involucrados en el marco de interoperabilidad de la historia clínica electrónica.\n\nPARÁGRAFO: El Ministerio de Salud y de la Protección Social, reglamentará el acceso a la información por parte del personal distinto al equipo de salud, en el marco de interoperabilidad de la historia clínica electrónica, lo cual deberá garantizar la privacidad y reserva de la historia clínica.\n\nTITULARIDAD"
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "CAPÍTULO II",
+      "section": "6",
+      "title": "Artículo 6",
+      "content": "ARTÍCULO 6º. Titularidad. Cada persona será titular de su Historia Clínica Electrónica, a la cual tendrán acceso, además del titular, los sujetos obligados en el artículo tercero de la presente ley, con el previo y expreso consentimiento de la persona o paciente de acuerdo con la normatividad vigente."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "CAPÍTULO II",
+      "section": "7",
+      "title": "Artículo 7",
+      "content": "ARTÍCULO 7º. Autorización a terceros. Solo la persona titular de la Historia Clínica Electrónica podrá autorizar el uso por terceros de la información total o parcial en ella contenida de acuerdo con la normatividad vigente, salvo en los casos que por ley no sea requerido el otorgamiento de dicha autorización.\n\nCONTENIDO, GRATUIDAD Y AUTENTICIDAD"
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "CAPÍTULO III",
+      "section": "8",
+      "title": "Artículo 8",
+      "content": "ARTÍCULO 8º. Contenido. La Historia Clínica Electrónica deberá contener los datos clínicos relevantes de la persona de forma ciar&, completa y estandarizada con los más altos niveles de confidencialidad.\n\nPARÁGRAFO 1º. La información suministrada en la Historia Clínica Electrónica no podrá ser modificada sin que quede registrada la modificación de que se trate, aun en el caso de que ella tuviera por objeto subsanar un error.\n\nEn caso de ser necesaria la corrección de una información de Historia Clínica Electrónica, se agregará el nuevo dato con la fecha, hora, nombre e identificación de quien hizo la corrección, sin suprimir lo corregido y haciendo referencia al error que subsana.\n\nPARÁGRAFO 2º . Los sujetos obligados deberán consignar en la \"Historia Clínica Electrónica Interoperable cualquier tipo de lesión causada por sustancias O agentes químicos corrosivos a la piel."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "CAPÍTULO III",
+      "section": "9",
+      "title": "Artículo 9",
+      "content": "ARTÍCULO 9º. Gratuidad. Todo paciente tendrá derecho a que le suministren su historia clínica por cualquier medio electrónico por parte de los prestadores de servicios de salud de forma gratuita, completa y rápida."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "CAPÍTULO III",
+      "section": "10",
+      "title": "Artículo 10",
+      "content": "ARTÍCULO 10. Autenticidad. La Historia Clínica Electrónica se presumirá auténtica de acuerdo con la normatividad vigente.\n\nDISPOSICIONES GENERALES"
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "CAPÍTULO IV",
+      "section": "11",
+      "title": "Artículo 11",
+      "content": "ARTÍCULO 11º. Reportes obligatorios de salud pública. El Ministerio de Salud y Protección Social articulará la información consignada en los reportes obligatorios de salud pública con la Historia Clínica Electrónica."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "CAPÍTULO IV",
+      "section": "12",
+      "title": "Artículo 12",
+      "content": "ARTÍCULO 12º. Prohibición de divulgar datos . Está prohibida la divulgación de los datos de cualquier persona consignados en la Historia Clínica Electrónica por parte de quien hubiere tenido acceso a esta información, teniendo en cuenta la normatividad vigente.\n\nPARÁGRAFO 1. Para los profesionales de la salud y los servidores públicos, la divulgación de la información de que trata el presente ·artículo constituirá falta gravísima de acuerdo con la Ley 1952 de 2019 y la Ley 23 de 1981 o normas que la modifiquen, complementen o sustituyan.\n\nPARÁGRAFO 2. Las EPS y las IPS responsables del manejo de la información no podrán divulga los datos por ellos administrados sin autorización expresa de la persona."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "CAPÍTULO IV",
+      "section": "13",
+      "title": "Artículo 13",
+      "content": "ARTÍCULO 13º. Seguridad e la información y seguridad digital. Los actores que traten información en el marco del presente título deberán establecer un plan de seguridad y privacidad de la información, seguridad digital y continuidad de la prestación del servicio, para lo cual establecerán una estrategia a través de la cual deberán realizar periódicamente una evaluación del riesgo de seguridad digital, que incluya una identificación de las mejoras a implementar en su Sistema de Administración del Riesgo Operativo.\n\nPara lo anterior, deberán contar con normas, políticas, procedimientos, recursos técnicos, administrativos y humanos necesarios para gestionar efectivamente el riesgo mediante la adopción de los lineamientos para la administración de la seguridad de la información y la seguridad digital que emita el Ministerio de Tecnologías de la Información y las Comunicaciones o quien haga sus veces. Lo anterior, incluyendo lo señalado por la Ley 1581 de 2012 de Hábeas Data y Ley 527 de 1999 de Comercio Electrónico, o las normas que las modifiquen, sustituyan o complementen."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "CAPÍTULO IV",
+      "section": "14",
+      "title": "Artículo 14",
+      "content": "ARTÍCULO 14º. Financiación. El Gobierno nacional y los demás agentes del sistema que intervengan en la IHCE concurrirán en la financiación para la implementación de los mecanismos necesarios que garanticen el funcionamiento continuo, oportuno y accesible de la IHCE."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "CAPÍTULO IV",
+      "section": "15",
+      "title": "Artículo 15",
+      "content": "ARTÍCULO 15º. Organización y manejo del archivo físico de las historias clínicas. El Archivo General de la Nación junto con el Ministerio de Salud y Protección Social reglamentarán lo relacionado con los tiempos de retención, organización, así como la conservación de los documentos y el expediente de la historia clínica física o electrónica, en concordancia con la normatividad que rija la materia."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "CAPÍTULO IV",
+      "section": "16",
+      "title": "Artículo 16",
+      "content": "ARTÍCULO 16º. Vigencia. La presente ley rige desde su promulgación y deroga las normas que le sean contrarias.\n\nEL PRESIDENTE DEL HONORABLE SENADO DE LA REPÚBLICA\n\nLIDIO ARTURO GARCIA TURBAY\n\nEL SECRETARIO GENERAL DEL HONORABLE SENADO DE LA REPUBLICA\n\nGREGORIO ELJACH PACHECO\n\nEL PRESIDENTE DE LA HONORABLE CÁMARA DE REPRESENTANTES\n\nCARLOS ALBERTO UENCA CHAUX\n\nEL SECRETARIO GENERAL DE LA H. CÁMARA DE REPRESENTANTES\n\nJORGE HUMBERTO MANTILLA SERRANO\n\nREPÚBLICA DE COLOMBIA - GOBIERNO NACIONAL\n\nPUBLÍQUESE y CÚMPLASE\n\nDada en Bogotá, D.C. a los 31 días del mes de enero de 2020\n\nEL PRESIDENTE DE LA REPÚBLICA\n\n(FDO.) IVAN DUQUE MARQUEZ\n\nLA MINISTRA DEL INTERIOR,\n\nNANCY PATRICIA GUTIÉRRREZ CASTAÑEDA\n\nEL MINISTRO DE HACIENDA Y CRÉDITO PÚBLICO,\n\nALBERTO CARRASQUILLA BARRERA\n\nLA MINISTRA DE JUSTICIA Y DEL DERECHO,\n\nMARGARITA LEONOR CABELLO BLANCO\n\nEL VICEMINISTRO DE SALUD PÚBLICA Y PRESTACIÓN DE SERVICIOS, ENCARGADO DE LAS FUNCIONES DEL EMPLEO DE MINISTRO DE SALUD Y PROTECCIÓN SOCIAL,\n\nIVÁN DARÍO GONZÁLEZ ORTÍZ\n\nEL MINISTRO DE COMERCIO, INDUSTRIA Y TURISMO,\n\nJOSÉ MANUEL RESTREPO ABONDANO\n\nEL VICEMINISTRO DE CONECTIVIDAD Y DIGITALIZACIÓN DEL MINISTERIO DE TECNOLOGÍAS DE LA INFORMACIÓN Y LAS COMUNICACIONES, ENCARGADO DE LAS FUNCIONES DEL DESPACHO DE LA MINISTRA DE TECNOLOGÍAS DE LA INFORMACIÓN Y LAS COMUNICACIONES,\n\nIVÁN ANTONIO MANTILLA GAVIRIA"
+    }
+  ],
+  "definitions": []
+}

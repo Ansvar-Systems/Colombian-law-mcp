@@ -1,0 +1,24 @@
+{
+  "id": "co-ley-4-1850",
+  "type": "statute",
+  "title": "Ley 4 de 1850",
+  "short_name": "Ley 4 de 1850",
+  "status": "in_force",
+  "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=12628",
+  "description": "Establece escuelas de arte y oficios en los colegios nacionales, para la enseñanza gratuita de algunas actividades; designa en el Ejecutivo la determinación del número de escuelas para estos fines, así como los salarios de los instructores.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "ARTÍCULO 1. Se establecen escuelas de artes y oficios en los colegios nacionales de la republica, para la enseñanza gratuita de la mecánica industrial y de las artes y oficios a que quieran consagrarse los granadinos."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ARTÍCULO 2. El Poder Ejecutivo designará el numero y clase de estas escuelas, y de los respectivos institutores fijará los sueldos y demás gastos, determinara las enseñanzas teóricas y practicas que deban darse, y reglamentara cuanto conduzca a este negociado, cuyos gastos se harán de las rentas de los colegios respectivos.\n\nDada en Bogotá a 8 de junio de 1850\n\nEjecútese y publíquese.\n\nEl Presidente de la Republica, JOSE HILARIO LOPEZ (L.S)\n\n- El Secretario de Hacienda, encargado del Despacho de Gobierno, MANUEL MURILLO\n\n* El número se introdujo para efectos de la incorporación al sistema, ya que el texto original no trae numeración."
+    }
+  ],
+  "definitions": []
+}

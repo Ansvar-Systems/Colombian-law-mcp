@@ -1,0 +1,796 @@
+{
+  "id": "co-ley-1687-2013",
+  "type": "statute",
+  "title": "Ley 1687 de 2013",
+  "short_name": "Ley 1687 de 2013",
+  "status": "in_force",
+  "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=61897",
+  "description": "se decreta el Presupuesto de Rentas y Recursos de Capital y Ley de Apropiaciones para la vigencia fiscal del 1o de enero al 31 de diciembre de 2014.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "CAPÍTULO I.",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "ARTÍCULO 1 ° . Fíjense los cómputos del presupuesto de rentas y recursos de capital del Tesoro de la Nación para la vigencia fiscal del 1o de enero al 31 de diciembre de 2014, en la suma de ciento noventa y nueve billones ochocientos cincuenta y cuatro mil quinientos cuarenta y siete millones quinientos veintiún mil quinientos treinta y cinco pesos ($199.854.547.521.535) moneda legal, según el detalle del Presupuesto de Rentas y Recursos de Capital para el 2014, así:\n\nRENTAS DEL PRESUPUESTO GENERAL DE LA NACIÓN\n\nI -INGRESOS DEL PRESUPUESTO NACIONAL 188,016,431,329,974\n\n1. INGRESOS CORRIENTES DE LA NACIÓN 102,691,440,000,000\n\n2. RECURSOS DE CAPITAL DE LA NACIÓN 62,269,030,218,478\n\n5. RENTAS PARAFISCALES 1,289,072,421,732\n\n6. FONDOS ESPECIALES 21,766,888,689,764\n\nII - INGRESOS DE LOS ESTABLECIMIENTOS PÚBLICOS 11,838,116,191,561\n\n0209 AGENCIA PRESIDENCIAL DE COOPERACIÓN INTERNACIONAL DE COLOMBIA, APC - COLOMBIA\n\nB- RECURSOS DE CAPITAL 13,309,000,000\n\n0303 UNIDAD ADMINISTRATIVA ESPECIAL - AGENCIA NACIONAL DE CONTRATACIÓN PÚBLICA - COLOMBIA COMPRA EFICIENTE\n\nA-INGRESOS CORRIENTES 8,220,000,000\n\n0324 SUPERINTENDENCIA DE SERVICIOS PÚBLICOS DOMICILIARIOS\n\nA-INGRESOS CORRIENTES 96,562,000,000\n\nB-RECURSOS DE CAPITAL 25,629,000,000\n\n0402 FONDO ROTATORIO DEL DANE\n\nA-INGRESOS CORRIENTES 11,231,000,000\n\nB-RECURSOS DE CAPITAL 1,968,000,000\n\n0403 INSTITUTO GEOGRÁFICO AGUSTÍN CODAZZI (IGAC)\n\nA-INGRESOS CORRIENTES 46,578,000,000\n\nB-RECURSOS DE CAPITAL 556,000,000\n\n0503 ESCUELA SUPERIOR DE ADMINISTRACIÓN PÚBLICA (ESAP)\n\nA-INGRESOS CORRIENTES 20,281,531,000\n\nB-RECURSOS DE CAPITAL 40,824,584,000\n\nC-CONTRIBUCIONES PARAFISCALES 91,500,826,000\n\n0602 FONDO ROTATORIO DEL DEPARTAMENTO ADMINISTRATIVO DE SEGURIDAD\n\nB-RECURSOS DE CAPITAL 53,783,500,000\n\n1102 FONDO ROTATORIO DEL MINISTERIO DE RELACIONES EXTERIORES\n\nA-INGRESOS CORRIENTES 156,755,000,000\n\nB-RECURSOS DE CAPITAL 11,417,000,000\n\n1104 UNIDAD ADMINISTRATIVA ESPECIAL MIGRACIÓN COLOMBIA\n\nA-INGRESOS CORRIENTES 12,156,000,000\n\nB-RECURSOS DE CAPITAL 611,000,000\n\n1204 SUPERINTENDENCIA DE NOTARIADO Y REGISTRO\n\nA-INGRESOS CORRIENTES 642,548,193,681\n\nB-RECURSOS DE CAPITAL 85,198,870,759\n\n1208 INSTITUTO NACIONAL PENITENCIARIO Y CARCELARIO (INPEC)\n\nA-INGRESOS CORRIENTES 112,454,400,000\n\nB-RECURSOS DE CAPITAL 433,500,000\n\n1209 DIRECCIÓN NACIONAL DE ESTUPEFACIENTES EN LIQUIDACIÓN\n\nB-RECURSOS DE CAPITAL 196,271,170,865\n\n1309 SUPERINTENDENCIA DE LA ECONOMÍA SOLIDARIA\n\nA-INGRESOS CORRIENTES 14,561,500,000\n\nB-RECURSOS DE CAPITAL 3,392,500,000\n\n1310 UNIDAD ADMINISTRATIVA ESPECIAL DIRECCIÓN DE IMPUESTOS Y ADUANAS NACIONALES\n\nA-INGRESOS CORRIENTES 13,850,000,000\n\nB-RECURSOS DE CAPITAL 3,167,000,000\n\n1313 SUPERINTENDENCIA FINANCIERA DE COLOMBIA\n\nA-INGRESOS CORRIENTES 192,505,562,500\n\nB-RECURSOS DE CAPITAL 3,000,000,000\n\n1503 CAJA DE RETIRO DE LAS FUERZAS MILITARES\n\nA-INGRESOS CORRIENTES 161,278,500,000\n\nB-RECURSOS DE CAPITAL 22,977,000,000\n\n1507 INSTITUTO CASAS FISCALES DEL EJÉRCITO\n\nA-INGRESOS CORRIENTES 36,403,000,000\n\nB-RECURSOS DE CAPITAL 6,444,000,000\n\n1508 DEFENSA CIVIL COLOMBIANA, GUILLERMO LEÓN VALENCIA\n\nA-INGRESOS CORRIENTES 1,500,000,000\n\nB-RECURSOS DE CAPITAL 950,000,000\n\n1510 CLUB MILITAR DE OFICIALES\n\nA-INGRESOS CORRIENTES 38,981,000,000\n\nB-RECURSOS DE CAPITAL 1,699,000,000\n\n1511 CAJA DE SUELDOS DE RETIRO DE LA POLICÍA NACIONAL\n\nA-INGRESOS CORRIENTES 159,468,000,000\n\nB-RECURSOS DE CAPITAL 39,200,000,000\n\n1512 FONDO ROTATORIO DE LA POLICÍA\n\nA-INGRESOS CORRIENTES 378,854,000,000\n\nB-RECURSOS DE CAPITAL 18,052,000,000\n\n1516 SUPERINTENDENCIA DE VIGILANCIA Y SEGURIDAD PRIVADA\n\nA-INGRESOS CORRIENTES 12,244,000,000\n\nB-RECURSOS DE CAPITAL 1,831,000,000\n\n1519 HOSPITAL MILITAR\n\nA-INGRESOS CORRIENTES 255,444,000,000\n\nB-RECURSOS DE CAPITAL 10,172,900,000\n\n1520 AGENCIA LOGÍSTICA DE LAS FUERZAS MILITARES\n\nA-INGRESOS CORRIENTES 1,016,947,000,000\n\n1702 INSTITUTO COLOMBIANO AGROPECUARIO (ICA)\n\nA-INGRESOS CORRIENTES 43,119,300,000\n\nB-RECURSOS DE CAPITAL 27,414,000,000\n\n1713 INSTITUTO COLOMBIANO DE DESARROLLO RURAL (INCODER)\n\nA-INGRESOS CORRIENTES 1,452,000,000\n\nB-RECURSOS DE CAPITAL 27,606,196,999\n\n1715 AUTORIDAD NACIONAL DE ACUICULTURA Y PESCA (AUNAP)\n\nA-INGRESOS CORRIENTES 2,732,300,000\n\nB-RECURSOS DE CAPITAL 488,800,000\n\n1903 INSTITUTO NACIONAL DE SALUD (INS)\n\nA-INGRESOS CORRIENTES 2,855,564,000\n\nB-RECURSOS DE CAPITAL 1,135,160,000\n\n1910 SUPERINTENDENCIA NACIONAL DE SALUD\n\nA-INGRESOS CORRIENTES 82,486,930,000\n\nB-RECURSOS DE CAPITAL 22,117,100,000\n\n1912 INSTITUTO NACIONAL DE VIGILANCIA DE MEDICAMENTOS Y ALIMENTOS (INVIMA)\n\nA-INGRESOS CORRIENTES 113,391,400,000\n\nB-RECURSOS DE CAPITAL 44,210,300,000\n\n1913 FONDO DE PREVISIÓN SOCIAL DEL CONGRESO\n\nA-INGRESOS CORRIENTES 21,361,850,000\n\nB-RECURSOS DE CAPITAL 152,422,400,000\n\n1914 FONDO PASIVO SOCIAL DE FERROCARRILES NACIONALES DE COLOMBIA\n\nA-INGRESOS CORRIENTES 77,460,870,000\n\nB-RECURSOS DE CAPITAL 7,171,400,000\n\n2103 SERVICIO GEOLÓGICO COLOMBIANO\n\nA-INGRESOS CORRIENTES 2,490,423,000\n\nB-RECURSOS DE CAPITAL 26,000,000,000\n\n2109 UNIDAD DE PLANEACIÓN MINERO-ENERGÉTICA (UPME)\n\nA-INGRESOS CORRIENTES 25,695,613,000\n\nB-RECURSOS DE CAPITAL 11,084,700,000\n\n2110 INSTITUTO DE PLANIFICACIÓN Y PROMOCIÓN DE SOLUCIONES ENERGÉTICAS PARA LAS ZONAS NO INTERCONECTADAS (IPSE)\n\nA-INGRESOS CORRIENTES 3,354,952,000\n\nB-RECURSOS DE CAPITAL 6,191,800,000\n\n2111 AGENCIA NACIONAL DE HIDROCARBUROS (ANH)\n\nA-INGRESOS CORRIENTES 372,390,294,000\n\nB-RECURSOS DE CAPITAL 170,190,000,000\n\n2112 AGENCIA NACIONAL DE MINERÍA (ANM)\n\nA-INGRESOS CORRIENTES 59,360,399,000\n\nB-RECURSOS DE CAPITAL 34,199,953,000\n\n2209 INSTITUTO NACIONAL PARA SORDOS (INSOR)\n\nA-INGRESOS CORRIENTES 363,400,000\n\n2210 INSTITUTO NACIONAL PARA CIEGOS (INCI)\n\nA-INGRESOS CORRIENTES 562,823,768\n\nB-RECURSOS DE CAPITAL 171,800,000\n\n2234 INSTITUTO TÉCNICO CENTRAL\n\nA-INGRESOS CORRIENTES 7,880,165,660\n\nB-RECURSOS DE CAPITAL 767,500,000\n\n2238 INSTITUTO NACIONAL DE FORMACIÓN TÉCNICA PROFESIONAL DE SAN ANDRÉS Y PROVIDENCIA\n\nA-INGRESOS CORRIENTES 864,000,000\n\n2239 INSTITUTO NACIONAL DE FORMACIÓN TÉCNICA PROFESIONAL DE SAN JUAN DEL CESAR\n\nA-INGRESOS CORRIENTES 1,039,315,804\n\nB-RECURSOS DE CAPITAL 1,749,265,172\n\n2241 INSTITUTO TOLIMENSE DE FORMACIÓN TÉCNICA PROFESIONAL\n\nA-INGRESOS CORRIENTES 3,723,700,000\n\nB-RECURSOS DE CAPITAL 178,400,000\n\n2242 INSTITUTO TÉCNICO NACIONAL DE COMERCIO “SIMÓN RODRÍGUEZ” DE CALI\n\nA-INGRESOS CORRIENTES 2,115,000,000\n\nB-RECURSOS DE CAPITAL 104,200,000\n\n2306 FONDO DE TECNOLOGÍAS DE LA INFORMACIÓN Y LAS COMUNICACIONES\n\nA-INGRESOS CORRIENTES 1,403,677,484,853\n\nB-RECURSOS DE CAPITAL 293,081,800,000\n\n2309 AGENCIA NACIONAL DEL ESPECTRO (ANE)\n\nA-INGRESOS CORRIENTES 26,094,823,149\n\n2310 AUTORIDAD NACIONAL DE TELEVISIÓN (ANTV)\n\nA-INGRESOS CORRIENTES 186,285,600,000\n\nB-RECURSOS DE CAPITAL 58,362,400,000\n\n2402 INSTITUTO NACIONAL DE VÍAS\n\nA-INGRESOS CORRIENTES 349,067,286,851\n\nB-RECURSOS DE CAPITAL 130,997,400,000\n\n2412 UNIDAD ADMINISTRATIVA ESPECIAL DE LA AERONÁUTICA CIVIL\n\nA-INGRESOS CORRIENTES 497,507,751,000\n\nB-RECURSOS DE CAPITAL 160,220,000,000\n\n2413 AGENCIA NACIONAL DE INFRAESTRUCTURA\n\nA-INGRESOS CORRIENTES 165,260,634,000\n\nB-RECURSOS DE CAPITAL 164,018,000,000\n\n2602 FONDO DE BIENESTAR SOCIAL DE LA CONTRALORÍA GENERAL DE LA REPÚBLICA\n\nA-INGRESOS CORRIENTES 993,000,000\n\nB-RECURSOS DE CAPITAL 32,253,000,000\n\n2802 FONDO ROTATORIO DE LA REGISTRADURÍA\n\nA-INGRESOS CORRIENTES 52,035,000,000\n\nB-RECURSOS DE CAPITAL 27,000,000,000\n\n2803 FONDO SOCIAL DE VIVIENDA DE LA REGISTRADURÍA NACIONAL DEL ESTADO CIVIL\n\nB-RECURSOS DE CAPITAL 7,131,000,000\n\n2902 INSTITUTO NACIONAL DE MEDICINA LEGAL Y CIENCIAS FORENSES\n\nA-INGRESOS CORRIENTES 5,758,143,000\n\nB-RECURSOS DE CAPITAL 286,700,000\n\n3202 INSTITUTO DE HIDROLOGÍA, METEOROLOGÍA Y ESTUDIOS AMBIENTALES (IDEAM)\n\nA-INGRESOS CORRIENTES 7,487,500,000\n\nB-RECURSOS DE CAPITAL 1,412,915,000\n\n3204 FONDO NACIONAL AMBIENTAL\n\nA-INGRESOS CORRIENTES 36,819,150,000\n\nB-RECURSOS DE CAPITAL 26,390,457,000\n\n3304 ARCHIVO GENERAL DE LA NACIÓN\n\nA-INGRESOS CORRIENTES 5,448,200,000\n\nB-RECURSOS DE CAPITAL 4,126,800,000\n\n3305 INSTITUTO COLOMBIANO DE ANTROPOLOGÍA E HISTORIA\n\nA-INGRESOS CORRIENTES 1,325,000,000\n\n3307 INSTITUTO CARO Y CUERVO\n\nA-INGRESOS CORRIENTES 662,600,000\n\n3502 SUPERINTENDENCIA DE SOCIEDADES\n\nA-INGRESOS CORRIENTES 111,757,022,517\n\nB-RECURSOS DE CAPITAL 4,607,977,483\n\n3503 SUPERINTENDENCIA DE INDUSTRIA Y COMERCIO\n\nA-INGRESOS CORRIENTES 68,400,800,000\n\nB-RECURSOS DE CAPITAL 47,000,000,000\n\n3504 UNIDAD ADMINISTRATIVA ESPECIAL JUNTA CENTRAL CONTADORES\n\nA-INGRESOS CORRIENTES 3,069,500,000\n\nB-RECURSOS DE CAPITAL 17,400,000,000\n\n3505 INSTITUTO NACIONAL DE METROLOGÍA (INM)\n\nA-INGRESOS CORRIENTES 1,200,000,000\n\n3602 SERVICIO NACIONAL DE APRENDIZAJE (SENA)\n\nA-INGRESOS CORRIENTES 244,242,000,000\n\nB-RECURSOS DE CAPITAL 292,346,662,500\n\nC-CONTRIBUCIONES PARAFISCALES 399,963,000,000\n\n3708 UNIDAD NACIONAL DE PROTECCIÓN (UNP)\n\nA-INGRESOS CORRIENTES 14,420,000,000\n\n3801 COMISIÓN NACIONAL DEL SERVICIO CIVIL\n\nA-INGRESOS CORRIENTES 28,837,070,000\n\nB-RECURSOS DE CAPITAL 22,476,700,000\n\n4104 UNIDAD DE ATENCIÓN Y REPARACIÓN INTEGRAL A LAS VÍCTIMAS\n\nA-INGRESOS CORRIENTES 43,919,000,000\n\n4105 CENTRO DE MEMORIA HISTÓRICA\n\nA-INGRESOS CORRIENTES 1,025,000,000\n\n4106 INSTITUTO COLOMBIANO DE BIENESTAR FAMILIAR (ICBF)\n\nA-INGRESOS CORRIENTES 735,000,000\n\nB-RECURSOS DE CAPITAL 352,662,000,000\n\nC-CONTRIBUCIONES PARAFISCALES 1,161,238,000,000\n\nIII - TOTAL INGRESOS 199,854,547,521,535\n\nRECURSOS SUBCUENTA DE SOLIDARIDAD DEL FOSYGA."
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "CAPÍTULO II.",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ARTÍCULO 2 ° . Se estima la cuantía de los recursos de la Subcuenta de Solidaridad del Fondo de Solidaridad y Garantía (Fosyga) para la vigencia fiscal de 2014 en la suma de cuatro billones seiscientos setenta y un mil novecientos ochenta y siete millones de pesos ($4.671.987.000.000) moneda legal.\n\nSEGUNDA PARTE."
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "CAPÍTULO II.",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ARTÍCULO 3 ° . PRESUPUESTO DE GASTOS O LEY DE APROPIACIONES. Aprópiese para atender los gastos de funcionamiento, inversión y servicio de la deuda pública del Presupuesto General de la Nación durante la vigencia fiscal del 1o de enero al 31 de diciembre de 2014 una suma por valor de: ciento noventa y nueve billones ochocientos cincuenta y cuatro mil quinientos cuarenta y siete millones quinientos veintiún mil quinientos treinta y cinco pesos ($199,854,547,521,535) moneda legal, según el detalle que se encuentra a continuación:"
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "CAPÍTULO II.",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "ARTÍCULO 4 ° . El monto de los gastos que se financiarán con los recursos que se someten a consideración del Congreso de la República en virtud del proyecto de ley de financiamiento que se presentará al Congreso en los términos del artículo 347 de la Constitución Política, ascienden a la suma de tres billones ciento cuarenta y cinco mil cuatrocientos cincuenta y dos millones cuatrocientos setenta y ocho mil cuatrocientos sesenta y cinco pesos ($3,145,452,478,465) moneda legal, según el detalle que se encuentra a continuación y con lo cual el presupuesto total de apropiaciones se fija en la suma de doscientos tres billones de pesos ($203,000,000,000,000) moneda legal.\n\nPRESUPUESTO GENERAL DE LA NACIÓN\n\nCTA PROG SUBC SUBP CONCEPTO APORTE NACIONAL RECURSOS PROPIOS TOTAL\n\nSECCIÓN: 1301\n\nMINISTERIO DE HACIENDA Y CRÉDITO PÚBLICO\n\nC PRESUPUESTO DE INVERSIÓN 3,145,452,478,465 3,145,452,478,465\n\n630 TRANSFERENCIAS 3,145,452,478,465 3,145,452,478,465\n\n1000 INTERSUBSECTORIAL GOBIERNO 3,145,452,478,465 3,145,452,478,465\n\nTOTAL PRESUPUESTO SECCIÓN 3,145,452,478,465 3,145,452,478,465\n\nTOTAL PRESUPUESTO NACIONAL 3,145,452,478,465 3,145,452,478,465\n\nTERCERA PARTE.\n\nDISPOSICIONES GENERALES."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "CAPÍTULO II.",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "ARTÍCULO 5 ° . Las disposiciones generales de la presente ley son complementarias de las Leyes 38 de 1989, 179 de 1994, 225 de 1995, 819 de 2003, 1473 de 2011 y 1508 de 2012 Orgánicas del Presupuesto, y deben aplicarse en armonía con estas.\n\nEstas normas rigen para los órganos que conforman el Presupuesto General de la Nación, y para los recursos de la Nación asignados a las empresas industriales y comerciales del Estado y a las sociedades de economía mixta con el régimen de aquellas.\n\nLos fondos sin personería jurídica deben ser creados por ley o por su autorización expresa y estarán sujetos a las normas y procedimientos establecidos en la Constitución Política, el Estatuto Orgánico del Presupuesto, la presente ley y las demás normas que reglamenten los órganos a los cuales pertenecen.\n\nDE LAS RENTAS Y RECURSOS."
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "CAPÍTULO I.",
+      "section": "6",
+      "title": "Artículo 6",
+      "content": "ARTÍCULO 6 ° . La Dirección General de Crédito Público y Tesoro Nacional del Ministerio de Hacienda y Crédito Público informará a los diferentes órganos las fechas de perfeccionamiento y desembolso de los recursos del crédito interno y externo de la Nación. Los establecimientos públicos del orden nacional reportarán a la referida Dirección el monto y las fechas de los recursos de crédito externo e interno contratados directamente.\n\nLa Dirección General de Crédito Público y Tesoro Nacional del Ministerio de Hacienda y Crédito Público conceptuará previamente sobre las solicitudes de modificación a fuentes de financiación cuando se trate de recursos de crédito de las diferentes apropiaciones que se detallen en el anexo del decreto de liquidación, siempre y cuando no modifiquen los montos aprobados por el Congreso de la República en la ley anual."
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "CAPÍTULO I.",
+      "section": "7",
+      "title": "Artículo 7",
+      "content": "ARTÍCULO 7 ° . El Gobierno Nacional a través de la Dirección General de Crédito Público y Tesoro Nacional del Ministerio de Hacienda y Crédito Público podrá realizar sustituciones en el portafolio de inversiones con entidades descentralizadas, sin efectuar operación presupuestal alguna, de conformidad con las normas legales vigentes."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "CAPÍTULO I.",
+      "section": "8",
+      "title": "Artículo 8",
+      "content": "ARTÍCULO 8 ° . Los ingresos corrientes de la Nación y aquellas contribuciones y recursos que en las normas legales no se haya autorizado su recaudo y manejo a otro órgano, deben consignarse en la Dirección General de Crédito Público y Tesoro Nacional del Ministerio de Hacienda y Crédito Público.\n\nLas entidades estatales del orden nacional podrán delegar en la Dirección General de Crédito Público y Tesoro Nacional la administración de sus recursos y el eventual pago de sus obligaciones con cargo a estos, para lo cual suscribirán directamente con la Dirección General de Crédito Público y Tesoro Nacional los acuerdos a que haya lugar.\n\nLas Superintendencias que no sean una sección presupuestal deben consignar mensualmente, en la Dirección General de Crédito Público y Tesoro Nacional del Ministerio de Hacienda y Crédito Público el valor de las contribuciones establecidas en la ley."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "CAPÍTULO I.",
+      "section": "9",
+      "title": "Artículo 9",
+      "content": "ARTÍCULO 9 ° . El Ministerio de Hacienda y Crédito Público a través de la Dirección General de Crédito Público y Tesoro Nacional fijará los criterios técnicos y las condiciones para el manejo de los excedentes de liquidez del Tesoro Nacional acorde con los objetivos monetarios, cambiarios y de tasa de interés a corto y largo plazo."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "CAPÍTULO I.",
+      "section": "10",
+      "title": "Artículo 10",
+      "content": "ARTÍCULO 10 ° . El Gobierno Nacional podrá emitir títulos de Tesorería, TES, Clase “B”, con base en la facultad de la Ley 51 de 1990 de acuerdo con las siguientes reglas: no contarán con la garantía solidaria del Banco de la República; el estimativo de los ingresos producto de su colocación se incluirá en el Presupuesto General de la Nación como recursos de capital, con excepción de los provenientes de la colocación de títulos para operaciones temporales de tesorería y los que se emitan para regular la liquidez de la economía; sus rendimientos se atenderán con cargo al Presupuesto General de la Nación con excepción de los que se emitan para regular la liquidez de la economía; su redención se atenderá con cargo a los recursos del Presupuesto General de la Nación, con excepción de las operaciones temporales de tesorería, y los que se emitan para regular la liquidez de la economía; podrán ser administrados directamente por la Nación; podrán ser denominados en moneda extranjera; su emisión solo requerirá del decreto que la autorice, fije el monto y sus condiciones financieras; la emisión destinada a financiar las apropiaciones presupuestales estará limitada por el monto de estas; su emisión no afectará el cupo de endeudamiento."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "CAPÍTULO I.",
+      "section": "11",
+      "title": "Artículo 11",
+      "content": "ARTÍCULO 11 . Los rendimientos financieros originados con recursos de la Nación, incluidos los negocios fiduciarios, deben consignarse en la Dirección General de Crédito Público y Tesoro Nacional del Ministerio de Hacienda y Crédito Público en el mes siguiente de su recaudo, con excepción de aquellos rendimientos originados por patrimonios autónomos que la ley haya autorizado.\n\nPara los efectos de este artículo, en los negocios fiduciarios se realiza el recaudo en el momento de la liquidación de las inversiones o de la recepción efectiva de los intereses o dividendos por parte del negocio fiduciario."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "CAPÍTULO I.",
+      "section": "12",
+      "title": "Artículo 12",
+      "content": "ARTÍCULO 12 . Facúltase a la Dirección General de Crédito Público y Tesoro Nacional del Ministerio de Hacienda y Crédito Público para que con los excedentes de liquidez en moneda nacional y extranjera de los fondos que administre, realice las siguientes operaciones: compra y venta de títulos valores emitidos por la Nación, el Banco de la República, Fondo de Garantías de Instituciones Financieras (Fogafín), entidades sujetas al control y vigilancia de la Superintendencia Financiera de Colombia y otros gobiernos y tesorerías; compra de deuda de la nación; compras con pacto de retroventa con entidades públicas y con entidades financieras sujetas al control y vigilancia de la Superintendencia Financiera de Colombia, dentro de los cupos que autorice el Ministro de Hacienda y Crédito Público; depósitos remunerados e inversiones financieras en entidades sujetas al control y vigilancia de la Superintendencia Financiera de Colombia; depósitos a término y compras de títulos emitidos por entidades bancarias y financieras del exterior; operaciones de cubrimiento de riesgos; y las demás que autorice el Gobierno Nacional; así mismo, préstamos transitorios a la Dirección General de Crédito Público y Tesoro Nacional del Ministerio de Hacienda y Crédito Público, reconociendo tasa de mercado durante el periodo de utilización, evento que no implica unidad de caja; y préstamos de títulos valores a la citada Dirección a tasas de mercado.\n\nPARÁGRAFO. Lo anterior aplica cuando, de acuerdo con las disposiciones legales, la Dirección General de Crédito Público y Tesoro Nacional del Ministerio de Hacienda y Crédito Público no pueda hacer unidad de caja con los recursos de los fondos que administre."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "CAPÍTULO I.",
+      "section": "13",
+      "title": "Artículo 13",
+      "content": "ARTÍCULO 13. La liquidación de los excedentes financieros de que trata el Estatuto Orgánico del Presupuesto, que se efectúen en la vigencia de la presente ley, se hará con base en una proyección de los ingresos y de los gastos, para la vigencia siguiente a la de corte de los estados financieros, en donde se incluyen además las cuentas por cobrar y por pagar no presupuestadas, las reservas presupuestales, así como la disponibilidad inicial (caja, bancos e inversiones).\n\nDE LOS GASTOS."
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "CAPÍTULO II.",
+      "section": "14",
+      "title": "Artículo 14",
+      "content": "ARTÍCULO 14 . Las afectaciones al presupuesto se harán teniendo en cuenta la prestación principal originada en los compromisos que se adquieran y con cargo a este rubro se cubrirán los demás costos inherentes o accesorios.\n\nCon cargo a las apropiaciones de cada rubro presupuestal, que sean afectadas con los compromisos iniciales, se atenderán las obligaciones derivadas de estos compromisos, tales como los costos imprevistos, ajustes y revisión de valores e intereses moratorios, gravámenes a los movimientos financieros y gastos de nacionalización."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "CAPÍTULO II.",
+      "section": "15",
+      "title": "Artículo 15",
+      "content": "ARTÍCULO 15 . Prohíbese tramitar actos administrativos u obligaciones que afecten el presupuesto de gastos cuando no reúnan los requisitos legales o se configuren como hechos cumplidos. El representante legal y ordenador del gasto o en quienes estos hayan delegado, responderán disciplinaria, fiscal y penalmente por incumplir lo establecido en esta norma."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "CAPÍTULO II.",
+      "section": "16",
+      "title": "Artículo 16",
+      "content": "ARTÍCULO 16. Para proveer empleos vacantes se requerirá el certificado de disponibilidad presupuestal por la vigencia fiscal de 2014. Por medio de este, el jefe de presupuesto o quien haga sus veces garantizará la existencia de los recursos del 1o de enero al 31 de diciembre de 2014, por todo concepto de gastos de personal, salvo que el nombramiento sea en reemplazo de un cargo provisto o creado durante la vigencia, para lo cual se deberá expedir el certificado de disponibilidad presupuestal por lo que resta del año fiscal.\n\nToda provisión de empleos de los servidores públicos deberá corresponder a los previstos en la planta de personal, incluyendo las vinculaciones de los trabajadores oficiales y tener previstos sus emolumentos de conformidad con el artículo 122 de la Constitución Política.\n\nLa vinculación de supernumerarios, por períodos superiores a tres meses, deberá ser autorizada mediante resolución suscrita por el jefe del respectivo órgano."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "CAPÍTULO II.",
+      "section": "17",
+      "title": "Artículo 17",
+      "content": "ARTÍCULO 17 . La solicitud de modificación a las plantas de personal requerirá para su consideración y trámite, por parte del Ministerio de Hacienda y Crédito Público - Dirección General del Presupuesto Público Nacional, los siguientes requisitos:\n\n1. Exposición de motivos.\n\n2. Costos comparativos de las plantas vigente y propuesta.\n\n3. Efectos sobre los gastos generales.\n\n4. Concepto del Departamento Nacional de Planeación si se afectan los gastos de inversión.\n\n5. Y los demás que la Dirección General del Presupuesto Público Nacional considere pertinentes.\n\nEl Departamento Administrativo de la Función Pública aprobará las propuestas de modificaciones a las plantas de personal, cuando hayan obtenido concepto o viabilidad presupuestal del Ministerio de Hacienda y Crédito Público - Dirección General del Presupuesto Público Nacional."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "CAPÍTULO II.",
+      "section": "18",
+      "title": "Artículo 18",
+      "content": "ARTÍCULO 18 18 . Los recursos destinados a programas de capacitación y bienestar social no pueden tener por objeto crear o incrementar salarios, bonificaciones, sobresueldos, primas, prestaciones sociales, remuneraciones extralegales o estímulos pecuniarios ocasionales que la ley no haya establecido para los servidores públicos, ni servir para otorgar beneficios directos en dinero o en especie.\n\nLos programas de capacitación podrán comprender matrículas de los funcionarios, que se girarán directamente a los establecimientos educativos, salvo lo previsto por el artículo 114 de la Ley 30 de 1992, modificado por el artículo 27 de la Ley 1450 de 2011. Su otorgamiento se hará en virtud de la reglamentación interna del órgano respectivo."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "CAPÍTULO II.",
+      "section": "19",
+      "title": "Artículo 19",
+      "content": "ARTÍCULO 19 . La constitución y funcionamiento de las cajas menores en los órganos que conforman el Presupuesto General de la Nación, y en las entidades nacionales con régimen presupuestal de empresas industriales y comerciales del Estado con carácter no financiero, respecto de los recursos que le asigna la Nación, se rigen por el Decreto número 2768 de 2012 y demás normas que lo modifiquen o adicionen."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "CAPÍTULO II.",
+      "section": "20",
+      "title": "Artículo 20",
+      "content": "ARTÍCULO 20 . La adquisición de los bienes que necesiten los órganos que hacen parte del Presupuesto General de la Nación para su funcionamiento y organización requiere de un plan de compras. Este plan deberá aprobarse por cada órgano acorde con las apropiaciones autorizadas en el Presupuesto General de la Nación y se modificará cuando las apropiaciones que lo respaldan sean modificadas o aplazadas."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "CAPÍTULO II.",
+      "section": "21",
+      "title": "Artículo 21",
+      "content": "ARTÍCULO 21 . Se podrán hacer distribuciones en el presupuesto de ingresos y gastos, sin cambiar su destinación, mediante resolución suscrita por el jefe del respectivo órgano.\n\nEn el caso de los establecimientos públicos del orden nacional, estas distribuciones se harán por resolución o acuerdo de las juntas o consejos directivos. Si no existen juntas o consejos directivos, lo hará el representante legal de estos.\n\nLas operaciones presupuestales contenidas en los mencionados actos administrativos, se someterán a la aprobación del Ministerio de Hacienda y Crédito Público - Dirección General del Presupuesto Público Nacional, y tratándose de gastos de inversión, requerirán el concepto previo favorable del Departamento Nacional de Planeación - Dirección de Inversiones y Finanzas Públicas.\n\nLos jefes de los órganos responderán por la legalidad de los actos en mención.\n\nA fin de evitar duplicaciones en los casos en los cuales la distribución afecte el presupuesto de otro órgano que haga parte del Presupuesto General de la Nación, el mismo acto administrativo servirá de base para realizar los ajustes correspondientes en el órgano que distribuye e incorporar las del órgano receptor. La ejecución presupuestal de estas deberá efectuarse por parte de los órganos receptores en la misma vigencia de la distribución.\n\nTratándose de gastos de inversión, la operación presupuestal descrita, en el órgano receptor se clasificará en el programa y subprograma a ejecutar que corresponda, sin que en ningún caso se cambie la destinación ni la cuantía.\n\nEl jefe del órgano o en quien este haya delegado la ordenación del gasto podrá efectuar a nivel del decreto de liquidación asignaciones internas de apropiaciones en sus dependencias, seccionales o regionales a fin de facilitar su manejo operativo y de gestión, sin que las mismas impliquen cambiar su destinación. Estas asignaciones para su validez no requerirán aprobación del Ministerio de Hacienda y Crédito Público - Dirección General del Presupuesto Público Nacional ni del previo concepto favorable por parte del Departamento Nacional de Planeación - Dirección de Inversiones y Finanzas Públicas tratándose de gastos de inversión."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "CAPÍTULO II.",
+      "section": "22",
+      "title": "Artículo 22",
+      "content": "ARTÍCULO 22 . Los órganos de que trata el artículo 5o de la presente ley podrán pactar anticipos únicamente cuando cuenten con Programa Anual Mensualizado de Caja (PAC), aprobado."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "CAPÍTULO II.",
+      "section": "23",
+      "title": "Artículo 23",
+      "content": "ARTÍCULO 23. El Gobierno Nacional en el decreto de liquidación clasificará los ingresos y gastos y definirá estos últimos.\n\nAsí mismo, cuando las partidas se incorporen en numerales rentísticos, secciones, programas y subprogramas que no correspondan a su objeto o naturaleza, las ubicará en el sitio que corresponda.\n\nLa Dirección General del Presupuesto Público Nacional del Ministerio de Hacienda y Crédito Público hará mediante resolución, las operaciones que en igual sentido se requieran durante el transcurso de la vigencia.\n\nCuando se trate del presupuesto de gastos de inversión requerirá el concepto previo favorable del Departamento Nacional de Planeación - Dirección de Inversiones y Finanzas Públicas."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "CAPÍTULO II.",
+      "section": "24",
+      "title": "Artículo 24",
+      "content": "ARTÍCULO 24. El Ministerio de Hacienda y Crédito Público - Dirección General del Presupuesto Público Nacional, de oficio o a petición del jefe del órgano respectivo, hará por resolución las aclaraciones y correcciones de leyenda necesarias para enmendar los errores de transcripción y aritméticos que figuren en el Presupuesto General de la Nación para la vigencia fiscal de 2014.\n\nCuando se trate de aclaraciones y correcciones de leyenda del presupuesto de gastos de inversión, se requerirá el concepto previo favorable del Departamento Nacional de Planeación - Dirección de Inversiones y Finanzas Públicas."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "CAPÍTULO II.",
+      "section": "25",
+      "title": "Artículo 25",
+      "content": "ARTÍCULO 25 . El Ministerio de Hacienda y Crédito Público - Dirección General del Presupuesto Público Nacional podrá abstenerse de adelantar los trámites de cualquier operación presupuestal de las entidades de que trata el artículo 5o de la presente ley que incumplan los objetivos y metas trazados en el Marco Fiscal de Mediano Plazo, en el Marco de Gasto de Mediano Plazo, en el Plan Financiero, en la Programación Macroeconómica del Gobierno Nacional y en el Programa Anual de Caja.\n\nEl Departamento Nacional de Planeación podrá abstenerse de adelantar el trámite de conceptos requeridos para las operaciones presupuestales a que hace referencia el inciso anterior, siempre que las entidades correspondientes incumplan con las obligaciones de reporte de información que impidan dar cumplimiento a lo establecido en el artículo 77 de la Ley 38 de 1989 modificado por el artículo 40 de la Ley 179 de 1994."
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "CAPÍTULO II.",
+      "section": "26",
+      "title": "Artículo 26",
+      "content": "ARTÍCULO 26. Los órganos de que trata el artículo 5o de la presente ley son los únicos responsables por el registro de su gestión financiera pública en el Sistema Integrado de Información Financiera SIIF - Nación.\n\nNo se requerirá el envío de informes mensuales a la Dirección General del Presupuesto Público Nacional del Ministerio de Hacienda y Crédito Público, salvo en aquellos casos en que esta de forma expresa lo solicite."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "CAPÍTULO II.",
+      "section": "27",
+      "title": "Artículo 27",
+      "content": "ARTÍCULO 27 . Cuando los órganos que hacen parte del Presupuesto General de la Nación celebren contratos entre sí, que afecten sus presupuestos, con excepción de los de crédito, harán los ajustes mediante resoluciones del jefe del órgano respectivo. En el caso de los establecimientos públicos del orden nacional, las Superintendencias y Unidades Administrativas Especiales con personería jurídica, así como las señaladas en el artículo 5o del Estatuto Orgánico del Presupuesto, dichos ajustes deben realizarse por acuerdo o resolución de las juntas o consejos directivos o el representante legal del órgano, si no existen juntas o consejos directivos.\n\nLos actos administrativos a que se refiere el inciso anterior deberán ser remitidos al Ministerio de Hacienda y Crédito Público - Dirección General del Presupuesto Público Nacional, acompañados del respectivo certificado en que se haga constar que se recaudarán los recursos, expedido por el órgano contratista y su justificación económica, para la aprobación de las operaciones presupuestales en ellos contenidas, requisito sin el cual no podrán ser ejecutados. De conformidad con el artículo 8o de la Ley 819 de 2003, los recursos deberán ser incorporados y ejecutados en la misma vigencia fiscal en la que se lleve a cabo la aprobación.\n\nCuando en los convenios se pacte pago anticipado y para el cumplimiento de su objeto el órgano contratista requiera contratar con un tercero, solo podrá solicitarse el giro efectivo de los recursos a la Dirección General de Crédito Público y Tesoro Nacional una vez dicho órgano adquiera el compromiso presupuestal y se encuentren cumplidos los requisitos que hagan exigible su pago a favor del beneficiario final.\n\nTratándose de gastos de inversión, requerirán el concepto previo favorable del Departamento Nacional de Planeación - Dirección de Inversiones y Finanzas Públicas.\n\nLos jefes de los órganos responderán por la legalidad de los actos en mención."
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "CAPÍTULO II.",
+      "section": "28",
+      "title": "Artículo 28",
+      "content": "ARTÍCULO 28 . Salvo lo dispuesto por el artículo 47 de la Ley 1450 de 2011, ningún órgano podrá contraer compromisos que impliquen el pago de cuotas a organismos internacionales con cargo al Presupuesto General de la Nación, sin que exista la ley aprobatoria de tratados públicos o que el Presidente de la República haya autorizado su aplicación provisional en los términos del artículo 224 de la Constitución Política.\n\nUna vez cumplidos los requisitos del inciso anterior, previa autorización del Ministerio de Relaciones Exteriores, los establecimientos públicos del orden nacional solo podrán pagar con cargo a sus recursos propios las cuotas a dichos organismos.\n\nLos aportes y contribuciones de la República de Colombia a los organismos financieros internacionales se pagarán con cargo al Presupuesto General de la Nación, salvo en aquellos casos en que los aportes se contabilicen como reservas internacionales, que serán pagados de conformidad con lo previsto en la Ley 31 de 1992 o aquellas que la modifiquen o adicionen.\n\nLos compromisos que se adquieran en el marco de tratados o convenios internacionales, de los cuales Colombia haga parte y cuya vinculación haya sido aprobada por ley de la República no requerirán de autorización de vigencias futuras, no obstante se deberá contar con aval fiscal previo por parte del Consejo Superior de Política Fiscal (Confis)."
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "CAPÍTULO II.",
+      "section": "29",
+      "title": "Artículo 29",
+      "content": "ARTÍCULO 29. Los órganos que conforman el Presupuesto General de la Nación deben reintegrar, dentro del primer trimestre de 2014, a la Dirección General de Crédito Público y Tesoro Nacional del Ministerio de Hacienda y Crédito Público los recursos de la Nación, y a sus tesorerías cuando correspondan a recursos propios, que no estén amparando compromisos u obligaciones, y que correspondan a apropiaciones presupuestales de vigencias fiscales anteriores, incluidos sus rendimientos financieros, diferencial cambiario, y demás réditos originados en aquellos, con el soporte correspondiente.\n\nLa presente disposición también se aplica a los recursos de convenios celebrados con organismos internacionales, incluyendo los de contrapartida."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "CAPÍTULO II.",
+      "section": "30",
+      "title": "Artículo 30",
+      "content": "ARTÍCULO 30. Cuando exista apropiación presupuestal en el servicio de la deuda pública podrán efectuarse anticipos en el pago de operaciones de crédito público. Igualmente podrán atenderse con cargo a la vigencia en curso las obligaciones del servicio de la deuda pública correspondiente al mes de enero de 2015."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "CAPÍTULO II.",
+      "section": "31",
+      "title": "Artículo 31",
+      "content": "ARTÍCULO 31. La representación legal y la ordenación del gasto del servicio de la deuda están a cargo del Ministro de Hacienda y Crédito Público o de quien este delegue, según las disposiciones de la Ley Orgánica del Presupuesto."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "CAPÍTULO II.",
+      "section": "32",
+      "title": "Artículo 32",
+      "content": "ARTÍCULO 32. Los gastos que sean necesarios para la administración, consecución y servicio de las operaciones de crédito público, las asimiladas a ellas, las propias del manejo de la deuda, las operaciones conexas y las demás relacionadas con los recursos del crédito serán atendidos con cargo a las apropiaciones del servicio de la deuda pública.\n\nDe conformidad con el artículo 46 del Estatuto Orgánico del Presupuesto, las pérdidas del Banco de la República se atenderán mediante la emisión de bonos u otros títulos de deuda pública. Adicionalmente y conforme lo establece el parágrafo 3o del artículo 167 de la Ley 1607 de 2012, para cubrir las obligaciones a cargo del Fondo de Estabilización de Precios a los Combustibles (FEPC), se podrán atender mediante la emisión de bonos u otros títulos de deuda pública.\n\nLa emisión de los bonos o títulos de que trata el presente artículo se realizará en condiciones de mercado, no implicará operación presupuestal alguna y solo debe presupuestarse para efectos de su redención.\n\nDE LAS RESERVAS PRESUPUESTALES Y CUENTAS POR PAGAR."
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "CAPÍTULO III.",
+      "section": "33",
+      "title": "Artículo 33",
+      "content": "ARTÍCULO 33. A través del Sistema Integrado de Información Financiera SIIF - Nación se definirá con corte a 31 de diciembre de 2013, las reservas presupuestales y cuentas por pagar de cada una de las secciones del Presupuesto General de la Nación.\n\nComo máximo, las reservas presupuestales corresponderán a la diferencia entre los compromisos y las obligaciones, y las cuentas por pagar por la diferencia entre las obligaciones y los pagos y con base en ellas se constituirán."
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "CAPÍTULO III.",
+      "section": "34",
+      "title": "Artículo 34",
+      "content": "ARTÍCULO 34 . A más tardar el 20 de enero de 2014, los órganos que conforman el Presupuesto General de la Nación constituirán las reservas presupuestales y cuentas por pagar de la respectiva sección presupuestal correspondientes a la vigencia fiscal de 2013, de conformidad con los saldos registrados a 31 de diciembre de 2013 a través del Sistema Integrado de Información Financiera SIIF – Nación.\n\nLos órganos que hacen parte del Presupuesto General de la Nación podrán efectuar los ajustes a que haya lugar para la constitución de las reservas presupuestales y de las cuentas por pagar, sin que en ningún caso se puedan registrar nuevos compromisos.\n\nCumplido el plazo para adelantar los ajustes a que hace mención el inciso anterior y constituidas en forma definitiva las reservas presupuestales y cuentas por pagar a través del Sistema Integrado de Información Financiera SIIF – Nación, los dineros sobrantes de la Nación serán reintegrados por el ordenador del gasto y el funcionario de manejo del respectivo órgano a la Dirección General de Crédito Público y Tesoro Nacional del Ministerio de Hacienda y Crédito Público, dentro de los primeros quince días del mes de febrero de 2014.\n\nLas cuentas por pagar y las reservas presupuestales que no se hayan ejecutado a 31 de diciembre de 2014 expiran sin excepción. En consecuencia, los respectivos recursos de la nación deben reintegrarse por el ordenador del gasto y el funcionario de manejo del respectivo órgano a la Dirección General de Crédito Público y Tesoro Nacional del Ministerio de Hacienda y Crédito Público, dentro de los primeros diez días del mes de enero de 2015.\n\nDE LAS VIGENCIAS FUTURAS."
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "CAPÍTULO IV.",
+      "section": "35",
+      "title": "Artículo 35",
+      "content": "ARTÍCULO 35. Las autorizaciones otorgadas por el Consejo Superior de Política Fiscal (Confis), o quien este delegue para la asunción de obligaciones que afecten presupuestos de vigencias futuras deberán respetar, en todo momento, las condiciones sobre las cuales se otorgó.\n\nLas entidades u órganos que requieran modificar el plazo y/o los cupos anuales de vigencias futuras autorizados por el Consejo Superior de Política Fiscal (Confis), o quien este delegue requerirán, de manera previa a la asunción de la respectiva obligación o a la modificación de las condiciones de la obligación existente, de la reprogramación de las vigencias futuras en donde se especifique el nuevo plazo y/o cupos anuales autorizados.\n\nCuando con posterioridad al otorgamiento de una autorización de vigencias futuras, la entidad u órgano requiera la modificación del objeto u objetos o el monto de la contraprestación a su cargo, será necesario adelantar ante el Consejo Superior de Política Fiscal (Confis), o su delegado la solicitud de una nueva autorización de vigencias futuras que ampare las modificaciones o adiciones requeridas de manera previa a la asunción de la respectiva obligación o a la modificación de las condiciones de la obligación existente.\n\nPARÁGRAFO 1 ° . Las modificaciones al monto de la contraprestación a cargo de la entidad solicitante, que tengan origen exclusivamente en los ajustes financieros del monto y que no se encuentren asociados a la provisión de bienes o servicios adicionales a los previstos inicialmente, se tramitarán como una reprogramación de vigencias futuras.\n\nPARÁGRAFO 2 ° . Lo anterior sin perjuicio de que en caso de tratarse de nuevas vigencias futuras, se deberá contar con el aval fiscal del Consejo Superior de Política Fiscal (Confis), y declaratoria de importancia estratégica por parte del Consejo Nacional de Política Económica y Social (Conpes), en los casos en que las normas lo exijan.\n\nPARÁGRAFO 3 ° . El Ministerio de Transporte y sus entidades adscritas deberán adelantar las gestiones conducentes a reprogramar $600 mil millones de las vigencias futuras autorizadas para 2014 en los diferentes proyectos de inversión para dar cumplimiento al Plan Operativo Anual de Inversiones aprobado para este sector. Igual procedimiento deberá surtir el Ministerio de Hacienda y Crédito Público en lo relacionado con Sistemas de Transporte Público por $100 mil millones."
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "CAPÍTULO IV.",
+      "section": "36",
+      "title": "Artículo 36",
+      "content": "ARTÍCULO 36. Los cupos anuales autorizados para asumir compromisos de vigencias futuras no utilizados a 31 de diciembre del año en que se concede la autorización caducan, salvo en los casos previstos en el inciso 2o del artículo 8o de la Ley 819 de 2003.\n\nCuando no fuere posible adelantar en la vigencia fiscal correspondiente los ajustes presupuestales, a que se refiere el inciso 2o del artículo 8o de la Ley 819 de 2003, se requerirá de la reprogramación de los cupos anuales autorizados por parte de la autoridad que expidió la autorización inicial, con el fin de dar continuidad al proceso de selección del contratista."
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "CAPÍTULO IV.",
+      "section": "37",
+      "title": "Artículo 37",
+      "content": "ARTÍCULO 37. Las solicitudes para comprometer recursos de la Nación, que afecten vigencias fiscales futuras de las empresas industriales y comerciales del Estado o sociedades de economía mixta con régimen de aquellas, deben tramitarse a través de los órganos que conforman el Presupuesto General de la Nación a los cuales estén vinculadas.\n\nDISPOSICIONES VARIAS."
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "CAPÍTULO V.",
+      "section": "38",
+      "title": "Artículo 38",
+      "content": "ARTÍCULO 38 . El servidor público que reciba una orden de embargo sobre los recursos incorporados en el Presupuesto General de la Nación, incluidas las transferencias que hace la Nación a las entidades territoriales, está obligado a efectuar los trámites correspondientes para solicitar su desembargo. Para este efecto, solicitará a la Dirección General del Presupuesto Público Nacional del Ministerio de Hacienda y Crédito Público la constancia de inembargabilidad. La solicitud debe indicar el tipo de proceso, las partes involucradas, el despacho judicial que profirió las medidas cautelares y el origen de los recursos que fueron embargados.\n\nDicha constancia de inembargabilidad se refiere a recursos y no a cuentas bancarias, y le corresponde al servidor público solicitante, en los casos en que la autoridad judicial lo requiera, tramitar, ante la entidad responsable del giro de los recursos objeto de medida cautelar, la correspondiente certificación sobre cuentas bancarias."
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "CAPÍTULO V.",
+      "section": "39",
+      "title": "Artículo 39",
+      "content": "ARTÍCULO 39 . Los órganos a que se refiere el artículo 5o de la presente ley pagarán los fallos de tutela con cargo al rubro que corresponda a la naturaleza del negocio fallado, igualmente, los contratos de transacción se imputarán con cargo al rubro afectado inicialmente con el respectivo compromiso.\n\nPara pagarlos, en primer lugar, se deben efectuar los traslados presupuestales requeridos, con cargo a los saldos de apropiación disponibles durante la vigencia fiscal en curso.\n\nLos establecimientos públicos deben atender las providencias que se profieran en su contra, en primer lugar con recursos propios realizando previamente las operaciones presupuestales a que haya lugar.\n\nCon cargo a las apropiaciones del rubro sentencias y conciliaciones, se podrán pagar todos los gastos originados en los tribunales de arbitramento, así como las cauciones o garantías bancarias o de compañía de seguros que se requieran en procesos judiciales."
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "CAPÍTULO V.",
+      "section": "40",
+      "title": "Artículo 40",
+      "content": "ARTÍCULO 40. La Fiscalía General de la Nación, la Policía Nacional, el Ejército Nacional, la Armada Nacional, la Fuerza Aérea y la Unidad Nacional de Protección, deben cubrir con cargo a sus respectivos presupuestos, los gastos del personal vinculado a dichos órganos y que conforman los Grupos de Acción Unificada por la Libertad Personal (Gaula), a que se refiere la Ley 282 de 1996.\n\nPARÁGRAFO. La Unidad Nacional de Protección o la Policía Nacional deberán cubrir, con cargo al rubro de viáticos y gastos de viaje de sus respectivos presupuestos, los gastos causados por los funcionarios que hayan sido asignados al Congreso de la República para prestar los servicios de protección y seguridad personal a sus miembros o a esta Institución."
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "CAPÍTULO V.",
+      "section": "41",
+      "title": "Artículo 41",
+      "content": "ARTÍCULO 41 . En lo relacionado con las cuentas por pagar y las reservas presupuestales, el presupuesto inicial correspondiente a la vigencia fiscal de 2014 cumple con lo establecido en el artículo 31 de la Ley 344 de 1996 y el artículo 9o de la Ley 225 de 1995."
+    },
+    {
+      "provision_ref": "art42",
+      "chapter": "CAPÍTULO V.",
+      "section": "42",
+      "title": "Artículo 42",
+      "content": "ARTÍCULO 42 . Las obligaciones por concepto de servicios médico-asistenciales, servicios públicos domiciliarios, gastos de operación aduanera, comunicaciones, transporte y contribuciones inherentes a la nómina, causados en el último trimestre de 2013, se pueden pagar con cargo a las apropiaciones de la vigencia fiscal de 2014.\n\nLas vacaciones, la prima de vacaciones, la indemnización a las mismas, la bonificación por recreación, las cesantías, las pensiones, gastos de inhumación, los impuestos y la tarifa de control fiscal, se pueden pagar con cargo al presupuesto vigente cualquiera que sea el año de su causación.\n\nLos órganos que hacen parte del Presupuesto General de la Nación podrán pagar, con cargo al presupuesto vigente, las obligaciones recibidas de las entidades liquidadas que fueron causadas por las mismas, correspondientes a servicios públicos domiciliarios y contribuciones inherentes a la nómina, cualquiera que sea el año de su causación, afectando el rubro que les dio origen.\n\nEl mismo procedimiento podrá surtirse para el pago de las obligaciones de reintegro de recursos que se califiquen como gastos no elegibles en el marco de convenios internacionales, afectando el presupuesto de funcionamiento."
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "CAPÍTULO V.",
+      "section": "43",
+      "title": "Artículo 43",
+      "content": "ARTÍCULO 43. Autorízase a la Nación y sus entidades descentralizadas, para efectuar cruces de cuentas entre sí, con entidades territoriales y sus descentralizadas y con las empresas de servicios públicos con participación estatal, sobre las obligaciones que recíprocamente tengan causadas. Para estos efectos se requerirá acuerdo previo entre las partes. Estas operaciones deben reflejarse en el presupuesto, conservando únicamente la destinación para la cual fueron programadas las apropiaciones respectivas.\n\nEn el caso de las obligaciones de origen legal que tenga la Nación y sus entidades descentralizadas para con otros órganos públicos, se deben tener en cuenta, para efectos de estas compensaciones, las transferencias y aportes, a cualquier título, que las primeras hayan efectuado a las últimas en cualquier vigencia fiscal. Si quedare algún saldo en contra de la Nación, esta podrá sufragarlo a través de títulos de deuda pública, sin que implique operación presupuestal alguna.\n\nCuando concurran las calidades de acreedor y deudor en una misma persona, como consecuencia de un proceso de liquidación o privatización de órganos nacionales de derecho público, se compensarán las cuentas, sin operación presupuestal alguna."
+    },
+    {
+      "provision_ref": "art44",
+      "chapter": "CAPÍTULO V.",
+      "section": "44",
+      "title": "Artículo 44",
+      "content": "ARTÍCULO 44. La Nación podrá emitir bonos en condiciones de mercado u otros títulos de deuda pública para pagar las obligaciones financieras a su cargo causadas o acumuladas, para sanear los pasivos correspondientes a las cesantías de las universidades estatales, a que se refiere el artículo 88 de la Ley 30 de 1992, del personal administrativo y docente no acogidos al nuevo régimen salarial.\n\nIgualmente, podrá emitir bonos pensionales de que trata la Ley 100 de 1993, en particular para las universidades estatales.\n\nLa Nación podrá reconocer como deuda pública las obligaciones a cargo de la Agencia Nacional de Infraestructura, surgidas de los contratos de concesión vial por concepto de garantías de ingresos mínimos garantizados, sentencias y conciliaciones hasta por trescientos mil millones de pesos ($300.000.000.000); en estos casos serán reconocidas mediante la emisión de bonos u otros títulos de deuda pública en condiciones de mercado, para lo cual deberá surtirse el procedimiento previsto en el artículo 29 de la Ley 344 de 1996 y sus normas reglamentarias, en lo pertinente.\n\nLa responsabilidad por el pago de las obligaciones a que hace referencia el inciso anterior es de la Agencia Nacional de Infraestructura.\n\nPARÁGRAFO . La emisión de los bonos o títulos de que trata el presente artículo no implica operación presupuestal y solo debe presupuestarse para efectos de su redención. El mismo procedimiento se aplicará a los bonos que se expidan en cumplimiento del artículo 29 de la Ley 344 de 1996. Las entidades del Presupuesto General de la Nación que utilicen este mecanismo sólo procederán con los registros contables que sean del caso para extinguir dichas obligaciones en virtud de los acuerdos de pago que suscriban con el Ministerio de Hacienda y Crédito Público."
+    },
+    {
+      "provision_ref": "art45",
+      "chapter": "CAPÍTULO V.",
+      "section": "45",
+      "title": "Artículo 45",
+      "content": "ARTÍCULO 45. El porcentaje de la cesión del impuesto a las ventas asignado a las cajas departamentales de previsión y al Fondo de Prestaciones Sociales del Magisterio, con destino al pago de las cesantías definitivas y pensiones del personal docente nacionalizado, continuará pagándose tomando como base los convenios suscritos en virtud de lo dispuesto en la Ley 91 de 1989."
+    },
+    {
+      "provision_ref": "art46",
+      "chapter": "CAPÍTULO V.",
+      "section": "46",
+      "title": "Artículo 46",
+      "content": "ARTÍCULO 46. Todos los programas y proyectos en carreteras y aeropuertos, que no estén a cargo de la Nación y que estén financiados con recursos del Fondo de Inversiones para la Paz que está adscrito al Departamento Administrativo para la Prosperidad Social, podrán ser ejecutados por el Instituto Nacional de Vías, la Unidad Administrativa Especial de la Aeronáutica Civil o mediante convenios con las entidades territoriales según sea el caso."
+    },
+    {
+      "provision_ref": "art47",
+      "chapter": "CAPÍTULO V.",
+      "section": "47",
+      "title": "Artículo 47",
+      "content": "ARTÍCULO 47. En desarrollo del artículo 119 del Estatuto Orgánico del Presupuesto, el Instituto de Planificación y Promoción de Soluciones Energéticas (IPSE), siempre y cuando no signifiquen erogaciones en dinero, podrá adelantar las operaciones de canje de activos fijos de su propiedad por proyectos de preinversión e inversión en las zonas que no tengan posibilidad técnico-económica de conectarse al Sistema Interconectado Nacional.\n\nLos proyectos de preinversión e inversión incluidos en el canje que se realice, no podrán ser financiados directa ni indirectamente con recursos que hagan parte del Presupuesto General de la Nación."
+    },
+    {
+      "provision_ref": "art48",
+      "chapter": "CAPÍTULO V.",
+      "section": "48",
+      "title": "Artículo 48",
+      "content": "ARTÍCULO 48. La ejecución de los recursos que se giran al Fondo Nacional de Pensiones de las Entidades Territoriales (Fonpet), con cargo al Presupuesto General de la Nación, se realizará por medio de resolución expedida por el Ministerio de Hacienda y Crédito Público, ordenando el giro de los recursos. Si no fuere posible realizar el giro de los recursos a las administradoras del Fondo, bastará para el mismo efecto, que por dicha resolución se disponga la administración de los mismos por parte de la Dirección General de Crédito Público y Tesoro Nacional del Ministerio de Hacienda y Crédito Público a través de una cuenta especial, mientras los recursos puedan ser efectivamente entregados.\n\nLos recursos serán girados con la periodicidad que disponga el Gobierno Nacional. En el evento en que los recursos no se hayan distribuido en su totalidad entre las entidades territoriales, los no distribuidos se podrán girar a una cuenta del Fondo, administrada de la misma manera que los demás recursos del Fondo, como recursos por abonar a las cuentas correspondientes de las entidades territoriales.\n\nPara efectos de realizar la verificación de las condiciones a las que hace referencia el parágrafo 3o del artículo 2o de la Ley 549 de 1999, el Gobierno Nacional determinará las condiciones sustanciales que deben acreditarse, los documentos que deben remitirse para el efecto, y el procedimiento con que la misma se realizará. Mientras se producen las verificaciones, se girarán los recursos en la forma prevista en el inciso anterior. Cuando se establezca que la realidad no corresponde con lo que se acreditó, se descontarán los recursos correspondientes, para efectos de ser redistribuidos, sin que dicha nueva distribución constituya un nuevo acto de ejecución presupuestal."
+    },
+    {
+      "provision_ref": "art49",
+      "chapter": "CAPÍTULO V.",
+      "section": "49",
+      "title": "Artículo 49",
+      "content": "ARTÍCULO 49. Las apropiaciones programadas en la presente ley para la ejecución de proyectos viales de la red secundaria y terciaria a cargo de los departamentos y municipios, los aeropuertos y zonas marítimas que no estén a cargo de la Nación, podrán ser ejecutadas directamente por las entidades especializadas del sector transporte o mediante convenios con las entidades territoriales y/o sus descentralizadas. La responsabilidad de la Nación se limitará a la ejecución de los recursos apropiados en la presente ley y dicha infraestructura seguirá a cargo de las entidades territoriales y/o sus descentralizadas.\n\nPARÁGRAFO 1 ° . La Nación a través del Ministerio de Hacienda y Crédito Público, podrá otorgar créditos presupuestales a las entidades territoriales y/o sus descentralizadas para el desarrollo de proyectos a que se refiere el presente artículo, en los términos y condiciones especiales que dicho Ministerio establezca.\n\nPARÁGRAFO 2 ° . La Unidad Administrativa Especial de Aeronáutica Civil podrá destinar recursos al mantenimiento y mejoramiento del Aeropuerto de la ciudad de Puerto Inírida."
+    },
+    {
+      "provision_ref": "art50",
+      "chapter": "CAPÍTULO V.",
+      "section": "50",
+      "title": "Artículo 50",
+      "content": "ARTÍCULO 50. Las entidades estatales podrán constituir mediante patrimonio autónomo los fondos a que se refiere el artículo 107 de la Ley 42 de 1993. Los recursos que se coloquen en dichos fondos ampararán los bienes del Estado cuando los estudios técnicos indiquen que es más conveniente la cobertura de los riesgos con reservas públicas que con seguros comerciales.\n\nCuando los estudios técnicos permitan establecer que determinados bienes no son asegurables o que su aseguramiento implica costos de tal naturaleza que la relación costo-beneficio del aseguramiento es negativa, o que los recursos para autoprotección mediante fondos de aseguramiento son de tal magnitud que no es posible o conveniente su uso para tal fin, se podrá asumir el riesgo frente a estos bienes y no asegurarlos ni ampararlos con fondos de aseguramiento.\n\nTambién podrán contratar un seguro de responsabilidad civil para servidores públicos, mediante el cual se ampare la responsabilidad de los mismos por actos o hechos no dolosos ocurridos en ejercicio de sus funciones, y los gastos de defensa en materia disciplinaria, penal y fiscal que deban realizar; estos últimos gastos los podrán pagar las entidades, siempre y cuando exista decisión definitiva que exonere de toda responsabilidad y no sea condenada la contraparte a las costas del proceso.\n\nEsta disposición será aplicable a las Empresas Industriales y Comerciales del Estado y a las Sociedades de Economía Mixta asimiladas a estas."
+    },
+    {
+      "provision_ref": "art51",
+      "chapter": "CAPÍTULO V.",
+      "section": "51",
+      "title": "Artículo 51",
+      "content": "ARTÍCULO 51. En virtud de la autonomía consagrada en el artículo 69 de la Constitución Política, las universidades estatales pagarán las sentencias o fallos proferidos en contra de la Nación con los recursos asignados por parte de esta, en cumplimiento del artículo 86 de la Ley 30 de 1992."
+    },
+    {
+      "provision_ref": "art52",
+      "chapter": "CAPÍTULO V.",
+      "section": "52",
+      "title": "Artículo 52",
+      "content": "ARTÍCULO 52. Con los excedentes de la Subcuenta de Solidaridad del Fondo de Solidaridad Pensional se podrán financiar programas de la Subcuenta de Subsistencia de dicho Fondo, para la protección de las personas en estado de indigencia o de pobreza extrema, en los términos del Decreto número 3771 de 2007 y las normas que lo modifiquen o adicionen."
+    },
+    {
+      "provision_ref": "art53",
+      "chapter": "CAPÍTULO V.",
+      "section": "53",
+      "title": "Artículo 53",
+      "content": "ARTÍCULO 53. El Consejo Superior de la Judicatura y la Fiscalía General de la Nación podrán sustituir inmuebles de su propiedad, por obras necesarias para la adquisición, terminación, adecuación y dotación de su infraestructura, sin operación presupuestal alguna."
+    },
+    {
+      "provision_ref": "art54",
+      "chapter": "CAPÍTULO V.",
+      "section": "54",
+      "title": "Artículo 54",
+      "content": "ARTÍCULO 54 . Los órganos que conforman el Presupuesto General de la Nación y las entidades territoriales y las entidades descentralizadas de aquella y de estas, así como los ejecutores, a los que se les hubiere girado recursos del Fondo Nacional de Regalías en liquidación y que actualmente no estén amparando compromisos u obligaciones, y correspondan a apropiaciones presupuestales de vigencias fiscales anteriores a 2013, y a la fecha de expedición de esta ley no tengan ningún porcentaje de ejecución física, deben reintegrar, dentro del primer trimestre de 2014 a la Dirección General de Crédito Público y Tesoro Nacional del Ministerio de Hacienda y Crédito Público, el total de recursos que por concepto de saldos no ejecutados y rendimientos financieros posean en las cuentas abiertas para cada proyecto.\n\nAsí mismo, dichas entidades remitirán a la Dirección de Regalías del Departamento Nacional de Planeación dentro de los quince (15) días siguientes al vencimiento del término establecido para realizar el reintegro, copia de los documentos que soporten el reintegro de los recursos, identificando el nombre del proyecto, el monto por concepto de saldos no ejecutados y los rendimientos financieros obtenidos."
+    },
+    {
+      "provision_ref": "art55",
+      "chapter": "CAPÍTULO V.",
+      "section": "55",
+      "title": "Artículo 55",
+      "content": "ARTÍCULO 55 . Con el fin de financiar el Sistema General de Seguridad Social en Salud, en cumplimiento de lo dispuesto en el artículo 48 de la Constitución Política y el artículo 9o de la Ley 1122 de 2007, para la vigencia 2014 se presupuestarán en el Presupuesto General de la Nación los excedentes y los ingresos corrientes de la Subcuenta de Eventos Catastróficos y Accidentes de Tránsito (ECAT) del Fondo de Solidaridad y Garantía (Fosyga).\n\nPrevia cobertura de los riesgos amparados con cargo a la Subcuenta de Eventos Catastróficos y Accidentes de Tránsito del Fondo de Solidaridad y Garantía (Fosyga), se podrán financiar, con cargo a dicha subcuenta, los Programas de Protección a la Salud Pública, Vacunación, Apoyo, Sostenibilidad, Afiliación de la Población Pobre y Vulnerable asegurada a través del Régimen Subsidiado, Vulnerabilidad Sísmica, Gestión de Instituciones de la Red Pública Hospitalaria, Atención a la Población en Condiciones Especiales tanto discapacitada como población desplazada, ampliación, renovación de la afiliación del régimen subsidiado, población desplazada y vulnerable, atención prioritaria en salud, Asistencia y Prevención en Emergencias y Desastres y Capacitación del Recurso Humano del Sector Salud, incorporados en el presupuesto del Ministerio de Salud y Protección Social."
+    },
+    {
+      "provision_ref": "art56",
+      "chapter": "CAPÍTULO V.",
+      "section": "56",
+      "title": "Artículo 56",
+      "content": "ARTÍCULO 56 . En desarrollo de la Política Integral de Seguridad y Defensa para la Prosperidad, contenida en el Plan Nacional de Desarrollo y en las bases del mismo, las cuales fueron incorporadas mediante el artículo 2o de la Ley 1450 de 2011, las Fuerzas Militares podrán ejecutar Programas y Proyectos de Inversión para fortalecer las estrategias tendientes a consolidar la presencia institucional tales como: obras de infraestructura, dotación y mantenimiento, garantizando el bienestar de la población afectada por la situación de violencia generada por los grupos armados al margen de la ley."
+    },
+    {
+      "provision_ref": "art57",
+      "chapter": "CAPÍTULO V.",
+      "section": "57",
+      "title": "Artículo 57",
+      "content": "ARTÍCULO 57. Las entidades responsables de la Atención Integral a la Población Desplazada por la Violencia, sectoriales del orden nacional, darán prioridad en la ejecución de sus respectivos presupuestos, a la atención de la población desplazada por la violencia, en cumplimiento de la Sentencia T-025 de 2004 y de sus Autos de Seguimiento proferidos por la Honorable Corte Constitucional. Esta priorización de recursos deberá considerar las acciones diferenciales para sujetos de especial protección constitucional.\n\nLas entidades deberán atender en primer lugar todas las solicitudes de Ayuda Humanitaria de Emergencia constituyendo esta un título de gasto prevalente sobre las demás obligaciones de la entidad."
+    },
+    {
+      "provision_ref": "art58",
+      "chapter": "CAPÍTULO V.",
+      "section": "58",
+      "title": "Artículo 58",
+      "content": "ARTÍCULO 58. Las entidades encargadas de ejecutar la política de víctimas de que trata la Ley 1448 de 2011 especificarán dentro de sus presupuestos en el Sistema Integrado de Información Financiera (SIIF) los rubros de inversión que tienen como destino la población desplazada."
+    },
+    {
+      "provision_ref": "art59",
+      "chapter": "CAPÍTULO V.",
+      "section": "59",
+      "title": "Artículo 59",
+      "content": "ARTÍCULO 59. Las entidades encargadas de ejecutar la política de víctimas de que trata la Ley 1448 de 2011 especificarán dentro de sus presupuestos en el Sistema Integrado de Información Financiera (SIIF) los rubros de inversión que tienen como destino la población víctima-no desplazada."
+    },
+    {
+      "provision_ref": "art60",
+      "chapter": "CAPÍTULO V.",
+      "section": "60",
+      "title": "Artículo 60",
+      "content": "ARTÍCULO 60. En el marco de los principios de concurrencia, complementariedad y subsidiariedad, la Unidad de Atención y Reparación Integral a las Víctimas podrá, con cargo al proyecto denominado “Apoyo a entidades territoriales a través de la cofinanciación para la asistencia, atención y reparación integral a las víctimas del desplazamiento forzado a nivel nacional”, cofinanciar iniciativas integrales de atención a la población desplazada que se adelanten por parte de las entidades territoriales."
+    },
+    {
+      "provision_ref": "art61",
+      "chapter": "CAPÍTULO V.",
+      "section": "61",
+      "title": "Artículo 61",
+      "content": "ARTÍCULO 61. Con la coordinación de la Unidad de Atención y Reparación Integral a las Víctimas y el Departamento Nacional de Planeación, los órganos que integran el Presupuesto General de la Nación encargados de iniciativas en el marco de la estrategia de atención a la población víctima, adelantarán la regionalización indicativa del gasto de inversión destinado a dicha población."
+    },
+    {
+      "provision_ref": "art62",
+      "chapter": "CAPÍTULO V.",
+      "section": "62",
+      "title": "Artículo 62",
+      "content": "ARTÍCULO 62 . Los recursos del Fondo para la Rehabilitación, Inversión y Lucha contra el Crimen Organizado (Frisco) y los recursos provenientes de la Ley 55 de 1985, apropiados en la presente vigencia fiscal para ser transferidos a la Nación, serán girados por la Dirección Nacional de Estupefacientes en Liquidación, o quien haga sus veces y la Superintendencia de Notariado y Registro, respectivamente, a la Dirección General de Crédito Público y Tesoro Nacional del Ministerio de Hacienda y Crédito Público, para reintegrar los recursos que la Nación ha girado, de acuerdo con lo establecido en los Documentos Conpes 3412 de 2006, 3476 de 2007 y 3575 de 2009."
+    },
+    {
+      "provision_ref": "art63",
+      "chapter": "CAPÍTULO V.",
+      "section": "63",
+      "title": "Artículo 63",
+      "content": "ARTÍCULO 63 . Los hogares beneficiarios del Programa de Subsidio Familiar de Vivienda, podrán aplicar este subsidio en cualquier parte del país o modalidad de solución de vivienda, tanto en zona urbana como rural, independiente de la modalidad a la cual se postuló o asignó, siempre y cuando sean población desplazada y no se encuentren vinculados a planes de vivienda elegibles destinados a esta población. La población desplazada perteneciente a comunidades indígenas, comunidades negras y afrocolombianas podrá aplicar los subsidios para adquirir, construir o mejorar soluciones de vivienda en propiedades colectivas, conforme a los mandatos constitucionales y legales, tradiciones y sistemas de derecho propio de cada comunidad."
+    },
+    {
+      "provision_ref": "art64",
+      "chapter": "CAPÍTULO V.",
+      "section": "64",
+      "title": "Artículo 64",
+      "content": "ARTÍCULO 64. Sin perjuicio de la responsabilidad fiscal y disciplinaria a que haya lugar, cuando en vigencias anteriores no se haya realizado el pago de obligaciones adquiridas con las formalidades previstas en el Estatuto Orgánico del Presupuesto y demás normas que regulan la materia, y sobre los mismos no se haya constituido la reserva presupuestal o la cuenta por pagar correspondiente, se podrá crear el rubro “Pasivos Exigibles - Vigencias Expiradas” y con cargo a este, ordenar el pago.\n\nTambién procederá la operación presupuestal prevista en el inciso anterior, cuando el pago no se hubiere realizado pese a haberse constituido oportunamente la reserva presupuestal o la cuenta por pagar en los términos del artículo 89 del Estatuto Orgánico del Presupuesto.\n\nEl mecanismo previsto en el primer inciso de este artículo también procederá cuando se trate del cumplimiento de una obligación originada en la ley, exigible en vigencias anteriores, aun sin que medie certificado de disponibilidad presupuestal ni registro presupuestal.\n\nEn todo caso, el jefe del órgano respectivo certificará previamente el cumplimiento de los requisitos señalados en este artículo."
+    },
+    {
+      "provision_ref": "art65",
+      "chapter": "CAPÍTULO V.",
+      "section": "65",
+      "title": "Artículo 65",
+      "content": "ARTÍCULO 65. En los presupuestos del Ministerio de Hacienda y Crédito Público y el Departamento Nacional de Planeación se incluirá una apropiación con el objeto de atender los gastos, en otras secciones presupuestales, para la prevención y atención de desastres, Atención, Asistencia y Reparación Integral a las Víctimas del Conflicto Armado Interno, así como para financiar programas y proyectos de inversión que se encuentren debidamente registrados en el Banco Nacional de Programas y Proyectos de conformidad con el artículo 68 del Estatuto Orgánico del Presupuesto."
+    },
+    {
+      "provision_ref": "art66",
+      "chapter": "CAPÍTULO V.",
+      "section": "66",
+      "title": "Artículo 66",
+      "content": "ARTÍCULO 66. Las asignaciones presupuestales del Fondo de Tecnología de la Información y las Comunicaciones incluyen los recursos necesarios para cubrir el importe de los costos en que incurra el operador oficial de los servicios de franquicia postal y telegráfica para la prestación de estos servicios a los órganos que hacen parte del Presupuesto General de la Nación.\n\nEl Fondo de Tecnología de la Información y las Comunicaciones hará la transferencia de recursos al operador postal y telegráfico oficial, quien expedirá a la entidad destinataria del servicio, el respectivo paz y salvo, tan pronto como reciba los recursos."
+    },
+    {
+      "provision_ref": "art67",
+      "chapter": "CAPÍTULO V.",
+      "section": "67",
+      "title": "Artículo 67",
+      "content": "ARTÍCULO 67 . Con cargo a la porción que se reasigna por disposición del artículo 13 de la Ley 55 de 1985 a la construcción, adecuación y dotación de establecimientos carcelarios, se financiará en la sección presupuestal del Instituto Colombiano de Bienestar Familiar (ICBF), una apropiación por $10.000 millones para que este los destine a la construcción, adecuación y dotación de los centros de atención especializada en el marco del Sistema de Responsabilidad Penal para Adolescentes.\n\nPara tales efectos, la Superintendencia de Notariado y Registro trasladará directamente al ICBF los mencionados recursos dentro de la vigencia fiscal."
+    },
+    {
+      "provision_ref": "art68",
+      "chapter": "CAPÍTULO V.",
+      "section": "68",
+      "title": "Artículo 68",
+      "content": "ARTÍCULO 68. Los órganos que hacen parte del Presupuesto General de la Nación solo podrán solicitar la situación de los recursos aprobados en el Programa Anual de Caja a la Dirección General de Crédito Público y Tesoro Nacional, cuando hayan recibido los bienes y/o servicios o se tengan cumplidos los requisitos que hagan exigible su pago. En ningún caso las entidades podrán solicitar giro de recursos para transferir a Fiducias o Encargos Fiduciarios o a las entidades con las que celebre convenios o contratos interadministrativos, sin que se haya cumplido el objeto del gasto."
+    },
+    {
+      "provision_ref": "art69",
+      "chapter": "CAPÍTULO V.",
+      "section": "69",
+      "title": "Artículo 69",
+      "content": "ARTÍCULO 69 . Con el fin de garantizar el flujo efectivo de recursos en el Sistema General de Seguridad Social en Salud, el Ministerio de Salud y Protección Social girará directamente, a nombre de las Entidades Territoriales, la Unidad de Pago por Capitación a las Entidades Promotoras de Salud o a las Instituciones Prestadoras de Salud de los distritos y los municipios de más de cien mil habitantes (100.000), utilizando el instrumento jurídico definido en artículo 29 de la Ley 1438 de 2011."
+    },
+    {
+      "provision_ref": "art70",
+      "chapter": "CAPÍTULO V.",
+      "section": "70",
+      "title": "Artículo 70",
+      "content": "ARTÍCULO 70 . La apropiación destinada a la ejecución de los programas de mejoramiento fortalecimiento de la capacidad Institucional para el desarrollo de políticas públicas nacional y mejoramiento de la gestión de las políticas públicas a través de las tecnologías de información TIC, aprobada en la Sección Presupuestal de la Escuela Superior de Administración Pública (ESAP), se ejecutará a través de convenio interadministrativo por el Departamento Administrativo de la Función Pública. El convenio entre las dos entidades deberá estar formalizado a más tardar el 17 de enero de 2014."
+    },
+    {
+      "provision_ref": "art71",
+      "chapter": "CAPÍTULO V.",
+      "section": "71",
+      "title": "Artículo 71",
+      "content": "ARTÍCULO 71 . El Ministerio de Tecnologías de la Información y las Comunicaciones podrá incluir como parte de las obligaciones de hacer de los titulares de los permisos que se otorguen en los procesos de asignación de espectro que se realicen para los servicios móviles terrestres en las bandas de 700 MHz, AWS (1700/2100 MHz) y 2.500 MHz, la obligación de instalar, diseñar, adquirir, llevar a sitio, adecuar y demás que permitan poner en funcionamiento la red de telecomunicaciones de la Fuerza Pública e Instituciones Públicas, con el fin de permitir la migración de la red que actualmente tienen en las bandas de 470 MHz a 512 MHz, 1.700 MHz, 2.100 MHz y 2.500 MHz.\n\nAsí mismo, el Ministerio de Tecnologías de la Información y las Comunicaciones podrá incluir como parte de las obligaciones de hacer de los titulares de los permisos que se otorguen en los procesos asignación de espectro que se realicen para la operación de servicios móviles terrestres en las bandas de 700 MHz, 850 MHz, 1.900 MHz y 2.500 MHz la obligación de diseñar, instalar, adquirir, llevar a sitio, adecuar y demás actividades necesarias para la migración de los operadores de radiodifusión de televisión sin ánimo de lucro que actualmente cuentan con permiso de uso de espectro radioeléctrico en la banda de 698 a 806 MHz, y para el despliegue de la red de telecomunicaciones para atención de emergencias y mitigación de desastres."
+    },
+    {
+      "provision_ref": "art72",
+      "chapter": "CAPÍTULO V.",
+      "section": "72",
+      "title": "Artículo 72",
+      "content": "ARTÍCULO 72. Los compromisos asumidos a 31 de diciembre de 2013, con las formalidades previstas en el Estatuto Orgánico del Presupuesto y demás normas que regulan la materia, en el presupuesto de gastos de inversión del Fondo Nacional de Regalías en Liquidación y que no hayan sido constituidos como reserva presupuestal o cuenta por pagar en la vigencia fiscal de 2014, serán girados con cargo a las apropiaciones del proyecto de inversión “Destinación de recursos Acto Legislativo número 005 de 2011 a nivel nacional” en la sección presupuestal del Fondo, previo cumplimiento de los requisitos que hagan exigible su giro.\n\nLo anterior también se aplicará para el pago de obligaciones asumidas en desarrollo de autorizaciones de vigencias futuras otorgadas por el Confis o su delegatario.\n\nPara estos efectos, el Departamento Nacional de Planeación, llevará el registro contable de los compromisos asumidos a la entrada en vigencia del Acto Legislativo número 005 de 2011, al igual que de la destinación de recursos para la reconstrucción de la infraestructura vial del país y a la recuperación ambiental de las zonas afectadas por la emergencia invernal de 2010-2011, según lo dispuesto por el parágrafo 1o transitorio del artículo 2o de la citada norma.\n\nCon cargo al portafolio del Fondo a 31 de diciembre de 2013 y durante vigencia de la presente ley se podrán financiar proyectos de infraestructura del sector transporte hasta por la suma de 700 mil millones de pesos. Si, con posterioridad al cumplimiento de lo aquí señalado se requieren recursos para cumplir las obligaciones a cargo del Fondo Nacional de Regalías en Liquidación que no cuenten con la liquidez necesaria, estas se atenderán con cargo a los recursos de la Nación de las siguientes vigencias fiscales, de ser necesario."
+    },
+    {
+      "provision_ref": "art73",
+      "chapter": "CAPÍTULO V.",
+      "section": "73",
+      "title": "Artículo 73",
+      "content": "ARTÍCULO 73 . El Ministerio de Salud y Protección Social, una vez realizado el estudio respectivo, podrá ordenar que se gire el dinero directamente a las IPS de mediana y alta complejidad para el pago de los servicios de salud efectivamente prestados y debidamente comprobados, con soportes de atención a la población afiliada al régimen subsidiado, dentro de la vigencia fiscal en que se prestó el servicio."
+    },
+    {
+      "provision_ref": "art74",
+      "chapter": "CAPÍTULO V.",
+      "section": "74",
+      "title": "Artículo 74",
+      "content": "ARTÍCULO 74 . Autorízase al Gobierno Nacional para apropiar recursos del Presupuesto General de la Nación y transferirlos al Fondo Nacional del Café, destinados a la implementación de instrumentos que permitan garantizar la sostenibilidad del ingreso de las familias cafeteras y el acercamiento de los cafeteros a herramientas tecnológicas dirigidas a la mitigación de los riesgos inherentes a su actividad productiva.\n\nPARÁGRAFO. El Comité Nacional de Cafeteros determinará mediante resolución las actividades elegibles de gasto que se enmarcan en el artículo anterior, con el voto expreso y favorable del Ministro de Hacienda y Crédito Público."
+    },
+    {
+      "provision_ref": "art75",
+      "chapter": "CAPÍTULO V.",
+      "section": "75",
+      "title": "Artículo 75",
+      "content": "ARTÍCULO 75. Cualquier modificación, operación y/o ajuste presupuestal que se realice para el reconocimiento de los derechos a que se refiere el artículo 102 de la Ley 1437 de 2011, “por la cual se expide el Código de Procedimiento Administrativo y de lo Contencioso Administrativo”, es de responsabilidad exclusiva del jefe de cada órgano."
+    },
+    {
+      "provision_ref": "art76",
+      "chapter": "CAPÍTULO V.",
+      "section": "76",
+      "title": "Artículo 76",
+      "content": "ARTÍCULO 76. En desarrollo del acuerdo suscrito entre el Gobierno Nacional y los representantes de los funcionarios y empleados de la Rama Judicial y la Fiscalía General de la Nación el 6 de noviembre de 2012, se ha programado en el presupuesto de funcionamiento de la Rama Judicial $226.214 millones, para el pago de la Bonificación Judicial de que trata los Decretos números 0383 y 0384 del 6 de marzo de 2013. Igualmente, el presupuesto de funcionamiento de la Fiscalía General de la Nación contiene $168.694 millones, para el pago de la Bonificación Judicial de que trata el Decreto número 0382 del 6 de marzo de 2013."
+    },
+    {
+      "provision_ref": "art77",
+      "chapter": "CAPÍTULO V.",
+      "section": "77",
+      "title": "Artículo 77",
+      "content": "ARTÍCULO 77 . El ajuste al Sistema General de Participaciones (SGP) de 2014 a favor de la Nación por $64.478.170.965, en aplicación del parágrafo del artículo 28 de la Ley 1176 de 2007 que resulta de la diferencia del crecimiento real de la economía de 4% de 2010 certificado por el Departamento Administrativo Nacional de Estadística (DANE) de 2013, frente al estimado preliminar de 4,3% y que generó recursos a favor de la atención a la primera infancia en la vigencia 2012, se realizará en la vigencia 2015, cuando se cuente con recursos del que pueda ser descontable este valor por el mismo concepto."
+    },
+    {
+      "provision_ref": "art78",
+      "chapter": "CAPÍTULO V.",
+      "section": "78",
+      "title": "Artículo 78",
+      "content": "ARTÍCULO 78. Los pagos por menores tarifas del sector eléctrico y de gas, que se causen durante la vigencia de la presente ley, serán pagados por el Ministerio de Minas y Energía, trimestre vencido. Los saldos que a 31 de diciembre se generen por este concepto, serán atendidos en la vigencia fiscal siguiente.\n\nLo anterior, sin perjuicio de que el Ministerio de Minas y Energía, con cargo a los recursos disponibles apropiados para el efecto, pueda pagar los que se hubieren causado con anterioridad."
+    },
+    {
+      "provision_ref": "art79",
+      "chapter": "CAPÍTULO V.",
+      "section": "79",
+      "title": "Artículo 79",
+      "content": "ARTÍCULO 79 . Se entienden incorporados al presupuesto de rentas y recursos de capital, los ingresos provenientes del proyecto de ley de financiamiento a que se refiere el artículo 347 de la Constitución Política que presente el Ejecutivo por la suma de tres billones ciento cuarenta y cinco mil cuatrocientos cincuenta y dos millones cuatrocientos setenta y ocho mil cuatrocientos sesenta y cinco pesos ($3,145,452,478,465) moneda legal, si el Congreso de la República la aprueba, con el objeto de equilibrar el presupuesto de Ingresos con el de Gastos."
+    },
+    {
+      "provision_ref": "art80",
+      "chapter": "CAPÍTULO V.",
+      "section": "80",
+      "title": "Artículo 80",
+      "content": "ARTÍCULO 80. Para la elaboración del presupuesto de la vigencia fiscal de 2015 las entidades que constituyan una sección del Presupuesto General de la Nación, deberán trasladar al Fondo de Contingencias de las Entidades Estatales, un porcentaje no menor al 20% del promedio de los tres (3) últimos años del monto ejecutado por Sentencias y Conciliaciones; y deberán hacerlo hasta completar el 120% del promedio de los tres (3) últimos años del monto ejecutado por Sentencias y Conciliaciones. Durante los años en que se hagan los aportes hasta completar el referido 120% de cada entidad, no se podrán pagar sentencias con cargo a los montos provisionados en el Fondo. La insuficiencia de los montos aportados por las entidades, no las eximirá de su obligación de pago."
+    },
+    {
+      "provision_ref": "art81",
+      "chapter": "CAPÍTULO V.",
+      "section": "81",
+      "title": "Artículo 81",
+      "content": "ARTÍCULO 81. Artículo INEXEQUIBLE, con los efectos diferidos hasta el 31 de diciembre de 2015 El artículo 12 de la Ley 179 de 1994 quedará así: Son contribuciones parafiscales los gravámenes establecidos con carácter obligatorio por la ley, que afectan a un determinado y único grupo social o económico y se utilizan para beneficio del propio sector. El manejo, administración y ejecución de estos recursos se hará exclusivamente en la forma dispuesta en la ley que los crea y se destinarán sólo al objeto previsto en ella, lo mismo que los rendimientos y excedentes financieros que resulten al cierre del ejercicio contable.\n\nLas contribuciones parafiscales administradas por los órganos que forman parte del Presupuesto General de la Nación se incorporarán al presupuesto solamente para registrar la estimación de su cuantía y en capítulo separado de las rentas fiscales y su recaudo será efectuado por los órganos encargados de su administración.\n\nLas contribuciones parafiscales administradas por los órganos que no forman parte del Presupuesto General de la Nación, independientemente de su naturaleza jurídica, se incorporarán en un presupuesto independiente que requerirá la aprobación del Consejo Superior de Política Fiscal (Confis), salvo aquellas destinadas al financiamiento del Sistema General de Seguridad Social.\n\nPARÁGRAFO . El Ministro de Hacienda y Crédito Público presentará al Congreso de la República un informe anual con el detalle de los presupuestos aprobados por el Confis."
+    },
+    {
+      "provision_ref": "art82",
+      "chapter": "CAPÍTULO V.",
+      "section": "82",
+      "title": "Artículo 82",
+      "content": "ARTÍCULO 82 . Artículo INEXEQUIBLE"
+    },
+    {
+      "provision_ref": "art83",
+      "chapter": "CAPÍTULO V.",
+      "section": "83",
+      "title": "Artículo 83",
+      "content": "ARTÍCULO 83 . Los recursos provenientes de excedentes, no comprometidos por la Subcuenta Colombia Humanitaria, con la entrada en vigencia de esta ley, podrán ser orientados en la implementación y financiación de programas de soluciones de vivienda para la población damnificada del Fenómeno de la Niña 2010-2011."
+    },
+    {
+      "provision_ref": "art84",
+      "chapter": "CAPÍTULO V.",
+      "section": "84",
+      "title": "Artículo 84",
+      "content": "ARTÍCULO 84. Con el fin de facilitar la ejecución de los recursos destinados a superar los efectos de calamidades públicas, se autoriza al Ministerio de Hacienda y Crédito público para otorgar créditos a los patrimonios autónomos que administran los recursos del Fondo de Adaptación y otros patrimonios autónomos con finalidades similares. Estos créditos solo requerirán para su validez la firma del convenio de crédito. El patrimonio autónomo incluirá anualmente las partidas requeridas para el servicio de la deuda, incluyendo los costos financieros asociados a la operación."
+    },
+    {
+      "provision_ref": "art85",
+      "chapter": "CAPÍTULO V.",
+      "section": "85",
+      "title": "Artículo 85",
+      "content": "ARTÍCULO 85 . Todo el territorio del departamento del Meta, incluida el Área de Manejo Especial de la Macarena, quedará bajo la jurisdicción de la Corporación para el Desarrollo Sostenible de la Macarena (Cormacarena), sin incluir el territorio en litigio con Caquetá y Guaviare."
+    },
+    {
+      "provision_ref": "art86",
+      "chapter": "CAPÍTULO V.",
+      "section": "86",
+      "title": "Artículo 86",
+      "content": "ARTÍCULO 86 . En el evento que los Fondos de Solidaridad y Redistribución de Ingresos, no hayan sido suficientes para cubrir la totalidad de los subsidios otorgados y establecidos en la Ley 142 de 1994, autorízase a la Nación para cubrir el déficit generado, mediante la modalidad de cruce de cuentas con las obligaciones fiscales adeudadas por los operadores o prestadores de servicios públicos, sin situación de fondos, en los términos establecidos en el artículo 196 de la Ley 1607 de 2012 y el Decreto Reglamentario número 1244 de junio 14 de 2013. El cruce de cuentas de las obligaciones fiscales con el déficit de subsidios causados no podrá reconocerse a los operadores o prestadores de servicios públicos que no hayan reportado previamente al Sistema de Vigilancia y Control de la Superintendencia de Servicios Públicos (Sivico), al Sistema Único de Información (SVI) o al Ministerio de las Tecnologías de la Información y las Comunicaciones a través del SIUST."
+    },
+    {
+      "provision_ref": "art87",
+      "chapter": "CAPÍTULO V.",
+      "section": "87",
+      "title": "Artículo 87",
+      "content": "ARTÍCULO 87 . Amplíese el plazo a que se refiere el artículo 92 de la Ley 1593 de 2012, “por la cual se decreta el Presupuesto de Rentas y Recursos de Capital y Ley de Apropiaciones para la vigencia fiscal del 1o de enero al 31 de diciembre de 2013”, hasta el 31 de diciembre de 2014."
+    },
+    {
+      "provision_ref": "art88",
+      "chapter": "CAPÍTULO V.",
+      "section": "88",
+      "title": "Artículo 88",
+      "content": "ARTÍCULO 88 . Autorícese a la Nación para destinar recursos hasta por valor de $30 mil millones del Proyecto “Distribución de Recursos para pagos de menores tarifas Sector GLP distribuidos en cilindros y tanques estacionarios a nivel nacional”, apropiados en el Presupuesto de Inversión de la Sección Presupuestal 2101-01 Ministerio de Minas y Energía Gestión General, para promover y cofinanciar proyectos dirigidos a la prestación del servicio público de gas combustible a través del desarrollo de infraestructura de Gas Licuado del Petróleo (GLP) por red a nivel nacional.\n\nPARÁGRAFO. La destinación de estos recursos deberá hacerse prioritariamente en los municipios y en el sector rural que tengan el mayor índice de necesidades básicas insatisfechas y en áreas que no son influencia de gasoductos troncales, así como el Archipiélago de San Andrés, Providencia y Santa Catalina. Con estos recursos además se podrá cofinanciar el cargo por conexión de los usuarios de menores ingresos. El Ministerio de Minas y Energía reglamentará las condiciones para la destinación de estos recursos."
+    },
+    {
+      "provision_ref": "art89",
+      "chapter": "CAPÍTULO V.",
+      "section": "89",
+      "title": "Artículo 89",
+      "content": "ARTÍCULO 89. La Nación asignará un monto de recursos destinados a cubrir el valor correspondiente a un porcentaje del cincuenta por ciento (50%) del costo de la energía eléctrica y gas natural que consuman los distritos de riego que utilicen equipos electromecánicos para su operación debidamente comprobado por las empresas prestadoras del servicio respectivo, de los usuarios de los distritos de riego y de los distritos de riego administrados por el Estado o por las Asociaciones de Usuarios debidamente reconocidos por el Ministerio de Agricultura y Desarrollo Rural.\n\nPARÁGRAFO 1 ° . Para el caso de los usuarios de riego cuya facturación sea individual, este beneficio se otorgará solo para aquellos que no posean más de cincuenta (50) hectáreas.\n\nPARÁGRAFO 2 ° . Para efectos de la clasificación de los usuarios del servicio de energía eléctrica y gas natural, según la Ley 142 de 1994, la utilización de estos servicios para el riego dirigido a la producción agropecuaria se clasificará dentro de la clase especial, la cual no pagará contribución. Además con el objeto de comercializar la energía eléctrica y el gas natural, los usuarios de los distritos de riego, se clasificarán como usuarios no regulados."
+    },
+    {
+      "provision_ref": "art90",
+      "chapter": "CAPÍTULO V.",
+      "section": "90",
+      "title": "Artículo 90",
+      "content": "ARTÍCULO 90. Con recursos del Presupuesto General de la Nación, se podrá financiar el Fondo de Energía Social (FOES), de que tratan los artículos 118 de la Ley 812 de 2003, 59 de la Ley 1151 de 2007 y 103 de la Ley 1450 de 2011. Si luego de atender el compromiso de la vigencia ordinaria, se presentan excedentes y/o sobrantes de apropiación, los mismos podrán ser utilizados para cubrir vigencias fiscales anteriores, en las cuales no se financió hasta el tope establecido en las normas aplicables. El Ministerio de Minas y Energía reglamentará las condiciones de distribución de dichos excedentes."
+    },
+    {
+      "provision_ref": "art91",
+      "chapter": "CAPÍTULO V.",
+      "section": "91",
+      "title": "Artículo 91",
+      "content": "ARTÍCULO 91 . Los recursos adicionales por $3.1 billones destinados a atender los gastos relacionados con el sector agropecuario, la familia campesina y sector rural que se atenderán con la ley de financiamiento de que trata el artículo 347 de la Constitución Política, permanecerán en el presupuesto del Ministerio de Hacienda y Crédito Público hasta que el Gobierno Nacional defina el alcance y destino de los mismos.\n\nEl Ministerio de Hacienda y Crédito Público hará las operaciones presupuestales necesarias para colocar en las entidades ejecutoras los recursos según corresponda a sus competencias."
+    },
+    {
+      "provision_ref": "art92",
+      "chapter": "CAPÍTULO V.",
+      "section": "92",
+      "title": "Artículo 92",
+      "content": "ARTÍCULO 92 . GARANTÍA DE ACCESO DE LAS MADRES COMUNITARIAS AL FONDO DE SOLIDARIDAD PENSIONAL-SUBCUENTA DE SOLIDARIDAD. Con el fin de garantizar el acceso de las madres comunitarias que al momento de la expedición de esta norma conserven tal calidad, al subsidio al aporte de la Subcuenta de Solidaridad de que trata la Ley 797 de 2003, por una única vez y dentro de los 6 meses siguientes a la vigencia de la presente ley, las madres comunitarias que se encuentren afiliadas al Régimen de Ahorro Individual podrán trasladarse al Régimen de Prima Media.\n\nPara estos efectos, no son aplicables los plazos de que trata el literal e) del artículo 13 de la Ley 100 de 1993, modificado por el artículo 2o de la Ley 797 de 2003. El Instituto Colombiano de Bienestar Familiar (ICBF), o quien haga sus veces, deberá acreditar la calidad de las Madres Comunitarias, con el fin de que puedan realizar el traslado de Régimen de qué trata este artículo.\n\nPARÁGRAFO 1 ° . Las Madres Comunitarias que se vinculen al programa de hogares comunitarios con posterioridad a la vigencia de esta ley y que se encuentren afiliadas en pensiones al Régimen de Ahorro Individual podrán trasladarse al Régimen de Prima Media con Prestación Definida sin que le sean aplicables los términos mínimos de traslado de que trata el literal e) del artículo 13 de la Ley 100 de 1993, modificado por el artículo 2o de la Ley 797 de 2003, con el fin de que sean beneficiarias del Programa de Subsidio al Aporte. Para los efectos de este artículo, el Instituto Colombiano de Bienestar Familiar (ICBF), deberá acreditar la calidad de las Madres Comunitarias, con el fin de que puedan realizar el traslado de Régimen.\n\nPARÁGRAFO 2 ° . Las Asociaciones de Padres o en su defecto las Direcciones Territoriales del ICBF deberán adelantar una campaña dirigida a las madres comunitarias, para informarles sobre la posibilidad de traslado de que trata el presente artículo."
+    },
+    {
+      "provision_ref": "art93",
+      "chapter": "CAPÍTULO V.",
+      "section": "93",
+      "title": "Artículo 93",
+      "content": "ARTÍCULO 93 . Las Madres Comunitarias, Famis y Sustitutas que ostentaban esta condición entre el 29 de enero de 2003 y el 14 de abril de 2008 y no tuvieron acceso al Fondo de Solidaridad Pensional, durante este período podrán beneficiarse del pago del valor actuarial de las cotizaciones para el citado período, conforme lo establece el artículo 166 de la Ley 1450 de 2011."
+    },
+    {
+      "provision_ref": "art94",
+      "chapter": "CAPÍTULO V.",
+      "section": "94",
+      "title": "Artículo 94",
+      "content": "ARTÍCULO 94 . En los proyectos financiados con recursos del Fondo Nacional de Regalías en liquidación, cuyos valores por unidad funcional se mantengan dentro del monto y condiciones aprobadas, certificado por el representante legal de la entidad ejecutora, su ejecución se reconocerá hasta el valor de las unidades funcionales terminadas, sin que para ello se requiera ajuste del proyecto.\n\nPara los proyectos que no acrediten su terminación o se terminen en condiciones diferentes a su aprobación sin contar con concepto favorable, la respectiva entidad ejecutora debe reintegrar los recursos que se le hayan girado junto con los rendimientos financieros al Fondo Nacional de Regalías, en liquidación o a las cuentas de recursos en depósito en el mismo.\n\nLos proyectos en las condiciones previstas en el inciso 1o del artículo 142 de la Ley 1530 de 2012, terminados en condiciones diferentes a las del proyecto aprobado, serán objeto de pérdida de fuerza ejecutoria de conformidad con lo previsto en ese inciso, a menos que se acredite el concepto favorable de la entidad viabilizadora a los ajustes efectuados, caso en el cual procederá el cierre del mismo."
+    },
+    {
+      "provision_ref": "art95",
+      "chapter": "CAPÍTULO V.",
+      "section": "95",
+      "title": "Artículo 95",
+      "content": "ARTÍCULO 95 . Derogar el literal d) del artículo 43 de la Ley 30 de 1992, el artículo 11 de la Ley 1324 de 2009 y parcialmente el inciso 3o del artículo 10 de la misma ley en lo atinente a la deducción que debe realizar el Ministerio de Hacienda y Crédito Público o el Ministerio de Educación Nacional, del 2% del presupuesto de las instituciones de educación superior estatales u oficiales."
+    },
+    {
+      "provision_ref": "art96",
+      "chapter": "CAPÍTULO V.",
+      "section": "96",
+      "title": "Artículo 96",
+      "content": "ARTÍCULO 96. Para la operación de préstamo interfondos realizada entre la Subcuenta de Eventos Catastróficos y Accidentes de Tránsito (ECAT) y la Subcuenta de Compensación del Fondo de Solidaridad y Garantía (Fosyga), en virtud de la Ley 1393 de 2010; el periodo de gracia de cada amortización de capital y tasa de interés del préstamo realizado se amplía hasta el 31 de diciembre de 2014.\n\nLa operación prevista en el presente artículo corresponde a una operación de manejo de recursos del portafolio y, por tanto, su otorgamiento y atención no requiere trámite presupuestal alguno."
+    },
+    {
+      "provision_ref": "art97",
+      "chapter": "CAPÍTULO V.",
+      "section": "97",
+      "title": "Artículo 97",
+      "content": "ARTÍCULO 97 . Una vez cese definitivamente la actividad pensional a cargo de la Caja de Previsión del Sector de las Comunicaciones (Caprecom), los recursos que existan en el Foncap, deberán ser trasladados al Tesoro Nacional.\n\nPARÁGRAFO. Estos recursos solamente podrán ser destinados para el pago del pasivo pensional de las entidades del sector de las Telecomunicaciones, de conformidad con lo establecido por la ley."
+    },
+    {
+      "provision_ref": "art98",
+      "chapter": "CAPÍTULO V.",
+      "section": "98",
+      "title": "Artículo 98",
+      "content": "ARTÍCULO 98 . La prestación del servicio de protección de los funcionarios de la Procuraduría General de la Nación, podrá estar a cargo de la Unidad Nacional de Protección."
+    },
+    {
+      "provision_ref": "art99",
+      "chapter": "CAPÍTULO V.",
+      "section": "99",
+      "title": "Artículo 99",
+      "content": "ARTÍCULO 99 . En las empresas de servicios públicos mixtas y sus subordinadas, en las cuales la participación de la Nación es directamente o a través de sus entidades descentralizadas sea igual o superior al noventa por ciento y que desarrollen sus actividades bajo condiciones de competencia, la aprobación y modificación de sus presupuestos, de las viabilidades presupuestales y de las vigencias futuras corresponderá a las juntas directivas de las respectivas empresas, sin requerirse concepto previo de ningún otro órgano o entidad gubernamental siempre y cuando cumpla los requisitos señalados en el artículo 36 del Decreto número 4730 de 2005. La aprobación del presupuesto de la vigencia del año 2014, será realizada por las juntas directivas de las empresas, a más tardar el 31 de diciembre de 2013."
+    },
+    {
+      "provision_ref": "art100",
+      "chapter": "CAPÍTULO V.",
+      "section": "100",
+      "title": "Artículo 100",
+      "content": "ARTÍCULO 100. Créase el patrimonio autónomo Fondo Nacional para el Desarrollo de la Infraestructura (Fondes) administrado por la Financiera de Desarrollo Nacional y el Ministerio de Hacienda y Crédito Público, el cual tendrá por objeto la financiación y/o la inversión en proyectos de infraestructura. El Fondes se financiará, entre otros recursos, con los resultantes de la enajenación de activos de la Nación en los términos que establezca el Gobierno Nacional, de conformidad con el artículo 124 del Estatuto Orgánico de Presupuesto."
+    },
+    {
+      "provision_ref": "art101",
+      "chapter": "CAPÍTULO V.",
+      "section": "101",
+      "title": "Artículo 101",
+      "content": "ARTÍCULO 101. Los recursos del Presupuesto Nacional que hayan sido transferidos a Patrimonios Autónomos constituidos para la estructuración y/o ejecución de Macroproyectos de Interés Social Nacional, independiente del rubro presupuestal de los referidos recursos, podrán ser destinados para la construcción y dotación de equipamientos públicos colectivos o infraestructura de servicios públicos domiciliarios, para los proyectos de vivienda de interés social y prioritaria que se ejecuten en el marco de los patrimonios autónomos. La entidad aportante de los recursos definirá mediante acto administrativo los porcentajes de los recursos aportados que pueden ser destinados a estos propósitos."
+    },
+    {
+      "provision_ref": "art102",
+      "chapter": "CAPÍTULO V.",
+      "section": "102",
+      "title": "Artículo 102",
+      "content": "ARTÍCULO 102 . INVERSIONES PROGRAMA DE SANEAMIENTO DEL RÍO BOGOTÁ. Para el caso de la Corporación Autónoma Regional de Cundinamarca, el 50% de los recursos que, conforme a lo señalado por el artículo 44 de la Ley 99 de 1993, sean producto del recaudo del porcentaje o de la sobretasa ambiental al impuesto predial y de otros gravámenes sobre la propiedad inmueble de Bogotá, D. C., incluidos sus intereses y sanciones se destinarán para la financiación de los proyectos de adecuación hidráulica, ampliación de la Planta de Tratamiento de Aguas Residuales de Salitre y construcción de la Planta de Tratamiento de Aguas Residuales de Canoas u otros proyectos a desarrollar sobre el área o áreas ubicadas en cualquiera de las cuencas integrantes del río Bogotá, en jurisdicción de la CAR Cundinamarca."
+    },
+    {
+      "provision_ref": "art103",
+      "chapter": "CAPÍTULO V.",
+      "section": "103",
+      "title": "Artículo 103",
+      "content": "ARTÍCULO 103 . El Ministerio de Educación para dar cumplimiento a lo estipulado en la Ley 21 de 1982 y en la Ley 1450 de 2011 en cuanto al mejoramiento en infraestructura y dotación de Instituciones de Educación Básica y Media, seguirá criterios de equidad regional que contemplen por lo menos población a beneficiar, cobertura educativa, impacto regional y beneficio a poblaciones vulnerables, priorizando la ejecución efectiva durante la vigencia presupuestal para que la infraestructura educativa llegue a las comunidades en el menor tiempo posible acorde a la disponibilidad de recursos. Los proyectos de construcción y mejoramiento de la infraestructura educativa a que se refiere el presente artículo podrán ser ejecutados a través de las alcaldías municipales o las gobernaciones."
+    },
+    {
+      "provision_ref": "art104",
+      "chapter": "CAPÍTULO V.",
+      "section": "104",
+      "title": "Artículo 104",
+      "content": "ARTÍCULO 104. Con el propósito de dar cumplimiento al artículo 137 de la Ley 488 de 1998 y al artículo 24 de la Ley 20 de 1974 y este último en concordancia con la Ley 133 de 1994, los municipios del país tendrán un plazo máximo de 6 meses contados a partir de la expedición de la presente ley para depurar y sacar de sus bases de datos de cobro, aquellos predios contemplados en dichas disposiciones."
+    },
+    {
+      "provision_ref": "art105",
+      "chapter": "CAPÍTULO V.",
+      "section": "105",
+      "title": "Artículo 105",
+      "content": "ARTÍCULO 105. El Fondo Nacional de Vivienda (Fonvivienda) podrá asignar subsidios familiares de vivienda a aquellos hogares que se vinculen a programas de vivienda desarrollados por las Organizaciones Populares de Vivienda (OPV) de que trata el artículo 62 de la Ley 9ª de 1989 de acuerdo con las condiciones que para tal efecto determine el Ministerio de Vivienda, Ciudad y Territorio."
+    },
+    {
+      "provision_ref": "art106",
+      "chapter": "CAPÍTULO V.",
+      "section": "106",
+      "title": "Artículo 106",
+      "content": "ARTÍCULO 106 . USO DE LOS RECURSOS DE EXCEDENTES DEL SISTEMA GENERAL DE PARTICIPACIONES. Los excedentes y saldos no comprometidos en el uso de recursos de oferta de salud del Sistema General de Participaciones a 31 de diciembre de 2013, se destinarán para el pago de deudas por prestación de servicios de salud de vigencias anteriores o programas de saneamiento fiscal y financiero de las Empresas Sociales del Estado definidas por el Ministerio de Salud y Protección Social. En el caso de que el municipio haya perdido la competencia para administrar los recursos de prestación de servicios de salud o de no presentar deudas por concepto de prestación de servicios de vigencias anteriores dichos saldos serán girados al Departamento para financiar las actividades definidas en el presente inciso.\n\nVencido el término para el saneamiento de los aportes patronales a que hace referencia el artículo 85 de la Ley 1438 de 2011, las Administradoras de Pensiones tanto del Régimen de prima media con prestación definida, como de ahorro individual con solidaridad, las administradoras de cesantías, Entidades Promotoras de Salud y/o Fosyga y las Administradoras de Riesgos Laborales; girarán los recursos no saneados al mecanismo de recaudo y giro previsto en el artículo 31 de la Ley 1438 de 2011, los cuales se podrán destinar al saneamiento fiscal y financiero de la red pública prestadora de servicios de salud, privilegiando el pago de los pasivos laborales y/o al pago de servicios de salud en lo no cubierto con subsidios a la demanda que adeude la Entidad Territorial a la EPS o a los prestadores de servicios de salud. Estos recursos se distribuirán según lo previsto en el numeral 2 del artículo 3o de la Ley 1608 de 2013 entre los departamentos y distritos a quienes se efectuó asignación de recursos de aportes patronales en las vigencias anteriores a 2011. Los recursos se girarán directamente a las Instituciones Prestadoras de Servicios de Salud Públicas a través del mecanismo de recaudo y giro creado en virtud del artículo 31 de la Ley 1438 de 2011."
+    },
+    {
+      "provision_ref": "art107",
+      "chapter": "CAPÍTULO V.",
+      "section": "107",
+      "title": "Artículo 107",
+      "content": "ARTÍCULO 107 . El respaldo presupuestal a cargo de la Nación frente a los títulos que emita Colpensiones para amparar el 20% correspondiente a la Nación del subsidio o incentivo periódico de los BEPS en el caso de indemnización sustitutiva o devolución de aportes, de que trata la Ley 1328 de 2009, considerarán las disponibilidades fiscales de la Nación que sean definidas por el Confis.\n\nDichos títulos se podrán programar en el Presupuesto General de la Nación hasta por el monto definido en el Marco de Gasto de Mediano Plazo del sector en la vigencia fiscal en la cual se deba realizar su pago, es decir, a los tres años de la emisión del título."
+    },
+    {
+      "provision_ref": "art108",
+      "chapter": "CAPÍTULO V.",
+      "section": "108",
+      "title": "Artículo 108",
+      "content": "ARTÍCULO 108. Modifíquese el artículo 33 de la Ley 1537 de 2012, el cual quedará así:\n\n“ARTÍCULO 33 . Exención de pago de derechos notariales. No se causarán derechos notariales, para ninguna de las partes independientemente de su naturaleza jurídica, en los negocios jurídicos que se describen a continuación, cuando las viviendas objeto de los mismos hayan sido desarrolladas con la financiación o cofinanciación de subsidios familiares de vivienda otorgados por las entidades facultadas por la ley para el efecto: a) Constitución de propiedad horizontal, cuando todos los bienes de dominio particular que conformen el edificio o conjunto sean viviendas de interés prioritario; b) Adquisición de viviendas de interés prioritario nuevas, incluido el leasing habitacional de vivienda de interés prioritario nueva, cuando se ejerza la opción de compra; c) Adquisición de viviendas de interés prioritario usadas, incluido el leasing habitacional de vivienda de interés prioritario usada, cuando se ejerza la opción de compra, en los eventos en que el adquiriente se encuentre en alguna de las condiciones a que se refiere el artículo 12 de la Ley 1537 de 2012; d) Constitución de hipoteca de viviendas de interés prioritario nuevas; e) Constitución de hipoteca de viviendas de interés prioritario usadas, en los eventos en que el adquiriente se encuentre en alguna de las condiciones a que se refiere el artículo 12 de la Ley 1537 de 2012; f) Afectación a la vivienda familiar y/o constitución de patrimonio de familia de viviendas de interés prioritario nuevas; g) Afectación a vivienda familiar y/o constitución de patrimonio de familia de viviendas de interés prioritario usadas, en los eventos en que quien realiza la afectación o constituye el patrimonio de familia, se encuentre en alguna de las condiciones a que se refiere el artículo 12 de la Ley 1537 de 2012.\n\nEl Gobierno Nacional reglamentará la forma en que los interesados acreditarán que se encuentran en alguna de las condiciones a que se refiere el artículo 12 de la Ley 1537 de 2012, cuando sea el caso y las demás condiciones que deberán cumplir los interesados en acceder a las exenciones previstas en el presente artículo, las cuales deberán ser acreditadas ante el notario correspondiente.\n\nPara efectos de la aplicación del presente artículo se acudirá a la definición de vivienda de interés prioritario establecida en las normas vigentes."
+    },
+    {
+      "provision_ref": "art109",
+      "chapter": "CAPÍTULO V.",
+      "section": "109",
+      "title": "Artículo 109",
+      "content": "ARTÍCULO 109. Modifíquese el artículo 34 de la Ley 1537 de 2012, el cual quedará así:\n\n“ARTÍCULO 34 . Exención de pago de derechos registrales. No se causarán derechos registrales, para ninguna de las partes independientemente de su naturaleza jurídica, en los negocios jurídicos que se describen a continuación, cuando las viviendas objeto de los mismos hayan sido desarrolladas con la financiación o cofinanciación de subsidios familiares de vivienda otorgados por las entidades facultadas por la ley para el efecto:\n\na) Constitución de propiedad horizontal, cuando todos los bienes de dominio particular que conformen el edificio o conjunto sean viviendas de interés prioritario;\n\nb) Adquisición de viviendas de interés prioritario nuevas, incluido el leasing habitacional de vivienda de interés prioritario nueva, cuando se ejerza la opción de compra;\n\nc) Adquisición de viviendas de interés prioritario usadas, incluido el leasing habitacional de vivienda de interés prioritario usada, cuando se ejerza la opción de compra, en los eventos en que el adquiriente se encuentre en alguna de las condiciones a que se refiere el artículo 12 de la Ley 1537 de 2012;\n\nd) Constitución de hipoteca de viviendas de interés prioritario nuevas;\n\ne) Constitución de hipoteca de viviendas de interés prioritario usadas, en los eventos en el que el adquirente se encuentre en alguna de las condiciones a que se refiere el artículo 12 de la Ley 1537 de 2012;\n\nf) Afectación a vivienda familiar y/o constitución de patrimonio de familia de viviendas de interés prioritario nuevas;\n\ng) Afectación a vivienda familiar y/o constitución de patrimonio de familia de viviendas de interés prioritario usadas, en los eventos en que quien realiza la afectación o constituye el patrimonio de familia, se encuentre en alguna de las condiciones a que se refiere el artículo 12 de la Ley 1537 de 2012.\n\nEl Gobierno Nacional reglamentará la forma en que los interesados acreditarán que se encuentran en alguna de las condiciones a que se refiere el artículo 12 de la Ley 1537 de 2012, cuando sea el caso, y las demás condiciones que deberán cumplir los interesados en acceder a las exenciones previstas en el presente artículo, las cuales deberán ser acreditadas ante la Oficina de Registro de Instrumentos Públicos correspondiente.\n\nPara efectos de la aplicación del presente artículo se acudirá a la definición de vivienda de interés prioritario establecido en las normas vigentes.\n\nPARÁGRAFO . Los gravámenes hipotecarios, condiciones resolutorias, pactos comisorios y/o cualquier otra limitación al dominio que recaiga sobre inmuebles adjudicados, enajenados, transferidos, cedidos o asignados por el extinto Instituto de Crédito Territorial y/o por la Unidad Administrativa Especial liquidadora de asuntos del Instituto de Crédito Territorial (UAE-ICT), y/o el Instituto Nacional de Vivienda de Interés Social y Reforma Urbana (Inurbe) serán cancelados con la presentación del acto administrativo expedido por la autoridad competente, que ordene dicha cancelación, ante la respectiva Oficina de Registro de Instrumentos Públicos, sin que genere cobro de derechos registrales."
+    },
+    {
+      "provision_ref": "art110",
+      "chapter": "CAPÍTULO V.",
+      "section": "110",
+      "title": "Artículo 110",
+      "content": "ARTÍCULO 110. Para efectos de atenuar en el mercado interno el impacto de las fluctuaciones de los precios de los combustibles en los mercados internacionales, conforme lo disponen los artículos 69 de la Ley 1151 de 2007 y 101 de la Ley 1450 de 2011, el Ministerio de Minas y Energía podrá autorizar la importación de combustibles con las calidades del país de origen para ser distribuidos de manera exclusiva en los municipios reconocidos por el Gobierno Nacional como zonas de frontera."
+    },
+    {
+      "provision_ref": "art111",
+      "chapter": "CAPÍTULO V.",
+      "section": "111",
+      "title": "Artículo 111",
+      "content": "ARTÍCULO 111. La inscripción-registro en espera ante Finagro del crédito para financiar un proyecto elegible al Incentivo a la Capitalización Rural (ICR), de que trata la Ley 101 de 1993, el registro o redescuento de un crédito con tasa subsidiada del programa de qué trata la Ley 1133 de 2007, así como la suscripción del contrato para acceder al Certificado de Incentivo Forestal (CIF), previsto en la Ley 139 de 1994, para todos los efectos presupuestales implicará que el recurso quede obligado, y su pago, en la misma o posterior vigencia, quedará sujeto a que el beneficiario acredite los requisitos previstos en la normatividad expedida por el Ministerio de Agricultura y Desarrollo Rural o la Comisión Nacional de Crédito Agropecuario, según corresponda. En caso que el beneficiario no acredite los requisitos para el pago, se reversará la obligación.\n\nLo aquí dispuesto aplicará a la inscripción-registros en espera, registros o redescuentos y contratos suscritos, de los mencionados instrumentos, existentes a la fecha."
+    },
+    {
+      "provision_ref": "art112",
+      "chapter": "CAPÍTULO V.",
+      "section": "112",
+      "title": "Artículo 112",
+      "content": "ARTÍCULO 112 . La presente ley rige a partir de la fecha de su publicación, surte efectos fiscales a partir del 1o de enero de 2014.\n\nEL PRESIDENTE DEL HONORABLE SENADO DE LA REPÚBLICA,\n\nJUAN FERNANDO CRISTO BUSTOS.\n\nEL SECRETARIO GENERAL DEL HONORABLE SENADO DE LA REPÚBLICA,\n\nGREGORIO ELJACH PACHECO.\n\nEL PRESIDENTE DE LA HONORABLE CÁMARA DE REPRESENTANTES,\n\nHERNÁN PENAGOS GIRALDO.\n\nEL SECRETARIO GENERAL DE LA HONORABLE CÁMARA DE REPRESENTANTES,\n\nJORGE HUMBERTO MANTILLA SERRANO.\n\nREPÚBLICA DE COLOMBIA- GOBIERNO NACIONAL\n\nPUBLÍQUESE Y CÚMPLASE.\n\nDada en Bogotá, D. C., a los 11 días del mes de diciembre de 2013.\n\nJUAN MANUEL SANTOS CALDERÓN\n\nEL MINISTERIO DE HACIENDA Y CRÉDITO PÚBLICO,\n\nMAURICIO CÁRDENAS SANTAMARÍA.\n\nNOTA: Publicado en el Diario Oficial No. 49.001 de 11 de diciembre de 2013"
+    }
+  ],
+  "definitions": []
+}

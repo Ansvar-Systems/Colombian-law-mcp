@@ -1,0 +1,60 @@
+{
+  "id": "co-ley-22-1851",
+  "type": "statute",
+  "title": "Ley 22 de 1851",
+  "short_name": "Ley 22 de 1851",
+  "status": "in_force",
+  "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=12026",
+  "description": "Se suprime el Distrito Judicial de Cundinamarca y crea tribunales en cada una de las provincias de Bogotá, art. 1. composición, art. 2 y 3. Salarios, art. 4. Instancias, art. 5. Remisión de procesos, art. 6. Vigencia y derogatorias, art. 7 y 8.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "ARTÍCULO 1. Suprímase el actual tribunal del distrito judicial de Cundinamarca, y establece un tribunal superior en cada una de las provincias de Bogotá, Mariquita y Neiva, con residencia en sus respectivas capitales."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ARTÍCULO 2. El tribunal de Bogota se compondrá de los empleados siguientes: tres ministros jueces, un fiscal, un secretario, dos oficiales y un portero escribiente."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ARTÍCULO 3. Los tribunales de Mariquita y Neiva se compondrá cada uno de los siguientes empleados: Dos ministros jueces, un fiscal, un secretario, un oficial y un portero escribiente."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "ARTÍCULO 4. Corresponde a las respectivas cámaras de provincia fijar en su próxima reunión los sueldos de que deben gozar los empleados de dichos tribunales, pero las asignaciones anuales no podrán bajar del minimum siguiente:\n\nBogotá\n\nCada ministro juez, doce mil reales; el fiscal, ocho mil reales; el secretario, seis mil cuatrocientos; cada oficial, tres mil, y el portero escribiente, mil seiscientos.\n\nMariquita y Neiva\n\nCada ministro juez, ocho mil reales; cada fiscal, seis mil cuatrocientos; cada secretario, cuatro mil; cada oficial, dos mil cuatrocientos, y cada portero escribiente, novecientos sesenta."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "ARTÍCULO 5. En dichos tribunales, cuando haya necesidad de acuerdo o de tercera instancia en negocios criminales, se observará lo dispuesto en los artículos 3 y 4 de la ley de 24 de mayo de 1849 (1)"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6",
+      "content": "ARTÍCULO 6. Las causas civiles y criminales de que deban conocer los tribunales de Mariquita y Neiva, y que el día de su instalación se hallen pendientes en el de Cundinamarca, se remitirán a aquellos tribunales en el estado que tenga."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Artículo 7",
+      "content": "ARTÍCULO 7. Esta ley empezará a regir el día 1 de octubre del presente año. En consecuencia, en dicho día cesarán en sus funciones todos los empleados del tribunal de Cundinamarca, y el Poder Ejecutivo dictará con la debida anticipación las órdenes conducentes a la instalación de dichos tribunales."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Artículo 8",
+      "content": "ARTÍCULO 8. Deróganse los artículos 13 a 21 de la ley 5ª (1), parte 1ª Tratado 2 de la recopilación granadina.\n\nDada en Bogotá a 21de Abril de 1851\n\nEjecútese y publíquese.\n\nEl Presidente de la Republica, JOSE HILARIO LOPEZ (L.S)- El Secretario de Gobierno, MANUEL D. CAMACHO\n\n*Numeración del sistema"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "co-ley-1997-2019",
+  "type": "statute",
+  "title": "Ley 1997 de 2019",
+  "short_name": "Ley 1997 de 2019",
+  "status": "in_force",
+  "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=100253",
+  "description": "Establece un régimen especial y excepcional para adquirir la nacionalidad colombiana por nacimiento, para hijos e hijas de venezolanos en situación de migración regular o irregular, o de solicitantes de refugio, nacidos en territorio colombiano, con el fin de prevenir la apatridia.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "ARTÍCULO 1º. Adiciónese un parágrafo al artículo 2º de la Ley 43 de 1993, así: De la nacionalidad colombiana por nacimiento"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ARTÍCULO 2º. De los requisitos para la adquisición de la nacionalidad colombiana por nacimiento.\n\nSon naturales de Colombia los nacidos dentro de los límites del territorio nacional tal como quedó señalado en el artículo 101 de la Constitución Política, o en aquellos lugares del exterior asimilados al territorio nacional, según lo dispuesto en tratados internacionales o la costumbre internacional.\n\nPara los hijos nacidos en el exterior, la nacionalidad colombiana del padre o de la madre se define a la luz del principio de la doble nacionalidad según el cual, \"la calidad de nacional colombiano no se pierde por el hecho 1e adquirir otra nacionalidad\".\n\nPor domicilio se entiende la residencia en Colombia acompañada del ánimo de permanecer en el territorio nacional, de acuerdo con las normas pertinentes del Código Civil.\n\nPARÁGRAFO . Excepcionalmente se presumirá la residencia y ánimo de permanencia en Colombia de las personas venezolanas en situación migratoria regular o irregular, o solicitantes de refugio, cuyos hijos e hijas hayan nacido en territorio colombiano desde el 1º de enero de 2015 y hasta 2 años después de la promulgación de esta ley."
+    }
+  ],
+  "definitions": []
+}

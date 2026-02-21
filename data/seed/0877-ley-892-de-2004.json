@@ -1,0 +1,38 @@
+{
+  "id": "co-ley-892-2004",
+  "type": "statute",
+  "title": "Ley 892 de 2004",
+  "short_name": "Ley 892 de 2004",
+  "status": "in_force",
+  "issued_date": "2004-07-07",
+  "in_force_date": "2004-07-07",
+  "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=14145",
+  "description": "Se establece el mecanismo electrónico de votación e inscripción para garantizar el libre ejercicio de este derecho, el sistema debe asegurar la aceptación de los tres tipos de cédulas existentes, en orden cronológico. La Organización Electoral diseñará y señalará los mecanismos necesarios para que el voto electrónico se realice para los invidentes, discapacitados o cualquier otro ciudadano con impedimentos físicos, para los ciudadanos colombianos domiciliados en el exterior, art. 1 y 2. La implementación del nuevo mecanismo se realizará antes de cinco años, art. 3. Vigencia, art. 4.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1º. Establézcase el mecanismo electrónico de votación e inscripción para los ciudadanos colombianos.\n\nPara tales efectos, la Organización Electoral diseñará y señalará los mecanismos necesarios para que el voto electrónico se realice con la misma eficacia para los invidentes, discapacitados o cualquier otro ciudadano con impedimentos físicos.\n\nParágrafo 1° . Se entenderá por mecanismo de votación electrónico aquel que sustituye las tarjetas electorales, por terminales electrónicos, que permitan identificar con claridad y precisión, en condiciones iguales a todos los partidos y movimientos políticos y a sus candidatos.\n\nParágrafo 2° . Las urnas serán reemplazadas por registros en base de datos, los dispositivos y las herramientas tecnológicas que garantizarán el voto deben organizarse en cubículos individuales separados donde el ejercicio electoral sea consolidado, de manera tal, que se cumplan las normas establecidas constitucionalmente. El sistema debe constar de los siguientes módulos: reconocimiento del votante, Interfax para la escogencia electoral y comunicación con la central de control.\n\nParágrafo 3° . El sistema debe asegurar la aceptación de los tres tipos de cédulas existentes, en orden cronológico. De la primera cédula se tomará el número para alimentar la base de datos de los electores, de la segunda y tercera generación de cédulas se toma el código de barras por medio de censores láser o infrarrojos los cuales permitan reconocer dicho código y convertirlo en un registro para confrontarlos con la base de datos del sistema electoral. Cada entrada al sistema debe quedar registrada por el mismo.\n\nParágrafo 4° . Este mecanismo debe incluir, como requisito mínimo, la lectura automática del documento de identidad, captura de huella dactiloscópica u otros métodos de identificación idóneos que validen y garanticen la identidad de la persona al instante de sufragar.\n\nParágrafo 5° . Los electores podrán obtener el certificado electoral a través de una página web determinada por la Registraduría Nacional en la cual se publicarán las cédulas que efectivamente sufragaron. La Registraduría podrá determinar otros mecanismos para evitar la suplantación de la persona al momento del sufragio."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°. Para los ciudadanos colombianos domiciliados en el exterior la Organización Electoral implementará el mecanismo electrónico de inscripción y votación con la cobertura que facilite su participación en los comicios electorales."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "Artículo 3°. La implementación del nuevo mecanismo se realizará antes de cinco años, sin embargo, la Organización Electoral deberá, en un plazo no mayor de seis meses, dar inicio a los planes pilotos de votación con el nuevo sistema.\n\nParágrafo 1º . Dentro de la reglamentación se exigirá que el aplicativo o software y la base de datos posean el código fuente debidamente documentado, descartará los votos que presenten identificación y/o huellas repetidas, así como los votos sufragados en una circunscripción diferente a la inscrita cuando los candidatos sean de circunscripción territorial.\n\nParágrafo 2º . El mecanismo electrónico de votación asegurará el secreto e inviolabilidad del voto.\n\nArtículo transitorio 1º. La Organización Electoral permitirá la coexistencia del sistema convencional de votación en tarjetones de papel, mientras la infraestructura tecnológica de ciertos puntos de votación, no cumpla con los requerimientos mínimos del mecanismo automatizado de inscripción y votación.\n\nArtículo transitorio 2º. Cuando los documentos de identificación no permitan su lectura automática esta se hará mediante la captura del número de identificación por digitación manual, siempre y cuando se verifique la identificación dactilar del ciudadano. El procedimiento anterior, regirá tanto para el proceso de inscripción, como el de votación."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "Artículo 4°. Esta ley rige a partir de su sanción y promulgación.\n\nEl Presidente del honorable Senado de la República,\n\nGermán Vargas Lleras.\n\nEl Secretario General del honorable Senado de la República,\n\nEmilio Ramón Otero Dajud.\n\nEl Presidente de la honorable Cámara de Representantes,\n\nAlonso Acosta Osio.\n\nEl Secretario General de la honorable Cámara de Representantes,\n\nAngelino Lizcano Rivera.\n\nREPUBLICA DE COLOMBIA - GOBIERNO NACIONAL\n\nPublíquese y ejecútese.\n\nDada en Bogotá, D. C., a 7 de julio de 2004.\n\nÁLVARO URIBE VÉLEZ\n\nEl Ministro del Interior y de Justicia,\n\nSabas Pretelt de la Vega.\n\nNOTA: Publicado en el Diario Oficial No. 45.602 de Julio 7 de 2004."
+    }
+  ],
+  "definitions": []
+}

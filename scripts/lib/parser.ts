@@ -10,10 +10,10 @@ export interface TargetLaw {
   fileName: string;
   portalId: number;
   docTypeId: number;
-  number: string;
-  year: number;
+  number?: string;
+  year?: number;
   shortName: string;
-  status: 'in_force' | 'amended' | 'repealed' | 'not_yet_in_force';
+  status?: 'in_force' | 'amended' | 'repealed' | 'not_yet_in_force';
 }
 
 export interface ParsedProvision {
@@ -220,6 +220,32 @@ function extractDescription(html: string): string | undefined {
   return normalizeWhitespace(decodeHtmlEntities(text));
 }
 
+function inferStatus(html: string): 'in_force' | 'amended' | 'repealed' | 'not_yet_in_force' {
+  const plain = normalizeWhitespace(decodeHtmlEntities(stripTags(html))).toLowerCase();
+  const statusBlock = plain.match(/estado de vigencia:\s*([^\n]{0,120})/i)?.[1] ?? '';
+  const source = `${statusBlock} ${plain.slice(0, 3000)}`;
+
+  if (
+    source.includes('derogada') ||
+    source.includes('derogado') ||
+    source.includes('no vigente') ||
+    source.includes('sin vigencia')
+  ) {
+    return 'repealed';
+  }
+
+  if (
+    source.includes('modificada') ||
+    source.includes('modificado') ||
+    source.includes('subrogado') ||
+    source.includes('adicionado')
+  ) {
+    return 'amended';
+  }
+
+  return 'in_force';
+}
+
 function extractProvisions(contentHtml: string): ParsedProvision[] {
   const paragraphs = extractParagraphs(contentHtml);
   const provisions: ParsedProvision[] = [];
@@ -276,7 +302,22 @@ function extractProvisions(contentHtml: string): ParsedProvision[] {
     }
   }
 
-  return Array.from(bySection.values());
+  const result = Array.from(bySection.values());
+
+  if (result.length === 0) {
+    const fallback = normalizeWhitespace(decodeHtmlEntities(stripTags(contentHtml)));
+    if (fallback.length >= 50) {
+      const capped = fallback.length > 50000 ? fallback.slice(0, 50000) : fallback;
+      return [{
+        provision_ref: 'fulltext',
+        section: 'fulltext',
+        title: 'Texto completo',
+        content: capped,
+      }];
+    }
+  }
+
+  return result;
 }
 
 function extractDefinitions(provisions: ParsedProvision[]): ParsedDefinition[] {
@@ -315,16 +356,17 @@ export function parseNormaHtml(html: string, law: TargetLaw): ParsedAct {
   const title = extractTitle(html);
   const description = extractDescription(html);
   const issuedDate = parseDateFromMedioPublicacion(html);
-  const contentHtml = extractClassBlock(html, 'descripcion-contenido') ?? '';
+  const contentHtml = extractClassBlock(html, 'descripcion-contenido') ?? html;
   const provisions = extractProvisions(contentHtml);
   const definitions = extractDefinitions(provisions);
+  const status = law.status ?? inferStatus(html);
 
   return {
     id: law.id,
     type: 'statute',
     title,
     short_name: law.shortName,
-    status: law.status,
+    status,
     issued_date: issuedDate,
     in_force_date: issuedDate,
     url: `https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=${law.portalId}`,

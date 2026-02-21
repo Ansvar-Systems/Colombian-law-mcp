@@ -20,16 +20,16 @@ beforeAll(() => {
 });
 
 describe('Database integrity', () => {
-  it('should have 10 legal documents (excluding EU cross-refs)', () => {
+  it('should have full law corpus (1663 legal documents)', () => {
     const row = db.prepare(
       "SELECT COUNT(*) as cnt FROM legal_documents WHERE id != 'eu-cross-references'"
     ).get() as { cnt: number };
-    expect(row.cnt).toBe(10);
+    expect(row.cnt).toBe(1663);
   });
 
-  it('should have at least 150 provisions', () => {
+  it('should have at least 49000 provisions', () => {
     const row = db.prepare('SELECT COUNT(*) as cnt FROM legal_provisions').get() as { cnt: number };
-    expect(row.cnt).toBeGreaterThanOrEqual(150);
+    expect(row.cnt).toBeGreaterThanOrEqual(49000);
   });
 
   it('should have FTS index', () => {
@@ -75,7 +75,7 @@ describe('Negative tests', () => {
   });
 });
 
-describe('All 10 laws are present', () => {
+describe('Key laws are present', () => {
   const expectedDocs = [
     'co-ley-1581-2012',
     'co-ley-1266-2008',
@@ -83,10 +83,10 @@ describe('All 10 laws are present', () => {
     'co-ley-1341-2009',
     'co-ley-527-1999',
     'co-ley-1712-2014',
-    'co-decreto-1078-2015',
-    'co-decreto-1377-2013',
     'co-ley-1621-2013',
     'co-ley-1978-2019',
+    'co-ley-2195-2022',
+    'co-ley-2444-2025',
   ];
 
   for (const docId of expectedDocs) {

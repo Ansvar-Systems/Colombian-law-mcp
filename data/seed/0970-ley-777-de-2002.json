@@ -1,0 +1,30 @@
+{
+  "id": "co-ley-777-2002",
+  "type": "statute",
+  "title": "Ley 777 de 2002",
+  "short_name": "Ley 777 de 2002",
+  "status": "in_force",
+  "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=6882",
+  "description": "Se reforma el artículo 274, en lo que respecta a Tráfico de moneda falsificada, art. 1. Vigencia, art.2.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "Artículo 1°. El artículo 274 del Código Penal quedará así:"
+    },
+    {
+      "provision_ref": "art274",
+      "section": "274",
+      "title": "Artículo 274",
+      "content": "Artículo 274. Tráfico de moneda falsificada. El que introduzca al país o saque de él, adquiera, comercialice, reciba o haga circular moneda nacional o extranjera falsa incurrirá en prisión de tres (3) a ocho (8) años.\n\nLa pena se duplicará y no habrá lugar a libertad provisional cuando la cuantía supere cien (100) salarios mínimos legales mensuales vigentes. Texto subrayado declarado INEXEQUIBLE por la Corte Constitucional mediante Sentencia C-622 de 2003"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "Artículo 2°. La presente ley rige a partir de su promulgación y deroga las disposiciones que le sean contrarias.\n\nEl Presidente del honorable Senado de la República,\n\nLuis Alfredo Ramos Botero.\n\nEl Secretario General del honorable Senado de la República,\n\nEmilio Otero Dajud.\n\nEl Presidente de la honorable Cámara de Representantes,\n\nWilliam Vélez Mesa.\n\nEl Secretario General de la honorable Cámara de Representantes,\n\nAngelino Lizcano Rivera.\n\nREPUBLICA DE COLOMBIA – GOBIERNO NACIONAL\n\nPublíquese y cúmplase.\n\nDada en Bogotá, D. C., a 17 de diciembre de 2002.\n\nÁLVARO URIBE VÉLEZ\n\nEl Ministro de Justicia y del Derecho,\n\nFernando Londoño Hoyos.\n\nNOTA : Publicado en el Diario Oficial No. 45.048. Diciembre 18 de 2002."
+    }
+  ],
+  "definitions": []
+}

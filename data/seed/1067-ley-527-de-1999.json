@@ -1,0 +1,341 @@
+{
+  "id": "co-ley-527-1999",
+  "type": "statute",
+  "title": "Ley 527 de 1999",
+  "short_name": "Ley 527 de 1999",
+  "status": "in_force",
+  "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4276",
+  "description": "Define y reglamenta el acceso y uso de los mensajes de datos, del comercio electrónico y de las firmas digitales, y establece las entidades de certificación. Dicta disposiciones sobre la aplicación de los requisitos jurídicos de los mensajes de datos y comunicación de los mensajes de datos.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "chapter": "CAPÍTULO I",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "ARTÍCULO 1º. Ámbito de aplicación . La presente ley será aplicable a todo tipo de información en forma de mensaje de datos, salvo en los siguientes casos:\n\na) En las obligaciones contraídas por el Estado colombiano en virtud de convenios o tratados internacionales;\n\nb) En las advertencias escritas que por disposición legal deban ir necesariamente impresas en cierto tipo de productos en razón al riesgo que implica su comercialización, uso o consumo.\n\nVer Sentencia Corte Constitucional 662 de 2000"
+    },
+    {
+      "provision_ref": "art2",
+      "chapter": "CAPÍTULO I",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ARTÍCULO 2º. Definiciones . Para los efectos de la presente ley se entenderá por:\n\na) Mensaje de datos . La información generada, enviada, recibida, almacenada o comunicada por medios electrónicos, ópticos o similares, como pudieran ser, entre otros, el Intercambio Electrónico de Datos (EDI), Internet, el correo electrónico, el telegrama, el télex o el telefax;\n\nb) Comercio electrónico . Abarca las cuestiones suscitadas por toda relación de índole comercial, sea o no contractual, estructurada a partir de la utilización de uno o más mensajes de datos o de cualquier otro medio similar. Las relaciones de índole comercial comprenden, sin limitarse a ellas, las siguientes operaciones: toda operación comercial de suministro o intercambio de bienes o servicios; todo acuerdo de distribución; toda operación de representación o mandato comercial; todo tipo de operaciones financieras, bursátiles y de seguros; de construcción de obras; de consultoría; de ingeniería; de concesión de licencias; todo acuerdo de concesión o explotación de un servicio público; de empresa conjunta y otras formas de cooperación industrial o comercial; de transporte de mercancías o de pasajeros por vía aérea, marítima y férrea, o por carretera;\n\nc) Firma digital . Se entenderá como un valor numérico que se adhiere a un mensaje de datos y que, utilizando un procedimiento matemático conocido, vinculado a la clave del iniciador y al texto del mensaje permite determinar que este valor se ha obtenido exclusivamente con la clave del iniciador y que el mensaje inicial no ha sido modificado después de efectuada la transformación;\n\nd) Entidad de Certificación . Es aquella persona que, autorizada conforme a la presente ley, está facultada para emitir certificados en relación con las firmas digitales de las personas, ofrecer o facilitar los servicios de registro y estampado cronológico de la transmisión y recepción de mensajes de datos, así como cumplir otras funciones relativas a las comunicaciones basadas en las firmas digitales;\n\ne) Intercambio Electrónico de Datos (EDI). La transmisión electrónica de datos de una computadora a otra, que está estructurada bajo normas técnicas convenidas al efecto;\n\nf) Sistema de Información . Se entenderá todo sistema utilizado para generar, enviar, recibir, archivar o procesar de alguna otra forma mensajes de datos.\n\nVer Sentencia Corte Constitucional 831 de 2001"
+    },
+    {
+      "provision_ref": "art3",
+      "chapter": "CAPÍTULO I",
+      "section": "3",
+      "title": "Artículo 3",
+      "content": "ARTÍCULO 3º. Interpretación. En la interpretación de la presente ley habrán de tenerse en cuenta su origen internacional, la necesidad de promover la uniformidad de su aplicación y la observancia de la buena fe.\n\nLas cuestiones relativas a materias que se rijan por la presente ley y que no estén expresamente resueltas en ella, serán dirimidas de conformidad con los principios generales en que ella se inspira."
+    },
+    {
+      "provision_ref": "art4",
+      "chapter": "CAPÍTULO I",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "ARTÍCULO 4º. Modificación mediante acuerdo . Salvo que se disponga otra cosa, en las relaciones entre partes que generan, envían, reciben, archivan o procesan de alguna otra forma mensajes de datos, las disposiciones del Capítulo III, Parte I, podrán ser modificadas mediante acuerdo."
+    },
+    {
+      "provision_ref": "art5",
+      "chapter": "CAPÍTULO I",
+      "section": "5",
+      "title": "Artículo 5",
+      "content": "ARTÍCULO 5º. Reconocimiento jurídico de los mensajes de datos . No se negarán efectos jurídicos, validez o fuerza obligatoria a todo tipo de información por la sola razón de que esté en forma de mensaje de datos.\n\nAPLICACIÓN DE LOS REQUISITOS JURÍDICOS DE LOS MENSAJES DE DATOS"
+    },
+    {
+      "provision_ref": "art6",
+      "chapter": "CAPÍTULO II",
+      "section": "6",
+      "title": "Artículo 6",
+      "content": "ARTÍCULO 6º. Escrito. Cuando cualquier norma requiera que la información conste por escrito, ese requisito quedará satisfecho con un mensaje de datos, si la información que éste contiene es accesible para su posterior consulta.\n\nLo dispuesto en este artículo se aplicará tanto si el requisito establecido en cualquier norma constituye una obligación, como si las normas prevén consecuencias en el caso de que la información no conste por escrito.\n\nVer Sentencia Corte Constitucional 831 de 2001"
+    },
+    {
+      "provision_ref": "art7",
+      "chapter": "CAPÍTULO II",
+      "section": "7",
+      "title": "Artículo 7",
+      "content": "ARTÍCULO 7º. Firma. Reglamentado por el Decreto 2364 de 2012 . Cuando cualquier norma exija la presencia de una firma o establezca ciertas consecuencias en ausencia de la misma, en relación con un mensaje de datos, se entenderá satisfecho dicho requerimiento si:\n\na) Se ha utilizado un método que permita identificar al iniciador de un mensaje de datos y para indicar que el contenido cuenta con su aprobación;\n\nb) Que el método sea tanto confiable como apropiado para el propósito por el cual el mensaje fue generado o comunicado.\n\nLo dispuesto en este artículo se aplicará tanto si el requisito establecido en cualquier norma constituye una obligación, como si las normas simplemente prevén consecuencias en el caso de que no exista una firma."
+    },
+    {
+      "provision_ref": "art8",
+      "chapter": "CAPÍTULO II",
+      "section": "8",
+      "title": "Artículo 8",
+      "content": "ARTÍCULO 8º. Original. Cuando cualquier norma requiera que la información sea presentada y conservada en su forma original, ese requisito quedará satisfecho con un mensaje de datos, si:\n\na) Existe alguna garantía confiable de que se ha conservado la integridad de la información, a partir del momento en que se generó por primera vez en su forma definitiva, como mensaje de datos o en alguna otra forma;\n\nb) De requerirse que la información sea presentada, si dicha información puede ser mostrada a la persona que se deba presentar.\n\nLo dispuesto en este artículo se aplicará tanto si el requisito establecido en cualquier norma constituye una obligación, como si las normas simplemente prevén consecuencias en el caso de que la información no sea presentada o conservada en su forma original."
+    },
+    {
+      "provision_ref": "art9",
+      "chapter": "CAPÍTULO II",
+      "section": "9",
+      "title": "Artículo 9",
+      "content": "ARTÍCULO 9º. Integridad de un mensaje de datos . Para efectos del artículo anterior, se considerará que la información consignada en un mensaje de datos es íntegra, si ésta ha permanecido completa e inalterada, salvo la adición de algún endoso o de algún cambio que sea inherente al proceso de comunicación, archivo o presentación. El grado de confiabilidad requerido, será determinado a la luz de los fines para los que se generó la información y de todas las circunstancias relevantes del caso."
+    },
+    {
+      "provision_ref": "art10",
+      "chapter": "CAPÍTULO II",
+      "section": "10",
+      "title": "Artículo 10",
+      "content": "ARTÍCULO 10º. Admisibilidad y fuerza probatoria de los mensajes de datos . Los mensajes de datos serán admisibles como medios de prueba y su fuerza probatoria es la otorgada en las disposiciones del Capítulo VIII del Título XIII, Sección Tercera, Libro Segundo del Código de Procedimiento Civil.\n\nEn toda actuación administrativa o judicial, no se negará eficacia, validez o fuerza obligatoria y probatoria a todo tipo de información en forma de un mensaje de datos, por el sólo hecho que se trate de un mensaje de datos o en razón de no haber sido presentado en su forma original."
+    },
+    {
+      "provision_ref": "art11",
+      "chapter": "CAPÍTULO II",
+      "section": "11",
+      "title": "Artículo 11",
+      "content": "ARTÍCULO 11 . Criterio para valorar probatoriamente un mensaje de datos . Para la valoración de la fuerza probatoria de los mensajes de datos a que se refiere esta ley, se tendrán en cuenta las reglas de la sana crítica y demás criterios reconocidos legalmente para la apreciación de las pruebas. Por consiguiente habrán de tenerse en cuenta: la confiabilidad en la forma en la que se haya generado, archivado o comunicado el mensaje, la confiabilidad en la forma en que se haya conservado la integridad de la información, la forma en la que se identifique a su iniciador y cualquier otro factor pertinente."
+    },
+    {
+      "provision_ref": "art12",
+      "chapter": "CAPÍTULO II",
+      "section": "12",
+      "title": "Artículo 12",
+      "content": "ARTÍCULO 12 . Conservación de los mensajes de datos y documentos . Cuando la ley requiera que ciertos documentos, registros o informaciones sean conservados, ese requisito quedará satisfecho, siempre que se cumplan las siguientes condiciones:\n\n1. Que la información que contengan sea accesible para su posterior consulta.\n\n2. Que el mensaje de datos o el documento sea conservado en el formato en que se haya generado, enviado o recibido o en algún formato que permita demostrar que reproduce con exactitud la información generada, enviada o recibida, y\n\n3. Que se conserve, de haber alguna, toda información que permita determinar el origen, el destino del mensaje, la fecha y la hora en que fue enviado o recibido el mensaje o producido el documento.\n\nNo estará sujeta a la obligación de conservación, la información que tenga por única finalidad facilitar el envío o recepción de los mensajes de datos.\n\nLos libros y papeles del comerciante podrán ser conservados en cualquier medio técnico que garantice su reproducción exacta."
+    },
+    {
+      "provision_ref": "art13",
+      "chapter": "CAPÍTULO II",
+      "section": "13",
+      "title": "Artículo 13",
+      "content": "ARTÍCULO 13. Conservación de mensajes de datos y archivo de documentos a través de terceros. El cumplimiento de la obligación de conservar documentos, registros o informaciones en mensajes de datos, se podrá realizar directamente o a través de terceros, siempre y cuando se cumplan las condiciones enunciadas en el artículo anterior.\n\nCOMUNICACIÓN DE LOS MENSAJES DE DATOS"
+    },
+    {
+      "provision_ref": "art14",
+      "chapter": "CAPÍTULO III",
+      "section": "14",
+      "title": "Artículo 14",
+      "content": "ARTÍCULO 14 . Formación y validez de los contratos . En la formación del contrato, salvo acuerdo expreso entre las partes, la oferta y su aceptación podrán ser expresadas por medio de un mensaje de datos. No se negará validez o fuerza obligatoria a un contrato por la sola razón de haberse utilizado en su formación uno o más mensajes de datos."
+    },
+    {
+      "provision_ref": "art15",
+      "chapter": "CAPÍTULO III",
+      "section": "15",
+      "title": "Artículo 15",
+      "content": "ARTÍCULO 15 . Reconocimiento de los mensajes de datos por las partes . En las relaciones entre el iniciador y el destinatario de un mensaje de datos, no se negarán efectos jurídicos, validez o fuerza obligatoria a una manifestación de voluntad u otra declaración por la sola razón de haberse hecho en forma de mensaje de datos."
+    },
+    {
+      "provision_ref": "art16",
+      "chapter": "CAPÍTULO III",
+      "section": "16",
+      "title": "Artículo 16",
+      "content": "ARTÍCULO 16 . Atribución de un mensaje de datos . Se entenderá que un mensaje de datos proviene del iniciador, cuando éste ha sido enviado por:\n\n1. El propio iniciador.\n\n2. Por alguna persona facultada para actuar en nombre del iniciador respecto de ese mensaje, o\n\n3. Por un sistema de información programado por el iniciador o en su nombre para que opere automáticamente."
+    },
+    {
+      "provision_ref": "art17",
+      "chapter": "CAPÍTULO III",
+      "section": "17",
+      "title": "Artículo 17",
+      "content": "ARTÍCULO 17 . Presunción del origen de un mensaje de datos . Se presume que un mensaje de datos ha sido enviado por el iniciador, cuando:\n\n1. Haya aplicado en forma adecuada el procedimiento acordado previamente con el iniciador, para establecer que el mensaje de datos provenía efectivamente de éste, o\n\n2. El mensaje de datos que reciba el destinatario resulte de los actos de una persona cuya relación con el iniciador, o con algún mandatario suyo, le haya dado acceso a algún método utilizado por el iniciador para identificar un mensaje de datos como propio."
+    },
+    {
+      "provision_ref": "art18",
+      "chapter": "CAPÍTULO III",
+      "section": "18",
+      "title": "Artículo 18",
+      "content": "ARTÍCULO 18 . Concordancia del mensaje de datos enviado con el mensaje de datos recibido. Siempre que un mensaje de datos provenga del iniciador o que se entienda que proviene de él, o siempre que el destinatario tenga derecho a actuar con arreglo a este supuesto, en las relaciones entre el iniciador y el destinatario, este último tendrá derecho a considerar que el mensaje de datos recibido corresponde al que quería enviar el iniciador, y podrá proceder en consecuencia.\n\nEl destinatario no gozará de este derecho si sabía o hubiera sabido, de haber actuado con la debida diligencia o de haber aplicado algún método convenido, que la transmisión había dado lugar a un error en el mensaje de datos recibido."
+    },
+    {
+      "provision_ref": "art19",
+      "chapter": "CAPÍTULO III",
+      "section": "19",
+      "title": "Artículo 19",
+      "content": "ARTÍCULO 19. Mensajes de datos duplicados . Se presume que cada mensaje de datos recibido es un mensaje de datos diferente, salvo en la medida en que duplique otro mensaje de datos, y que el destinatario sepa, o debiera saber, de haber actuado con la debida diligencia o de haber aplicado algún método convenido, que el nuevo mensaje de datos era un duplicado."
+    },
+    {
+      "provision_ref": "art20",
+      "chapter": "CAPÍTULO III",
+      "section": "20",
+      "title": "Artículo 20",
+      "content": "ARTÍCULO 20 . Acuse de recibo . Si al enviar o antes de enviar un mensaje de datos, el iniciador solicita o acuerda con el destinatario que se acuse recibo del mensaje de datos, pero no se ha acordado entre éstos una forma o método determinado para efectuarlo, se podrá acusar recibo mediante:\n\na) Toda comunicación del destinatario, automatizada o no, o\n\nb) Todo acto del destinatario que baste para indicar al iniciador que se ha recibido el mensaje de datos.\n\nSi el iniciador ha solicitado o acordado con el destinatario que se acuse recibo del mensaje de datos, y expresamente aquél ha indicado que los efectos del mensaje de datos estarán condicionados a la recepción de un acuse de recibo, se considerará que el mensaje de datos no ha sido enviado en tanto que no se haya recepcionado el acuse de recibo."
+    },
+    {
+      "provision_ref": "art21",
+      "chapter": "CAPÍTULO III",
+      "section": "21",
+      "title": "Artículo 21",
+      "content": "ARTÍCULO 21. Presunción de recepción de un mensaje de datos . Cuando el iniciador recepcione acuse recibo del destinatario, se presumirá que éste ha recibido el mensaje de datos.\n\nEsa presunción no implicará que el mensaje de datos corresponda al mensaje recibido. Cuando en el acuse de recibo se indique que el mensaje de datos recepcionado cumple con los requisitos técnicos convenidos o enunciados en alguna norma técnica aplicable, se presumirá que ello es así."
+    },
+    {
+      "provision_ref": "art22",
+      "chapter": "CAPÍTULO III",
+      "section": "22",
+      "title": "Artículo 22",
+      "content": "ARTÍCULO 22 . Efectos jurídicos . Los artículos 20 y 21 únicamente rigen los efectos relacionados con el acuse de recibo. Las consecuencias jurídicas del mensaje de datos se regirán conforme a las normas aplicables al acto o negocio jurídico contenido en dicho mensaje de datos."
+    },
+    {
+      "provision_ref": "art23",
+      "chapter": "CAPÍTULO III",
+      "section": "23",
+      "title": "Artículo 23",
+      "content": "ARTÍCULO 23 . Tiempo del envío de un mensaje de datos. De no convenir otra cosa el iniciador y el destinatario, el mensaje de datos se tendrá por expedido cuando ingrese en un sistema de información que no esté bajo control del iniciador o de la persona que envió el mensaje de datos en nombre de éste."
+    },
+    {
+      "provision_ref": "art24",
+      "chapter": "CAPÍTULO III",
+      "section": "24",
+      "title": "Artículo 24",
+      "content": "ARTÍCULO 24. Tiempo de la recepción de un mensaje de datos. De no convenir otra cosa el iniciador y el destinatario, el momento de la recepción de un mensaje de datos se determinará como sigue:\n\na) Si el destinatario ha designado un sistema de información para la recepción de mensaje de datos, la recepción tendrá lugar:\n\n1. En el momento en que ingrese el mensaje de datos en el sistema de información designado; o\n\n2. De enviarse el mensaje de datos a un sistema de información del destinatario que no sea el sistema de información designado, en el momento en que el destinatario recupere el mensaje de datos;\n\nb) Si el destinatario no ha designado un sistema de información, la recepción tendrá lugar cuando el mensaje de datos ingrese a un sistema de información del destinatario.\n\nLo dispuesto en este artículo será aplicable aun cuando el sistema de información esté ubicado en lugar distinto de donde se tenga por recibido el mensaje de datos conforme al artículo siguiente."
+    },
+    {
+      "provision_ref": "art25",
+      "chapter": "CAPÍTULO III",
+      "section": "25",
+      "title": "Artículo 25",
+      "content": "ARTÍCULO 25 . Lugar del envío y recepción del mensaje de datos . De no convenir otra cosa el iniciador y el destinatario, el mensaje de datos se tendrá por expedido en el lugar donde el iniciador tenga su establecimiento y por recibido en el lugar donde el destinatario tenga el suyo. Para los fines del presente artículo:\n\na) Si el iniciador o destinatario tienen más de un establecimiento, su establecimiento será el que guarde una relación más estrecha con la operación subyacente o, de no haber una operación subyacente, su establecimiento principal;\n\nb) Si el iniciador o el destinatario no tienen establecimiento, se tendrá en cuenta su lugar de residencia habitual.\n\nPARTE II\n\nCOMERCIO ELECTRONICO EN MATERIA DE TRANSPORTE DE MERCANCIAS"
+    },
+    {
+      "provision_ref": "art26",
+      "chapter": "CAPÍTULO III",
+      "section": "26",
+      "title": "Artículo 26",
+      "content": "ARTÍCULO 26. Actos relacionados con los contratos de transporte de mercancías. Sin perjuicio de lo dispuesto en la parte I de la presente ley, este capítulo será aplicable a cualquiera de los siguientes actos que guarde relación con un contrato de transporte de mercancías, o con su cumplimiento, sin que la lista sea taxativa:\n\na) I. Indicación de las marcas, el número, la cantidad o el peso de las mercancías.\n\nII. Declaración de la naturaleza o valor de las mercancías.\n\nIII. Emisión de un recibo por las mercancías.\n\nIV. Confirmación de haberse completado el embarque de las mercancías;\n\nb) I. Notificación a alguna persona de las cláusulas y condiciones del contrato.\n\nII. Comunicación de instrucciones al transportador;\n\nc) I. Reclamación de la entrega de las mercancías.\n\nII. Autorización para proceder a la entrega de las mercancías.\n\nIII. Notificación de la pérdida de las mercancías o de los daños que hayan sufrido;\n\nd) Cualquier otra notificación o declaración relativas al cumplimiento del contrato;\n\ne) Promesa de hacer entrega de las mercancías a la persona designada o a una persona autorizada para reclamar esa entrega;\n\nf) Concesión, adquisición, renuncia, restitución, transferencia o negociación de algún derecho sobre mercancías;\n\ng) Adquisición o transferencia de derechos y obligaciones con arreglo al contrato."
+    },
+    {
+      "provision_ref": "art27",
+      "chapter": "CAPÍTULO III",
+      "section": "27",
+      "title": "Artículo 27",
+      "content": "ARTÍCULO 27. Documentos de transporte . Con sujeción a lo dispuesto en el inciso 3o. del presente artículo, en los casos en que la ley requiera que alguno de los actos enunciados en el artículo 26 se lleve a cabo por escrito o mediante documento emitido en papel, ese requisito quedará satisfecho cuando el acto se lleve a cabo por medio de uno o más mensajes de datos.\n\nEl inciso anterior será aplicable, tanto si el requisito en él previsto está expresado en forma de obligación o si la ley simplemente prevé consecuencias en el caso de que no se lleve a cabo el acto por escrito o mediante un documento emitido en papel.\n\nCuando se conceda algún derecho a una persona determinada y a ninguna otra, o ésta adquiera alguna obligación, y la ley requiera que, para que ese acto surta efecto, el derecho o la obligación hayan de transferirse a esa persona mediante el envío o utilización de un documento emitido en papel, ese requisito quedará satisfecho si el derecho o la obligación se transfiere mediante la utilización de uno o más mensajes de datos, siempre que se emplee un método confiable para garantizar la singularidad de ese mensaje o esos mensajes de datos.\n\nPara los fines del inciso tercero, el nivel de confiabilidad requerido será determinado a la luz de los fines para los que se transfirió el derecho o la obligación y de todas las circunstancias del caso, incluido cualquier acuerdo pertinente.\n\nCuando se utilicen uno o más mensajes de datos para llevar a cabo alguno de los actos enunciados en los incisos f) y g) del artículo 26, no será válido ningún documento emitido en papel para llevar a cabo cualquiera de esos actos, a menos que se haya puesto fin al uso de mensajes de datos para sustituirlo por el de documentos emitidos en papel. Todo documento con soporte en papel que se emita en esas circunstancias deberá contener una declaración en tal sentido. La sustitución de mensajes de datos por documentos emitidos en papel no afectará los derechos ni las obligaciones de las partes.\n\nCuando se aplique obligatoriamente una norma jurídica a un contrato de transporte de mercancías que esté consignado, o del que se haya dejado constancia en un documento emitido en papel, esa norma no dejará de aplicarse, a dicho contrato de transporte de mercancías del que se haya dejado constancia en uno o más mensajes de datos por razón de que el contrato conste en ese mensaje o esos mensajes de datos en lugar de constar en documentos emitidos en papel.\n\nPARTE III\n\nFIRMAS DIGITALES, CERTIFICADOS Y ENTIDADES DE CERTIFICACION\n\nFIRMAS DIGITALES\n\nVer Decreto Nacional 1747 de 2000"
+    },
+    {
+      "provision_ref": "art28",
+      "chapter": "CAPÍTULO I",
+      "section": "28",
+      "title": "Artículo 28",
+      "content": "ARTÍCULO 28 . Atributos jurídicos de una firma digital . Cuando una firma digital haya sido fijada en un mensaje de datos se presume que el suscriptor de aquella tenía la intención de acreditar ese mensaje de datos y de ser vinculado con el contenido del mismo.\n\nPARÁGRAFO. El uso de una firma digital tendrá la misma fuerza y efectos que el uso de una firma manuscrita, si aquélla incorpora los siguientes atributos:\n\n1. Es única a la persona que la usa.\n\n2. Es susceptible de ser verificada.\n\n3. Está bajo el control exclusivo de la persona que la usa.\n\n4. Está ligada a la información o mensaje, de tal manera que si éstos son cambiados, la firma digital es invalidada.\n\n5. Está conforme a las reglamentaciones adoptadas por el Gobierno Nacional.\n\nENTIDADES DE CERTIFICACIÓN"
+    },
+    {
+      "provision_ref": "art29",
+      "chapter": "CAPÍTULO II",
+      "section": "29",
+      "title": "Artículo 29",
+      "content": "ARTÍCULO 29. Características y requerimientos de las entidades de certificación . Modificado por el Artículo 160 del Decreto 19 de 2012 . Podrán ser entidades de certificación, las personas jurídicas, tanto públicas como privadas, de origen nacional o extranjero y las cámaras de comercio, que previa solicitud sean autorizadas por la Superintendencia de Industria y Comercio y que cumplan con los requerimientos establecidos por el Gobierno Nacional, con base en las siguientes condiciones:\n\na) Contar con la capacidad económica y financiera suficiente para prestar los servicios autorizados como entidad de certificación;\n\nb) Contar con la capacidad y elementos técnicos necesarios para la generación de firmas digitales, la emisión de certificados sobre la autenticidad de las mismas y la conservación de mensajes de datos en los términos establecidos en esta ley;\n\nc) Los representantes legales y administradores no podrán ser personas que hayan sido condenadas a pena privativa de la libertad, excepto por delitos políticos o culposos; o que hayan sido suspendidas en el ejercicio de su profesión por falta grave contra la ética o hayan sido excluidas de aquélla. Esta inhabilidad estará vigente por el mismo período que la ley penal o administrativa señale para el efecto."
+    },
+    {
+      "provision_ref": "art30",
+      "chapter": "CAPÍTULO II",
+      "section": "30",
+      "title": "Artículo 30",
+      "content": "ARTÍCULO 30. Actividades de las entidades de certificación. Modificado por el Artículo 161 del Decreto 19 de 2012 . Las entidades de certificación autorizadas por la Superintendencia de Industria y Comercio para prestar sus servicios en el país, podrán realizar, entre otras, las siguientes actividades:\n\n1. Emitir certificados en relación con las firmas digitales de personas naturales o jurídicas.\n\n2. Emitir certificados sobre la verificación respecto de la alteración entre el envío y recepción del mensaje de datos.\n\n3. Emitir certificados en relación con la persona que posea un derecho u obligación con respecto a los documentos enunciados en los literales f) y g) del artículo 26 de la presente ley.\n\n4. Ofrecer o facilitar los servicios de creación de firmas digitales certificadas.\n\n5. Ofrecer o facilitar los servicios de registro y estampado cronológico en la generación, transmisión y recepción de mensajes de datos.\n\n6. Ofrecer los servicios de archivo y conservación de mensajes de datos."
+    },
+    {
+      "provision_ref": "art31",
+      "chapter": "CAPÍTULO II",
+      "section": "31",
+      "title": "Artículo 31",
+      "content": "ARTÍCULO 31. Remuneración por la prestación de servicios . La remuneración por los servicios de las entidades de certificación serán establecidos libremente por éstas."
+    },
+    {
+      "provision_ref": "art32",
+      "chapter": "CAPÍTULO II",
+      "section": "32",
+      "title": "Artículo 32",
+      "content": "ARTÍCULO 32 . Deberes de las entidades de certificación . Las entidades de certificación tendrán, entre otros, los siguientes deberes:\n\na) Emitir certificados conforme a lo solicitado o acordado con el suscriptor;\n\nb) Implementar los sistemas de seguridad para garantizar la emisión y creación de firmas digitales, la conservación y archivo de certificados y documentos en soporte de mensaje de datos;\n\nc) Garantizar la protección, confidencialidad y debido uso de la información suministrada por el suscriptor;\n\nd) Garantizar la prestación permanente del servicio de entidad de certificación;\n\ne) Atender oportunamente las solicitudes y reclamaciones hechas por los suscriptores;\n\nf) Efectuar los avisos y publicaciones conforme a lo dispuesto en la ley;\n\ng) Suministrar la información que le requieran las entidades administrativas competentes o judiciales en relación con las firmas digitales y certificados emitidos y en general sobre cualquier mensaje de datos que se encuentre bajo su custodia y administración;\n\nh) Modificado por el Artículo 162 del Decreto 19 de 2012. Permitir y facilitar la realización de las auditorías por parte de la Superintendencia de Industria y Comercio;\n\ni) Elaborar los reglamentos que definen las relaciones con el suscriptor y la forma de prestación del servicio;\n\nj) Llevar un registro de los certificados."
+    },
+    {
+      "provision_ref": "art33",
+      "chapter": "CAPÍTULO II",
+      "section": "33",
+      "title": "Artículo 33",
+      "content": "ARTÍCULO 33. Terminación unilateral . Salvo acuerdo entre las partes, la entidad de certificación podrá dar por terminado el acuerdo de vinculación con el suscriptor dando un preaviso no menor de noventa (90) días. Vencido este término, la entidad de certificación revocará los certificados que se encuentren pendientes de expiración.\n\nIgualmente, el suscriptor podrá dar por terminado el acuerdo de vinculación con la entidad de certificación dando un preaviso no inferior a treinta (30) días."
+    },
+    {
+      "provision_ref": "art34",
+      "chapter": "CAPÍTULO II",
+      "section": "34",
+      "title": "Artículo 34",
+      "content": "ARTÍCULO 34 . Cesación de actividades por parte de las entidades de certificación . Modificado por el Artículo 163 del Decreto 19 de 2012 . Las entidades de certificación autorizadas pueden cesar en el ejercicio de actividades, siempre y cuando hayan recibido autorización por parte de la Superintendencia de Industria y Comercio.\n\nCERTIFICADOS"
+    },
+    {
+      "provision_ref": "art35",
+      "chapter": "CAPÍTULO III",
+      "section": "35",
+      "title": "Artículo 35",
+      "content": "ARTÍCULO 35 . Contenido de los certificados . Un certificado emitido por una entidad de certificación autorizada, además de estar firmado digitalmente por ésta, debe contener por lo menos lo siguiente:\n\n1. Nombre, dirección y domicilio del suscriptor.\n\n2. Identificación del suscriptor nombrado en el certificado.\n\n3. El nombre, la dirección y el lugar donde realiza actividades la entidad de certificación.\n\n4. La clave pública del usuario.\n\n5. La metodología para verificar la firma digital del suscriptor impuesta en el mensaje de datos.\n\n6. El número de serie del certificado.\n\n7. Fecha de emisión y expiración del certificado."
+    },
+    {
+      "provision_ref": "art36",
+      "chapter": "CAPÍTULO III",
+      "section": "36",
+      "title": "Artículo 36",
+      "content": "ARTÍCULO 36 . Aceptación de un certificado . Salvo acuerdo entre las partes, se entiende que un suscriptor ha aceptado un certificado cuando la entidad de certificación, a solicitud de éste o de una persona en nombre de éste, lo ha guardado en un repositorio."
+    },
+    {
+      "provision_ref": "art37",
+      "chapter": "CAPÍTULO III",
+      "section": "37",
+      "title": "Artículo 37",
+      "content": "ARTÍCULO 37. Revocación de certificados . El suscriptor de una firma digital certificada, podrá solicitar a la entidad de certificación que expidió un certificado, la revocación del mismo. En todo caso, estará obligado a solicitar la revocación en los siguientes eventos:\n\n1. Por pérdida de la clave privada.\n\n2. La clave privada ha sido expuesta o corre peligro de que se le dé un uso indebido.\n\nSi el suscriptor no solicita la revocación del certificado en el evento de presentarse las anteriores situaciones, será responsable por las pérdidas o perjuicios en los cuales incurran terceros de buena fe exenta de culpa que confiaron en el contenido del certificado.\n\nUna entidad de certificación revocará un certificado emitido por las siguientes razones:\n\n1. A petición del suscriptor o un tercero en su nombre y representación.\n\n2. Por muerte del suscriptor.\n\n3. Por liquidación del suscriptor en el caso de las personas jurídicas.\n\n4. Por la confirmación de que alguna información o hecho contenido en el certificado es falso.\n\n5. La clave privada de la entidad de certificación o su sistema de seguridad ha sido comprometido de manera material que afecte la confiabilidad del certificado.\n\n6. Por el cese de actividades de la entidad de certificación, y\n\n7. Por orden judicial o de entidad administrativa competente."
+    },
+    {
+      "provision_ref": "art38",
+      "chapter": "CAPÍTULO III",
+      "section": "38",
+      "title": "Artículo 38",
+      "content": "ARTÍCULO 38. Término de conservación de los registros . Los registros de certificados expedidos por una entidad de certificación deben ser conservados por el término exigido en la ley que regule el acto o negocio jurídico en particular.\n\nSUSCRIPTORES DE FIRMAS DIGITALES"
+    },
+    {
+      "provision_ref": "art39",
+      "chapter": "CAPÍTULO IV",
+      "section": "39",
+      "title": "Artículo 39",
+      "content": "ARTÍCULO 39. Deberes de los suscriptores . Son deberes de los suscriptores:\n\n1. Recibir la firma digital por parte de la entidad de certificación o generarla, utilizando un método autorizado por ésta.\n\n2. Suministrar la información que requiera la entidad de certificación.\n\n3. Mantener el control de la firma digital.\n\n4. Solicitar oportunamente la revocación de los certificados."
+    },
+    {
+      "provision_ref": "art40",
+      "chapter": "CAPÍTULO IV",
+      "section": "40",
+      "title": "Artículo 40",
+      "content": "ARTÍCULO 40. Responsabilidad de los suscriptores . Los suscriptores serán responsables por la falsedad, error u omisión en la información suministrada a la entidad de certificación y por el incumplimiento de sus deberes como suscriptor.\n\nSUPERINTENDENCIA DE INDUSTRIA Y COMERCIO"
+    },
+    {
+      "provision_ref": "art41",
+      "chapter": "CAPÍTULO V",
+      "section": "41",
+      "title": "Artículo 41",
+      "content": "ARTÍCULO 41. Funciones de la Superintendencia. Derogado por el Artículo 176 del Decreto 19 de 2012 . La Superintendencia de Industria y Comercio ejercerá las facultades que legalmente le han sido asignadas respecto de las entidades de certificación, y adicionalmente tendrá las siguientes funciones:\n\n1. Autorizar la actividad de las entidades de certificación en el territorio nacional.\n\n2. Velar por el funcionamiento y la eficiente prestación del servicio por parte de las entidades de certificación.\n\n3. Realizar visitas de auditoría a las entidades de certificación.\n\n4. Revocar o suspender la autorización para operar como entidad de certificación.\n\n5. Solicitar la información pertinente para el ejercicio de sus funciones.\n\n6. Imponer sanciones a las entidades de certificación en caso de incumplimiento de las obligaciones derivadas de la prestación del servicio.\n\n7. Ordenar la revocación de certificados cuando la entidad de certificación los emita sin el cumplimiento de las formalidades legales.\n\n8. Designar los repositorios y entidades de certificación en los eventos previstos en la ley.\n\n9. Emitir certificados en relación con las firmas digitales de las entidades de certificación.\n\n10. Velar por la observancia de las disposiciones constitucionales y legales sobre la promoción de la competencia y prácticas comerciales restrictivas, competencia desleal y protección del consumidor, en los mercados atendidos por las entidades de certificación.\n\n11. Impartir instrucciones sobre el adecuado cumplimiento de las normas a las cuales deben sujetarse las entidades de certificación."
+    },
+    {
+      "provision_ref": "art42",
+      "chapter": "CAPÍTULO V",
+      "section": "42",
+      "title": "Artículo 42",
+      "content": "ARTÍCULO 42. Sanciones. Derogado por el Artículo 176 del Decreto 19 de 2012. La Superintendencia de Industria y Comercio de acuerdo con el debido proceso y el derecho de defensa, podrá imponer según la naturaleza y la gravedad de la falta, las siguientes sanciones a las entidades de certificación:\n\n1. Amonestación.\n\n2. Multas institucionales hasta por el equivalente a dos mil (2.000) salarios mínimos legales mensuales vigentes, y personales a los administradores y representantes legales de las entidades de certificación, hasta por trescientos (300) salarios mínimos legales mensuales vigentes, cuando se les compruebe que han autorizado, ejecutado o tolerado conductas violatorias de la ley.\n\n3. Suspender de inmediato todas o algunas de las actividades de la entidad infractora.\n\n4. Prohibir a la entidad de certificación infractora prestar directa o indirectamente los servicios de entidad de certificación hasta por el término de cinco (5) años.\n\n5. Revocar definitivamente la autorización para operar como entidad de certificación.\n\nDISPOSICIONES VARIAS"
+    },
+    {
+      "provision_ref": "art43",
+      "chapter": "CAPÍTULO VI",
+      "section": "43",
+      "title": "Artículo 43",
+      "content": "ARTÍCULO 43. Certificaciones recíprocas . Los certificados de firmas digitales emitidos por entidades de certificación extranjeras, podrán ser reconocidos en los mismos términos y condiciones exigidos en la ley para la emisión de certificados por parte de las entidades de certificación nacionales, siempre y cuando tales certificados sean reconocidos por una entidad de certificación autorizada que garantice en la misma forma que lo hace con sus propios certificados, la regularidad de los detalles del certificado, así como su validez y vigencia."
+    },
+    {
+      "provision_ref": "art44",
+      "chapter": "CAPÍTULO VI",
+      "section": "44",
+      "title": "Artículo 44",
+      "content": "ARTÍCULO 44 . Incorporación por remisión . Salvo acuerdo en contrario entre las partes, cuando en un mensaje de datos se haga remisión total o parcial a directrices, normas, estándares, acuerdos, cláusulas, condiciones o términos fácilmente accesibles con la intención de incorporarlos como parte del contenido o hacerlos vinculantes jurídicamente, se presume que esos términos están incorporados por remisión a ese mensaje de datos. Entre las partes y conforme a la ley, esos términos serán jurídicamente válidos como si hubieran sido incorporados en su totalidad en el mensaje de datos.\n\nPARTE IV\n\nREGLAMENTACION Y VIGENCIA"
+    },
+    {
+      "provision_ref": "art45",
+      "chapter": "CAPÍTULO VI",
+      "section": "45",
+      "title": "Artículo 45",
+      "content": "ARTÍCULO 45 . La Superintendencia de Industria y Comercio contará con un término adicional de doce (12) meses, contados a partir de la publicación de la presente ley, para organizar y asignar a una de sus dependencias la función de inspección, control y vigilancia de las actividades realizadas por las entidades de certificación, sin perjuicio de que el Gobierno Nacional cree una unidad especializada dentro de ella para tal efecto."
+    },
+    {
+      "provision_ref": "art46",
+      "chapter": "CAPÍTULO VI",
+      "section": "46",
+      "title": "Artículo 46",
+      "content": "ARTÍCULO 46 . Prevalencia de las leyes de protección al consumidor . La presente ley se aplicará sin perjuicio de las normas vigentes en materia de protección al consumidor."
+    },
+    {
+      "provision_ref": "art47",
+      "chapter": "CAPÍTULO VI",
+      "section": "47",
+      "title": "Artículo 47",
+      "content": "ARTÍCULO 47. Vigencia y derogatoria . La presente ley rige desde la fecha de su publicación y deroga las disposiciones que le sean contrarias.\n\nEL PRESIDENTE DEL HONORABLE SENADO DE LA REPÚBLICA,\n\nFABIO VALENCIA COSSIO.\n\nEL SECRETARIO GENERAL DEL HONORABLE SENADO DE LA REPÚBLICA,\n\nMANUEL ENRÍQUEZ ROSERO.\n\nEL PRESIDENTE DE LA HONORABLE CÁMARA DE REPRESENTANTES,\n\nEMILIO MARTÍNEZ ROSALES.\n\nEL SECRETARIO GENERAL DE LA HONORABLE CÁMARA DE REPRESENTANTES,\n\nGUSTAVO BUSTAMANTE MORATTO.\n\nREPUBLICA DE COLOMBIA GOBIERNO NACIONAL\n\nPUBLÍQUESE Y EJECÚTESE.\n\nDada en Santa Fe de Bogotá, D. C., a los 18 días del mes de agosto de 1999.\n\nANDRES PASTRANA ARANGO\n\nEL MINISTRO DE DESARROLLO ECONÓMICO,\n\nFERNANDO ARAÚJO PERDOMO.\n\nLA MINISTRA DE COMERCIO EXTERIOR,\n\nMARTHA LUCÍA RAMÍREZ DE RINCÓN.\n\nLA MINISTRA DE COMUNICACIONES,\n\nCLAUDIA DE FRANCISCO ZAMBRANO.\n\nEL MINISTRO DE TRANSPORTE,\n\nMAURICIO CÁRDENAS SANTAMARÍA.\n\nNOTA: Publicado en el Diario Oficial No, 43.673, 21 de agosto de 1999"
+    }
+  ],
+  "definitions": []
+}

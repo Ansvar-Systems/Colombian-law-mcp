@@ -1,0 +1,24 @@
+{
+  "id": "co-ley-6-1850",
+  "type": "statute",
+  "title": "Ley 6 de 1850",
+  "short_name": "Ley 6 de 1850",
+  "status": "in_force",
+  "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=12627",
+  "description": "Declara abolidas las cuarentenas, cordones sanitarios, u otras medidas que impidan la libre comunicación en el interior de la Nueva Granada, o entre ésta y los países extranjeros.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1",
+      "content": "ARTÍCULO 1. Ninguna autoridad podrá decretar o imponer en el territorio de la República, ni en parte alguna sujeta a su jurisdicción, cuarentenas, cordones sanitarios, u otras medidas que, so pretexto de prevenir la introducción y propagación de alguna enfermedad, impidan la libre comunicación en el interior de la Nueva Granada, o entre ésta y los países extranjeros."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ARTÍCULO 2. Deróganse todas las disposiciones que sean contrarias a la presente ley.\n\nDada en Bogotá a 7 de junio de 1850\n\nEl Presidente del Senado, JOSE MARIA MANTILLA\n\n- El Vicepresidente de la Cámara de Representantes, ROMUALDO LIÉVANO\n\n- El Secretario del senado, PASTOR OSPINA\n\n- El Representante Secretario, ANTONIO M. PRADILLA.\n\n* El número se introdujo para efectos de la incorporación al sistema, ya que el texto original no trae numeración."
+    }
+  ],
+  "definitions": []
+}

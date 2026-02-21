@@ -1,0 +1,24 @@
+{
+  "id": "co-ley-78-1931",
+  "type": "statute",
+  "title": "Ley 78 de 1931",
+  "short_name": "Ley 78 de 1931",
+  "status": "in_force",
+  "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=8261",
+  "description": "Define el tesoro público como el dinero que a cualquier título ingrese a las oficinas públicas, sean nacionales, departamentales o municipales, por lo que determina que la prohibición de recibir dos sueldos del tesoro público se aplica a todos los niveles territoriales, señala excepciones y la orden al pagador de cubrir la asignación correspondiente.",
+  "provisions": [
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2",
+      "content": "ARTÍCULO 2 ° .- Derógase el numeral 7o. del artículo 307 de la ley 4a. de 1913.\n\nARTÍCULO- 3 ° .- Será nulo todo nombramiento hecho en contravención a lo dispuesto\nen esta ley. En consecuencia, el respectivo pagador se abstendrá de cubrir la\nasignación que le correspondiere con la sola certificación de estar\ndesempeñando simultáneamente otro cargo oficial remunerado.\n\nSi a pesar de esta prohibición el pagador hiciere el pago, se le\nelevarán a alcance líquido las sumas indebidamente pagadas."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4",
+      "content": "ARTÍCULO 4 ° .- Esta ley regirá desde su promulgación.\n\nDada en Bogotá a los 8 días del mes de\njunio de 1931.\n\nNOTA:\nPublicado en el Diario Oficial ** de *** ** de 1931."
+    }
+  ],
+  "definitions": []
+}
