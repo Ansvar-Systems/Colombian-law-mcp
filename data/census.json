@@ -1,0 +1,8325 @@
+{
+  "schema_version": "1.0",
+  "jurisdiction": "CO",
+  "portal": "official-source",
+  "generated": "2026-02-22",
+  "total_laws": 1663,
+  "total_provisions": 49845,
+  "laws": [
+    {
+      "id": "co-ley-04-1981",
+      "title": "Ley 04 de 1981",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-1-1620",
+      "title": "Ley 1 de 1620",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-1-1819",
+      "title": "Ley 1 de 1819",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-1-1821",
+      "title": "Ley 1 de 1821 Congreso de la República",
+      "provisions": 14
+    },
+    {
+      "id": "co-ley-1-1831",
+      "title": "Ley 1 de 1831 Asamblea Nacional Constituyente",
+      "provisions": 6
+    },
+    {
+      "id": "co-ley-1-1850",
+      "title": "Ley 1 de 1850",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-1-1867",
+      "title": "Ley 1 de 1867 Congreso de la República",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-1-1932",
+      "title": "Ley 1 de 1932",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-1-1962",
+      "title": "Ley 1 de 1962",
+      "provisions": 19
+    },
+    {
+      "id": "co-ley-1-1980",
+      "title": "Ley 1 de 1980",
+      "provisions": 6
+    },
+    {
+      "id": "co-ley-1-1984",
+      "title": "Ley 1 de 1984",
+      "provisions": 74
+    },
+    {
+      "id": "co-ley-1-1989",
+      "title": "Ley 1 de 1989",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-1-1991",
+      "title": "Ley 1 de 1991",
+      "provisions": 48
+    },
+    {
+      "id": "co-ley-10-1934",
+      "title": "Ley 10 de 1934",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-10-1962",
+      "title": "Ley 10 de 1962",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-10-1983",
+      "title": "Ley 10 de 1983",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-10-1990",
+      "title": "Ley 10 de 1990",
+      "provisions": 52
+    },
+    {
+      "id": "co-ley-10-1991",
+      "title": "Ley 10 de 1991",
+      "provisions": 28
+    },
+    {
+      "id": "co-ley-10-1992",
+      "title": "Ley 10 de 1992",
+      "provisions": 20
+    },
+    {
+      "id": "co-ley-100-1993",
+      "title": "Ley 100 de 1993",
+      "provisions": 289
+    },
+    {
+      "id": "co-ley-1001-2005",
+      "title": "Ley 1001 de 2005",
+      "provisions": 11
+    },
+    {
+      "id": "co-ley-1002-2005",
+      "title": "Ley 1002 de 2005",
+      "provisions": 12
+    },
+    {
+      "id": "co-ley-1003-2005",
+      "title": "Ley 1003 de 2005",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-1004-2005",
+      "title": "Ley 1004 de 2005",
+      "provisions": 13
+    },
+    {
+      "id": "co-ley-1005-2006",
+      "title": "Ley 1005 de 2006",
+      "provisions": 19
+    },
+    {
+      "id": "co-ley-1006-2006",
+      "title": "Ley 1006 de 2006",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-1008-2006",
+      "title": "Ley 1008 de 2006",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-1009-2006",
+      "title": "Ley 1009 de 2006",
+      "provisions": 10
+    },
+    {
+      "id": "co-ley-101-1993",
+      "title": "Ley 101 de 1993",
+      "provisions": 100
+    },
+    {
+      "id": "co-ley-1010-2006",
+      "title": "Ley 1010 de 2006",
+      "provisions": 19
+    },
+    {
+      "id": "co-ley-1011-2006",
+      "title": "Ley 1011 de 2006",
+      "provisions": 8
+    },
+    {
+      "id": "co-ley-1012-2006",
+      "title": "Ley 1012 de 2006",
+      "provisions": 5
+    },
+    {
+      "id": "co-ley-1013-2006",
+      "title": "Ley 1013 de 2006",
+      "provisions": 5
+    },
+    {
+      "id": "co-ley-1014-2006",
+      "title": "Ley 1014 de 2006",
+      "provisions": 24
+    },
+    {
+      "id": "co-ley-1015-2006",
+      "title": "Ley 1015 de 2006",
+      "provisions": 60
+    },
+    {
+      "id": "co-ley-1016-2006",
+      "title": "Ley 1016 de 2006",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-102-1994",
+      "title": "Ley 102 de 1994",
+      "provisions": 5
+    },
+    {
+      "id": "co-ley-1021-2006",
+      "title": "Ley 1021 de 2006",
+      "provisions": 53
+    },
+    {
+      "id": "co-ley-1023-2006",
+      "title": "Ley 1023 de 2006",
+      "provisions": 4
+    },
+    {
+      "id": "co-ley-1024-2006",
+      "title": "Ley 1024 de 2006",
+      "provisions": 9
+    },
+    {
+      "id": "co-ley-1027-2006",
+      "title": "Ley 1027 de 2006",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-1028-2006",
+      "title": "Ley 1028 de 2006",
+      "provisions": 9
+    },
+    {
+      "id": "co-ley-1029-2006",
+      "title": "Ley 1029 de 2006",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-1031-2006",
+      "title": "Ley 1031 de 2006",
+      "provisions": 5
+    },
+    {
+      "id": "co-ley-1033-2006",
+      "title": "Ley 1033 de 2006",
+      "provisions": 14
+    },
+    {
+      "id": "co-ley-1034-2006",
+      "title": "Ley 1034 de 2006",
+      "provisions": 4
+    },
+    {
+      "id": "co-ley-104-1993",
+      "title": "Ley 104 de 1993",
+      "provisions": 135
+    },
+    {
+      "id": "co-ley-1040-2006",
+      "title": "Ley 1040 de 2006",
+      "provisions": 5
+    },
+    {
+      "id": "co-ley-105-1958",
+      "title": "Ley 105 de 1958",
+      "provisions": 39
+    },
+    {
+      "id": "co-ley-105-1993",
+      "title": "Ley 105 de 1993",
+      "provisions": 71
+    },
+    {
+      "id": "co-ley-1055-2006",
+      "title": "Ley 1055 de 2006",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-1059-2006",
+      "title": "Ley 1059 de 2006",
+      "provisions": 7
+    },
+    {
+      "id": "co-ley-106-1993",
+      "title": "Ley 106 de 1993",
+      "provisions": 151
+    },
+    {
+      "id": "co-ley-1060-2006",
+      "title": "Ley 1060 de 2006",
+      "provisions": 25
+    },
+    {
+      "id": "co-ley-1064-2006",
+      "title": "Ley 1064 de 2006",
+      "provisions": 9
+    },
+    {
+      "id": "co-ley-1065-2006",
+      "title": "Ley 1065 de 2006",
+      "provisions": 4
+    },
+    {
+      "id": "co-ley-1066-2006",
+      "title": "Ley 1066 de 2006",
+      "provisions": 21
+    },
+    {
+      "id": "co-ley-1070-2006",
+      "title": "Ley 1070 de 2006",
+      "provisions": 7
+    },
+    {
+      "id": "co-ley-1071-2006",
+      "title": "Ley 1071 de 2006",
+      "provisions": 7
+    },
+    {
+      "id": "co-ley-108-1936",
+      "title": "Ley 108 de 1936",
+      "provisions": 9
+    },
+    {
+      "id": "co-ley-1082-2006",
+      "title": "Ley 1082 de 2006",
+      "provisions": 29
+    },
+    {
+      "id": "co-ley-1083-2006",
+      "title": "Ley 1083 de 2006",
+      "provisions": 9
+    },
+    {
+      "id": "co-ley-1084-2006",
+      "title": "Ley 1084 de 2006",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-1085-2006",
+      "title": "Ley 1085 de 2006",
+      "provisions": 7
+    },
+    {
+      "id": "co-ley-1087-2006",
+      "title": "Ley 1087 de 2006",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-109-1936",
+      "title": "Ley 109 de 1936",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-109-1985",
+      "title": "Ley 109 de 1985",
+      "provisions": 41
+    },
+    {
+      "id": "co-ley-109-1994",
+      "title": "Ley 109 de 1994",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-1090-2006",
+      "title": "Ley 1090 de 2006",
+      "provisions": 93
+    },
+    {
+      "id": "co-ley-1091-2006",
+      "title": "Ley 1091 de 2006",
+      "provisions": 14
+    },
+    {
+      "id": "co-ley-1093-2006",
+      "title": "Ley 1093 de 2006",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-1094-2006",
+      "title": "Ley 1094 de 2006",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-1095-2006",
+      "title": "Ley 1095 de 2006",
+      "provisions": 10
+    },
+    {
+      "id": "co-ley-1097-2006",
+      "title": "Ley 1097 de 2006",
+      "provisions": 8
+    },
+    {
+      "id": "co-ley-1098-2006",
+      "title": "Ley 1098 de 2006",
+      "provisions": 216
+    },
+    {
+      "id": "co-ley-11-1979",
+      "title": "Ley 11 de 1979",
+      "provisions": 10
+    },
+    {
+      "id": "co-ley-11-1982",
+      "title": "Ley 11 de 1982",
+      "provisions": 15
+    },
+    {
+      "id": "co-ley-11-1983",
+      "title": "Ley 11 de 1983",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-11-1986",
+      "title": "Ley 11 de 1986",
+      "provisions": 81
+    },
+    {
+      "id": "co-ley-11-1991",
+      "title": "Ley 11 de 1991",
+      "provisions": 47
+    },
+    {
+      "id": "co-ley-1101-2006",
+      "title": "Ley 1101 de 2006",
+      "provisions": 20
+    },
+    {
+      "id": "co-ley-1102-2006",
+      "title": "Ley 1102 de 2006",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-1103-2006",
+      "title": "Ley 1103 de 2006",
+      "provisions": 5
+    },
+    {
+      "id": "co-ley-1105-2006",
+      "title": "Ley 1105 de 2006",
+      "provisions": 29
+    },
+    {
+      "id": "co-ley-1106-2006",
+      "title": "Ley 1106 de 2006",
+      "provisions": 7
+    },
+    {
+      "id": "co-ley-1107-2006",
+      "title": "Ley 1107 de 2006",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-1109-2006",
+      "title": "Ley 1109 de 2006",
+      "provisions": 38
+    },
+    {
+      "id": "co-ley-1110-2006",
+      "title": "Ley 1110 de 2006",
+      "provisions": 86
+    },
+    {
+      "id": "co-ley-1111-2006",
+      "title": "Ley 1111 de 2006",
+      "provisions": 81
+    },
+    {
+      "id": "co-ley-1113-2006",
+      "title": "Ley 1113 de 2006",
+      "provisions": 6
+    },
+    {
+      "id": "co-ley-1114-2006",
+      "title": "Ley 1114 de 2006",
+      "provisions": 6
+    },
+    {
+      "id": "co-ley-1116-2006",
+      "title": "Ley 1116 de 2006",
+      "provisions": 126
+    },
+    {
+      "id": "co-ley-1117-2006",
+      "title": "Ley 1117 de 2006",
+      "provisions": 4
+    },
+    {
+      "id": "co-ley-1118-2006",
+      "title": "Ley 1118 de 2006",
+      "provisions": 11
+    },
+    {
+      "id": "co-ley-1119-2006",
+      "title": "Ley 1119 de 2006",
+      "provisions": 17
+    },
+    {
+      "id": "co-ley-1121-2006",
+      "title": "Ley 1121 de 2006",
+      "provisions": 35
+    },
+    {
+      "id": "co-ley-1122-2007",
+      "title": "Ley 1122 de 2007",
+      "provisions": 48
+    },
+    {
+      "id": "co-ley-1123-2007",
+      "title": "Ley 1123 de 2007",
+      "provisions": 112
+    },
+    {
+      "id": "co-ley-1124-2007",
+      "title": "Ley 1124 de 2007",
+      "provisions": 9
+    },
+    {
+      "id": "co-ley-1127-2007",
+      "title": "Ley 1127 de 2007",
+      "provisions": 4
+    },
+    {
+      "id": "co-ley-113-1928",
+      "title": "Ley 113 de 1928",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-113-1937",
+      "title": "Ley 113 de 1937",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-113-1985",
+      "title": "Ley 113 de 1985",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-1133-2007",
+      "title": "Ley 1133 de 2007",
+      "provisions": 11
+    },
+    {
+      "id": "co-ley-1134-2007",
+      "title": "Ley 1134 de 2007 Congreso de la República",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-1136-2007",
+      "title": "Ley 1136 de 2007",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-1137-2007",
+      "title": "Ley 1137 de 2007",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-114-1913",
+      "title": "Ley 114 de 1913",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-114-1937",
+      "title": "Ley 114 de 1937",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-1142-2007",
+      "title": "Ley 1142 de 2007",
+      "provisions": 88
+    },
+    {
+      "id": "co-ley-1143-2007",
+      "title": "Ley 1143 de 2007",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-1145-2007",
+      "title": "Ley 1145 de 2007",
+      "provisions": 19
+    },
+    {
+      "id": "co-ley-1146-2007",
+      "title": "Ley 1146 de 2007",
+      "provisions": 19
+    },
+    {
+      "id": "co-ley-1147-2007",
+      "title": "Ley 1147 de 2007",
+      "provisions": 16
+    },
+    {
+      "id": "co-ley-1148-2007",
+      "title": "Ley 1148 de 2007",
+      "provisions": 10
+    },
+    {
+      "id": "co-ley-1149-2007",
+      "title": "Ley 1149 de 2007",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-115-1948",
+      "title": "Ley 115 de 1948",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-115-1994",
+      "title": "Ley 115 de 1994",
+      "provisions": 222
+    },
+    {
+      "id": "co-ley-1150-2007",
+      "title": "Ley 1150 de 2007",
+      "provisions": 33
+    },
+    {
+      "id": "co-ley-1151-2007",
+      "title": "Ley 1151 de 2007",
+      "provisions": 160
+    },
+    {
+      "id": "co-ley-1152-2007",
+      "title": "Ley 1152 de 2007",
+      "provisions": 178
+    },
+    {
+      "id": "co-ley-1153-2007",
+      "title": "Ley 1153 de 2007",
+      "provisions": 60
+    },
+    {
+      "id": "co-ley-1154-2007",
+      "title": "Ley 1154 de 2007",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-1157-2007",
+      "title": "Ley 1157 de 2007",
+      "provisions": 11
+    },
+    {
+      "id": "co-ley-116-1994",
+      "title": "Ley 116 de 1994",
+      "provisions": 5
+    },
+    {
+      "id": "co-ley-1161-2007",
+      "title": "Ley 1161 de 2007",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-1163-2007",
+      "title": "Ley 1163 de 2007",
+      "provisions": 6
+    },
+    {
+      "id": "co-ley-1164-2007",
+      "title": "Ley 1164 de 2007",
+      "provisions": 40
+    },
+    {
+      "id": "co-ley-1166-2007",
+      "title": "Ley 1166 de 2007",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-117-1922",
+      "title": "Ley 117 de 1922",
+      "provisions": 16
+    },
+    {
+      "id": "co-ley-117-1985",
+      "title": "Ley 117 de 1985",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-117-1994",
+      "title": "Ley 117 de 1994",
+      "provisions": 16
+    },
+    {
+      "id": "co-ley-1170-2007",
+      "title": "Ley 1170 de 2007",
+      "provisions": 16
+    },
+    {
+      "id": "co-ley-1171-2007",
+      "title": "Ley 1171 de 2007",
+      "provisions": 17
+    },
+    {
+      "id": "co-ley-1173-2007",
+      "title": "Ley 1173 de 2007",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-1175-2007",
+      "title": "Ley 1175 de 2007",
+      "provisions": 5
+    },
+    {
+      "id": "co-ley-1176-2007",
+      "title": "Ley 1176 de 2007",
+      "provisions": 37
+    },
+    {
+      "id": "co-ley-118-1994",
+      "title": "Ley 118 de 1994",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-1180-2007",
+      "title": "Ley 1180 de 2007",
+      "provisions": 39
+    },
+    {
+      "id": "co-ley-1181-2007",
+      "title": "Ley 1181 de 2007",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-1182-2008",
+      "title": "Ley 1182 de 2008",
+      "provisions": 17
+    },
+    {
+      "id": "co-ley-1183-2008",
+      "title": "Ley 1183 de 2008",
+      "provisions": 22
+    },
+    {
+      "id": "co-ley-1184-2008",
+      "title": "Ley 1184 de 2008",
+      "provisions": 10
+    },
+    {
+      "id": "co-ley-1185-2008",
+      "title": "Ley 1185 de 2008",
+      "provisions": 26
+    },
+    {
+      "id": "co-ley-1187-2008",
+      "title": "Ley 1187 de 2008",
+      "provisions": 5
+    },
+    {
+      "id": "co-ley-1188-2008",
+      "title": "Ley 1188 de 2008",
+      "provisions": 7
+    },
+    {
+      "id": "co-ley-1189-2008",
+      "title": "Ley 1189 de 2008",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-119-1994",
+      "title": "Ley 119 de 1994",
+      "provisions": 51
+    },
+    {
+      "id": "co-ley-1190-2008",
+      "title": "Ley 1190 de 2008",
+      "provisions": 10
+    },
+    {
+      "id": "co-ley-1191-2008",
+      "title": "Ley 1191 de 2008",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-1192-2008",
+      "title": "Ley 1192 de 2008",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-1194-2008",
+      "title": "Ley 1194 de 2008",
+      "provisions": 4
+    },
+    {
+      "id": "co-ley-1195-2008",
+      "title": "Ley 1195 de 2008",
+      "provisions": 5
+    },
+    {
+      "id": "co-ley-1196-2008",
+      "title": "Ley 1196 de 2008",
+      "provisions": 33
+    },
+    {
+      "id": "co-ley-1197-2008",
+      "title": "Ley 1197 de 2008",
+      "provisions": 6
+    },
+    {
+      "id": "co-ley-1198-2008",
+      "title": "Ley 1198 de 2008",
+      "provisions": 17
+    },
+    {
+      "id": "co-ley-1199-2008",
+      "title": "Ley 1199 de 2008",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-12-1936",
+      "title": "Ley 12 de 1936",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-12-1975",
+      "title": "Ley 12 de 1975",
+      "provisions": 5
+    },
+    {
+      "id": "co-ley-12-1984",
+      "title": "Ley 12 de 1984",
+      "provisions": 8
+    },
+    {
+      "id": "co-ley-12-1986",
+      "title": "Ley 12 de 1986",
+      "provisions": 21
+    },
+    {
+      "id": "co-ley-12-1987",
+      "title": "Ley 12 de 1987",
+      "provisions": 4
+    },
+    {
+      "id": "co-ley-12-1991",
+      "title": "Ley 12 de 1991",
+      "provisions": 54
+    },
+    {
+      "id": "co-ley-1200-2008",
+      "title": "Ley 1200 de 2008",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-1201-2008",
+      "title": "Ley 1201 de 2008",
+      "provisions": 6
+    },
+    {
+      "id": "co-ley-1202-2008",
+      "title": "Ley 1202 de 2008",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-1204-2008",
+      "title": "Ley 1204 de 2008",
+      "provisions": 10
+    },
+    {
+      "id": "co-ley-1205-2008",
+      "title": "Ley 1205 de 2008",
+      "provisions": 5
+    },
+    {
+      "id": "co-ley-1206-2008",
+      "title": "Ley 1206 de 2008",
+      "provisions": 15
+    },
+    {
+      "id": "co-ley-1207-2008",
+      "title": "Ley 1207 de 2008",
+      "provisions": 43
+    },
+    {
+      "id": "co-ley-1208-2008",
+      "title": "Ley 1208 de 2008",
+      "provisions": 10
+    },
+    {
+      "id": "co-ley-1209-2008",
+      "title": "Ley 1209 de 2008",
+      "provisions": 19
+    },
+    {
+      "id": "co-ley-1210-2008",
+      "title": "Ley 1210 de 2008",
+      "provisions": 6
+    },
+    {
+      "id": "co-ley-1211-2008",
+      "title": "Ley 1211 de 2008",
+      "provisions": 4
+    },
+    {
+      "id": "co-ley-1212-2008",
+      "title": "Ley 1212 de 2008",
+      "provisions": 9
+    },
+    {
+      "id": "co-ley-1215-2008",
+      "title": "Ley 1215 de 2008",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-1217-2008",
+      "title": "Ley 1217 de 2008",
+      "provisions": 11
+    },
+    {
+      "id": "co-ley-1219-2008",
+      "title": "Ley 1219 de 2008",
+      "provisions": 9
+    },
+    {
+      "id": "co-ley-1220-2008",
+      "title": "Ley 1220 de 2008",
+      "provisions": 9
+    },
+    {
+      "id": "co-ley-1221-2008",
+      "title": "Ley 1221 de 2008",
+      "provisions": 10
+    },
+    {
+      "id": "co-ley-1223-2008",
+      "title": "Ley 1223 de 2008",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-1224-2008",
+      "title": "Ley 1224 de 2008",
+      "provisions": 38
+    },
+    {
+      "id": "co-ley-1225-2008",
+      "title": "Ley 1225 de 2008",
+      "provisions": 11
+    },
+    {
+      "id": "co-ley-1226-2008",
+      "title": "Ley 1226 de 2008",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-1227-2008",
+      "title": "Ley 1227 de 2008",
+      "provisions": 9
+    },
+    {
+      "id": "co-ley-1228-2008",
+      "title": "Ley 1228 de 2008",
+      "provisions": 12
+    },
+    {
+      "id": "co-ley-1229-2008",
+      "title": "Ley 1229 de 2008",
+      "provisions": 7
+    },
+    {
+      "id": "co-ley-1231-2008",
+      "title": "Ley 1231 de 2008",
+      "provisions": 10
+    },
+    {
+      "id": "co-ley-1232-2008",
+      "title": "Ley 1232 de 2008",
+      "provisions": 19
+    },
+    {
+      "id": "co-ley-1233-2008",
+      "title": "Ley 1233 de 2008",
+      "provisions": 14
+    },
+    {
+      "id": "co-ley-1236-2008",
+      "title": "Ley 1236 de 2008",
+      "provisions": 14
+    },
+    {
+      "id": "co-ley-1237-2008",
+      "title": "Ley 1237 de 2008",
+      "provisions": 6
+    },
+    {
+      "id": "co-ley-1238-2008",
+      "title": "Ley 1238 de 2008",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-1239-2008",
+      "title": "Ley 1239 de 2008",
+      "provisions": 4
+    },
+    {
+      "id": "co-ley-124-1948",
+      "title": "Ley 124 de 1948",
+      "provisions": 7
+    },
+    {
+      "id": "co-ley-124-1994",
+      "title": "Ley 124 de 1994",
+      "provisions": 5
+    },
+    {
+      "id": "co-ley-1240-2008",
+      "title": "Ley 1240 de 2008",
+      "provisions": 51
+    },
+    {
+      "id": "co-ley-1241-2008",
+      "title": "Ley 1241 de 2008",
+      "provisions": 41
+    },
+    {
+      "id": "co-ley-1242-2008",
+      "title": "Ley 1242 de 2008",
+      "provisions": 87
+    },
+    {
+      "id": "co-ley-1243-2008",
+      "title": "Ley 1243 de 2008",
+      "provisions": 4
+    },
+    {
+      "id": "co-ley-1246-2008",
+      "title": "Ley 1246 de 2008",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-1249-2008",
+      "title": "Ley 1249 de 2008",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-1250-2008",
+      "title": "Ley 1250 de 2008",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-1251-2008",
+      "title": "Ley 1251 de 2008",
+      "provisions": 35
+    },
+    {
+      "id": "co-ley-1252-2008",
+      "title": "Ley 1252 de 2008",
+      "provisions": 18
+    },
+    {
+      "id": "co-ley-1253-2008",
+      "title": "Ley 1253 de 2008",
+      "provisions": 5
+    },
+    {
+      "id": "co-ley-1255-2008",
+      "title": "Ley 1255 de 2008",
+      "provisions": 24
+    },
+    {
+      "id": "co-ley-1256-2008",
+      "title": "Ley 1256 de 2008",
+      "provisions": 9
+    },
+    {
+      "id": "co-ley-1257-2008",
+      "title": "Ley 1257 de 2008",
+      "provisions": 39
+    },
+    {
+      "id": "co-ley-1258-2008",
+      "title": "Ley 1258 de 2008",
+      "provisions": 46
+    },
+    {
+      "id": "co-ley-1259-2008",
+      "title": "Ley 1259 de 2008",
+      "provisions": 26
+    },
+    {
+      "id": "co-ley-1260-2008",
+      "title": "Ley 1260 de 2008",
+      "provisions": 80
+    },
+    {
+      "id": "co-ley-1261-2008",
+      "title": "Ley 1261 de 2008",
+      "provisions": 31
+    },
+    {
+      "id": "co-ley-1263-2008",
+      "title": "Ley 1263 de 2008",
+      "provisions": 5
+    },
+    {
+      "id": "co-ley-1265-2008",
+      "title": "Ley 1265 de 2008",
+      "provisions": 9
+    },
+    {
+      "id": "co-ley-1266-2008",
+      "title": "Ley 1266 de 2008",
+      "provisions": 24
+    },
+    {
+      "id": "co-ley-1268-2008",
+      "title": "Ley 1268 de 2008",
+      "provisions": 6
+    },
+    {
+      "id": "co-ley-1269-2008",
+      "title": "Ley 1269 de 2008",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-1270-2009",
+      "title": "Ley 1270 de 2009",
+      "provisions": 14
+    },
+    {
+      "id": "co-ley-1273-2009",
+      "title": "Ley 1273 de 2009",
+      "provisions": 16
+    },
+    {
+      "id": "co-ley-1274-2009",
+      "title": "Ley 1274 de 2009",
+      "provisions": 10
+    },
+    {
+      "id": "co-ley-1275-2009",
+      "title": "Ley 1275 de 2009",
+      "provisions": 10
+    },
+    {
+      "id": "co-ley-1276-2009",
+      "title": "Ley 1276 de 2009",
+      "provisions": 15
+    },
+    {
+      "id": "co-ley-1278-2009",
+      "title": "Ley 1278 de 2009",
+      "provisions": 24
+    },
+    {
+      "id": "co-ley-128-1936",
+      "title": "Ley 128 de 1936",
+      "provisions": 17
+    },
+    {
+      "id": "co-ley-128-1994",
+      "title": "Ley 128 de 1994",
+      "provisions": 30
+    },
+    {
+      "id": "co-ley-1280-2009",
+      "title": "Ley 1280 de 2009",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-1281-2009",
+      "title": "Ley 1281 de 2009",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-1282-2009",
+      "title": "Ley 1282 de 2009",
+      "provisions": 42
+    },
+    {
+      "id": "co-ley-1283-2009",
+      "title": "Ley 1283 de 2009",
+      "provisions": 6
+    },
+    {
+      "id": "co-ley-1284-2009",
+      "title": "Ley 1284 de 2009",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-1285-2009",
+      "title": "Ley 1285 de 2009",
+      "provisions": 32
+    },
+    {
+      "id": "co-ley-1286-2009",
+      "title": "Ley 1286 de 2009",
+      "provisions": 34
+    },
+    {
+      "id": "co-ley-1287-2009",
+      "title": "Ley 1287 de 2009",
+      "provisions": 9
+    },
+    {
+      "id": "co-ley-1288-2009",
+      "title": "Ley 1288 de 2009",
+      "provisions": 33
+    },
+    {
+      "id": "co-ley-1289-2009",
+      "title": "Ley 1289 de 2009",
+      "provisions": 4
+    },
+    {
+      "id": "co-ley-1294-2009",
+      "title": "Ley 1294 de 2009",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-1295-2009",
+      "title": "Ley 1295 de 2009",
+      "provisions": 18
+    },
+    {
+      "id": "co-ley-1296-2009",
+      "title": "Ley 1296 de 2009",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-1297-2009",
+      "title": "Ley 1297 de 2009",
+      "provisions": 4
+    },
+    {
+      "id": "co-ley-13-1937",
+      "title": "Ley 13 de 1937",
+      "provisions": 13
+    },
+    {
+      "id": "co-ley-13-1973",
+      "title": "Ley 13 de 1973",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-13-1976",
+      "title": "Ley 13 de 1976",
+      "provisions": 6
+    },
+    {
+      "id": "co-ley-13-1984",
+      "title": "Ley 13 de 1984",
+      "provisions": 25
+    },
+    {
+      "id": "co-ley-13-1990",
+      "title": "Ley 13 de 1990",
+      "provisions": 79
+    },
+    {
+      "id": "co-ley-130-1994",
+      "title": "Ley 130 de 1994",
+      "provisions": 53
+    },
+    {
+      "id": "co-ley-1304-2009",
+      "title": "Ley 1304 de 2009",
+      "provisions": 24
+    },
+    {
+      "id": "co-ley-1306-2009",
+      "title": "Ley 1306 de 2009",
+      "provisions": 123
+    },
+    {
+      "id": "co-ley-1309-2009",
+      "title": "Ley 1309 de 2009",
+      "provisions": 7
+    },
+    {
+      "id": "co-ley-131-1994",
+      "title": "Ley 131 de 1994",
+      "provisions": 16
+    },
+    {
+      "id": "co-ley-1310-2009",
+      "title": "Ley 1310 de 2009",
+      "provisions": 16
+    },
+    {
+      "id": "co-ley-1311-2009",
+      "title": "Ley 1311 de 2009",
+      "provisions": 4
+    },
+    {
+      "id": "co-ley-1312-2009",
+      "title": "Ley 1312 de 2009",
+      "provisions": 11
+    },
+    {
+      "id": "co-ley-1313-2009",
+      "title": "Ley 1313 de 2009",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-1314-2009",
+      "title": "Ley 1314 de 2009",
+      "provisions": 17
+    },
+    {
+      "id": "co-ley-1315-2009",
+      "title": "Ley 1315 de 2009",
+      "provisions": 19
+    },
+    {
+      "id": "co-ley-1316-2009",
+      "title": "Ley 1316 de 2009",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-1318-2009",
+      "title": "Ley 1318 de 2009",
+      "provisions": 5
+    },
+    {
+      "id": "co-ley-1319-2009",
+      "title": "Ley 1319 de 2009",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-132-1994",
+      "title": "Ley 132 de 1994",
+      "provisions": 19
+    },
+    {
+      "id": "co-ley-1322-2009",
+      "title": "Ley 1322 de 2009",
+      "provisions": 7
+    },
+    {
+      "id": "co-ley-1324-2009",
+      "title": "Ley 1324 de 2009",
+      "provisions": 15
+    },
+    {
+      "id": "co-ley-1326-2009",
+      "title": "Ley 1326 de 2009",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-1327-2009",
+      "title": "Ley 1327 de 2009",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-1328-2009",
+      "title": "Ley 1328 de 2009",
+      "provisions": 102
+    },
+    {
+      "id": "co-ley-1329-2009",
+      "title": "Ley 1329 de 2009",
+      "provisions": 7
+    },
+    {
+      "id": "co-ley-133-1994",
+      "title": "Ley 133 de 1994",
+      "provisions": 19
+    },
+    {
+      "id": "co-ley-1330-2009",
+      "title": "Ley 1330 de 2009",
+      "provisions": 8
+    },
+    {
+      "id": "co-ley-1333-2009",
+      "title": "Ley 1333 de 2009",
+      "provisions": 70
+    },
+    {
+      "id": "co-ley-1335-2009",
+      "title": "Ley 1335 de 2009",
+      "provisions": 36
+    },
+    {
+      "id": "co-ley-1336-2009",
+      "title": "Ley 1336 de 2009",
+      "provisions": 30
+    },
+    {
+      "id": "co-ley-134-1931",
+      "title": "Ley 134 de 1931",
+      "provisions": 88
+    },
+    {
+      "id": "co-ley-134-1994",
+      "title": "Ley 134 de 1994",
+      "provisions": 109
+    },
+    {
+      "id": "co-ley-1340-2009",
+      "title": "Ley 1340 de 2009",
+      "provisions": 34
+    },
+    {
+      "id": "co-ley-1341-2009",
+      "title": "Ley 1341 de 2009",
+      "provisions": 74
+    },
+    {
+      "id": "co-ley-1344-2009",
+      "title": "Ley 1344 de 2009",
+      "provisions": 29
+    },
+    {
+      "id": "co-ley-1345-2009",
+      "title": "Ley 1345 de 2009",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-1346-2009",
+      "title": "Ley 1346 de 2009",
+      "provisions": 50
+    },
+    {
+      "id": "co-ley-1347-2009",
+      "title": "Ley 1347 de 2009",
+      "provisions": 23
+    },
+    {
+      "id": "co-ley-1348-2009",
+      "title": "Ley 1348 de 2009",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-1349-2009",
+      "title": "Ley 1349 de 2009",
+      "provisions": 60
+    },
+    {
+      "id": "co-ley-135-1961",
+      "title": "Ley 135 de 1961",
+      "provisions": 162
+    },
+    {
+      "id": "co-ley-1350-2009",
+      "title": "Ley 1350 de 2009",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-1354-2009",
+      "title": "Ley 1354 de 2009",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-1355-2009",
+      "title": "Ley 1355 de 2009",
+      "provisions": 22
+    },
+    {
+      "id": "co-ley-1356-2009",
+      "title": "Ley 1356 de 2009",
+      "provisions": 16
+    },
+    {
+      "id": "co-ley-1357-2009",
+      "title": "Ley 1357 de 2009",
+      "provisions": 5
+    },
+    {
+      "id": "co-ley-1359-2009",
+      "title": "Ley 1359 de 2009",
+      "provisions": 31
+    },
+    {
+      "id": "co-ley-136-1994",
+      "title": "Ley 136 de 1994",
+      "provisions": 203
+    },
+    {
+      "id": "co-ley-1360-2009",
+      "title": "Ley 1360 de 2009",
+      "provisions": 18
+    },
+    {
+      "id": "co-ley-1361-2009",
+      "title": "Ley 1361 de 2009",
+      "provisions": 16
+    },
+    {
+      "id": "co-ley-1362-2009",
+      "title": "Ley 1362 de 2009",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-1364-2009",
+      "title": "Ley 1364 de 2009",
+      "provisions": 5
+    },
+    {
+      "id": "co-ley-1365-2009",
+      "title": "Ley 1365 de 2009",
+      "provisions": 92
+    },
+    {
+      "id": "co-ley-1366-2009",
+      "title": "Ley 1366 de 2009",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-1367-2009",
+      "title": "Ley 1367 de 2009",
+      "provisions": 9
+    },
+    {
+      "id": "co-ley-1368-2009",
+      "title": "Ley 1368 de 2009",
+      "provisions": 10
+    },
+    {
+      "id": "co-ley-1369-2009",
+      "title": "Ley 1369 de 2009",
+      "provisions": 53
+    },
+    {
+      "id": "co-ley-137-1959",
+      "title": "Ley 137 de 1959",
+      "provisions": 9
+    },
+    {
+      "id": "co-ley-137-1994",
+      "title": "Ley 137 de 1994",
+      "provisions": 59
+    },
+    {
+      "id": "co-ley-1370-2009",
+      "title": "Ley 1370 de 2009",
+      "provisions": 12
+    },
+    {
+      "id": "co-ley-1371-2009",
+      "title": "Ley 1371 de 2009",
+      "provisions": 9
+    },
+    {
+      "id": "co-ley-1372-2010",
+      "title": "Ley 1372 de 2010",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-1373-2010",
+      "title": "Ley 1373 de 2010",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-1374-2010",
+      "title": "Ley 1374 de 2010",
+      "provisions": 7
+    },
+    {
+      "id": "co-ley-1377-2010",
+      "title": "Ley 1377 de 2010",
+      "provisions": 12
+    },
+    {
+      "id": "co-ley-1378-2010",
+      "title": "Ley 1378 de 2010",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-1379-2010",
+      "title": "Ley 1379 de 2010",
+      "provisions": 47
+    },
+    {
+      "id": "co-ley-1380-2010",
+      "title": "Ley 1380 de 2010",
+      "provisions": 41
+    },
+    {
+      "id": "co-ley-1381-2010",
+      "title": "Ley 1381 de 2010",
+      "provisions": 26
+    },
+    {
+      "id": "co-ley-1382-2010",
+      "title": "Ley 1382 de 2010",
+      "provisions": 33
+    },
+    {
+      "id": "co-ley-1383-2010",
+      "title": "Ley 1383 de 2010",
+      "provisions": 44
+    },
+    {
+      "id": "co-ley-1384-2010",
+      "title": "Ley 1384 de 2010",
+      "provisions": 24
+    },
+    {
+      "id": "co-ley-1385-2010",
+      "title": "Ley 1385 de 2010",
+      "provisions": 9
+    },
+    {
+      "id": "co-ley-1386-2010",
+      "title": "Ley 1386 de 2010",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-1388-2010",
+      "title": "Ley 1388 de 2010",
+      "provisions": 0
+    },
+    {
+      "id": "co-ley-1388-2010-i39668",
+      "title": "Ley 1388 de 2010",
+      "provisions": 0
+    },
+    {
+      "id": "co-ley-1389-2010",
+      "title": "Ley 1389 de 2010",
+      "provisions": 7
+    },
+    {
+      "id": "co-ley-139-1994",
+      "title": "Ley 139 de 1994",
+      "provisions": 17
+    },
+    {
+      "id": "co-ley-1391-2010",
+      "title": "Ley 1391 de 2010",
+      "provisions": 13
+    },
+    {
+      "id": "co-ley-1392-2010",
+      "title": "Ley 1392 de 2010",
+      "provisions": 16
+    },
+    {
+      "id": "co-ley-1393-2010",
+      "title": "Ley 1393 de 2010",
+      "provisions": 41
+    },
+    {
+      "id": "co-ley-1394-2010",
+      "title": "Ley 1394 de 2010",
+      "provisions": 15
+    },
+    {
+      "id": "co-ley-1395-2010",
+      "title": "Ley 1395 de 2010",
+      "provisions": 162
+    },
+    {
+      "id": "co-ley-1397-2010",
+      "title": "Ley 1397 de 2010",
+      "provisions": 10
+    },
+    {
+      "id": "co-ley-14-1962",
+      "title": "Ley 14 de 1962",
+      "provisions": 13
+    },
+    {
+      "id": "co-ley-14-1969",
+      "title": "Ley 14 de 1969",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-14-1975",
+      "title": "Ley 14 de 1975",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-14-1979",
+      "title": "Ley 14 de 1979",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-14-1983",
+      "title": "Ley 14 de 1983",
+      "provisions": 90
+    },
+    {
+      "id": "co-ley-14-1988",
+      "title": "Ley 14 de 1988",
+      "provisions": 16
+    },
+    {
+      "id": "co-ley-14-1991",
+      "title": "Ley 14 de 1991",
+      "provisions": 55
+    },
+    {
+      "id": "co-ley-140-1994",
+      "title": "Ley 140 de 1994",
+      "provisions": 17
+    },
+    {
+      "id": "co-ley-1403-2010",
+      "title": "Ley 1403 de 2010",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-1404-2010",
+      "title": "Ley 1404 de 2010",
+      "provisions": 4
+    },
+    {
+      "id": "co-ley-1407-2010",
+      "title": "Ley 1407 de 2010",
+      "provisions": 626
+    },
+    {
+      "id": "co-ley-1408-2010",
+      "title": "Ley 1408 de 2010",
+      "provisions": 16
+    },
+    {
+      "id": "co-ley-1409-2010",
+      "title": "Ley 1409 de 2010",
+      "provisions": 55
+    },
+    {
+      "id": "co-ley-141-1961",
+      "title": "Ley 141 de 1961",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-141-1994",
+      "title": "Ley 141 de 1994",
+      "provisions": 69
+    },
+    {
+      "id": "co-ley-1410-2010",
+      "title": "Ley 1410 de 2010",
+      "provisions": 4
+    },
+    {
+      "id": "co-ley-1411-2010",
+      "title": "Ley 1411 de 2010",
+      "provisions": 5
+    },
+    {
+      "id": "co-ley-1412-2010",
+      "title": "Ley 1412 de 2010",
+      "provisions": 15
+    },
+    {
+      "id": "co-ley-1413-2010",
+      "title": "Ley 1413 de 2010",
+      "provisions": 8
+    },
+    {
+      "id": "co-ley-1414-2010",
+      "title": "Ley 1414 de 2010",
+      "provisions": 27
+    },
+    {
+      "id": "co-ley-1415-2010",
+      "title": "Ley 1415 de 2010",
+      "provisions": 6
+    },
+    {
+      "id": "co-ley-1416-2010",
+      "title": "Ley 1416 de 2010",
+      "provisions": 6
+    },
+    {
+      "id": "co-ley-1418-2010",
+      "title": "Ley 1418 de 2010",
+      "provisions": 45
+    },
+    {
+      "id": "co-ley-1419-2010",
+      "title": "Ley 1419 de 2010",
+      "provisions": 12
+    },
+    {
+      "id": "co-ley-142-1994",
+      "title": "Ley 142 de 1994",
+      "provisions": 189
+    },
+    {
+      "id": "co-ley-1421-2010",
+      "title": "Ley 1421 de 2010",
+      "provisions": 35
+    },
+    {
+      "id": "co-ley-1422-2010",
+      "title": "Ley 1422 de 2010",
+      "provisions": 7
+    },
+    {
+      "id": "co-ley-1424-2010",
+      "title": "Ley 1424 de 2010",
+      "provisions": 11
+    },
+    {
+      "id": "co-ley-1425-2010",
+      "title": "Ley 1425 de 2010",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-1426-2010",
+      "title": "Ley 1426 de 2010",
+      "provisions": 5
+    },
+    {
+      "id": "co-ley-1427-2010",
+      "title": "Ley 1427 de 2010",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-1428-2010",
+      "title": "Ley 1428 de 2010",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-1429-2010",
+      "title": "Ley 1429 de 2010",
+      "provisions": 72
+    },
+    {
+      "id": "co-ley-143-1938",
+      "title": "Ley 143 de 1938",
+      "provisions": 13
+    },
+    {
+      "id": "co-ley-143-1994",
+      "title": "Ley 143 de 1994",
+      "provisions": 97
+    },
+    {
+      "id": "co-ley-1430-2010",
+      "title": "Ley 1430 de 2010",
+      "provisions": 69
+    },
+    {
+      "id": "co-ley-1431-2011",
+      "title": "Ley 1431 de 2011",
+      "provisions": 8
+    },
+    {
+      "id": "co-ley-1432-2011",
+      "title": "Ley 1432 de 2011",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-1434-2011",
+      "title": "Ley 1434 de 2011",
+      "provisions": 18
+    },
+    {
+      "id": "co-ley-1436-2011",
+      "title": "Ley 1436 de 2011",
+      "provisions": 6
+    },
+    {
+      "id": "co-ley-1437-2011",
+      "title": "Ley 1437 de 2011",
+      "provisions": 320
+    },
+    {
+      "id": "co-ley-1438-2011",
+      "title": "Ley 1438 de 2011",
+      "provisions": 146
+    },
+    {
+      "id": "co-ley-144-1994",
+      "title": "Ley 144 de 1994",
+      "provisions": 19
+    },
+    {
+      "id": "co-ley-1440-2011",
+      "title": "Ley 1440 de 2011",
+      "provisions": 27
+    },
+    {
+      "id": "co-ley-1441-2011",
+      "title": "Ley 1441 de 2011",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-1442-2011",
+      "title": "Ley 1442 de 2011",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-1443-2011",
+      "title": "Ley 1443 de 2011",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-1444-2011",
+      "title": "Ley 1444 de 2011",
+      "provisions": 22
+    },
+    {
+      "id": "co-ley-1445-2011",
+      "title": "Ley 1445 de 2011",
+      "provisions": 22
+    },
+    {
+      "id": "co-ley-1446-2011",
+      "title": "Ley 1446 de 2011",
+      "provisions": 5
+    },
+    {
+      "id": "co-ley-1447-2011",
+      "title": "Ley 1447 de 2011",
+      "provisions": 14
+    },
+    {
+      "id": "co-ley-1448-2011",
+      "title": "Ley 1448 de 2011",
+      "provisions": 217
+    },
+    {
+      "id": "co-ley-145-1960",
+      "title": "Ley 145 de 1960",
+      "provisions": 23
+    },
+    {
+      "id": "co-ley-1450-2011",
+      "title": "Ley 1450 de 2011",
+      "provisions": 276
+    },
+    {
+      "id": "co-ley-1453-2011",
+      "title": "Ley 1453 de 2011",
+      "provisions": 168
+    },
+    {
+      "id": "co-ley-1454-2011",
+      "title": "Ley 1454 de 2011",
+      "provisions": 40
+    },
+    {
+      "id": "co-ley-146-1994",
+      "title": "Ley 146 de 1994",
+      "provisions": 93
+    },
+    {
+      "id": "co-ley-1465-2011",
+      "title": "Ley 1465 de 2011",
+      "provisions": 9
+    },
+    {
+      "id": "co-ley-1466-2011",
+      "title": "Ley 1466 de 2011",
+      "provisions": 5
+    },
+    {
+      "id": "co-ley-1468-2011",
+      "title": "Ley 1468 de 2011",
+      "provisions": 9
+    },
+    {
+      "id": "co-ley-1469-2011",
+      "title": "Ley 1469 de 2011",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-147-1948",
+      "title": "Ley 147 de 1948",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-1473-2011",
+      "title": "Ley 1473 de 2011",
+      "provisions": 5
+    },
+    {
+      "id": "co-ley-1474-2011",
+      "title": "Ley 1474 de 2011",
+      "provisions": 142
+    },
+    {
+      "id": "co-ley-1475-2011",
+      "title": "Ley 1475 de 2011",
+      "provisions": 54
+    },
+    {
+      "id": "co-ley-1476-2011",
+      "title": "Ley 1476 de 2011",
+      "provisions": 112
+    },
+    {
+      "id": "co-ley-1477-2011",
+      "title": "Ley 1477 de 2011",
+      "provisions": 10
+    },
+    {
+      "id": "co-ley-1478-2011",
+      "title": "Ley 1478 de 2011",
+      "provisions": 5
+    },
+    {
+      "id": "co-ley-1479-2011",
+      "title": "Ley 1479 de 2011",
+      "provisions": 4
+    },
+    {
+      "id": "co-ley-148-1961",
+      "title": "Ley 148 de 1961",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-1480-2011",
+      "title": "Ley 1480 de 2011",
+      "provisions": 83
+    },
+    {
+      "id": "co-ley-1481-2011",
+      "title": "Ley 1481 de 2011",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-1482-2011",
+      "title": "Ley 1482 de 2011",
+      "provisions": 12
+    },
+    {
+      "id": "co-ley-1483-2011",
+      "title": "Ley 1483 de 2011",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-1484-2011",
+      "title": "Ley 1484 de 2011",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-1485-2011",
+      "title": "Ley 1485 de 2011",
+      "provisions": 91
+    },
+    {
+      "id": "co-ley-1487-2011",
+      "title": "Ley 1487 de 2011",
+      "provisions": 6
+    },
+    {
+      "id": "co-ley-1488-2011",
+      "title": "Ley 1488 de 2011",
+      "provisions": 8
+    },
+    {
+      "id": "co-ley-1491-2011",
+      "title": "Ley 1491 de 2011",
+      "provisions": 6
+    },
+    {
+      "id": "co-ley-1493-2011",
+      "title": "Ley 1493 de 2011",
+      "provisions": 39
+    },
+    {
+      "id": "co-ley-1496-2011",
+      "title": "Ley 1496 de 2011",
+      "provisions": 11
+    },
+    {
+      "id": "co-ley-1497-2011",
+      "title": "Ley 1497 de 2011",
+      "provisions": 8
+    },
+    {
+      "id": "co-ley-15-1959",
+      "title": "Ley 15 de 1959",
+      "provisions": 19
+    },
+    {
+      "id": "co-ley-15-1982",
+      "title": "Ley 15 de 1982",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-15-1989",
+      "title": "Ley 15 de 1989",
+      "provisions": 52
+    },
+    {
+      "id": "co-ley-1502-2011",
+      "title": "Ley 1502 de 2011",
+      "provisions": 10
+    },
+    {
+      "id": "co-ley-1503-2011",
+      "title": "Ley 1503 de 2011",
+      "provisions": 29
+    },
+    {
+      "id": "co-ley-1504-2011",
+      "title": "Ley 1504 de 2011",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-1505-2012",
+      "title": "Ley 1505 de 2012",
+      "provisions": 17
+    },
+    {
+      "id": "co-ley-1506-2012",
+      "title": "Ley 1506 de 2012",
+      "provisions": 8
+    },
+    {
+      "id": "co-ley-1507-2012",
+      "title": "Ley 1507 de 2012",
+      "provisions": 23
+    },
+    {
+      "id": "co-ley-1508-2012",
+      "title": "Ley 1508 de 2012",
+      "provisions": 39
+    },
+    {
+      "id": "co-ley-151-1959",
+      "title": "Ley 151 de 1959",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-1511-2012",
+      "title": "Ley 1511 de 2012",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-1512-2012",
+      "title": "Ley 1512 de 2012",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-1514-2012",
+      "title": "Ley 1514 de 2012",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-1515-2012",
+      "title": "Ley 1515 de 2012",
+      "provisions": 20
+    },
+    {
+      "id": "co-ley-1516-2012",
+      "title": "Ley 1516 de 2012",
+      "provisions": 35
+    },
+    {
+      "id": "co-ley-1518-2012",
+      "title": "Ley 1518 de 2012",
+      "provisions": 41
+    },
+    {
+      "id": "co-ley-152-1994",
+      "title": "Ley 152 de 1994",
+      "provisions": 51
+    },
+    {
+      "id": "co-ley-1520-2012",
+      "title": "Ley 1520 de 2012",
+      "provisions": 22
+    },
+    {
+      "id": "co-ley-1523-2012",
+      "title": "Ley 1523 de 2012",
+      "provisions": 96
+    },
+    {
+      "id": "co-ley-1527-2012",
+      "title": "Ley 1527 de 2012",
+      "provisions": 23
+    },
+    {
+      "id": "co-ley-1529-2012",
+      "title": "Ley 1529 de 2012",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-153-1887",
+      "title": "Ley 153 de 1887",
+      "provisions": 327
+    },
+    {
+      "id": "co-ley-1530-2012",
+      "title": "Ley 1530 de 2012",
+      "provisions": 160
+    },
+    {
+      "id": "co-ley-1531-2012",
+      "title": "Ley 1531 de 2012",
+      "provisions": 10
+    },
+    {
+      "id": "co-ley-1532-2012",
+      "title": "Ley 1532 de 2012",
+      "provisions": 19
+    },
+    {
+      "id": "co-ley-1536-2012",
+      "title": "Ley 1536 de 2012",
+      "provisions": 8
+    },
+    {
+      "id": "co-ley-1537-2012",
+      "title": "Ley 1537 de 2012",
+      "provisions": 66
+    },
+    {
+      "id": "co-ley-1539-2012",
+      "title": "Ley 1539 de 2012",
+      "provisions": 6
+    },
+    {
+      "id": "co-ley-154-1959",
+      "title": "Ley 154 de 1959",
+      "provisions": 10
+    },
+    {
+      "id": "co-ley-1542-2012",
+      "title": "Ley 1542 de 2012",
+      "provisions": 5
+    },
+    {
+      "id": "co-ley-1546-2012",
+      "title": "Ley 1546 de 2012",
+      "provisions": 4
+    },
+    {
+      "id": "co-ley-1547-2012",
+      "title": "Ley 1547 de 2012",
+      "provisions": 4
+    },
+    {
+      "id": "co-ley-1548-2012",
+      "title": "Ley 1548 de 2012",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-1549-2012",
+      "title": "Ley 1549 de 2012",
+      "provisions": 10
+    },
+    {
+      "id": "co-ley-155-1959",
+      "title": "Ley 155 de 1959",
+      "provisions": 20
+    },
+    {
+      "id": "co-ley-1551-2012",
+      "title": "Ley 1551 de 2012",
+      "provisions": 58
+    },
+    {
+      "id": "co-ley-1554-2012",
+      "title": "Ley 1554 de 2012",
+      "provisions": 12
+    },
+    {
+      "id": "co-ley-1555-2012",
+      "title": "Ley 1555 de 2012",
+      "provisions": 6
+    },
+    {
+      "id": "co-ley-1556-2012",
+      "title": "Ley 1556 de 2012",
+      "provisions": 18
+    },
+    {
+      "id": "co-ley-1558-2012",
+      "title": "Ley 1558 de 2012",
+      "provisions": 39
+    },
+    {
+      "id": "co-ley-1559-2012",
+      "title": "Ley 1559 de 2012",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-1561-2012",
+      "title": "Ley 1561 de 2012",
+      "provisions": 27
+    },
+    {
+      "id": "co-ley-1562-2012",
+      "title": "Ley 1562 de 2012",
+      "provisions": 36
+    },
+    {
+      "id": "co-ley-1563-2012",
+      "title": "Ley 1563 de 2012",
+      "provisions": 119
+    },
+    {
+      "id": "co-ley-1564-2012",
+      "title": "Ley 1564 de 2012",
+      "provisions": 628
+    },
+    {
+      "id": "co-ley-1565-2012",
+      "title": "Ley 1565 de 2012",
+      "provisions": 12
+    },
+    {
+      "id": "co-ley-1566-2012",
+      "title": "Ley 1566 de 2012",
+      "provisions": 12
+    },
+    {
+      "id": "co-ley-157-1994",
+      "title": "Ley 157 de 1994",
+      "provisions": 11
+    },
+    {
+      "id": "co-ley-1574-2012",
+      "title": "Ley 1574 de 2012",
+      "provisions": 4
+    },
+    {
+      "id": "co-ley-1575-2012",
+      "title": "Ley 1575 de 2012",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-1577-2012",
+      "title": "Ley 1577 de 2012",
+      "provisions": 14
+    },
+    {
+      "id": "co-ley-1579-2012",
+      "title": "Ley 1579 de 2012",
+      "provisions": 103
+    },
+    {
+      "id": "co-ley-1580-2012",
+      "title": "Ley 1580 de 2012",
+      "provisions": 8
+    },
+    {
+      "id": "co-ley-1581-2012",
+      "title": "Ley 1581 de 2012",
+      "provisions": 30
+    },
+    {
+      "id": "co-ley-1582-2012",
+      "title": "Ley 1582 de 2012",
+      "provisions": 23
+    },
+    {
+      "id": "co-ley-1583-2012",
+      "title": "Ley 1583 de 2012",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-1584-2012",
+      "title": "Ley 1584 de 2012",
+      "provisions": 5
+    },
+    {
+      "id": "co-ley-1585-2012",
+      "title": "Ley 1585 de 2012",
+      "provisions": 5
+    },
+    {
+      "id": "co-ley-1588-2012",
+      "title": "Ley 1588 de 2012",
+      "provisions": 42
+    },
+    {
+      "id": "co-ley-1590-2012",
+      "title": "Ley 1590 de 2012",
+      "provisions": 6
+    },
+    {
+      "id": "co-ley-1592-2012",
+      "title": "Ley 1592 de 2012",
+      "provisions": 61
+    },
+    {
+      "id": "co-ley-1593-2012",
+      "title": "Ley 1593 de 2012",
+      "provisions": 95
+    },
+    {
+      "id": "co-ley-1595-2012",
+      "title": "Ley 1595 de 2012",
+      "provisions": 27
+    },
+    {
+      "id": "co-ley-16-1972",
+      "title": "Ley 16 de 1972",
+      "provisions": 70
+    },
+    {
+      "id": "co-ley-16-1985",
+      "title": "Ley 16 de 1985",
+      "provisions": 11
+    },
+    {
+      "id": "co-ley-16-1985-i271841",
+      "title": "Ley 16 de 1985 Departamento Administrativo de la Función Pública",
+      "provisions": 11
+    },
+    {
+      "id": "co-ley-16-1990",
+      "title": "Ley 16 de 1990",
+      "provisions": 39
+    },
+    {
+      "id": "co-ley-160-1994",
+      "title": "Ley 160 de 1994",
+      "provisions": 114
+    },
+    {
+      "id": "co-ley-1606-2012",
+      "title": "Ley 1606 de 2012",
+      "provisions": 36
+    },
+    {
+      "id": "co-ley-1607-2012",
+      "title": "Ley 1607 de 2012",
+      "provisions": 320
+    },
+    {
+      "id": "co-ley-1608-2013",
+      "title": "Ley 1608 de 2013",
+      "provisions": 14
+    },
+    {
+      "id": "co-ley-1609-2013",
+      "title": "Ley 1609 de 2013",
+      "provisions": 7
+    },
+    {
+      "id": "co-ley-161-1994",
+      "title": "Ley 161 de 1994",
+      "provisions": 22
+    },
+    {
+      "id": "co-ley-1610-2013",
+      "title": "Ley 1610 de 2013",
+      "provisions": 19
+    },
+    {
+      "id": "co-ley-1616-2013",
+      "title": "Ley 1616 de 2013",
+      "provisions": 45
+    },
+    {
+      "id": "co-ley-1617-2013",
+      "title": "Ley 1617 de 2013",
+      "provisions": 138
+    },
+    {
+      "id": "co-ley-1618-2013",
+      "title": "Ley 1618 de 2013",
+      "provisions": 31
+    },
+    {
+      "id": "co-ley-1620-2013",
+      "title": "Ley 1620 de 2013",
+      "provisions": 39
+    },
+    {
+      "id": "co-ley-1621-2013",
+      "title": "Ley 1621 de 2013",
+      "provisions": 48
+    },
+    {
+      "id": "co-ley-1622-2013",
+      "title": "Ley 1622 de 2013",
+      "provisions": 83
+    },
+    {
+      "id": "co-ley-1625-2013",
+      "title": "Ley 1625 de 2013",
+      "provisions": 42
+    },
+    {
+      "id": "co-ley-1626-2013",
+      "title": "Ley 1626 de 2013",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-163-1959",
+      "title": "Ley 163 de 1959",
+      "provisions": 37
+    },
+    {
+      "id": "co-ley-163-1994",
+      "title": "Ley 163 de 1994",
+      "provisions": 17
+    },
+    {
+      "id": "co-ley-1630-2013",
+      "title": "Ley 1630 de 2013",
+      "provisions": 6
+    },
+    {
+      "id": "co-ley-1632-2013",
+      "title": "Ley 1632 de 2013",
+      "provisions": 44
+    },
+    {
+      "id": "co-ley-1635-2013",
+      "title": "Ley 1635 de 2013",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-1636-2013",
+      "title": "Ley 1636 de 2013",
+      "provisions": 49
+    },
+    {
+      "id": "co-ley-1638-2013",
+      "title": "Ley 1638 de 2013",
+      "provisions": 7
+    },
+    {
+      "id": "co-ley-1639-2013",
+      "title": "Ley 1639 de 2013",
+      "provisions": 7
+    },
+    {
+      "id": "co-ley-164-1994",
+      "title": "Ley 164 de 1994",
+      "provisions": 29
+    },
+    {
+      "id": "co-ley-1641-2013",
+      "title": "Ley 1641 de 2013",
+      "provisions": 14
+    },
+    {
+      "id": "co-ley-1642-2013",
+      "title": "Ley 1642 de 2013",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-1643-2013",
+      "title": "Ley 1643 de 2013",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-1648-2013",
+      "title": "Ley 1648 de 2013",
+      "provisions": 4
+    },
+    {
+      "id": "co-ley-165-1938",
+      "title": "Ley 165 de 1938",
+      "provisions": 20
+    },
+    {
+      "id": "co-ley-165-1941",
+      "title": "Ley 165 de 1941",
+      "provisions": 6
+    },
+    {
+      "id": "co-ley-165-1948",
+      "title": "Ley 165 de 1948",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-165-1994",
+      "title": "Ley 165 de 1994",
+      "provisions": 68
+    },
+    {
+      "id": "co-ley-1650-2013",
+      "title": "Ley 1650 de 2013",
+      "provisions": 4
+    },
+    {
+      "id": "co-ley-1651-2013",
+      "title": "Ley 1651 de 2013",
+      "provisions": 9
+    },
+    {
+      "id": "co-ley-1652-2013",
+      "title": "Ley 1652 de 2013",
+      "provisions": 5
+    },
+    {
+      "id": "co-ley-1653-2013",
+      "title": "Ley 1653 de 2013",
+      "provisions": 14
+    },
+    {
+      "id": "co-ley-1654-2013",
+      "title": "Ley 1654 de 2013",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-1655-2013",
+      "title": "Ley 1655 de 2013",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-1656-2013",
+      "title": "Ley 1656 de 2013",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-1658-2013",
+      "title": "Ley 1658 de 2013",
+      "provisions": 15
+    },
+    {
+      "id": "co-ley-1659-2013",
+      "title": "Ley 1659 de 2013",
+      "provisions": 17
+    },
+    {
+      "id": "co-ley-1660-2013",
+      "title": "Ley 1660 de 2013",
+      "provisions": 8
+    },
+    {
+      "id": "co-ley-1672-2013",
+      "title": "Ley 1672 de 2013",
+      "provisions": 24
+    },
+    {
+      "id": "co-ley-1673-2013",
+      "title": "Ley 1673 de 2013",
+      "provisions": 39
+    },
+    {
+      "id": "co-ley-1675-2013",
+      "title": "Ley 1675 de 2013",
+      "provisions": 24
+    },
+    {
+      "id": "co-ley-1676-2013",
+      "title": "Ley 1676 de 2013",
+      "provisions": 91
+    },
+    {
+      "id": "co-ley-1678-2013",
+      "title": "Ley 1678 de 2013",
+      "provisions": 12
+    },
+    {
+      "id": "co-ley-1679-2013",
+      "title": "Ley 1679 de 2013 Congreso de la República",
+      "provisions": 5
+    },
+    {
+      "id": "co-ley-1680-2013",
+      "title": "Ley 1680 de 2013",
+      "provisions": 15
+    },
+    {
+      "id": "co-ley-1681-2013",
+      "title": "Ley 1681 de 2013",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-1682-2013",
+      "title": "Ley 1682 de 2013",
+      "provisions": 73
+    },
+    {
+      "id": "co-ley-1686-2013",
+      "title": "Ley 1686 de 2013",
+      "provisions": 6
+    },
+    {
+      "id": "co-ley-1687-2013",
+      "title": "Ley 1687 de 2013",
+      "provisions": 112
+    },
+    {
+      "id": "co-ley-169-1896",
+      "title": "Ley 169 de 1896",
+      "provisions": 70
+    },
+    {
+      "id": "co-ley-1694-2013",
+      "title": "Ley 1694 de 2013",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-1695-2013",
+      "title": "Ley 1695 de 2013",
+      "provisions": 17
+    },
+    {
+      "id": "co-ley-1696-2013",
+      "title": "Ley 1696 de 2013",
+      "provisions": 13
+    },
+    {
+      "id": "co-ley-1697-2013",
+      "title": "Ley 1697 de 2013",
+      "provisions": 14
+    },
+    {
+      "id": "co-ley-1698-2013",
+      "title": "Ley 1698 de 2013",
+      "provisions": 17
+    },
+    {
+      "id": "co-ley-17-1905",
+      "title": "Ley 17 de 1905 Asamblea Nacional Constituyente",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-17-1925",
+      "title": "Ley 17 de 1925",
+      "provisions": 4
+    },
+    {
+      "id": "co-ley-17-1981",
+      "title": "Ley 17 de 1981 Congreso de la República",
+      "provisions": 20
+    },
+    {
+      "id": "co-ley-170-1994",
+      "title": "Ley 170 de 1994",
+      "provisions": 73
+    },
+    {
+      "id": "co-ley-1700-2013",
+      "title": "Ley 1700 de 2013",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-1702-2013",
+      "title": "Ley 1702 de 2013",
+      "provisions": 24
+    },
+    {
+      "id": "co-ley-1708-2014",
+      "title": "Ley 1708 de 2014",
+      "provisions": 218
+    },
+    {
+      "id": "co-ley-1709-2014",
+      "title": "Ley 1709 de 2014",
+      "provisions": 154
+    },
+    {
+      "id": "co-ley-171-1961",
+      "title": "Ley 171 de 1961",
+      "provisions": 15
+    },
+    {
+      "id": "co-ley-1712-2014",
+      "title": "Ley 1712 de 2014",
+      "provisions": 33
+    },
+    {
+      "id": "co-ley-1715-2014",
+      "title": "Ley 1715 de 2014",
+      "provisions": 51
+    },
+    {
+      "id": "co-ley-1716-2014",
+      "title": "Ley 1716 de 2014",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-1718-2014",
+      "title": "Ley 1718 de 2014",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-1719-2014",
+      "title": "Ley 1719 de 2014",
+      "provisions": 43
+    },
+    {
+      "id": "co-ley-172-1994",
+      "title": "Ley 172 de 1994",
+      "provisions": 322
+    },
+    {
+      "id": "co-ley-1727-2014",
+      "title": "Ley 1727 de 2014",
+      "provisions": 35
+    },
+    {
+      "id": "co-ley-1728-2014",
+      "title": "Ley 1728 de 2014",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-1729-2014",
+      "title": "Ley 1729 de 2014",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-173-1994",
+      "title": "Ley 173 de 1994",
+      "provisions": 48
+    },
+    {
+      "id": "co-ley-1730-2014",
+      "title": "Ley 1730 de 2014",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-1731-2014",
+      "title": "Ley 1731 de 2014",
+      "provisions": 25
+    },
+    {
+      "id": "co-ley-1732-2014",
+      "title": "Ley 1732 de 2014",
+      "provisions": 8
+    },
+    {
+      "id": "co-ley-1733-2014",
+      "title": "Ley 1733 de 2014",
+      "provisions": 11
+    },
+    {
+      "id": "co-ley-1735-2014",
+      "title": "Ley 1735 de 2014",
+      "provisions": 15
+    },
+    {
+      "id": "co-ley-1737-2014",
+      "title": "Ley 1737 de 2014",
+      "provisions": 0
+    },
+    {
+      "id": "co-ley-1738-2014",
+      "title": "Ley 1738 de 2014",
+      "provisions": 12
+    },
+    {
+      "id": "co-ley-1739-2014",
+      "title": "Ley 1739 de 2014",
+      "provisions": 78
+    },
+    {
+      "id": "co-ley-1740-2014",
+      "title": "Ley 1740 de 2014 Ministerio de Educación",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-1741-2014",
+      "title": "Ley 1741 de 2014",
+      "provisions": 13
+    },
+    {
+      "id": "co-ley-1742-2014",
+      "title": "Ley 1742 de 2014",
+      "provisions": 13
+    },
+    {
+      "id": "co-ley-1743-2014",
+      "title": "Ley 1743 de 2014",
+      "provisions": 25
+    },
+    {
+      "id": "co-ley-1744-2014",
+      "title": "Ley 1744 de 2014",
+      "provisions": 43
+    },
+    {
+      "id": "co-ley-1745-2014",
+      "title": "Ley 1745 de 2014",
+      "provisions": 8
+    },
+    {
+      "id": "co-ley-1748-2014",
+      "title": "Ley 1748 de 2014",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-1750-2015",
+      "title": "Ley 1750 de 2015",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-1751-2015",
+      "title": "Ley 1751 de 2015",
+      "provisions": 26
+    },
+    {
+      "id": "co-ley-1752-2015",
+      "title": "Ley 1752 de 2015",
+      "provisions": 6
+    },
+    {
+      "id": "co-ley-1753-2015",
+      "title": "Ley 1753 de 2015",
+      "provisions": 267
+    },
+    {
+      "id": "co-ley-1755-2015",
+      "title": "Ley 1755 de 2015",
+      "provisions": 23
+    },
+    {
+      "id": "co-ley-1757-2015",
+      "title": "Ley 1757 de 2015",
+      "provisions": 112
+    },
+    {
+      "id": "co-ley-1760-2015",
+      "title": "Ley 1760 de 2015",
+      "provisions": 7
+    },
+    {
+      "id": "co-ley-1761-2015",
+      "title": "Ley 1761 de 2015",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-1762-2015",
+      "title": "Ley 1762 de 2015",
+      "provisions": 56
+    },
+    {
+      "id": "co-ley-1765-2015",
+      "title": "Ley 1765 de 2015",
+      "provisions": 129
+    },
+    {
+      "id": "co-ley-177-1994",
+      "title": "Ley 177 de 1994",
+      "provisions": 13
+    },
+    {
+      "id": "co-ley-1773-2016",
+      "title": "Ley 1773 de 2016 Congreso de la República",
+      "provisions": 9
+    },
+    {
+      "id": "co-ley-1774-2016",
+      "title": "Ley 1774 de 2016 Congreso de la República",
+      "provisions": 17
+    },
+    {
+      "id": "co-ley-1775-2016",
+      "title": "Ley 1775 de 2016",
+      "provisions": 4
+    },
+    {
+      "id": "co-ley-1776-2016",
+      "title": "Ley 1776 de 2016",
+      "provisions": 32
+    },
+    {
+      "id": "co-ley-1777-2016",
+      "title": "Ley 1777 de 2016",
+      "provisions": 9
+    },
+    {
+      "id": "co-ley-1778-2016",
+      "title": "Ley 1778 de 2016 Congreso de la República",
+      "provisions": 37
+    },
+    {
+      "id": "co-ley-1779-2016",
+      "title": "Ley 1779 de 2016",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-178-1994",
+      "title": "Ley 178 de 1994",
+      "provisions": 16
+    },
+    {
+      "id": "co-ley-1780-2016",
+      "title": "Ley 1780 de 2016",
+      "provisions": 28
+    },
+    {
+      "id": "co-ley-1781-2016",
+      "title": "Ley 1781 de 2016",
+      "provisions": 4
+    },
+    {
+      "id": "co-ley-1786-2016",
+      "title": "Ley 1786 de 2016",
+      "provisions": 6
+    },
+    {
+      "id": "co-ley-1787-2016",
+      "title": "Ley 1787 de 2016",
+      "provisions": 19
+    },
+    {
+      "id": "co-ley-179-1994",
+      "title": "Ley 179 de 1994",
+      "provisions": 75
+    },
+    {
+      "id": "co-ley-1796-2016",
+      "title": "Ley 1796 de 2016",
+      "provisions": 36
+    },
+    {
+      "id": "co-ley-1797-2016",
+      "title": "Ley 1797 de 2016",
+      "provisions": 28
+    },
+    {
+      "id": "co-ley-18-1976",
+      "title": "Ley 18 de 1976",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-1801-2016",
+      "title": "Ley 1801 de 2016",
+      "provisions": 249
+    },
+    {
+      "id": "co-ley-1806-2016",
+      "title": "Ley 1806 de 2016",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-1807-2016",
+      "title": "Ley 1807 de 2016",
+      "provisions": 13
+    },
+    {
+      "id": "co-ley-1809-2016",
+      "title": "Ley 1809 de 2016",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-181-1995",
+      "title": "Ley 181 de 1995",
+      "provisions": 91
+    },
+    {
+      "id": "co-ley-1811-2016",
+      "title": "Ley 1811 de 2016 Congreso de la República",
+      "provisions": 12
+    },
+    {
+      "id": "co-ley-1816-2016",
+      "title": "Ley 1816 de 2016",
+      "provisions": 41
+    },
+    {
+      "id": "co-ley-1819-2016",
+      "title": "Ley 1819 de 2016",
+      "provisions": 528
+    },
+    {
+      "id": "co-ley-182-1948",
+      "title": "Ley 182 de 1948",
+      "provisions": 26
+    },
+    {
+      "id": "co-ley-182-1995",
+      "title": "Ley 182 de 1995",
+      "provisions": 65
+    },
+    {
+      "id": "co-ley-1820-2016",
+      "title": "Ley 1820 de 2016",
+      "provisions": 61
+    },
+    {
+      "id": "co-ley-1821-2016",
+      "title": "Ley 1821 de 2016",
+      "provisions": 4
+    },
+    {
+      "id": "co-ley-1822-2017",
+      "title": "Ley 1822 de 2017",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-1823-2017",
+      "title": "Ley 1823 de 2017",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-1826-2017",
+      "title": "Ley 1826 de 2017",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-1828-2017",
+      "title": "Ley 1828 de 2017",
+      "provisions": 73
+    },
+    {
+      "id": "co-ley-1830-2017",
+      "title": "Ley 1830 de 2017",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-1833-2017",
+      "title": "Ley 1833 de 2017",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-1846-2017",
+      "title": "Ley 1846 de 2017",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-1848-2017",
+      "title": "Ley 1848 de 2017",
+      "provisions": 10
+    },
+    {
+      "id": "co-ley-185-1995",
+      "title": "Ley 185 de 1995",
+      "provisions": 26
+    },
+    {
+      "id": "co-ley-1857-2017",
+      "title": "Ley 1857 de 2017",
+      "provisions": 8
+    },
+    {
+      "id": "co-ley-186-1995",
+      "title": "Ley 186 de 1995",
+      "provisions": 10
+    },
+    {
+      "id": "co-ley-1861-2017",
+      "title": "Ley 1861 de 2017",
+      "provisions": 81
+    },
+    {
+      "id": "co-ley-1862-2017",
+      "title": "Ley 1862 de 2017",
+      "provisions": 252
+    },
+    {
+      "id": "co-ley-1864-2017",
+      "title": "Ley 1864 de 2017",
+      "provisions": 37
+    },
+    {
+      "id": "co-ley-1865-2017",
+      "title": "Ley 1865 de 2017",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-187-1959",
+      "title": "Ley 187 de 1959",
+      "provisions": 12
+    },
+    {
+      "id": "co-ley-1871-2017",
+      "title": "Ley 1871 de 2017",
+      "provisions": 11
+    },
+    {
+      "id": "co-ley-1872-2017",
+      "title": "Ley 1872 de 2017",
+      "provisions": 11
+    },
+    {
+      "id": "co-ley-1873-2017",
+      "title": "Ley 1873 de 2017",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-1874-2017",
+      "title": "Ley 1874 de 2017",
+      "provisions": 8
+    },
+    {
+      "id": "co-ley-1876-2017",
+      "title": "Ley 1876 de 2017 Congreso de la República",
+      "provisions": 45
+    },
+    {
+      "id": "co-ley-188-1959",
+      "title": "Ley 188 de 1959",
+      "provisions": 0
+    },
+    {
+      "id": "co-ley-1881-2018",
+      "title": "Ley 1881 de 2018",
+      "provisions": 24
+    },
+    {
+      "id": "co-ley-1882-2018",
+      "title": "Ley 1882 de 2018",
+      "provisions": 26
+    },
+    {
+      "id": "co-ley-1885-2018",
+      "title": "Ley 1885 de 2018",
+      "provisions": 43
+    },
+    {
+      "id": "co-ley-1886-2018",
+      "title": "Ley 1886 de 2018",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-1887-2018",
+      "title": "Ley 1887 de 2018",
+      "provisions": 9
+    },
+    {
+      "id": "co-ley-1893-2018",
+      "title": "Ley 1893 de 2018",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-1896-2018",
+      "title": "Ley 1896 de 2018",
+      "provisions": 7
+    },
+    {
+      "id": "co-ley-19-1958",
+      "title": "Ley 19 de 1958",
+      "provisions": 28
+    },
+    {
+      "id": "co-ley-19-1970",
+      "title": "Ley 19 de 1970",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-19-1987",
+      "title": "Ley 19 de 1987",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-19-1990",
+      "title": "Ley 19 de 1990",
+      "provisions": 13
+    },
+    {
+      "id": "co-ley-190-1995",
+      "title": "Ley 190 de 1995",
+      "provisions": 84
+    },
+    {
+      "id": "co-ley-1900-2018",
+      "title": "Ley 1900 de 2018",
+      "provisions": 10
+    },
+    {
+      "id": "co-ley-1901-2018",
+      "title": "Ley 1901 de 2018",
+      "provisions": 10
+    },
+    {
+      "id": "co-ley-1902-2018",
+      "title": "Ley 1902 de 2018",
+      "provisions": 23
+    },
+    {
+      "id": "co-ley-1904-2018",
+      "title": "Ley 1904 de 2018",
+      "provisions": 12
+    },
+    {
+      "id": "co-ley-1905-2018",
+      "title": "Ley 1905 de 2018",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-1908-2018",
+      "title": "Ley 1908 de 2018",
+      "provisions": 73
+    },
+    {
+      "id": "co-ley-1909-2018",
+      "title": "Ley 1909 de 2018",
+      "provisions": 32
+    },
+    {
+      "id": "co-ley-191-1995",
+      "title": "Ley 191 de 1995",
+      "provisions": 57
+    },
+    {
+      "id": "co-ley-1911-2018",
+      "title": "Ley 1911 de 2018",
+      "provisions": 50
+    },
+    {
+      "id": "co-ley-1912-2018",
+      "title": "Ley 1912 de 2018",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-1913-2018",
+      "title": "Ley 1913 de 2018",
+      "provisions": 9
+    },
+    {
+      "id": "co-ley-1915-2018",
+      "title": "Ley 1915 de 2018",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-1917-2018",
+      "title": "Ley 1917 de 2018",
+      "provisions": 16
+    },
+    {
+      "id": "co-ley-1918-2018",
+      "title": "Ley 1918 de 2018",
+      "provisions": 6
+    },
+    {
+      "id": "co-ley-1920-2018",
+      "title": "Ley 1920 de 2018",
+      "provisions": 12
+    },
+    {
+      "id": "co-ley-1922-2018",
+      "title": "Ley 1922 de 2018",
+      "provisions": 77
+    },
+    {
+      "id": "co-ley-1923-2018",
+      "title": "Ley 1923 de 2018",
+      "provisions": 10
+    },
+    {
+      "id": "co-ley-1929-2018",
+      "title": "Ley 1929 de 2018",
+      "provisions": 8
+    },
+    {
+      "id": "co-ley-1930-2018",
+      "title": "Ley 1930 de 2018",
+      "provisions": 34
+    },
+    {
+      "id": "co-ley-1931-2018",
+      "title": "Ley 1931 de 2018",
+      "provisions": 35
+    },
+    {
+      "id": "co-ley-1933-2018",
+      "title": "Ley 1933 de 2018",
+      "provisions": 4
+    },
+    {
+      "id": "co-ley-1934-2018",
+      "title": "Ley 1934 de 2018",
+      "provisions": 22
+    },
+    {
+      "id": "co-ley-1935-2018",
+      "title": "Ley 1935 de 2018",
+      "provisions": 9
+    },
+    {
+      "id": "co-ley-1937-2018",
+      "title": "Ley 1937 de 2018",
+      "provisions": 7
+    },
+    {
+      "id": "co-ley-1938-2018",
+      "title": "Ley 1938 de 2018",
+      "provisions": 4
+    },
+    {
+      "id": "co-ley-1940-2018",
+      "title": "Ley 1940 de 2018",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-1941-2018",
+      "title": "Ley 1941 de 2018",
+      "provisions": 9
+    },
+    {
+      "id": "co-ley-1942-2018",
+      "title": "Ley 1942 de 2018",
+      "provisions": 66
+    },
+    {
+      "id": "co-ley-1944-2018",
+      "title": "Ley 1944 de 2018",
+      "provisions": 8
+    },
+    {
+      "id": "co-ley-1945-2019",
+      "title": "Ley 1945 de 2019",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-1946-2019",
+      "title": "Ley 1946 de 2019",
+      "provisions": 12
+    },
+    {
+      "id": "co-ley-1947-2019",
+      "title": "Ley 1947 de 2019",
+      "provisions": 7
+    },
+    {
+      "id": "co-ley-1948-2019",
+      "title": "Ley 1948 de 2019",
+      "provisions": 17
+    },
+    {
+      "id": "co-ley-1949-2019",
+      "title": "Ley 1949 de 2019",
+      "provisions": 19
+    },
+    {
+      "id": "co-ley-195-1936",
+      "title": "Ley 195 de 1936",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-1950-2019",
+      "title": "Ley 1950 de 2019",
+      "provisions": 13
+    },
+    {
+      "id": "co-ley-1951-2019",
+      "title": "Ley 1951 de 2019",
+      "provisions": 5
+    },
+    {
+      "id": "co-ley-1952-2019",
+      "title": "Ley 1952 de 2019",
+      "provisions": 264
+    },
+    {
+      "id": "co-ley-1954-2019",
+      "title": "Ley 1954 de 2019",
+      "provisions": 27
+    },
+    {
+      "id": "co-ley-1955-2019",
+      "title": "Ley 1955 de 2019",
+      "provisions": 346
+    },
+    {
+      "id": "co-ley-1957-2019",
+      "title": "Ley 1957 de 2019",
+      "provisions": 150
+    },
+    {
+      "id": "co-ley-1958-2019",
+      "title": "Ley 1958 de 2019",
+      "provisions": 23
+    },
+    {
+      "id": "co-ley-1960-2019",
+      "title": "Ley 1960 de 2019",
+      "provisions": 9
+    },
+    {
+      "id": "co-ley-1961-2019",
+      "title": "Ley 1961 de 2019",
+      "provisions": 4
+    },
+    {
+      "id": "co-ley-1962-2019",
+      "title": "Ley 1962 de 2019",
+      "provisions": 21
+    },
+    {
+      "id": "co-ley-1966-2019",
+      "title": "Ley 1966 de 2019",
+      "provisions": 19
+    },
+    {
+      "id": "co-ley-1967-2019",
+      "title": "Ley 1967 de 2019",
+      "provisions": 18
+    },
+    {
+      "id": "co-ley-1977-2019",
+      "title": "Ley 1977 de 2019",
+      "provisions": 5
+    },
+    {
+      "id": "co-ley-1978-2019",
+      "title": "Ley 1978 de 2019",
+      "provisions": 54
+    },
+    {
+      "id": "co-ley-1979-2019",
+      "title": "Ley 1979 de 2019",
+      "provisions": 34
+    },
+    {
+      "id": "co-ley-198-1995",
+      "title": "Ley 198 de 1995",
+      "provisions": 10
+    },
+    {
+      "id": "co-ley-1981-2019",
+      "title": "Ley 1981 de 2019",
+      "provisions": 6
+    },
+    {
+      "id": "co-ley-1985-2019",
+      "title": "Ley 1985 de 2019",
+      "provisions": 23
+    },
+    {
+      "id": "co-ley-1989-2019",
+      "title": "Ley 1989 de 2019",
+      "provisions": 10
+    },
+    {
+      "id": "co-ley-199-1995",
+      "title": "Ley 199 de 1995",
+      "provisions": 23
+    },
+    {
+      "id": "co-ley-1996-2019",
+      "title": "Ley 1996 de 2019",
+      "provisions": 63
+    },
+    {
+      "id": "co-ley-1997-2019",
+      "title": "Ley 1997 de 2019",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-2-1821",
+      "title": "Ley 2 de 1821",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-2-1850",
+      "title": "Ley 2 de 1850",
+      "provisions": 18
+    },
+    {
+      "id": "co-ley-2-1851",
+      "title": "Ley 2 de 1851",
+      "provisions": 19
+    },
+    {
+      "id": "co-ley-2-1932",
+      "title": "Ley 2 de 1932",
+      "provisions": 26
+    },
+    {
+      "id": "co-ley-2-1959",
+      "title": "Ley 2 de 1959",
+      "provisions": 18
+    },
+    {
+      "id": "co-ley-2-1973",
+      "title": "Ley 2 de 1973",
+      "provisions": 4
+    },
+    {
+      "id": "co-ley-2-1978",
+      "title": "Ley 2 de 1978",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-2-1990",
+      "title": "Ley 2 de 1990",
+      "provisions": 14
+    },
+    {
+      "id": "co-ley-2-1991",
+      "title": "Ley 2 de 1991",
+      "provisions": 10
+    },
+    {
+      "id": "co-ley-20-1960",
+      "title": "Ley 20 de 1960",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-20-1969",
+      "title": "Ley 20 de 1969",
+      "provisions": 16
+    },
+    {
+      "id": "co-ley-20-1971",
+      "title": "Ley 20 de 1971",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-20-1975",
+      "title": "Ley 20 de 1975",
+      "provisions": 70
+    },
+    {
+      "id": "co-ley-20-1982",
+      "title": "Ley 20 de 1982",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-20-1984",
+      "title": "Ley 20 de 1984",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-20-1988",
+      "title": "Ley 20 de 1988",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-20-1991",
+      "title": "Ley 20 de 1991",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-200-1936",
+      "title": "Ley 200 de 1936",
+      "provisions": 24
+    },
+    {
+      "id": "co-ley-200-1995",
+      "title": "Ley 200 de 1995",
+      "provisions": 177
+    },
+    {
+      "id": "co-ley-2000-2019",
+      "title": "Ley 2000 de 2019",
+      "provisions": 9
+    },
+    {
+      "id": "co-ley-2003-2019",
+      "title": "Ley 2003 de 2019",
+      "provisions": 10
+    },
+    {
+      "id": "co-ley-2008-2019",
+      "title": "Ley 2008 de 2019 Ministerio de Hacienda y Crédito Público",
+      "provisions": 155
+    },
+    {
+      "id": "co-ley-201-1995",
+      "title": "Ley 201 de 1995",
+      "provisions": 203
+    },
+    {
+      "id": "co-ley-2010-2019",
+      "title": "Ley 2010 de 2019",
+      "provisions": 236
+    },
+    {
+      "id": "co-ley-2013-2019",
+      "title": "Ley 2013 de 2019 Ministerio del Interior",
+      "provisions": 6
+    },
+    {
+      "id": "co-ley-2014-2019",
+      "title": "Ley 2014 de 2019 Ministerio del Interior",
+      "provisions": 14
+    },
+    {
+      "id": "co-ley-2015-2020",
+      "title": "Ley 2015 de 2020",
+      "provisions": 16
+    },
+    {
+      "id": "co-ley-2016-2020",
+      "title": "Ley 2016 de 2020",
+      "provisions": 4
+    },
+    {
+      "id": "co-ley-2017-2020",
+      "title": "Ley 2017 de 2020",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-2020-2020",
+      "title": "Ley 2020 de 2020",
+      "provisions": 16
+    },
+    {
+      "id": "co-ley-2021-2020",
+      "title": "Ley 2021 de 2020",
+      "provisions": 7
+    },
+    {
+      "id": "co-ley-2022-2020",
+      "title": "Ley 2022 de 2020",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-2023-2020",
+      "title": "Ley 2023 de 2020",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-2025-2020",
+      "title": "Ley 2025 de 2020",
+      "provisions": 8
+    },
+    {
+      "id": "co-ley-2026-2020",
+      "title": "Ley 2026 de 2020",
+      "provisions": 7
+    },
+    {
+      "id": "co-ley-2027-2020",
+      "title": "Ley 2027 de 2020",
+      "provisions": 5
+    },
+    {
+      "id": "co-ley-2028-2020",
+      "title": "Ley 2028 de 2020",
+      "provisions": 9
+    },
+    {
+      "id": "co-ley-2029-2020",
+      "title": "Ley 2029 de 2020",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-2030-2020",
+      "title": "Ley 2030 de 2020",
+      "provisions": 5
+    },
+    {
+      "id": "co-ley-2032-2020",
+      "title": "Ley 2032 de 2020",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-2033-2020",
+      "title": "Ley 2033 de 2020",
+      "provisions": 10
+    },
+    {
+      "id": "co-ley-2034-2020",
+      "title": "Ley 2034 de 2020",
+      "provisions": 6
+    },
+    {
+      "id": "co-ley-2036-2020",
+      "title": "Ley 2036 de 2020",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-2039-2020",
+      "title": "Ley 2039 de 2020",
+      "provisions": 5
+    },
+    {
+      "id": "co-ley-2040-2020",
+      "title": "Ley 2040 de 2020",
+      "provisions": 12
+    },
+    {
+      "id": "co-ley-2041-2020",
+      "title": "Ley 2041 de 2020",
+      "provisions": 18
+    },
+    {
+      "id": "co-ley-2042-2020",
+      "title": "Ley 2042 de 2020",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-2043-2020",
+      "title": "Ley 2043 de 2020",
+      "provisions": 8
+    },
+    {
+      "id": "co-ley-2044-2020",
+      "title": "Ley 2044 de 2020",
+      "provisions": 35
+    },
+    {
+      "id": "co-ley-2048-2020",
+      "title": "Ley 2048 de 2020",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-2049-2020",
+      "title": "Ley 2049 de 2020",
+      "provisions": 11
+    },
+    {
+      "id": "co-ley-2050-2020",
+      "title": "Ley 2050 de 2020",
+      "provisions": 25
+    },
+    {
+      "id": "co-ley-2052-2020",
+      "title": "Ley 2052 de 2020",
+      "provisions": 31
+    },
+    {
+      "id": "co-ley-2053-2020",
+      "title": "Ley 2053 de 2020",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-2054-2020",
+      "title": "Ley 2054 de 2020",
+      "provisions": 13
+    },
+    {
+      "id": "co-ley-2055-2020",
+      "title": "Ley 2055 de 2020",
+      "provisions": 41
+    },
+    {
+      "id": "co-ley-2056-2020",
+      "title": "Ley 2056 de 2020",
+      "provisions": 211
+    },
+    {
+      "id": "co-ley-2057-2020",
+      "title": "Ley 2057 de 2020",
+      "provisions": 8
+    },
+    {
+      "id": "co-ley-2058-2020",
+      "title": "Ley 2058 de 2020",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-2059-2020",
+      "title": "Ley 2059 de 2020",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-2060-2020",
+      "title": "Ley 2060 de 2020",
+      "provisions": 14
+    },
+    {
+      "id": "co-ley-2063-2020",
+      "title": "Ley 2063 de 2020",
+      "provisions": 130
+    },
+    {
+      "id": "co-ley-2064-2020",
+      "title": "Ley 2064 de 2020",
+      "provisions": 13
+    },
+    {
+      "id": "co-ley-2065-2020",
+      "title": "Ley 2065 de 2020",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-2068-2020",
+      "title": "Ley 2068 de 2020",
+      "provisions": 55
+    },
+    {
+      "id": "co-ley-2069-2020",
+      "title": "Ley 2069 de 2020",
+      "provisions": 86
+    },
+    {
+      "id": "co-ley-2070-2020",
+      "title": "Ley 2070 de 2020",
+      "provisions": 19
+    },
+    {
+      "id": "co-ley-2075-2021",
+      "title": "Ley 2075 de 2021",
+      "provisions": 7
+    },
+    {
+      "id": "co-ley-2078-2021",
+      "title": "Ley 2078 de 2021",
+      "provisions": 10
+    },
+    {
+      "id": "co-ley-2079-2021",
+      "title": "Ley 2079 de 2021",
+      "provisions": 59
+    },
+    {
+      "id": "co-ley-2080-2021",
+      "title": "Ley 2080 de 2021",
+      "provisions": 144
+    },
+    {
+      "id": "co-ley-2081-2021",
+      "title": "Ley 2081 de 2021",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-2082-2021",
+      "title": "Ley 2082 de 2021",
+      "provisions": 19
+    },
+    {
+      "id": "co-ley-2083-2021",
+      "title": "Ley 2083 de 2021",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-2084-2021",
+      "title": "Ley 2084 de 2021",
+      "provisions": 22
+    },
+    {
+      "id": "co-ley-2085-2021",
+      "title": "Ley 2085 de 2021",
+      "provisions": 8
+    },
+    {
+      "id": "co-ley-2086-2021",
+      "title": "Ley 2086 de 2021",
+      "provisions": 10
+    },
+    {
+      "id": "co-ley-2087-2021",
+      "title": "Ley 2087 de 2021",
+      "provisions": 7
+    },
+    {
+      "id": "co-ley-2088-2021",
+      "title": "Ley 2088 de 2021",
+      "provisions": 16
+    },
+    {
+      "id": "co-ley-209-1995",
+      "title": "Ley 209 de 1995",
+      "provisions": 18
+    },
+    {
+      "id": "co-ley-2093-2021",
+      "title": "Ley 2093 de 2021",
+      "provisions": 7
+    },
+    {
+      "id": "co-ley-2094-2021",
+      "title": "Ley 2094 de 2021",
+      "provisions": 118
+    },
+    {
+      "id": "co-ley-2096-2021",
+      "title": "Ley 2096 de 2021",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-2097-2021",
+      "title": "Ley 2097 de 2021",
+      "provisions": 11
+    },
+    {
+      "id": "co-ley-2098-2021",
+      "title": "Ley 2098 de 2021",
+      "provisions": 51
+    },
+    {
+      "id": "co-ley-2099-2021",
+      "title": "Ley 2099 de 2021",
+      "provisions": 67
+    },
+    {
+      "id": "co-ley-21-1931",
+      "title": "Ley 21 de 1931",
+      "provisions": 20
+    },
+    {
+      "id": "co-ley-21-1963",
+      "title": "Ley 21 de 1963",
+      "provisions": 13
+    },
+    {
+      "id": "co-ley-21-1981",
+      "title": "Ley 21 de 1981",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-21-1982",
+      "title": "Ley 21 de 1982",
+      "provisions": 94
+    },
+    {
+      "id": "co-ley-21-1985",
+      "title": "Ley 21 de 1985",
+      "provisions": 10
+    },
+    {
+      "id": "co-ley-21-1988",
+      "title": "Ley 21 de 1988",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-21-1990",
+      "title": "Ley 21 de 1990",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-21-1991",
+      "title": "Ley 21 de 1991",
+      "provisions": 44
+    },
+    {
+      "id": "co-ley-2101-2021",
+      "title": "Ley 2101 de 2021",
+      "provisions": 9
+    },
+    {
+      "id": "co-ley-2103-2021",
+      "title": "Ley 2103 de 2021",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-2108-2021",
+      "title": "Ley 2108 de 2021",
+      "provisions": 16
+    },
+    {
+      "id": "co-ley-211-1995",
+      "title": "Ley 211 de 1995",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-2110-2021",
+      "title": "Ley 2110 de 2021",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-2111-2021",
+      "title": "Ley 2111 de 2021",
+      "provisions": 31
+    },
+    {
+      "id": "co-ley-2112-2021",
+      "title": "Ley 2112 de 2021",
+      "provisions": 6
+    },
+    {
+      "id": "co-ley-2113-2021",
+      "title": "Ley 2113 de 2021",
+      "provisions": 20
+    },
+    {
+      "id": "co-ley-2114-2021",
+      "title": "Ley 2114 de 2021",
+      "provisions": 8
+    },
+    {
+      "id": "co-ley-2115-2021",
+      "title": "Ley 2115 de 2021",
+      "provisions": 11
+    },
+    {
+      "id": "co-ley-2116-2021",
+      "title": "Ley 2116 de 2021",
+      "provisions": 32
+    },
+    {
+      "id": "co-ley-2117-2021",
+      "title": "Ley 2117 de 2021",
+      "provisions": 6
+    },
+    {
+      "id": "co-ley-2118-2021",
+      "title": "Ley 2118 de 2021",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-2119-2021",
+      "title": "Ley 2119 de 2021",
+      "provisions": 9
+    },
+    {
+      "id": "co-ley-2120-2021",
+      "title": "Ley 2120 de 2021",
+      "provisions": 14
+    },
+    {
+      "id": "co-ley-2121-2021",
+      "title": "Ley 2121 de 2021",
+      "provisions": 27
+    },
+    {
+      "id": "co-ley-2125-2021",
+      "title": "Ley 2125 de 2021",
+      "provisions": 24
+    },
+    {
+      "id": "co-ley-2126-2021",
+      "title": "Ley 2126 de 2021",
+      "provisions": 49
+    },
+    {
+      "id": "co-ley-2128-2021",
+      "title": "Ley 2128 de 2021",
+      "provisions": 20
+    },
+    {
+      "id": "co-ley-2129-2021",
+      "title": "Ley 2129 de 2021",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-2130-2021",
+      "title": "Ley 2130 de 2021",
+      "provisions": 5
+    },
+    {
+      "id": "co-ley-2133-2021",
+      "title": "Ley 2133 de 2021",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-2135-2021",
+      "title": "Ley 2135 de 2021",
+      "provisions": 31
+    },
+    {
+      "id": "co-ley-2136-2021",
+      "title": "Ley 2136 de 2021",
+      "provisions": 91
+    },
+    {
+      "id": "co-ley-2137-2021",
+      "title": "Ley 2137 de 2021",
+      "provisions": 11
+    },
+    {
+      "id": "co-ley-2140-2021",
+      "title": "Ley 2140 de 2021",
+      "provisions": 5
+    },
+    {
+      "id": "co-ley-2141-2021",
+      "title": "Ley 2141 de 2021",
+      "provisions": 4
+    },
+    {
+      "id": "co-ley-2142-2021",
+      "title": "Ley 2142 de 2021",
+      "provisions": 6
+    },
+    {
+      "id": "co-ley-2144-2021",
+      "title": "Ley 2144 de 2021",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-2148-2021",
+      "title": "Ley 2148 de 2021",
+      "provisions": 6
+    },
+    {
+      "id": "co-ley-2152-2021",
+      "title": "Ley 2152 de 2021",
+      "provisions": 4
+    },
+    {
+      "id": "co-ley-2155-2021",
+      "title": "Ley 2155 de 2021",
+      "provisions": 69
+    },
+    {
+      "id": "co-ley-2156-2021",
+      "title": "Ley 2156 de 2021",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-2157-2021",
+      "title": "Ley 2157 de 2021",
+      "provisions": 17
+    },
+    {
+      "id": "co-ley-2159-2021",
+      "title": "Ley 2159 de 2021",
+      "provisions": 41
+    },
+    {
+      "id": "co-ley-2160-2021",
+      "title": "Ley 2160 de 2021",
+      "provisions": 8
+    },
+    {
+      "id": "co-ley-2161-2021",
+      "title": "Ley 2161 de 2021",
+      "provisions": 15
+    },
+    {
+      "id": "co-ley-2162-2021",
+      "title": "Ley 2162 de 2021",
+      "provisions": 22
+    },
+    {
+      "id": "co-ley-2166-2021",
+      "title": "Ley 2166 de 2021",
+      "provisions": 109
+    },
+    {
+      "id": "co-ley-2168-2021",
+      "title": "Ley 2168 de 2021",
+      "provisions": 4
+    },
+    {
+      "id": "co-ley-2177-2021",
+      "title": "Ley 2177 de 2021",
+      "provisions": 17
+    },
+    {
+      "id": "co-ley-2178-2021",
+      "title": "Ley 2178 de 2021",
+      "provisions": 9
+    },
+    {
+      "id": "co-ley-2179-2021",
+      "title": "Ley 2179 de 2021",
+      "provisions": 143
+    },
+    {
+      "id": "co-ley-2182-2022",
+      "title": "Ley 2182 de 2022",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-2187-2022",
+      "title": "Ley 2187 de 2022",
+      "provisions": 5
+    },
+    {
+      "id": "co-ley-2191-2022",
+      "title": "Ley 2191 de 2022",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-2194-2022",
+      "title": "Ley 2194 de 2022",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-2195-2022",
+      "title": "Ley 2195 de 2022",
+      "provisions": 82
+    },
+    {
+      "id": "co-ley-2196-2022",
+      "title": "Ley 2196 de 2022",
+      "provisions": 85
+    },
+    {
+      "id": "co-ley-2197-2022",
+      "title": "Ley 2197 de 2022",
+      "provisions": 100
+    },
+    {
+      "id": "co-ley-2198-2022",
+      "title": "Ley 2198 de 2022",
+      "provisions": 11
+    },
+    {
+      "id": "co-ley-2199-2022",
+      "title": "Ley 2199 de 2022",
+      "provisions": 57
+    },
+    {
+      "id": "co-ley-22-1851",
+      "title": "Ley 22 de 1851",
+      "provisions": 8
+    },
+    {
+      "id": "co-ley-22-1959",
+      "title": "Ley 22 de 1959",
+      "provisions": 5
+    },
+    {
+      "id": "co-ley-22-1984",
+      "title": "Ley 22 de 1984",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-22-1987",
+      "title": "Ley 22 de 1987",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-220-1995",
+      "title": "Ley 220 de 1995",
+      "provisions": 5
+    },
+    {
+      "id": "co-ley-2200-2022",
+      "title": "Ley 2200 de 2022",
+      "provisions": 154
+    },
+    {
+      "id": "co-ley-2205-2022",
+      "title": "Ley 2205 de 2022",
+      "provisions": 7
+    },
+    {
+      "id": "co-ley-2207-2022",
+      "title": "Ley 2207 de 2022",
+      "provisions": 4
+    },
+    {
+      "id": "co-ley-2208-2022",
+      "title": "Ley 2208 de 2022",
+      "provisions": 13
+    },
+    {
+      "id": "co-ley-2209-2022",
+      "title": "Ley 2209 de 2022",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-2210-2022",
+      "title": "Ley 2210 de 2022",
+      "provisions": 14
+    },
+    {
+      "id": "co-ley-2211-2022",
+      "title": "Ley 2211 de 2022",
+      "provisions": 5
+    },
+    {
+      "id": "co-ley-2213-2022",
+      "title": "Ley 2213 de 2022",
+      "provisions": 15
+    },
+    {
+      "id": "co-ley-2214-2022",
+      "title": "Ley 2214 de 2022",
+      "provisions": 11
+    },
+    {
+      "id": "co-ley-2215-2022",
+      "title": "Ley 2215 de 2022",
+      "provisions": 16
+    },
+    {
+      "id": "co-ley-2216-2022",
+      "title": "Ley 2216 de 2022",
+      "provisions": 12
+    },
+    {
+      "id": "co-ley-2219-2022",
+      "title": "Ley 2219 de 2022",
+      "provisions": 18
+    },
+    {
+      "id": "co-ley-222-1995",
+      "title": "Ley 222 de 1995",
+      "provisions": 247
+    },
+    {
+      "id": "co-ley-2220-2022",
+      "title": "Ley 2220 de 2022",
+      "provisions": 152
+    },
+    {
+      "id": "co-ley-2221-2022",
+      "title": "Ley 2221 de 2022",
+      "provisions": 16
+    },
+    {
+      "id": "co-ley-2222-2022",
+      "title": "Ley 2222 de 2022",
+      "provisions": 8
+    },
+    {
+      "id": "co-ley-2225-2022",
+      "title": "Ley 2225 de 2022",
+      "provisions": 23
+    },
+    {
+      "id": "co-ley-2229-2022",
+      "title": "Ley 2229 de 2022",
+      "provisions": 5
+    },
+    {
+      "id": "co-ley-223-1995",
+      "title": "Ley 223 de 1995",
+      "provisions": 287
+    },
+    {
+      "id": "co-ley-2231-2022",
+      "title": "Ley 2231 de 2022",
+      "provisions": 14
+    },
+    {
+      "id": "co-ley-2234-2022",
+      "title": "Ley 2234 de 2022",
+      "provisions": 16
+    },
+    {
+      "id": "co-ley-2242-2022",
+      "title": "Ley 2242 de 2022",
+      "provisions": 8
+    },
+    {
+      "id": "co-ley-2244-2022",
+      "title": "Ley 2244 de 2022",
+      "provisions": 13
+    },
+    {
+      "id": "co-ley-225-1995",
+      "title": "Ley 225 de 1995",
+      "provisions": 32
+    },
+    {
+      "id": "co-ley-2251-2022",
+      "title": "Ley 2251 de 2022",
+      "provisions": 28
+    },
+    {
+      "id": "co-ley-2252-2022",
+      "title": "Ley 2252 de 2022",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-2254-2022",
+      "title": "Ley 2254 de 2022",
+      "provisions": 21
+    },
+    {
+      "id": "co-ley-226-1995",
+      "title": "Ley 226 de 1995",
+      "provisions": 26
+    },
+    {
+      "id": "co-ley-2262-2022",
+      "title": "Ley 2262 de 2022",
+      "provisions": 18
+    },
+    {
+      "id": "co-ley-2265-2022",
+      "title": "Ley 2265 de 2022",
+      "provisions": 17
+    },
+    {
+      "id": "co-ley-2266-2022",
+      "title": "Ley 2266 de 2022 Ministerio de Trabajo",
+      "provisions": 8
+    },
+    {
+      "id": "co-ley-2267-2022",
+      "title": "Ley 2267 de 2022",
+      "provisions": 4
+    },
+    {
+      "id": "co-ley-2272-2022",
+      "title": "Ley 2272 de 2022",
+      "provisions": 24
+    },
+    {
+      "id": "co-ley-2276-2022",
+      "title": "Ley 2276 de 2022",
+      "provisions": 103
+    },
+    {
+      "id": "co-ley-2277-2022",
+      "title": "Ley 2277 de 2022",
+      "provisions": 153
+    },
+    {
+      "id": "co-ley-2278-2022",
+      "title": "Ley 2278 de 2022",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-2279-2022",
+      "title": "Ley 2279 de 2022",
+      "provisions": 27
+    },
+    {
+      "id": "co-ley-228-1995",
+      "title": "Ley 228 de 1995",
+      "provisions": 42
+    },
+    {
+      "id": "co-ley-2281-2023",
+      "title": "Ley 2281 de 2023",
+      "provisions": 17
+    },
+    {
+      "id": "co-ley-2283-2023",
+      "title": "Ley 2283 de 2023",
+      "provisions": 9
+    },
+    {
+      "id": "co-ley-2286-2023",
+      "title": "Ley 2286 de 2023",
+      "provisions": 34
+    },
+    {
+      "id": "co-ley-2291-2023",
+      "title": "Ley 2291 de 2023",
+      "provisions": 20
+    },
+    {
+      "id": "co-ley-2292-2023",
+      "title": "Ley 2292 de 2023",
+      "provisions": 20
+    },
+    {
+      "id": "co-ley-2294-2023",
+      "title": "Ley 2294 de 2023",
+      "provisions": 379
+    },
+    {
+      "id": "co-ley-2298-2023",
+      "title": "Ley 2298 de 2023 Congreso de la República",
+      "provisions": 4
+    },
+    {
+      "id": "co-ley-2299-2023",
+      "title": "Ley 2299 de 2023",
+      "provisions": 8
+    },
+    {
+      "id": "co-ley-23-1931",
+      "title": "Ley 23 de 1931",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-23-1940",
+      "title": "Ley 23 de 1940",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-23-1962",
+      "title": "Ley 23 de 1962",
+      "provisions": 22
+    },
+    {
+      "id": "co-ley-23-1973",
+      "title": "Ley 23 de 1973",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-23-1981",
+      "title": "Ley 23 de 1981",
+      "provisions": 93
+    },
+    {
+      "id": "co-ley-23-1982",
+      "title": "Ley 23 de 1982",
+      "provisions": 261
+    },
+    {
+      "id": "co-ley-23-1986",
+      "title": "Ley 23 de 1986",
+      "provisions": 7
+    },
+    {
+      "id": "co-ley-23-1991",
+      "title": "Ley 23 de 1991",
+      "provisions": 126
+    },
+    {
+      "id": "co-ley-2300-2023",
+      "title": "Ley 2300 de 2023",
+      "provisions": 10
+    },
+    {
+      "id": "co-ley-2302-2023",
+      "title": "Ley 2302 de 2023 Congreso de la República",
+      "provisions": 7
+    },
+    {
+      "id": "co-ley-2306-2023",
+      "title": "Ley 2306 de 2023",
+      "provisions": 10
+    },
+    {
+      "id": "co-ley-2307-2023",
+      "title": "Ley 2307 de 2023",
+      "provisions": 8
+    },
+    {
+      "id": "co-ley-2310-2023",
+      "title": "Ley 2310 de 2023",
+      "provisions": 8
+    },
+    {
+      "id": "co-ley-2314-2023",
+      "title": "Ley 2314 de 2023",
+      "provisions": 12
+    },
+    {
+      "id": "co-ley-2315-2023",
+      "title": "Ley 2315 de 2023",
+      "provisions": 8
+    },
+    {
+      "id": "co-ley-2316-2023",
+      "title": "Ley 2316 de 2023",
+      "provisions": 12
+    },
+    {
+      "id": "co-ley-2317-2023",
+      "title": "Ley 2317 de 2023",
+      "provisions": 7
+    },
+    {
+      "id": "co-ley-2318-2023",
+      "title": "Ley 2318 de 2023",
+      "provisions": 11
+    },
+    {
+      "id": "co-ley-2319-2023",
+      "title": "Ley 2319 de 2023",
+      "provisions": 10
+    },
+    {
+      "id": "co-ley-232-1995",
+      "title": "Ley 232 de 1995",
+      "provisions": 6
+    },
+    {
+      "id": "co-ley-2320-2023",
+      "title": "Ley 2320 de 2023",
+      "provisions": 5
+    },
+    {
+      "id": "co-ley-2321-2023",
+      "title": "Ley 2321 de 2023",
+      "provisions": 8
+    },
+    {
+      "id": "co-ley-2322-2023",
+      "title": "Ley 2322 de 2023",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-2323-2023",
+      "title": "Ley 2323 de 2023",
+      "provisions": 8
+    },
+    {
+      "id": "co-ley-2324-2023",
+      "title": "Ley 2324 de 2023",
+      "provisions": 7
+    },
+    {
+      "id": "co-ley-2327-2023",
+      "title": "Ley 2327 de 2023",
+      "provisions": 13
+    },
+    {
+      "id": "co-ley-2328-2023",
+      "title": "Ley 2328 de 2023",
+      "provisions": 14
+    },
+    {
+      "id": "co-ley-2329-2023",
+      "title": "Ley 2329 de 2023",
+      "provisions": 7
+    },
+    {
+      "id": "co-ley-233-1995",
+      "title": "Ley 233 de 1995",
+      "provisions": 53
+    },
+    {
+      "id": "co-ley-2331-2023",
+      "title": "Ley 2331 de 2023",
+      "provisions": 13
+    },
+    {
+      "id": "co-ley-2332-2023",
+      "title": "Ley 2332 de 2023",
+      "provisions": 55
+    },
+    {
+      "id": "co-ley-2333-2023",
+      "title": "Ley 2333 de 2023",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-2335-2023",
+      "title": "Ley 2335 de 2023",
+      "provisions": 58
+    },
+    {
+      "id": "co-ley-2336-2023",
+      "title": "Ley 2336 de 2023",
+      "provisions": 61
+    },
+    {
+      "id": "co-ley-2337-2023",
+      "title": "Ley 2337 de 2023",
+      "provisions": 12
+    },
+    {
+      "id": "co-ley-2341-2023",
+      "title": "Ley 2341 de 2023",
+      "provisions": 8
+    },
+    {
+      "id": "co-ley-2342-2023",
+      "title": "Ley 2342 de 2023",
+      "provisions": 88
+    },
+    {
+      "id": "co-ley-2343-2023",
+      "title": "Ley 2343 de 2023",
+      "provisions": 9
+    },
+    {
+      "id": "co-ley-2345-2023",
+      "title": "Ley 2345 de 2023",
+      "provisions": 9
+    },
+    {
+      "id": "co-ley-2346-2024",
+      "title": "Ley 2346 de 2024",
+      "provisions": 4
+    },
+    {
+      "id": "co-ley-2354-2024",
+      "title": "Ley 2354 de 2024",
+      "provisions": 6
+    },
+    {
+      "id": "co-ley-2359-2024",
+      "title": "Ley 2359 de 2024 Departamento Administrativo de la Función Pública",
+      "provisions": 6
+    },
+    {
+      "id": "co-ley-2360-2024",
+      "title": "Ley 2360 de 2024",
+      "provisions": 5
+    },
+    {
+      "id": "co-ley-2361-2024",
+      "title": "Ley 2361 de 2024",
+      "provisions": 17
+    },
+    {
+      "id": "co-ley-2364-2024",
+      "title": "Ley 2364 de 2024",
+      "provisions": 24
+    },
+    {
+      "id": "co-ley-2365-2024",
+      "title": "Ley 2365 de 2024 Congreso de la República",
+      "provisions": 26
+    },
+    {
+      "id": "co-ley-2366-2024",
+      "title": "Ley 2366 de 2024 Congreso de la República",
+      "provisions": 9
+    },
+    {
+      "id": "co-ley-2367-2024",
+      "title": "Ley 2367 de 2024 Congreso de la República",
+      "provisions": 6
+    },
+    {
+      "id": "co-ley-2370-2024",
+      "title": "Ley 2370 de 2024",
+      "provisions": 17
+    },
+    {
+      "id": "co-ley-2371-2024",
+      "title": "Ley 2371 de 2024 Presidencia de la Republica",
+      "provisions": 30
+    },
+    {
+      "id": "co-ley-2372-2024",
+      "title": "Ley 2372 de 2024",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-2375-2024",
+      "title": "Ley 2375 de 2024",
+      "provisions": 7
+    },
+    {
+      "id": "co-ley-2379-2024",
+      "title": "Ley 2379 de 2024",
+      "provisions": 6
+    },
+    {
+      "id": "co-ley-238-1995",
+      "title": "Ley 238 de 1995",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-2381-2024",
+      "title": "Ley 2381 de 2024",
+      "provisions": 93
+    },
+    {
+      "id": "co-ley-2383-2024",
+      "title": "Ley 2383 de 2024 Congreso de la República",
+      "provisions": 11
+    },
+    {
+      "id": "co-ley-2384-2024",
+      "title": "Ley 2384 de 2024",
+      "provisions": 15
+    },
+    {
+      "id": "co-ley-2387-2024",
+      "title": "Ley 2387 de 2024",
+      "provisions": 36
+    },
+    {
+      "id": "co-ley-2390-2024",
+      "title": "Ley 2390 de 2024 Congreso de la República",
+      "provisions": 28
+    },
+    {
+      "id": "co-ley-2393-2024",
+      "title": "Ley 2393 de 2024",
+      "provisions": 5
+    },
+    {
+      "id": "co-ley-2395-2024",
+      "title": "Ley 2395 de 2024",
+      "provisions": 6
+    },
+    {
+      "id": "co-ley-2397-2024",
+      "title": "Ley 2397 de 2024",
+      "provisions": 16
+    },
+    {
+      "id": "co-ley-24-1947",
+      "title": "Ley 24 de 1947",
+      "provisions": 8
+    },
+    {
+      "id": "co-ley-24-1976",
+      "title": "Ley 24 de 1976",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-24-1981",
+      "title": "Ley 24 de 1981",
+      "provisions": 47
+    },
+    {
+      "id": "co-ley-24-1988",
+      "title": "Ley 24 de 1988",
+      "provisions": 67
+    },
+    {
+      "id": "co-ley-24-1992",
+      "title": "Ley 24 de 1992",
+      "provisions": 41
+    },
+    {
+      "id": "co-ley-2405-2024",
+      "title": "Ley 2405 de 2024 Congreso de la República",
+      "provisions": 15
+    },
+    {
+      "id": "co-ley-2408-2024",
+      "title": "Ley 2408 de 2024 Congreso de la República",
+      "provisions": 8
+    },
+    {
+      "id": "co-ley-2411-2024",
+      "title": "Ley 2411 de 2024 Congreso de la República",
+      "provisions": 4
+    },
+    {
+      "id": "co-ley-2416-2024",
+      "title": "Ley 2416 de 2024",
+      "provisions": 7
+    },
+    {
+      "id": "co-ley-2418-2024",
+      "title": "Ley 2418 de 2024",
+      "provisions": 15
+    },
+    {
+      "id": "co-ley-242-1995",
+      "title": "Ley 242 de 1995",
+      "provisions": 8
+    },
+    {
+      "id": "co-ley-2420-2024",
+      "title": "Ley 2420 de 2024 Congreso de la República",
+      "provisions": 9
+    },
+    {
+      "id": "co-ley-2421-2024",
+      "title": "Ley 2421 de 2024 Congreso de la República",
+      "provisions": 111
+    },
+    {
+      "id": "co-ley-2422-2024",
+      "title": "Ley 2422 de 2024",
+      "provisions": 8
+    },
+    {
+      "id": "co-ley-2423-2024",
+      "title": "Ley 2423 de 2024 Congreso de la República",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-2424-2024",
+      "title": "Ley 2424 de 2024",
+      "provisions": 6
+    },
+    {
+      "id": "co-ley-2427-2024",
+      "title": "Ley 2427 de 2024",
+      "provisions": 15
+    },
+    {
+      "id": "co-ley-2430-2024",
+      "title": "Ley 2430 de 2024 Congreso de la República",
+      "provisions": 140
+    },
+    {
+      "id": "co-ley-2434-2024",
+      "title": "Ley 2434 de 2024",
+      "provisions": 15
+    },
+    {
+      "id": "co-ley-2435-2024",
+      "title": "Ley 2435 de 2024",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-2436-2024",
+      "title": "Ley 2436 de 2024",
+      "provisions": 8
+    },
+    {
+      "id": "co-ley-2437-2024",
+      "title": "Ley 2437 de 2024",
+      "provisions": 21
+    },
+    {
+      "id": "co-ley-2439-2024",
+      "title": "Ley 2439 de 2024",
+      "provisions": 11
+    },
+    {
+      "id": "co-ley-244-1995",
+      "title": "Ley 244 de 1995",
+      "provisions": 5
+    },
+    {
+      "id": "co-ley-2442-2024",
+      "title": "Ley 2442 de 2024",
+      "provisions": 9
+    },
+    {
+      "id": "co-ley-2443-2024",
+      "title": "Ley 2443 de 2024",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-2444-2025",
+      "title": "Ley 2444 de 2025",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-2446-2025",
+      "title": "Ley 2446 de 2025 Congreso de la República",
+      "provisions": 23
+    },
+    {
+      "id": "co-ley-2447-2025",
+      "title": "Ley 2447 de 2025 Congreso de la República",
+      "provisions": 23
+    },
+    {
+      "id": "co-ley-2450-2025",
+      "title": "Ley 2450 de 2025",
+      "provisions": 28
+    },
+    {
+      "id": "co-ley-2452-2025",
+      "title": "Ley 2452 de 2025",
+      "provisions": 331
+    },
+    {
+      "id": "co-ley-2453-2025",
+      "title": "Ley 2453 de 2025",
+      "provisions": 31
+    },
+    {
+      "id": "co-ley-2454-2025",
+      "title": "Ley 2454 de 2025 Congreso de la República",
+      "provisions": 25
+    },
+    {
+      "id": "co-ley-2455-2025",
+      "title": "Ley 2455 de 2025 Congreso de la República",
+      "provisions": 47
+    },
+    {
+      "id": "co-ley-2456-2025",
+      "title": "Ley 2456 de 2025",
+      "provisions": 22
+    },
+    {
+      "id": "co-ley-2457-2025",
+      "title": "Ley 2457 de 2025",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-2458-2025",
+      "title": "Ley 2458 de 2025",
+      "provisions": 17
+    },
+    {
+      "id": "co-ley-2459-2025",
+      "title": "Ley 2459 de 2025",
+      "provisions": 14
+    },
+    {
+      "id": "co-ley-2460-2025",
+      "title": "Ley 2460 de 2025 Congreso de la República",
+      "provisions": 40
+    },
+    {
+      "id": "co-ley-2461-2025",
+      "title": "Ley 2461 de 2025",
+      "provisions": 9
+    },
+    {
+      "id": "co-ley-2462-2025",
+      "title": "Ley 2462 de 2025 Congreso de la República",
+      "provisions": 51
+    },
+    {
+      "id": "co-ley-2466-2025",
+      "title": "Ley 2466 de 2025",
+      "provisions": 71
+    },
+    {
+      "id": "co-ley-2467-2025",
+      "title": "Ley 2467 de 2025",
+      "provisions": 10
+    },
+    {
+      "id": "co-ley-2468-2025",
+      "title": "Ley 2468 de 2025",
+      "provisions": 17
+    },
+    {
+      "id": "co-ley-2469-2025",
+      "title": "Ley 2469 de 2025",
+      "provisions": 14
+    },
+    {
+      "id": "co-ley-2470-2025",
+      "title": "Ley 2470 de 2025",
+      "provisions": 9
+    },
+    {
+      "id": "co-ley-2471-2025",
+      "title": "Ley 2471 de 2025",
+      "provisions": 8
+    },
+    {
+      "id": "co-ley-2473-2025",
+      "title": "Ley 2473 de 2025",
+      "provisions": 6
+    },
+    {
+      "id": "co-ley-2474-2025",
+      "title": "Ley 2474 de 2025",
+      "provisions": 16
+    },
+    {
+      "id": "co-ley-2475-2025",
+      "title": "Ley 2475 de 2025",
+      "provisions": 9
+    },
+    {
+      "id": "co-ley-2476-2025",
+      "title": "Ley 2476 de 2025",
+      "provisions": 27
+    },
+    {
+      "id": "co-ley-2477-2025",
+      "title": "Ley 2477 de 2025",
+      "provisions": 24
+    },
+    {
+      "id": "co-ley-2478-2025",
+      "title": "Ley 2478 de 2025",
+      "provisions": 17
+    },
+    {
+      "id": "co-ley-2479-2025",
+      "title": "Ley 2479 de 2025",
+      "provisions": 33
+    },
+    {
+      "id": "co-ley-248-1995",
+      "title": "Ley 248 de 1995",
+      "provisions": 28
+    },
+    {
+      "id": "co-ley-2480-2025",
+      "title": "Ley 2480 de 2025",
+      "provisions": 23
+    },
+    {
+      "id": "co-ley-2481-2025",
+      "title": "Ley 2481 de 2025",
+      "provisions": 20
+    },
+    {
+      "id": "co-ley-2486-2025",
+      "title": "Ley 2486 de 2025",
+      "provisions": 18
+    },
+    {
+      "id": "co-ley-2487-2025",
+      "title": "Ley 2487 de 2025",
+      "provisions": 9
+    },
+    {
+      "id": "co-ley-2489-2025",
+      "title": "Ley 2489 de 2025 Congreso de la República",
+      "provisions": 15
+    },
+    {
+      "id": "co-ley-2491-2025",
+      "title": "Ley 2491 de 2025 Congreso de la República",
+      "provisions": 10
+    },
+    {
+      "id": "co-ley-2492-2025",
+      "title": "Ley 2492 de 2025",
+      "provisions": 11
+    },
+    {
+      "id": "co-ley-2493-2025",
+      "title": "Ley 2493 de 2025 Congreso de la República",
+      "provisions": 20
+    },
+    {
+      "id": "co-ley-2494-2025",
+      "title": "Ley 2494 de 2025",
+      "provisions": 17
+    },
+    {
+      "id": "co-ley-2495-2025",
+      "title": "Ley 2495 de 2025 Congreso de la República",
+      "provisions": 7
+    },
+    {
+      "id": "co-ley-2496-2025",
+      "title": "Ley 2496 de 2025",
+      "provisions": 20
+    },
+    {
+      "id": "co-ley-2498-2025",
+      "title": "Ley 2498 de 2025 Congreso de la República",
+      "provisions": 22
+    },
+    {
+      "id": "co-ley-2499-2025",
+      "title": "Ley 2499 de 2025",
+      "provisions": 9
+    },
+    {
+      "id": "co-ley-25-1913",
+      "title": "Ley 25 de 1913",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-25-1921",
+      "title": "Ley 25 de 1921",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-25-1923",
+      "title": "Ley 25 de 1923",
+      "provisions": 36
+    },
+    {
+      "id": "co-ley-25-1974",
+      "title": "Ley 25 de 1974",
+      "provisions": 32
+    },
+    {
+      "id": "co-ley-25-1981",
+      "title": "Ley 25 de 1981",
+      "provisions": 28
+    },
+    {
+      "id": "co-ley-25-1990",
+      "title": "Ley 25 de 1990",
+      "provisions": 15
+    },
+    {
+      "id": "co-ley-25-1992",
+      "title": "Ley 25 de 1992",
+      "provisions": 15
+    },
+    {
+      "id": "co-ley-2501-2025",
+      "title": "Ley 2501 de 2025 Congreso de la República",
+      "provisions": 16
+    },
+    {
+      "id": "co-ley-2503-2025",
+      "title": "Ley 2503 de 2025 Congreso de la República",
+      "provisions": 14
+    },
+    {
+      "id": "co-ley-2506-2025",
+      "title": "Ley 2506 de 2025 Congreso de la República",
+      "provisions": 17
+    },
+    {
+      "id": "co-ley-2507-2025",
+      "title": "Ley 2507 de 2025 Congreso de la República",
+      "provisions": 18
+    },
+    {
+      "id": "co-ley-2511-2025",
+      "title": "Ley 2511 de 2025 Congreso de la República",
+      "provisions": 10
+    },
+    {
+      "id": "co-ley-2521-2025",
+      "title": "Ley 2521 de 2025 Congreso de la República",
+      "provisions": 70
+    },
+    {
+      "id": "co-ley-2529-2025",
+      "title": "Ley 2529 de 2025 Congreso de la República",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-2530-2025",
+      "title": "Ley 2530 de 2025 Congreso de la República",
+      "provisions": 24
+    },
+    {
+      "id": "co-ley-2531-2025",
+      "title": "Ley 2531 de 2025",
+      "provisions": 13
+    },
+    {
+      "id": "co-ley-2539-2025",
+      "title": "Ley 2539 de 2025 Congreso de la República",
+      "provisions": 22
+    },
+    {
+      "id": "co-ley-2540-2025",
+      "title": "Ley 2540 de 2025",
+      "provisions": 41
+    },
+    {
+      "id": "co-ley-2541-2025",
+      "title": "Ley 2541 de 2025 Congreso de la República",
+      "provisions": 7
+    },
+    {
+      "id": "co-ley-2548-2025",
+      "title": "Ley 2548 de 2025",
+      "provisions": 10
+    },
+    {
+      "id": "co-ley-2553-2025",
+      "title": "Ley 2553 de 2025 Ministerio de Educación",
+      "provisions": 22
+    },
+    {
+      "id": "co-ley-256-1996",
+      "title": "Ley 256 de 1996",
+      "provisions": 33
+    },
+    {
+      "id": "co-ley-258-1996",
+      "title": "Ley 258 de 1996",
+      "provisions": 13
+    },
+    {
+      "id": "co-ley-26-1883",
+      "title": "Ley 26 de 1883",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-26-1959",
+      "title": "Ley 26 de 1959",
+      "provisions": 48
+    },
+    {
+      "id": "co-ley-26-1976",
+      "title": "Ley 26 de 1976",
+      "provisions": 9
+    },
+    {
+      "id": "co-ley-26-1977",
+      "title": "Ley 26 de 1977",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-260-1996",
+      "title": "Ley 260 de 1996",
+      "provisions": 6
+    },
+    {
+      "id": "co-ley-266-1996",
+      "title": "Ley 266 de 1996",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-269-1996",
+      "title": "Ley 269 de 1996",
+      "provisions": 7
+    },
+    {
+      "id": "co-ley-27-1850",
+      "title": "Ley 27 de 1850",
+      "provisions": 4
+    },
+    {
+      "id": "co-ley-27-1946",
+      "title": "Ley 27 de 1946",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-27-1974",
+      "title": "Ley 27 de 1974",
+      "provisions": 12
+    },
+    {
+      "id": "co-ley-27-1976",
+      "title": "Ley 27 de 1976",
+      "provisions": 9
+    },
+    {
+      "id": "co-ley-27-1977",
+      "title": "Ley 27 de 1977",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-27-1992",
+      "title": "Ley 27 de 1992",
+      "provisions": 29
+    },
+    {
+      "id": "co-ley-270-1996",
+      "title": "Ley 270 de 1996",
+      "provisions": 224
+    },
+    {
+      "id": "co-ley-271-1996",
+      "title": "Ley 271 de 1996",
+      "provisions": 4
+    },
+    {
+      "id": "co-ley-273-1996",
+      "title": "Ley 273 de 1996",
+      "provisions": 8
+    },
+    {
+      "id": "co-ley-276-1996",
+      "title": "Ley 276 de 1996",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-278-1996",
+      "title": "Ley 278 de 1996",
+      "provisions": 11
+    },
+    {
+      "id": "co-ley-28-1925",
+      "title": "Ley 28 de 1925",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-28-1979",
+      "title": "Ley 28 de 1979",
+      "provisions": 206
+    },
+    {
+      "id": "co-ley-28-1981",
+      "title": "Ley 28 de 1981",
+      "provisions": 5
+    },
+    {
+      "id": "co-ley-28-1983",
+      "title": "Ley 28 de 1983",
+      "provisions": 7
+    },
+    {
+      "id": "co-ley-28-1988",
+      "title": "Ley 28 de 1988",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-28-1989",
+      "title": "Ley 28 de 1989",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-281-1996",
+      "title": "Ley 281 de 1996",
+      "provisions": 10
+    },
+    {
+      "id": "co-ley-282-1996",
+      "title": "Ley 282 de 1996",
+      "provisions": 25
+    },
+    {
+      "id": "co-ley-286-1996",
+      "title": "Ley 286 de 1996",
+      "provisions": 7
+    },
+    {
+      "id": "co-ley-288-1996",
+      "title": "Ley 288 de 1996",
+      "provisions": 16
+    },
+    {
+      "id": "co-ley-29-1944",
+      "title": "Ley 29 de 1944",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-29-1982",
+      "title": "Ley 29 de 1982",
+      "provisions": 11
+    },
+    {
+      "id": "co-ley-29-1989",
+      "title": "Ley 29 de 1989",
+      "provisions": 20
+    },
+    {
+      "id": "co-ley-29-1990",
+      "title": "Ley 29 de 1990",
+      "provisions": 12
+    },
+    {
+      "id": "co-ley-29-1992",
+      "title": "Ley 29 de 1992",
+      "provisions": 24
+    },
+    {
+      "id": "co-ley-290-1996",
+      "title": "Ley 290 de 1996",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-294-1996",
+      "title": "Ley 294 de 1996",
+      "provisions": 30
+    },
+    {
+      "id": "co-ley-298-1996",
+      "title": "Ley 298 de 1996",
+      "provisions": 17
+    },
+    {
+      "id": "co-ley-299-1996",
+      "title": "Ley 299 de 1996",
+      "provisions": 16
+    },
+    {
+      "id": "co-ley-3-1850",
+      "title": "Ley 3 de 1850",
+      "provisions": 31
+    },
+    {
+      "id": "co-ley-3-1898",
+      "title": "Ley 3 de 1898",
+      "provisions": 6
+    },
+    {
+      "id": "co-ley-3-1961",
+      "title": "Ley 3 de 1961",
+      "provisions": 50
+    },
+    {
+      "id": "co-ley-3-1990",
+      "title": "Ley 3 de 1990",
+      "provisions": 5
+    },
+    {
+      "id": "co-ley-3-1991",
+      "title": "Ley 3 de 1991",
+      "provisions": 45
+    },
+    {
+      "id": "co-ley-3-1992",
+      "title": "Ley 3 de 1992",
+      "provisions": 14
+    },
+    {
+      "id": "co-ley-30-1922",
+      "title": "Ley 30 de 1922",
+      "provisions": 25
+    },
+    {
+      "id": "co-ley-30-1969",
+      "title": "Ley 30 de 1969",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-30-1971",
+      "title": "Ley 30 de 1971",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-30-1986",
+      "title": "Ley 30 de 1986",
+      "provisions": 101
+    },
+    {
+      "id": "co-ley-30-1992",
+      "title": "Ley 30 de 1992",
+      "provisions": 144
+    },
+    {
+      "id": "co-ley-300-1996",
+      "title": "Ley 300 de 1996",
+      "provisions": 113
+    },
+    {
+      "id": "co-ley-302-1996",
+      "title": "Ley 302 de 1996",
+      "provisions": 10
+    },
+    {
+      "id": "co-ley-31-1971",
+      "title": "Ley 31 de 1971",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-31-1982",
+      "title": "Ley 31 de 1982",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-31-1984",
+      "title": "Ley 31 de 1984",
+      "provisions": 5
+    },
+    {
+      "id": "co-ley-31-1992",
+      "title": "Ley 31 de 1992",
+      "provisions": 66
+    },
+    {
+      "id": "co-ley-310-1996",
+      "title": "Ley 310 de 1996",
+      "provisions": 8
+    },
+    {
+      "id": "co-ley-311-1996",
+      "title": "Ley 311 de 1996",
+      "provisions": 11
+    },
+    {
+      "id": "co-ley-314-1996",
+      "title": "Ley 314 de 1996",
+      "provisions": 16
+    },
+    {
+      "id": "co-ley-315-1996",
+      "title": "Ley 315 de 1996",
+      "provisions": 5
+    },
+    {
+      "id": "co-ley-316-1996",
+      "title": "Ley 316 de 1996",
+      "provisions": 10
+    },
+    {
+      "id": "co-ley-318-1996",
+      "title": "Ley 318 de 1996",
+      "provisions": 27
+    },
+    {
+      "id": "co-ley-319-1996",
+      "title": "Ley 319 de 1996",
+      "provisions": 25
+    },
+    {
+      "id": "co-ley-32-1933",
+      "title": "Ley 32 de 1933",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-32-1986",
+      "title": "Ley 32 de 1986",
+      "provisions": 115
+    },
+    {
+      "id": "co-ley-32-1990",
+      "title": "Ley 32 de 1990",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-320-1996",
+      "title": "Ley 320 de 1996",
+      "provisions": 48
+    },
+    {
+      "id": "co-ley-322-1996",
+      "title": "Ley 322 de 1996",
+      "provisions": 38
+    },
+    {
+      "id": "co-ley-323-1996",
+      "title": "Ley 323 de 1996",
+      "provisions": 48
+    },
+    {
+      "id": "co-ley-324-1996",
+      "title": "Ley 324 de 1996",
+      "provisions": 14
+    },
+    {
+      "id": "co-ley-327-1996",
+      "title": "Ley 327 de 1996",
+      "provisions": 15
+    },
+    {
+      "id": "co-ley-33-1968",
+      "title": "Ley 33 de 1968",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-33-1973",
+      "title": "Ley 33 de 1973",
+      "provisions": 4
+    },
+    {
+      "id": "co-ley-33-1985",
+      "title": "Ley 33 de 1985",
+      "provisions": 25
+    },
+    {
+      "id": "co-ley-33-1989",
+      "title": "Ley 33 de 1989",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-33-1990",
+      "title": "Ley 33 de 1990",
+      "provisions": 115
+    },
+    {
+      "id": "co-ley-330-1996",
+      "title": "Ley 330 de 1996",
+      "provisions": 17
+    },
+    {
+      "id": "co-ley-332-1996",
+      "title": "Ley 332 de 1996",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-333-1996",
+      "title": "Ley 333 de 1996",
+      "provisions": 33
+    },
+    {
+      "id": "co-ley-335-1996",
+      "title": "Ley 335 de 1996",
+      "provisions": 30
+    },
+    {
+      "id": "co-ley-336-1996",
+      "title": "Ley 336 de 1996",
+      "provisions": 92
+    },
+    {
+      "id": "co-ley-340-1996",
+      "title": "Ley 340 de 1996",
+      "provisions": 64
+    },
+    {
+      "id": "co-ley-341-1996",
+      "title": "Ley 341 de 1996",
+      "provisions": 16
+    },
+    {
+      "id": "co-ley-344-1996",
+      "title": "Ley 344 de 1996",
+      "provisions": 44
+    },
+    {
+      "id": "co-ley-35-1929",
+      "title": "Ley 35 de 1929",
+      "provisions": 24
+    },
+    {
+      "id": "co-ley-35-1939",
+      "title": "Ley 35 de 1939",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-35-1993",
+      "title": "Ley 35 de 1993",
+      "provisions": 40
+    },
+    {
+      "id": "co-ley-352-1997",
+      "title": "Ley 352 de 1997",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-356-1997",
+      "title": "Ley 356 de 1997",
+      "provisions": 31
+    },
+    {
+      "id": "co-ley-357-1997",
+      "title": "Ley 357 de 1997",
+      "provisions": 12
+    },
+    {
+      "id": "co-ley-358-1997",
+      "title": "Ley 358 de 1997",
+      "provisions": 17
+    },
+    {
+      "id": "co-ley-36-1973",
+      "title": "Ley 36 de 1973",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-36-1982",
+      "title": "Ley 36 de 1982",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-36-1984",
+      "title": "Ley 36 de 1984",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-36-1989",
+      "title": "Ley 36 de 1989",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-36-1993",
+      "title": "Ley 36 de 1993",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-361-1997",
+      "title": "Ley 361 de 1997",
+      "provisions": 72
+    },
+    {
+      "id": "co-ley-362-1997",
+      "title": "Ley 362 de 1997",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-363-1997",
+      "title": "Ley 363 de 1997",
+      "provisions": 25
+    },
+    {
+      "id": "co-ley-365-1997",
+      "title": "Ley 365 de 1997",
+      "provisions": 41
+    },
+    {
+      "id": "co-ley-368-1997",
+      "title": "Ley 368 de 1997",
+      "provisions": 22
+    },
+    {
+      "id": "co-ley-37-1990",
+      "title": "Ley 37 de 1990",
+      "provisions": 29
+    },
+    {
+      "id": "co-ley-37-1993",
+      "title": "Ley 37 de 1993",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-372-1997",
+      "title": "Ley 372 de 1997",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-373-1997",
+      "title": "Ley 373 de 1997",
+      "provisions": 18
+    },
+    {
+      "id": "co-ley-375-1997",
+      "title": "Ley 375 de 1997",
+      "provisions": 51
+    },
+    {
+      "id": "co-ley-376-1997",
+      "title": "Ley 376 de 1997",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-378-1997",
+      "title": "Ley 378 de 1997",
+      "provisions": 24
+    },
+    {
+      "id": "co-ley-379-1997",
+      "title": "Ley 379 de 1997",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-38-1887",
+      "title": "Ley 38 de 1887",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-38-1937",
+      "title": "Ley 38 de 1937",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-38-1968",
+      "title": "Ley 38 de 1968",
+      "provisions": 9
+    },
+    {
+      "id": "co-ley-38-1989",
+      "title": "Ley 38 de 1989",
+      "provisions": 95
+    },
+    {
+      "id": "co-ley-383-1997",
+      "title": "Ley 383 de 1997",
+      "provisions": 74
+    },
+    {
+      "id": "co-ley-385-1997",
+      "title": "Ley 385 de 1997",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-387-1997",
+      "title": "Ley 387 de 1997",
+      "provisions": 34
+    },
+    {
+      "id": "co-ley-388-1997",
+      "title": "Ley 388 de 1997",
+      "provisions": 136
+    },
+    {
+      "id": "co-ley-389-1997",
+      "title": "Ley 389 de 1997",
+      "provisions": 8
+    },
+    {
+      "id": "co-ley-392-1997",
+      "title": "Ley 392 de 1997",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-393-1997",
+      "title": "Ley 393 de 1997",
+      "provisions": 32
+    },
+    {
+      "id": "co-ley-396-1997",
+      "title": "Ley 396 de 1997",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-397-1997",
+      "title": "Ley 397 de 1997",
+      "provisions": 88
+    },
+    {
+      "id": "co-ley-398-1997",
+      "title": "Ley 398 de 1997",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-4-1850",
+      "title": "Ley 4 de 1850",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-4-1851",
+      "title": "Ley 4 de 1851",
+      "provisions": 25
+    },
+    {
+      "id": "co-ley-4-1913",
+      "title": "Ley 4 de 1913",
+      "provisions": 338
+    },
+    {
+      "id": "co-ley-4-1929",
+      "title": "Ley 4 de 1929",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-4-1966",
+      "title": "Ley 4 de 1966",
+      "provisions": 14
+    },
+    {
+      "id": "co-ley-4-1973",
+      "title": "Ley 4 de 1973",
+      "provisions": 80
+    },
+    {
+      "id": "co-ley-4-1976",
+      "title": "Ley 4 de 1976",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-4-1980",
+      "title": "Ley 4 de 1980",
+      "provisions": 12
+    },
+    {
+      "id": "co-ley-4-1991",
+      "title": "Ley 4 de 1991",
+      "provisions": 38
+    },
+    {
+      "id": "co-ley-4-1992",
+      "title": "Ley 4 de 1992",
+      "provisions": 22
+    },
+    {
+      "id": "co-ley-40-1993",
+      "title": "Ley 40 de 1993",
+      "provisions": 42
+    },
+    {
+      "id": "co-ley-400-1997",
+      "title": "Ley 400 de 1997",
+      "provisions": 56
+    },
+    {
+      "id": "co-ley-401-1997",
+      "title": "Ley 401 de 1997",
+      "provisions": 18
+    },
+    {
+      "id": "co-ley-403-1997",
+      "title": "Ley 403 de 1997",
+      "provisions": 7
+    },
+    {
+      "id": "co-ley-41-1969",
+      "title": "Ley 41 de 1969",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-41-1975",
+      "title": "Ley 41 de 1975",
+      "provisions": 4
+    },
+    {
+      "id": "co-ley-41-1993",
+      "title": "Ley 41 de 1993 Ministerio de Agricultura y Desarrollo Rural",
+      "provisions": 39
+    },
+    {
+      "id": "co-ley-411-1997",
+      "title": "Ley 411 de 1997",
+      "provisions": 17
+    },
+    {
+      "id": "co-ley-418-1997",
+      "title": "Ley 418 de 1997",
+      "provisions": 139
+    },
+    {
+      "id": "co-ley-42-1971",
+      "title": "Ley 42 de 1971",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-42-1989",
+      "title": "Ley 42 de 1989",
+      "provisions": 23
+    },
+    {
+      "id": "co-ley-42-1993",
+      "title": "Ley 42 de 1993",
+      "provisions": 110
+    },
+    {
+      "id": "co-ley-422-1998",
+      "title": "Ley 422 de 1998",
+      "provisions": 8
+    },
+    {
+      "id": "co-ley-428-1998",
+      "title": "Ley 428 de 1998",
+      "provisions": 47
+    },
+    {
+      "id": "co-ley-429-1998",
+      "title": "Ley 429 de 1998",
+      "provisions": 5
+    },
+    {
+      "id": "co-ley-43-1975",
+      "title": "Ley 43 de 1975",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-43-1984",
+      "title": "Ley 43 de 1984",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-43-1990",
+      "title": "Ley 43 de 1990",
+      "provisions": 75
+    },
+    {
+      "id": "co-ley-43-1993",
+      "title": "Ley 43 de 1993",
+      "provisions": 38
+    },
+    {
+      "id": "co-ley-432-1998",
+      "title": "Ley 432 de 1998",
+      "provisions": 19
+    },
+    {
+      "id": "co-ley-434-1998",
+      "title": "Ley 434 de 1998",
+      "provisions": 19
+    },
+    {
+      "id": "co-ley-438-1998",
+      "title": "Ley 438 de 1998",
+      "provisions": 14
+    },
+    {
+      "id": "co-ley-44-1947",
+      "title": "Ley 44 de 1947",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-44-1971",
+      "title": "Ley 44 de 1971",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-44-1977",
+      "title": "Ley 44 de 1977",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-44-1980",
+      "title": "Ley 44 de 1980",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-44-1981",
+      "title": "Ley 44 de 1981",
+      "provisions": 14
+    },
+    {
+      "id": "co-ley-44-1990",
+      "title": "Ley 44 de 1990",
+      "provisions": 30
+    },
+    {
+      "id": "co-ley-44-1993",
+      "title": "Ley 44 de 1993",
+      "provisions": 70
+    },
+    {
+      "id": "co-ley-443-1998",
+      "title": "Ley 443 de 1998",
+      "provisions": 85
+    },
+    {
+      "id": "co-ley-446-1998",
+      "title": "Ley 446 de 1998",
+      "provisions": 182
+    },
+    {
+      "id": "co-ley-45-1923",
+      "title": "Ley 45 de 1923",
+      "provisions": 140
+    },
+    {
+      "id": "co-ley-45-1990",
+      "title": "Ley 45 de 1990",
+      "provisions": 99
+    },
+    {
+      "id": "co-ley-454-1998",
+      "title": "Ley 454 de 1998",
+      "provisions": 68
+    },
+    {
+      "id": "co-ley-456-1998",
+      "title": "Ley 456 de 1998",
+      "provisions": 18
+    },
+    {
+      "id": "co-ley-46-1905",
+      "title": "Ley 46 de 1905 Asamblea Nacional Constituyente",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-46-1918",
+      "title": "Ley 46 de 1918",
+      "provisions": 13
+    },
+    {
+      "id": "co-ley-46-1982",
+      "title": "Ley 46 de 1982",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-463-1998",
+      "title": "Ley 463 de 1998",
+      "provisions": 58
+    },
+    {
+      "id": "co-ley-47-1967",
+      "title": "Ley 47 de 1967",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-47-1993",
+      "title": "Ley 47 de 1993",
+      "provisions": 58
+    },
+    {
+      "id": "co-ley-472-1998",
+      "title": "Ley 472 de 1998",
+      "provisions": 87
+    },
+    {
+      "id": "co-ley-475-1998",
+      "title": "Ley 475 de 1998",
+      "provisions": 6
+    },
+    {
+      "id": "co-ley-476-1998",
+      "title": "Ley 476 de 1998",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-479-1998",
+      "title": "Ley 479 de 1998",
+      "provisions": 24
+    },
+    {
+      "id": "co-ley-48-1968",
+      "title": "Ley 48 de 1968",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-48-1983",
+      "title": "Ley 48 de 1983",
+      "provisions": 13
+    },
+    {
+      "id": "co-ley-48-1986",
+      "title": "Ley 48 de 1986",
+      "provisions": 8
+    },
+    {
+      "id": "co-ley-48-1993",
+      "title": "Ley 48 de 1993",
+      "provisions": 64
+    },
+    {
+      "id": "co-ley-480-1998",
+      "title": "Ley 480 de 1998",
+      "provisions": 33
+    },
+    {
+      "id": "co-ley-486-1998",
+      "title": "Ley 486 de 1998",
+      "provisions": 4
+    },
+    {
+      "id": "co-ley-487-1998",
+      "title": "Ley 487 de 1998",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-488-1998",
+      "title": "Ley 488 de 1998",
+      "provisions": 15
+    },
+    {
+      "id": "co-ley-489-1998",
+      "title": "Ley 489 de 1998",
+      "provisions": 121
+    },
+    {
+      "id": "co-ley-49-1983",
+      "title": "Ley 49 de 1983",
+      "provisions": 30
+    },
+    {
+      "id": "co-ley-49-1990",
+      "title": "Ley 49 de 1990",
+      "provisions": 83
+    },
+    {
+      "id": "co-ley-49-1993",
+      "title": "Ley 49 de 1993",
+      "provisions": 56
+    },
+    {
+      "id": "co-ley-490-1998",
+      "title": "Ley 490 de 1998",
+      "provisions": 15
+    },
+    {
+      "id": "co-ley-494-1999",
+      "title": "Ley 494 de 1999",
+      "provisions": 8
+    },
+    {
+      "id": "co-ley-495-1999",
+      "title": "Ley 495 de 1999",
+      "provisions": 7
+    },
+    {
+      "id": "co-ley-497-1999",
+      "title": "Ley 497 de 1999",
+      "provisions": 38
+    },
+    {
+      "id": "co-ley-5-1920",
+      "title": "Ley 5 de 1920",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-5-1942",
+      "title": "Ley 5 de 1942",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-5-1969",
+      "title": "Ley 5 de 1969",
+      "provisions": 7
+    },
+    {
+      "id": "co-ley-5-1972",
+      "title": "Ley 5 de 1972",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-5-1973",
+      "title": "Ley 5 de 1973",
+      "provisions": 52
+    },
+    {
+      "id": "co-ley-5-1975",
+      "title": "Ley 5 de 1975",
+      "provisions": 32
+    },
+    {
+      "id": "co-ley-5-1991",
+      "title": "Ley 5 de 1991",
+      "provisions": 9
+    },
+    {
+      "id": "co-ley-5-1992",
+      "title": "Ley 5 de 1992",
+      "provisions": 411
+    },
+    {
+      "id": "co-ley-50-1886",
+      "title": "Ley 50 de 1886",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-50-1981",
+      "title": "Ley 50 de 1981 Congreso de la República",
+      "provisions": 8
+    },
+    {
+      "id": "co-ley-50-1990",
+      "title": "Ley 50 de 1990",
+      "provisions": 152
+    },
+    {
+      "id": "co-ley-502-1999",
+      "title": "Ley 502 de 1999",
+      "provisions": 29
+    },
+    {
+      "id": "co-ley-504-1999",
+      "title": "Ley 504 de 1999",
+      "provisions": 53
+    },
+    {
+      "id": "co-ley-505-1999",
+      "title": "Ley 505 de 1999",
+      "provisions": 17
+    },
+    {
+      "id": "co-ley-506-1999",
+      "title": "Ley 506 de 1999",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-507-1999",
+      "title": "Ley 507 de 1999",
+      "provisions": 4
+    },
+    {
+      "id": "co-ley-508-1999",
+      "title": "Ley 508 de 1999",
+      "provisions": 160
+    },
+    {
+      "id": "co-ley-509-1999",
+      "title": "Ley 509 de 1999",
+      "provisions": 9
+    },
+    {
+      "id": "co-ley-51-1935",
+      "title": "Ley 51 de 1935",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-51-1937",
+      "title": "Ley 51 de 1937",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-51-1975",
+      "title": "Ley 51 de 1975",
+      "provisions": 15
+    },
+    {
+      "id": "co-ley-51-1981",
+      "title": "Ley 51 de 1981",
+      "provisions": 30
+    },
+    {
+      "id": "co-ley-51-1983",
+      "title": "Ley 51 de 1983",
+      "provisions": 4
+    },
+    {
+      "id": "co-ley-51-1984",
+      "title": "Ley 51 de 1984",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-51-1986",
+      "title": "Ley 51 de 1986",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-51-1989",
+      "title": "Ley 51 de 1989",
+      "provisions": 17
+    },
+    {
+      "id": "co-ley-51-1990",
+      "title": "Ley 51 de 1990",
+      "provisions": 38
+    },
+    {
+      "id": "co-ley-51-1993",
+      "title": "Ley 51 de 1993",
+      "provisions": 7
+    },
+    {
+      "id": "co-ley-510-1999",
+      "title": "Ley 510 de 1999",
+      "provisions": 126
+    },
+    {
+      "id": "co-ley-511-1999",
+      "title": "Ley 511 de 1999",
+      "provisions": 8
+    },
+    {
+      "id": "co-ley-515-1999",
+      "title": "Ley 515 de 1999",
+      "provisions": 18
+    },
+    {
+      "id": "co-ley-52-1990",
+      "title": "Ley 52 de 1990",
+      "provisions": 37
+    },
+    {
+      "id": "co-ley-52-1993",
+      "title": "Ley 52 de 1993",
+      "provisions": 45
+    },
+    {
+      "id": "co-ley-521-1999",
+      "title": "Ley 521 de 1999",
+      "provisions": 24
+    },
+    {
+      "id": "co-ley-524-1999",
+      "title": "Ley 524 de 1999",
+      "provisions": 17
+    },
+    {
+      "id": "co-ley-526-1999",
+      "title": "Ley 526 de 1999",
+      "provisions": 14
+    },
+    {
+      "id": "co-ley-527-1999",
+      "title": "Ley 527 de 1999",
+      "provisions": 47
+    },
+    {
+      "id": "co-ley-528-1999",
+      "title": "Ley 528 de 1999",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-53-1938",
+      "title": "Ley 53 de 1938",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-53-1945",
+      "title": "Ley 53 de 1945",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-53-1975",
+      "title": "Ley 53 de 1975",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-53-1977",
+      "title": "Ley 53 de 1977",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-53-1990",
+      "title": "Ley 53 de 1990",
+      "provisions": 21
+    },
+    {
+      "id": "co-ley-533-1999",
+      "title": "Ley 533 de 1999",
+      "provisions": 16
+    },
+    {
+      "id": "co-ley-537-1999",
+      "title": "Ley 537 de 1999",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-54-1987",
+      "title": "Ley 54 de 1987",
+      "provisions": 11
+    },
+    {
+      "id": "co-ley-54-1990",
+      "title": "Ley 54 de 1990",
+      "provisions": 9
+    },
+    {
+      "id": "co-ley-546-1999",
+      "title": "Ley 546 de 1999",
+      "provisions": 57
+    },
+    {
+      "id": "co-ley-548-1999",
+      "title": "Ley 548 de 1999",
+      "provisions": 5
+    },
+    {
+      "id": "co-ley-549-1999",
+      "title": "Ley 549 de 1999",
+      "provisions": 24
+    },
+    {
+      "id": "co-ley-55-1968",
+      "title": "Ley 55 de 1968",
+      "provisions": 17
+    },
+    {
+      "id": "co-ley-55-1985",
+      "title": "Ley 55 de 1985",
+      "provisions": 65
+    },
+    {
+      "id": "co-ley-55-1987",
+      "title": "Ley 55 de 1987",
+      "provisions": 4
+    },
+    {
+      "id": "co-ley-55-1993",
+      "title": "Ley 55 de 1993",
+      "provisions": 27
+    },
+    {
+      "id": "co-ley-550-1999",
+      "title": "Ley 550 de 1999",
+      "provisions": 79
+    },
+    {
+      "id": "co-ley-552-1999",
+      "title": "Ley 552 de 1999",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-555-2000",
+      "title": "Ley 555 de 2000",
+      "provisions": 20
+    },
+    {
+      "id": "co-ley-556-2000",
+      "title": "Ley 556 de 2000",
+      "provisions": 6
+    },
+    {
+      "id": "co-ley-558-2000",
+      "title": "Ley 558 de 2000",
+      "provisions": 19
+    },
+    {
+      "id": "co-ley-56-1973",
+      "title": "Ley 56 de 1973",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-56-1981",
+      "title": "Ley 56 de 1981",
+      "provisions": 36
+    },
+    {
+      "id": "co-ley-56-1985",
+      "title": "Ley 56 de 1985",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-56-1993",
+      "title": "Ley 56 de 1993",
+      "provisions": 4
+    },
+    {
+      "id": "co-ley-563-2000",
+      "title": "Ley 563 de 2000",
+      "provisions": 25
+    },
+    {
+      "id": "co-ley-565-2000",
+      "title": "Ley 565 de 2000",
+      "provisions": 28
+    },
+    {
+      "id": "co-ley-566-2000",
+      "title": "Ley LEY 566 de 2000",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-567-2000",
+      "title": "Ley 567 de 2000",
+      "provisions": 25
+    },
+    {
+      "id": "co-ley-57-1905",
+      "title": "Ley 57 de 1905",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-57-1915",
+      "title": "Ley 57 de 1915",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-57-1926",
+      "title": "Ley 57 de 1926",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-57-1964",
+      "title": "Ley 57 de 1964",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-57-1975",
+      "title": "Ley 57 de 1975",
+      "provisions": 6
+    },
+    {
+      "id": "co-ley-57-1985",
+      "title": "Ley 57 de 1985",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-57-1987",
+      "title": "Ley 57 de 1987",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-57-1989",
+      "title": "Ley 57 de 1989",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-573-2000",
+      "title": "Ley 573 de 2000",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-575-2000",
+      "title": "Ley 575 de 2000",
+      "provisions": 14
+    },
+    {
+      "id": "co-ley-576-2000",
+      "title": "Ley LEY 576 de 2000",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-58-1931",
+      "title": "Ley 58 de 1931",
+      "provisions": 47
+    },
+    {
+      "id": "co-ley-58-1982",
+      "title": "Ley 58 de 1982",
+      "provisions": 14
+    },
+    {
+      "id": "co-ley-580-2000",
+      "title": "Ley 580 de 2000",
+      "provisions": 12
+    },
+    {
+      "id": "co-ley-581-2000",
+      "title": "Ley 581 de 2000",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-582-2000",
+      "title": "Ley 582 de 2000",
+      "provisions": 10
+    },
+    {
+      "id": "co-ley-584-2000",
+      "title": "Ley 584 de 2000",
+      "provisions": 38
+    },
+    {
+      "id": "co-ley-585-2000",
+      "title": "Ley 585 de 2000",
+      "provisions": 10
+    },
+    {
+      "id": "co-ley-586-2000",
+      "title": "Ley 586 de 2000",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-589-2000",
+      "title": "Ley 589 de 2000",
+      "provisions": 29
+    },
+    {
+      "id": "co-ley-59-1967",
+      "title": "Ley 59 de 1967",
+      "provisions": 31
+    },
+    {
+      "id": "co-ley-590-2000",
+      "title": "Ley 590 de 2000",
+      "provisions": 47
+    },
+    {
+      "id": "co-ley-594-2000",
+      "title": "Ley 594 de 2000",
+      "provisions": 52
+    },
+    {
+      "id": "co-ley-598-2000",
+      "title": "Ley 598 de 2000",
+      "provisions": 7
+    },
+    {
+      "id": "co-ley-599-2000",
+      "title": "Ley 599 de 2000",
+      "provisions": 586
+    },
+    {
+      "id": "co-ley-6-1850",
+      "title": "Ley 6 de 1850",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-6-1945",
+      "title": "Ley 6 de 1945",
+      "provisions": 75
+    },
+    {
+      "id": "co-ley-6-1967",
+      "title": "Ley 6 de 1967",
+      "provisions": 5
+    },
+    {
+      "id": "co-ley-6-1982",
+      "title": "Ley 6 de 1982",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-6-1990",
+      "title": "Ley 6 de 1990",
+      "provisions": 14
+    },
+    {
+      "id": "co-ley-6-1992",
+      "title": "Ley 6 de 1992",
+      "provisions": 146
+    },
+    {
+      "id": "co-ley-60-1967",
+      "title": "Ley 60 de 1967",
+      "provisions": 5
+    },
+    {
+      "id": "co-ley-60-1968",
+      "title": "Ley 60 de 1968",
+      "provisions": 25
+    },
+    {
+      "id": "co-ley-60-1981",
+      "title": "Ley 60 de 1981",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-60-1982",
+      "title": "Ley 60 de 1982",
+      "provisions": 16
+    },
+    {
+      "id": "co-ley-60-1983",
+      "title": "Ley 60 de 1983",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-60-1990",
+      "title": "Ley 60 de 1990",
+      "provisions": 4
+    },
+    {
+      "id": "co-ley-60-1993",
+      "title": "Ley 60 de 1993",
+      "provisions": 43
+    },
+    {
+      "id": "co-ley-600-2000",
+      "title": "Ley 600 de 2000",
+      "provisions": 536
+    },
+    {
+      "id": "co-ley-601-2000",
+      "title": "Ley 601 de 2000",
+      "provisions": 8
+    },
+    {
+      "id": "co-ley-603-2000",
+      "title": "Ley 603 de 2000",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-607-2000",
+      "title": "Ley 607 de 2000",
+      "provisions": 21
+    },
+    {
+      "id": "co-ley-61-1910",
+      "title": "Ley 61 de 1910",
+      "provisions": 4
+    },
+    {
+      "id": "co-ley-61-1936",
+      "title": "Ley 61 de 1936",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-61-1979",
+      "title": "Ley 61 de 1979",
+      "provisions": 9
+    },
+    {
+      "id": "co-ley-61-1985",
+      "title": "Ley 61 de 1985",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-61-1987",
+      "title": "Ley 61 de 1987",
+      "provisions": 12
+    },
+    {
+      "id": "co-ley-61-1990",
+      "title": "Ley 61 de 1990",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-61-1993",
+      "title": "Ley 61 de 1993",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-610-2000",
+      "title": "Ley 610 de 2000",
+      "provisions": 69
+    },
+    {
+      "id": "co-ley-611-2000",
+      "title": "Ley 611 de 2000",
+      "provisions": 28
+    },
+    {
+      "id": "co-ley-614-2000",
+      "title": "Ley 614 de 2000",
+      "provisions": 8
+    },
+    {
+      "id": "co-ley-616-2000",
+      "title": "Ley 616 de 2000",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-617-2000",
+      "title": "Ley 617 de 2000",
+      "provisions": 96
+    },
+    {
+      "id": "co-ley-62-1928",
+      "title": "Ley 62 de 1928",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-62-1983",
+      "title": "Ley 62 de 1983",
+      "provisions": 11
+    },
+    {
+      "id": "co-ley-62-1985",
+      "title": "Ley 62 de 1985",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-62-1988",
+      "title": "Ley 62 de 1988",
+      "provisions": 25
+    },
+    {
+      "id": "co-ley-62-1989",
+      "title": "Ley 62 de 1989",
+      "provisions": 15
+    },
+    {
+      "id": "co-ley-62-1993",
+      "title": "Ley 62 de 1993",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-63-1923",
+      "title": "Ley 63 de 1923",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-63-1938",
+      "title": "Ley 63 de 1938",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-63-1967",
+      "title": "Ley 63 de 1967",
+      "provisions": 38
+    },
+    {
+      "id": "co-ley-632-2000",
+      "title": "Ley 632 de 2000",
+      "provisions": 10
+    },
+    {
+      "id": "co-ley-633-2000",
+      "title": "Ley 633 de 2000",
+      "provisions": 146
+    },
+    {
+      "id": "co-ley-64-1923",
+      "title": "Ley 64 de 1923",
+      "provisions": 11
+    },
+    {
+      "id": "co-ley-64-1946",
+      "title": "Ley 64 de 1946",
+      "provisions": 22
+    },
+    {
+      "id": "co-ley-64-1978",
+      "title": "Ley 64 de 1978",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-64-1993",
+      "title": "Ley 64 de 1993",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-640-2001",
+      "title": "Ley 640 de 2001",
+      "provisions": 50
+    },
+    {
+      "id": "co-ley-643-2001",
+      "title": "Ley 643 de 2001",
+      "provisions": 61
+    },
+    {
+      "id": "co-ley-644-2001",
+      "title": "Ley 644 de 2001",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-647-2001",
+      "title": "Ley 647 de 2001",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-648-2001",
+      "title": "Ley 648 de 2001",
+      "provisions": 10
+    },
+    {
+      "id": "co-ley-649-2001",
+      "title": "Ley 649 de 2001",
+      "provisions": 14
+    },
+    {
+      "id": "co-ley-65-1909",
+      "title": "Ley 65 de 1909",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-65-1939",
+      "title": "Ley 65 de 1939",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-65-1946",
+      "title": "Ley 65 de 1946",
+      "provisions": 10
+    },
+    {
+      "id": "co-ley-65-1966",
+      "title": "Ley 65 de 1966",
+      "provisions": 21
+    },
+    {
+      "id": "co-ley-65-1988",
+      "title": "Ley 65 de 1988",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-65-1993",
+      "title": "Ley 65 de 1993",
+      "provisions": 191
+    },
+    {
+      "id": "co-ley-657-2001",
+      "title": "Ley 657 de 2001",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-66-1867",
+      "title": "Ley 66 de 1867",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-66-1942",
+      "title": "Ley 66 de 1942",
+      "provisions": 9
+    },
+    {
+      "id": "co-ley-66-1964",
+      "title": "Ley 66 de 1964",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-66-1968",
+      "title": "Ley 66 de 1968",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-66-1993",
+      "title": "Ley 66 de 1993",
+      "provisions": 11
+    },
+    {
+      "id": "co-ley-666-2001",
+      "title": "Ley 666 de 2001",
+      "provisions": 8
+    },
+    {
+      "id": "co-ley-668-2001",
+      "title": "Ley 668 de 2001",
+      "provisions": 5
+    },
+    {
+      "id": "co-ley-67-1935",
+      "title": "Ley 67 de 1935",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-670-2001",
+      "title": "Ley 670 de 2001",
+      "provisions": 17
+    },
+    {
+      "id": "co-ley-671-2001",
+      "title": "Ley 671 de 2001",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-676-2001",
+      "title": "Ley 676 de 2001",
+      "provisions": 30
+    },
+    {
+      "id": "co-ley-677-2001",
+      "title": "Ley 677 de 2001",
+      "provisions": 30
+    },
+    {
+      "id": "co-ley-678-2001",
+      "title": "Ley 678 de 2001",
+      "provisions": 32
+    },
+    {
+      "id": "co-ley-679-2001",
+      "title": "Ley 679 de 2001",
+      "provisions": 41
+    },
+    {
+      "id": "co-ley-680-2001",
+      "title": "Ley 680 de 2001",
+      "provisions": 15
+    },
+    {
+      "id": "co-ley-685-2001",
+      "title": "Ley 685 de 2001",
+      "provisions": 361
+    },
+    {
+      "id": "co-ley-687-2001",
+      "title": "Ley 687 de 2001",
+      "provisions": 9
+    },
+    {
+      "id": "co-ley-688-2001",
+      "title": "Ley 688 de 2001",
+      "provisions": 25
+    },
+    {
+      "id": "co-ley-689-2001",
+      "title": "Ley 689 de 2001",
+      "provisions": 26
+    },
+    {
+      "id": "co-ley-69-1909",
+      "title": "Ley 69 de 1909",
+      "provisions": 16
+    },
+    {
+      "id": "co-ley-69-1945",
+      "title": "Ley 69 de 1945",
+      "provisions": 19
+    },
+    {
+      "id": "co-ley-69-1988",
+      "title": "Ley 69 de 1988",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-69-1993",
+      "title": "Ley 69 de 1993",
+      "provisions": 17
+    },
+    {
+      "id": "co-ley-691-2001",
+      "title": "Ley 691 de 2001",
+      "provisions": 31
+    },
+    {
+      "id": "co-ley-693-2001",
+      "title": "Ley 693 de 2001",
+      "provisions": 4
+    },
+    {
+      "id": "co-ley-694-2001",
+      "title": "Ley 694 de 2001",
+      "provisions": 6
+    },
+    {
+      "id": "co-ley-696-2001",
+      "title": "Ley 696 de 2001",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-697-2001",
+      "title": "Ley 697 de 2001",
+      "provisions": 11
+    },
+    {
+      "id": "co-ley-7-1886",
+      "title": "Ley 7 de 1886",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-7-1943",
+      "title": "Ley 7 de 1943",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-7-1944",
+      "title": "Ley 7 de 1944",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-7-1973",
+      "title": "Ley 7 de 1973",
+      "provisions": 26
+    },
+    {
+      "id": "co-ley-7-1974",
+      "title": "Ley 7 de 1974",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-7-1979",
+      "title": "Ley 7 de 1979",
+      "provisions": 49
+    },
+    {
+      "id": "co-ley-7-1990",
+      "title": "Ley 7 de 1990",
+      "provisions": 22
+    },
+    {
+      "id": "co-ley-7-1991",
+      "title": "Ley 7 de 1991",
+      "provisions": 30
+    },
+    {
+      "id": "co-ley-70-1931",
+      "title": "Ley 70 de 1931",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-70-1986",
+      "title": "Ley 70 de 1986",
+      "provisions": 33
+    },
+    {
+      "id": "co-ley-70-1988",
+      "title": "Ley 70 de 1988",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-70-1993",
+      "title": "Ley 70 de 1993",
+      "provisions": 68
+    },
+    {
+      "id": "co-ley-700-2001",
+      "title": "Ley 700 de 2001",
+      "provisions": 6
+    },
+    {
+      "id": "co-ley-704-2001",
+      "title": "Ley 704 de 2001",
+      "provisions": 19
+    },
+    {
+      "id": "co-ley-708-2001",
+      "title": "Ley 708 de 2001",
+      "provisions": 15
+    },
+    {
+      "id": "co-ley-71-1916",
+      "title": "Ley 71 de 1916",
+      "provisions": 4
+    },
+    {
+      "id": "co-ley-71-1945",
+      "title": "Ley 71 de 1945",
+      "provisions": 13
+    },
+    {
+      "id": "co-ley-71-1988",
+      "title": "Ley 71 de 1988",
+      "provisions": 13
+    },
+    {
+      "id": "co-ley-711-2001",
+      "title": "Ley 711 de 2001",
+      "provisions": 20
+    },
+    {
+      "id": "co-ley-712-2001",
+      "title": "Ley 712 de 2001",
+      "provisions": 56
+    },
+    {
+      "id": "co-ley-715-2001",
+      "title": "Ley 715 de 2001",
+      "provisions": 114
+    },
+    {
+      "id": "co-ley-716-2001",
+      "title": "Ley 716 de 2001",
+      "provisions": 22
+    },
+    {
+      "id": "co-ley-717-2001",
+      "title": "Ley 717 de 2001",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-72-1926",
+      "title": "Ley 72 de 1926",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-72-1989",
+      "title": "Ley 72 de 1989",
+      "provisions": 17
+    },
+    {
+      "id": "co-ley-72-1993",
+      "title": "Ley 72 de 1993",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-720-2001",
+      "title": "Ley 720 de 2001",
+      "provisions": 12
+    },
+    {
+      "id": "co-ley-721-2001",
+      "title": "Ley 721 de 2001",
+      "provisions": 12
+    },
+    {
+      "id": "co-ley-724-2001",
+      "title": "Ley 724 de 2001",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-725-2001",
+      "title": "Ley 725 de 2001",
+      "provisions": 4
+    },
+    {
+      "id": "co-ley-729-2001",
+      "title": "Ley 729 de 2001",
+      "provisions": 11
+    },
+    {
+      "id": "co-ley-73-1930",
+      "title": "Ley 73 de 1930",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-73-1966",
+      "title": "Ley 73 de 1966",
+      "provisions": 13
+    },
+    {
+      "id": "co-ley-73-1979",
+      "title": "Ley 73 de 1979",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-73-1981",
+      "title": "Ley 73 de 1981",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-73-1985",
+      "title": "Ley 73 de 1985",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-73-1988",
+      "title": "Ley 73 de 1988",
+      "provisions": 10
+    },
+    {
+      "id": "co-ley-731-2002",
+      "title": "Ley 731 de 2002",
+      "provisions": 41
+    },
+    {
+      "id": "co-ley-732-2002",
+      "title": "Ley 732 de 2002",
+      "provisions": 7
+    },
+    {
+      "id": "co-ley-733-2002",
+      "title": "Ley 733 de 2002",
+      "provisions": 15
+    },
+    {
+      "id": "co-ley-734-2002",
+      "title": "Ley 734 de 2002",
+      "provisions": 225
+    },
+    {
+      "id": "co-ley-735-2002",
+      "title": "Ley 735 de 2002",
+      "provisions": 5
+    },
+    {
+      "id": "co-ley-74-1966",
+      "title": "Ley 74 de 1966",
+      "provisions": 22
+    },
+    {
+      "id": "co-ley-741-2002",
+      "title": "Ley 741 de 2002",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-742-2002",
+      "title": "Ley 742 de 2002",
+      "provisions": 128
+    },
+    {
+      "id": "co-ley-743-2002",
+      "title": "Ley 743 de 2002",
+      "provisions": 78
+    },
+    {
+      "id": "co-ley-745-2002",
+      "title": "Ley 745 de 2002",
+      "provisions": 9
+    },
+    {
+      "id": "co-ley-746-2002",
+      "title": "Ley 746 de 2002",
+      "provisions": 7
+    },
+    {
+      "id": "co-ley-747-2002",
+      "title": "Ley 747 de 2002",
+      "provisions": 11
+    },
+    {
+      "id": "co-ley-749-2002",
+      "title": "Ley 749 de 2002",
+      "provisions": 20
+    },
+    {
+      "id": "co-ley-75-1925",
+      "title": "Ley 75 de 1925",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-75-1968",
+      "title": "Ley 75 de 1968",
+      "provisions": 67
+    },
+    {
+      "id": "co-ley-75-1986",
+      "title": "Ley 75 de 1986",
+      "provisions": 108
+    },
+    {
+      "id": "co-ley-750-2002",
+      "title": "Ley 750 de 2002",
+      "provisions": 4
+    },
+    {
+      "id": "co-ley-753-2002",
+      "title": "Ley 753 de 2002",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-754-2002",
+      "title": "Ley 754 de 2002",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-755-2002",
+      "title": "Ley 755 de 2002",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-756-2002",
+      "title": "Ley 756 de 2002",
+      "provisions": 44
+    },
+    {
+      "id": "co-ley-757-2002",
+      "title": "Ley 757 de 2002",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-758-2002",
+      "title": "Ley 758 de 2002",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-759-2002",
+      "title": "Ley 759 de 2002",
+      "provisions": 20
+    },
+    {
+      "id": "co-ley-76-1914",
+      "title": "Ley 76 de 1914",
+      "provisions": 29
+    },
+    {
+      "id": "co-ley-76-1985",
+      "title": "Ley 76 de 1985",
+      "provisions": 18
+    },
+    {
+      "id": "co-ley-76-1993",
+      "title": "Ley 76 de 1993",
+      "provisions": 5
+    },
+    {
+      "id": "co-ley-762-2002",
+      "title": "Ley 762 de 2002",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-764-2002",
+      "title": "Ley 764 de 2002",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-765-2002",
+      "title": "Ley 765 de 2002",
+      "provisions": 17
+    },
+    {
+      "id": "co-ley-766-2002",
+      "title": "Ley 766 de 2002",
+      "provisions": 19
+    },
+    {
+      "id": "co-ley-768-2002",
+      "title": "Ley 768 de 2002",
+      "provisions": 49
+    },
+    {
+      "id": "co-ley-769-2002",
+      "title": "Ley 769 de 2002",
+      "provisions": 175
+    },
+    {
+      "id": "co-ley-771-2002",
+      "title": "Ley 771 de 2002",
+      "provisions": 4
+    },
+    {
+      "id": "co-ley-772-2002",
+      "title": "Ley 772 de 2002",
+      "provisions": 4
+    },
+    {
+      "id": "co-ley-776-2002",
+      "title": "Ley 776 de 2002",
+      "provisions": 22
+    },
+    {
+      "id": "co-ley-777-2002",
+      "title": "Ley 777 de 2002",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-78-1931",
+      "title": "Ley 78 de 1931",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-78-1935",
+      "title": "Ley 78 de 1935",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-78-1986",
+      "title": "Ley 78 de 1986",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-78-1993",
+      "title": "Ley 78 de 1993",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-781-2002",
+      "title": "Ley 781 de 2002",
+      "provisions": 16
+    },
+    {
+      "id": "co-ley-782-2002",
+      "title": "Ley 782 de 2002",
+      "provisions": 67
+    },
+    {
+      "id": "co-ley-785-2002",
+      "title": "Ley 785 de 2002",
+      "provisions": 15
+    },
+    {
+      "id": "co-ley-786-2002",
+      "title": "Ley 786 de 2002",
+      "provisions": 9
+    },
+    {
+      "id": "co-ley-787-2002",
+      "title": "Ley 787 de 2002",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-788-2002",
+      "title": "Ley 788 de 2002",
+      "provisions": 134
+    },
+    {
+      "id": "co-ley-789-2002",
+      "title": "Ley 789 de 2002",
+      "provisions": 54
+    },
+    {
+      "id": "co-ley-79-1926",
+      "title": "Ley 79 de 1926",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-79-1986",
+      "title": "Ley 79 de 1986",
+      "provisions": 8
+    },
+    {
+      "id": "co-ley-79-1988",
+      "title": "Ley 79 de 1988",
+      "provisions": 161
+    },
+    {
+      "id": "co-ley-79-1993",
+      "title": "Ley 79 de 1993",
+      "provisions": 8
+    },
+    {
+      "id": "co-ley-790-2002",
+      "title": "Ley 790 de 2002",
+      "provisions": 22
+    },
+    {
+      "id": "co-ley-791-2002",
+      "title": "Ley 791 de 2002",
+      "provisions": 13
+    },
+    {
+      "id": "co-ley-793-2002",
+      "title": "Ley 793 de 2002",
+      "provisions": 24
+    },
+    {
+      "id": "co-ley-794-2003",
+      "title": "Ley 794 de 2003",
+      "provisions": 85
+    },
+    {
+      "id": "co-ley-795-2003",
+      "title": "Ley 795 de 2003",
+      "provisions": 134
+    },
+    {
+      "id": "co-ley-796-2003",
+      "title": "Ley 796 de 2003",
+      "provisions": 11
+    },
+    {
+      "id": "co-ley-797-2003",
+      "title": "Ley 797 de 2003",
+      "provisions": 30
+    },
+    {
+      "id": "co-ley-8-1850",
+      "title": "Ley 8 de 1850",
+      "provisions": 11
+    },
+    {
+      "id": "co-ley-8-1969",
+      "title": "Ley 8 de 1969",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-8-1981",
+      "title": "Ley 8 de 1981",
+      "provisions": 4
+    },
+    {
+      "id": "co-ley-8-1991",
+      "title": "Ley 8 de 1991",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-80-1946",
+      "title": "Ley 80 de 1946",
+      "provisions": 34
+    },
+    {
+      "id": "co-ley-80-1968",
+      "title": "Ley 80 de 1968",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-80-1988",
+      "title": "Ley 80 de 1988",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-80-1989",
+      "title": "Ley 80 de 1989",
+      "provisions": 12
+    },
+    {
+      "id": "co-ley-80-1993",
+      "title": "Ley 80 de 1993",
+      "provisions": 88
+    },
+    {
+      "id": "co-ley-800-2003",
+      "title": "Ley 800 de 2003",
+      "provisions": 41
+    },
+    {
+      "id": "co-ley-804-2003",
+      "title": "Ley 804 de 2003",
+      "provisions": 24
+    },
+    {
+      "id": "co-ley-805-2003",
+      "title": "Ley 805 de 2003",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-808-2003",
+      "title": "Ley 808 de 2003",
+      "provisions": 28
+    },
+    {
+      "id": "co-ley-809-2003",
+      "title": "Ley 809 de 2003",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-81-1928",
+      "title": "Ley 81 de 1928",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-81-1988",
+      "title": "Ley 81 de 1988",
+      "provisions": 65
+    },
+    {
+      "id": "co-ley-810-2003",
+      "title": "Ley 810 de 2003",
+      "provisions": 20
+    },
+    {
+      "id": "co-ley-812-2003",
+      "title": "Ley 812 de 2003",
+      "provisions": 135
+    },
+    {
+      "id": "co-ley-813-2003",
+      "title": "Ley 813 de 2003",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-814-2003",
+      "title": "Ley 814 de 2003",
+      "provisions": 22
+    },
+    {
+      "id": "co-ley-815-2003",
+      "title": "Ley 815 de 2003",
+      "provisions": 4
+    },
+    {
+      "id": "co-ley-816-2003",
+      "title": "Ley 816 de 2003",
+      "provisions": 5
+    },
+    {
+      "id": "co-ley-819-2003",
+      "title": "Ley 819 de 2003",
+      "provisions": 28
+    },
+    {
+      "id": "co-ley-82-1912",
+      "title": "Ley 82 de 1912",
+      "provisions": 20
+    },
+    {
+      "id": "co-ley-82-1931",
+      "title": "Ley 82 de 1931",
+      "provisions": 19
+    },
+    {
+      "id": "co-ley-82-1988",
+      "title": "Ley 82 de 1988",
+      "provisions": 17
+    },
+    {
+      "id": "co-ley-82-1993",
+      "title": "Ley 82 de 1993",
+      "provisions": 23
+    },
+    {
+      "id": "co-ley-820-2003",
+      "title": "Ley 820 de 2003",
+      "provisions": 43
+    },
+    {
+      "id": "co-ley-821-2003",
+      "title": "Ley 821 de 2003",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-823-2003",
+      "title": "Ley 823 de 2003",
+      "provisions": 14
+    },
+    {
+      "id": "co-ley-824-2003",
+      "title": "Ley 824 de 2003",
+      "provisions": 59
+    },
+    {
+      "id": "co-ley-825-2003",
+      "title": "Ley 825 de 2003",
+      "provisions": 34
+    },
+    {
+      "id": "co-ley-827-2003",
+      "title": "Ley 827 de 2003",
+      "provisions": 6
+    },
+    {
+      "id": "co-ley-828-2003",
+      "title": "Ley 828 de 2003",
+      "provisions": 11
+    },
+    {
+      "id": "co-ley-83-1914",
+      "title": "Ley 83 de 1914",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-83-1931",
+      "title": "Ley 83 de 1931",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-83-1947",
+      "title": "Ley 83 de 1947",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-833-2003",
+      "title": "Ley 833 de 2003",
+      "provisions": 13
+    },
+    {
+      "id": "co-ley-836-2003",
+      "title": "Ley 836 de 2003",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-837-2003",
+      "title": "Ley 837 de 2003",
+      "provisions": 24
+    },
+    {
+      "id": "co-ley-84-1948",
+      "title": "Ley 84 de 1948",
+      "provisions": 5
+    },
+    {
+      "id": "co-ley-84-1989",
+      "title": "Ley 84 de 1989",
+      "provisions": 61
+    },
+    {
+      "id": "co-ley-84-1993",
+      "title": "Ley 84 de 1993",
+      "provisions": 25
+    },
+    {
+      "id": "co-ley-841-2003",
+      "title": "Ley 841 de 2003",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-842-2003",
+      "title": "Ley 842 de 2003",
+      "provisions": 78
+    },
+    {
+      "id": "co-ley-848-2003",
+      "title": "Ley 848 de 2003",
+      "provisions": 75
+    },
+    {
+      "id": "co-ley-85-1922",
+      "title": "Ley 85 de 1922",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-85-1981",
+      "title": "Ley 85 de 1981",
+      "provisions": 47
+    },
+    {
+      "id": "co-ley-850-2003",
+      "title": "Ley 850 de 2003",
+      "provisions": 24
+    },
+    {
+      "id": "co-ley-854-2003",
+      "title": "Ley 854 de 2003",
+      "provisions": 4
+    },
+    {
+      "id": "co-ley-856-2003",
+      "title": "Ley 856 de 2003",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-858-2003",
+      "title": "Ley 858 de 2003",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-859-2003",
+      "title": "Ley 859 de 2003",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-86-1928",
+      "title": "Ley 86 de 1928",
+      "provisions": 30
+    },
+    {
+      "id": "co-ley-86-1989",
+      "title": "Ley 86 de 1989",
+      "provisions": 15
+    },
+    {
+      "id": "co-ley-860-2003",
+      "title": "Ley 860 de 2003",
+      "provisions": 6
+    },
+    {
+      "id": "co-ley-861-2003",
+      "title": "Ley 861 de 2003",
+      "provisions": 6
+    },
+    {
+      "id": "co-ley-863-2003",
+      "title": "Ley 863 de 2003",
+      "provisions": 79
+    },
+    {
+      "id": "co-ley-864-2003",
+      "title": "Ley 864 de 2003",
+      "provisions": 22
+    },
+    {
+      "id": "co-ley-868-2003",
+      "title": "Ley 868 de 2003",
+      "provisions": 9
+    },
+    {
+      "id": "co-ley-87-1993",
+      "title": "Ley 87 de 1993",
+      "provisions": 16
+    },
+    {
+      "id": "co-ley-872-2003",
+      "title": "Ley 872 de 2003",
+      "provisions": 9
+    },
+    {
+      "id": "co-ley-873-2004",
+      "title": "Ley 873 de 2004",
+      "provisions": 60
+    },
+    {
+      "id": "co-ley-874-2004",
+      "title": "Ley 874 de 2004",
+      "provisions": 24
+    },
+    {
+      "id": "co-ley-876-2004",
+      "title": "Ley 876 de 2004",
+      "provisions": 4
+    },
+    {
+      "id": "co-ley-877-2004",
+      "title": "Ley 877 de 2004",
+      "provisions": 33
+    },
+    {
+      "id": "co-ley-878-2004",
+      "title": "Ley 878 de 2004",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-879-2004",
+      "title": "Ley 879 de 2004",
+      "provisions": 17
+    },
+    {
+      "id": "co-ley-88-1923",
+      "title": "Ley 88 de 1923",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-88-1928",
+      "title": "Ley 88 de 1928",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-88-1947",
+      "title": "Ley 88 de 1947",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-880-2004",
+      "title": "Ley 880 de 2004",
+      "provisions": 42
+    },
+    {
+      "id": "co-ley-881-2004",
+      "title": "Ley 881 de 2004",
+      "provisions": 8
+    },
+    {
+      "id": "co-ley-882-2004",
+      "title": "Ley 882 de 2004",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-887-2004",
+      "title": "Ley 887 de 2004",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-888-2004",
+      "title": "Ley 888 de 2004",
+      "provisions": 4
+    },
+    {
+      "id": "co-ley-89-1890",
+      "title": "Ley 89 de 1890",
+      "provisions": 37
+    },
+    {
+      "id": "co-ley-89-1959",
+      "title": "Ley 89 de 1959",
+      "provisions": 5
+    },
+    {
+      "id": "co-ley-89-1988",
+      "title": "Ley 89 de 1988",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-89-1993",
+      "title": "Ley 89 de 1993",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-890-2004",
+      "title": "Ley 890 de 2004",
+      "provisions": 19
+    },
+    {
+      "id": "co-ley-892-2004",
+      "title": "Ley 892 de 2004",
+      "provisions": 4
+    },
+    {
+      "id": "co-ley-9-1930",
+      "title": "Ley 9 de 1930",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-9-1974",
+      "title": "Ley 9 de 1974",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-9-1976",
+      "title": "Ley 9 de 1976",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-9-1979",
+      "title": "Ley 9 de 1979",
+      "provisions": 607
+    },
+    {
+      "id": "co-ley-9-1981",
+      "title": "Ley 9 de 1981",
+      "provisions": 8
+    },
+    {
+      "id": "co-ley-9-1984",
+      "title": "Ley 9 de 1984",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-9-1989",
+      "title": "Ley 9 de 1989",
+      "provisions": 125
+    },
+    {
+      "id": "co-ley-9-1991",
+      "title": "Ley 9 de 1991",
+      "provisions": 35
+    },
+    {
+      "id": "co-ley-901-2004",
+      "title": "Ley 901 de 2004",
+      "provisions": 10
+    },
+    {
+      "id": "co-ley-902-2004",
+      "title": "Ley 902 de 2004",
+      "provisions": 5
+    },
+    {
+      "id": "co-ley-903-2004",
+      "title": "Ley 903 de 2004",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-904-2004",
+      "title": "Ley 904 de 2004",
+      "provisions": 7
+    },
+    {
+      "id": "co-ley-905-2004",
+      "title": "Ley 905 de 2004",
+      "provisions": 32
+    },
+    {
+      "id": "co-ley-906-2004",
+      "title": "Ley 906 de 2004",
+      "provisions": 582
+    },
+    {
+      "id": "co-ley-909-2004",
+      "title": "Ley 909 de 2004",
+      "provisions": 58
+    },
+    {
+      "id": "co-ley-91-1989",
+      "title": "Ley 91 de 1989",
+      "provisions": 18
+    },
+    {
+      "id": "co-ley-91-1993",
+      "title": "Ley 91 de 1993",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-912-2004",
+      "title": "Ley 912 de 2004",
+      "provisions": 4
+    },
+    {
+      "id": "co-ley-916-2004",
+      "title": "Ley 916 de 2004",
+      "provisions": 87
+    },
+    {
+      "id": "co-ley-919-2004",
+      "title": "Ley 919 de 2004",
+      "provisions": 4
+    },
+    {
+      "id": "co-ley-920-2004",
+      "title": "Ley 920 de 2004",
+      "provisions": 5
+    },
+    {
+      "id": "co-ley-921-2004",
+      "title": "Ley 921 de 2004",
+      "provisions": 71
+    },
+    {
+      "id": "co-ley-922-2004",
+      "title": "Ley 922 de 2004",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-923-2004",
+      "title": "Ley 923 de 2004",
+      "provisions": 7
+    },
+    {
+      "id": "co-ley-924-2004",
+      "title": "Ley 924 de 2004",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-926-2004",
+      "title": "Ley 926 de 2004",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-929-2004",
+      "title": "Ley 929 de 2004",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-93-1946",
+      "title": "Ley 93 de 1946",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-931-2004",
+      "title": "Ley 931 de 2004",
+      "provisions": 6
+    },
+    {
+      "id": "co-ley-932-2004",
+      "title": "Ley 932 de 2004",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-934-2004",
+      "title": "Ley 934 de 2004",
+      "provisions": 9
+    },
+    {
+      "id": "co-ley-937-2004",
+      "title": "Ley 937 de 2004",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-938-2004",
+      "title": "Ley 938 de 2004",
+      "provisions": 79
+    },
+    {
+      "id": "co-ley-939-2004",
+      "title": "Ley 939 de 2004",
+      "provisions": 10
+    },
+    {
+      "id": "co-ley-94-1937",
+      "title": "Ley 94 de 1937",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-941-2005",
+      "title": "Ley 941 de 2005",
+      "provisions": 58
+    },
+    {
+      "id": "co-ley-95-1890",
+      "title": "Ley 95 de 1890",
+      "provisions": 41
+    },
+    {
+      "id": "co-ley-951-2005",
+      "title": "Ley 951 de 2005",
+      "provisions": 17
+    },
+    {
+      "id": "co-ley-952-2005",
+      "title": "Ley 952 de 2005",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-954-2005",
+      "title": "Ley 954 de 2005",
+      "provisions": 7
+    },
+    {
+      "id": "co-ley-96-1938",
+      "title": "Ley 96 de 1938",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-96-1985",
+      "title": "Ley 96 de 1985",
+      "provisions": 73
+    },
+    {
+      "id": "co-ley-961-2005",
+      "title": "Ley 961 de 2005",
+      "provisions": 6
+    },
+    {
+      "id": "co-ley-962-2005",
+      "title": "Ley 962 de 2005",
+      "provisions": 86
+    },
+    {
+      "id": "co-ley-963-2005",
+      "title": "Ley 963 de 2005",
+      "provisions": 12
+    },
+    {
+      "id": "co-ley-964-2005",
+      "title": "Ley 964 de 2005",
+      "provisions": 86
+    },
+    {
+      "id": "co-ley-97-1913",
+      "title": "Ley 97 de 1913",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-970-2005",
+      "title": "Ley 970 de 2005",
+      "provisions": 71
+    },
+    {
+      "id": "co-ley-972-2005",
+      "title": "Ley 972 de 2005",
+      "provisions": 7
+    },
+    {
+      "id": "co-ley-973-2005",
+      "title": "Ley 973 de 2005",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-974-2005",
+      "title": "Ley 974 de 2005",
+      "provisions": 21
+    },
+    {
+      "id": "co-ley-975-2005",
+      "title": "Ley 975 de 2005",
+      "provisions": 88
+    },
+    {
+      "id": "co-ley-979-2005",
+      "title": "Ley 979 de 2005",
+      "provisions": 6
+    },
+    {
+      "id": "co-ley-98-1993",
+      "title": "Ley 98 de 1993",
+      "provisions": 36
+    },
+    {
+      "id": "co-ley-981-2005",
+      "title": "Ley 981 de 2005",
+      "provisions": 12
+    },
+    {
+      "id": "co-ley-982-2005",
+      "title": "Ley 982 de 2005",
+      "provisions": 47
+    },
+    {
+      "id": "co-ley-984-2005",
+      "title": "Ley 984 de 2005",
+      "provisions": 21
+    },
+    {
+      "id": "co-ley-985-2005",
+      "title": "Ley 985 de 2005",
+      "provisions": 23
+    },
+    {
+      "id": "co-ley-986-2005",
+      "title": "Ley 986 de 2005",
+      "provisions": 28
+    },
+    {
+      "id": "co-ley-987-2005",
+      "title": "Ley 987 de 2005",
+      "provisions": 15
+    },
+    {
+      "id": "co-ley-99-1922",
+      "title": "Ley 99 de 1922",
+      "provisions": 1
+    },
+    {
+      "id": "co-ley-99-1993",
+      "title": "Ley 99 de 1993",
+      "provisions": 118
+    },
+    {
+      "id": "co-ley-990-2005",
+      "title": "Ley 990 de 2005",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-995-2005",
+      "title": "Ley 995 de 2005",
+      "provisions": 2
+    },
+    {
+      "id": "co-ley-996-2005",
+      "title": "Ley 996 de 2005",
+      "provisions": 42
+    },
+    {
+      "id": "co-ley-997-2005",
+      "title": "Ley 997 de 2005",
+      "provisions": 3
+    },
+    {
+      "id": "co-ley-998-2005",
+      "title": "Ley 998 de 2005",
+      "provisions": 80
+    },
+    {
+      "id": "co-ley-999-2005",
+      "title": "Ley 999 de 2005",
+      "provisions": 2
+    }
+  ]
+}

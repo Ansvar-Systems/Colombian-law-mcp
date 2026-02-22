@@ -1,25 +1,30 @@
 /**
  * Golden contract tests for Colombian Law MCP.
  * Validates core tool functionality against seed data.
+ *
+ * Skipped automatically when data/database.db is absent (CI without DB).
  */
 
 import { describe, it, expect, beforeAll } from 'vitest';
 import Database from 'better-sqlite3';
+import * as fs from 'fs';
 import * as path from 'path';
 import { fileURLToPath } from 'url';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const DB_PATH = path.resolve(__dirname, '../../data/database.db');
+const DB_EXISTS = fs.existsSync(DB_PATH);
 
 let db: InstanceType<typeof Database>;
 
 beforeAll(() => {
+  if (!DB_EXISTS) return;
   db = new Database(DB_PATH, { readonly: true });
   db.pragma('journal_mode = DELETE');
 });
 
-describe('Database integrity', () => {
+describe.skipIf(!DB_EXISTS)('Database integrity', () => {
   it('should have full law corpus (1663 legal documents)', () => {
     const row = db.prepare(
       "SELECT COUNT(*) as cnt FROM legal_documents WHERE id != 'eu-cross-references'"
@@ -40,7 +45,7 @@ describe('Database integrity', () => {
   });
 });
 
-describe('Article retrieval', () => {
+describe.skipIf(!DB_EXISTS)('Article retrieval', () => {
   it('should retrieve a provision by document_id and section', () => {
     const row = db.prepare(
       "SELECT content FROM legal_provisions WHERE document_id = 'co-ley-1581-2012' AND section = '1'"
@@ -50,7 +55,7 @@ describe('Article retrieval', () => {
   });
 });
 
-describe('Search', () => {
+describe.skipIf(!DB_EXISTS)('Search', () => {
   it('should find results via FTS search', () => {
     const rows = db.prepare(
       "SELECT COUNT(*) as cnt FROM provisions_fts WHERE provisions_fts MATCH 'data'"
@@ -59,7 +64,7 @@ describe('Search', () => {
   });
 });
 
-describe('Negative tests', () => {
+describe.skipIf(!DB_EXISTS)('Negative tests', () => {
   it('should return no results for fictional document', () => {
     const row = db.prepare(
       "SELECT COUNT(*) as cnt FROM legal_provisions WHERE document_id = 'fictional-law-2099'"
@@ -75,7 +80,7 @@ describe('Negative tests', () => {
   });
 });
 
-describe('Key laws are present', () => {
+describe.skipIf(!DB_EXISTS)('Key laws are present', () => {
   const expectedDocs = [
     'co-ley-1581-2012',
     'co-ley-1266-2008',
@@ -100,7 +105,7 @@ describe('Key laws are present', () => {
   }
 });
 
-describe('list_sources', () => {
+describe.skipIf(!DB_EXISTS)('list_sources', () => {
   it('should have db_metadata table', () => {
     const row = db.prepare('SELECT COUNT(*) as cnt FROM db_metadata').get() as { cnt: number };
     expect(row.cnt).toBeGreaterThan(0);
