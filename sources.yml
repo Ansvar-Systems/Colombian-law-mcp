@@ -14,7 +14,7 @@ sources:
       summary: "Legislation is publicly accessible on a government portal; portal terms apply."
     coverage:
       scope: "Cobertura completa de leyes nacionales listadas por Gestor Normativo bajo tipdoc=18 (1663 leyes al 2026-02-21)."
-      limitations: "Algunas fichas carecen de texto normativo completo en HTML (se conservan como registro sin provisiones); la vigencia oficial debe confirmarse con Diario Oficial y entidades competentes."
+      limitations: "Cuatro fichas carecen de texto normativo parseable en HTML y se conservan como registro sin provisiones (co-ley-1737-2014, co-ley-1388-2010, co-ley-1388-2010-i39668, co-ley-188-1959). No se aplico OCR al dataset canonico. La vigencia oficial debe confirmarse con Diario Oficial y entidades competentes."
     languages:
       - "es"
 
