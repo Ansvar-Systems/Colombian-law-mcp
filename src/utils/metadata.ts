@@ -30,12 +30,12 @@ export function generateResponseMetadata(
   }
 
   return {
-    data_source: 'Official Legal Database (funcionpublica.gov.co) — Government (State Chancellery of Colombian)',
-    jurisdiction: 'EE',
+    data_source: 'Sistema Único de Información Normativa (suin-juriscol.gov.co) — Colombian Ministry of Justice',
+    jurisdiction: 'CO',
     disclaimer:
-      'This data is sourced from the Official Legal Database under public domain. ' +
-      'The authoritative versions are maintained by Government (State Chancellery of Colombian). ' +
-      'Always verify with the official Official Legal Database portal (funcionpublica.gov.co).',
+      'This data is sourced from SUIN-Juriscol, the Colombian government unified legal information system. ' +
+      'The authoritative versions are maintained by the Colombian Ministry of Justice. ' +
+      'Always verify with the official portal (suin-juriscol.gov.co).',
     freshness,
   };
 }
