@@ -21,7 +21,7 @@
   ],
   "remoteEndpoints": [
     {
-      "url": "https://mcp.ansvar.eu/law-colombian-law-mcp/mcp",
+      "url": "https://colombian-law-mcp.vercel.app/mcp",
       "transport": {
         "type": "streamable-http"
       }

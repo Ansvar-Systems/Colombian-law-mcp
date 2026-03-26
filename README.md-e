@@ -38,12 +38,12 @@ This MCP server makes Colombian law **searchable, cross-referenceable, and AI-re
 
 > Connect directly to the hosted version -- zero dependencies, nothing to install.
 
-**Endpoint:** `https://mcp.ansvar.eu/law-colombian-law-mcp/mcp`
+**Endpoint:** `https://colombian-law-mcp.vercel.app/mcp`
 
 | Client | How to Connect |
 |--------|---------------|
 | **Claude.ai** | Settings > Connectors > Add Integration > paste URL |
-| **Claude Code** | `claude mcp add colombian-law --transport http https://mcp.ansvar.eu/law-colombian-law-mcp/mcp` |
+| **Claude Code** | `claude mcp add colombian-law --transport http https://colombian-law-mcp.vercel.app/mcp` |
 | **Claude Desktop** | Add to config (see below) |
 | **GitHub Copilot** | Add to VS Code settings (see below) |
 
@@ -54,7 +54,7 @@ This MCP server makes Colombian law **searchable, cross-referenceable, and AI-re
   "mcpServers": {
     "colombian-law": {
       "type": "url",
-      "url": "https://mcp.ansvar.eu/law-colombian-law-mcp/mcp"
+      "url": "https://colombian-law-mcp.vercel.app/mcp"
     }
   }
 }
@@ -67,7 +67,7 @@ This MCP server makes Colombian law **searchable, cross-referenceable, and AI-re
   "github.copilot.chat.mcp.servers": {
     "colombian-law": {
       "type": "http",
-      "url": "https://mcp.ansvar.eu/law-colombian-law-mcp/mcp"
+      "url": "https://colombian-law-mcp.vercel.app/mcp"
     }
   }
 }
