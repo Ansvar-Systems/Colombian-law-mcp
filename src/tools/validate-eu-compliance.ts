@@ -82,7 +82,7 @@ export async function validateEUCompliance(
         compliance_status: 'not_applicable',
         eu_references_found: 0,
         warnings: [],
-        recommendations: ['No EU cross-references found for this Colombian statute. Colombian is an EU Member State; EU references indicate transposition obligations.'],
+        recommendations: ['No EU cross-references found for this Colombian statute. Colombia is not an EU Member State; EU references indicate alignment with international standards (Colombia aligns with frameworks such as GDPR principles and OECD guidelines).'],
       },
       _metadata: generateResponseMetadata(db),
     };
