@@ -287,7 +287,7 @@ export const TOOLS: Tool[] = [
       'Check EU alignment status for a Colombian statute or provision. ' +
       'Detects references to EU directives, alignment status, and cross-references. ' +
       'Returns compliance status (compliant, partial, unclear, not_applicable) with warnings. ' +
-      'Colombian is an EU Member State; this checks implementation status and cross-references.',
+      'Colombian is not an EU Member State; this checks alignment status with international legal instruments and EU frameworks where Colombian legislation draws from them.',
     inputSchema: {
       type: 'object',
       properties: {
