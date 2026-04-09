@@ -68,8 +68,9 @@
     "access": "public"
   },
   "overrides": {
-    "path-to-regexp": "^8.0.0",
-    "undici": "^7.0.0",
+    "path-to-regexp": "^8.4.0",
+    "undici": "^7.24.0",
+    "smol-toml": "^1.6.1",
     "ajv": "^8.18.0"
   }
 }
